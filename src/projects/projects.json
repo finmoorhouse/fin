@@ -1,0 +1,4 @@
+{
+    "layout": "projects",
+    "permalink": "/project/{{ title | slug }}/"
+}

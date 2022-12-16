@@ -1,0 +1,10 @@
+---
+layout: base.njk
+---
+
+{% if title %}
+<h1>{{ title }}</h1>
+{% endif %}
+{% backLink "projects", "projects" %}
+{{ content | safe}}
+{% backLink "projects", "projects" %}

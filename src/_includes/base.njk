@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <link rel="stylesheet" href="/global-processed.css"/>
+  {% if extraStyle %}
+  {% for styleLink in extraStyle %}
+      <link rel="stylesheet" href="{{styleLink}}"/>
+      {% endfor %}
+  {% endif %}
+  <meta name="description" content="
+  {% if description %}
+  {{ description }}
+  {% else %}
+  {{ site.description }}
+  {% endif %}
+  ">
+  <title>{{ site.author }}{% if title %} - {{ title }}{% endif %}</title>
+</head>
+<body>
+  <nav class="flex flex-row max-w-lg mx-auto justify-between my-4 text-sm px-4">
+    <header class="flex flex-none opacity-50"><a href="/" class="hidden sm:inline">Fin Moorhouse</a></header>
+    <ul class="flex flex-none gap-x-4">
+    {% for item in nav.items %}
+    <li class="inline"><a href="{{ item.url }}"
+      {% if (item.url in page.url and item.url!="/") or (item.url == "/" and page.url == "/") %}
+      aria-current="page" data-state="active" class="opacity-100"
+      {% else %}
+      class="opacity-50"
+      {% endif %}>{{ item.name }}</a>
+    </li>
+    {% endfor %}
+  </ul></nav>
+  
+  <main class="prose prose-invert prose-serif font-sans">
+    
+    {{ content | safe }}
+    <br/>
+    <small >{{ site.author }} &copy; {{ site.copyrightYear }}</small>
+  </main>
+</body>
+</html>

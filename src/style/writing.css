@@ -1,0 +1,113 @@
+/* Sidenotes */
+
+.sidenote {
+  /* --sidenote-width: 12rem;
+  --sidenote-margin: 0rem;
+  --text-size: 1em; */
+  display: inline;
+}
+
+.sidenote__checkbox {
+  display: none;
+  cursor: pointer;
+}
+
+.sidenote__button::after {
+  content: "\002a";
+  display: inline-block;
+}
+
+/* Hidden, but accessible to browsers that don't do CSS (e.g. screenreaders, Pocket) */
+.sidenote__content-parenthesis {
+  position: absolute;
+  left: -99999px;
+  top: auto;
+}
+
+.sidenote__content {
+  opacity: 0.75;
+}
+.sidenote__content:hover {
+  opacity: 1;
+}
+
+/* For narrow viewports, the sidenote is hidden by default and shown when the checkbox is checked. */
+@media screen and (max-width: 1079px) {
+  .sidenote__checkbox ~ .sidenote__content {
+    /* Hidden, but accessible to browsers that don't do CSS (e.g. screenreaders, Pocket) */
+    position: absolute;
+    left: -99999px;
+    top: auto;
+  }
+
+  .sidenote__checkbox:checked ~ .sidenote__content {
+    /* override hidden-but-accessible */
+    position: relative;
+    left: auto;
+
+    /* Don't break up line containing the sidenote */
+    float: left;
+    min-width: 100%;
+
+    display: block;
+    margin: 0.8rem 0;
+    padding: 0.8rem 1.6rem;
+  }
+  .sidenote__button {
+    text-decoration: underline;
+    text-decoration-style: dotted;
+    cursor: pointer;
+  }
+
+  .sidenote__button:not(:hover):focus::after {
+    display: inline;
+    /* display:inline-block causes misalignment between focus ring and background. */
+  }
+
+  .sidenote__checkbox:checked ~ .sidenote__button::after {
+    content: none;
+  }
+}
+
+@media screen and (min-width: 1080px) {
+  .sidenote {
+    cursor: default;
+  }
+
+  .sidenote:hover .sidenote__button::after,
+  .sidenote:hover .sidenote__content::before {
+    text-decoration: underline;
+    text-decoration-style: dotted;
+  }
+  .sidenote:hover .sidenote__content {
+    opacity: 1;
+  }
+  .sidenote:hover .sidenote__button {
+    text-decoration: underline;
+    text-decoration-style: dotted;
+  }
+
+  .sidenote__content::before {
+    content: "\002a";
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-end;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: -3.5rem;
+    width: 3rem;
+  }
+
+  .sidenote__content {
+    display: block;
+    position: absolute;
+    right: 0;
+    left: auto;
+    margin-left: auto;
+    margin-right: -21rem;
+    width: 18rem;
+    margin-top: -3rem;
+    padding: 0.4rem 0;
+  }
+}

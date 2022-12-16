@@ -1,0 +1,4 @@
+{
+    "layout": "writing",
+    "permalink": "/writing/{{ title | slug }}/"
+}

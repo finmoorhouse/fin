@@ -1,0 +1,17 @@
+---
+layout: base.njk
+extraStyle:
+  ["/style/writing.css", "https://unpkg.com/katex@latest/dist/katex.min.css"]
+---
+
+{% if title %}
+<h1>{{ title }}</h1>
+{% if page.date %} {{ page.date.toLocaleDateString("en-GB", {year: 'numeric', month: 'long', day: 'numeric'}) }} {% endif %} {% endif %} {%
+if content | toc %}
+{% backLink "writing", "writing" %}
+<nav class="mb-16">
+  <h2>Contents</h2>
+  {{ content | toc | safe}}
+</nav>
+{% endif %} {{ content | safe}}
+{% backLink "writing", "writing" %}

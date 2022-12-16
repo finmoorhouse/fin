@@ -1,0 +1,16 @@
+{
+    "items":[
+        {
+            "url": "/",
+            "name": "Me"
+        },
+        {
+            "url": "/writing",
+            "name": "Writing"
+        },
+        {
+            "url": "/projects",
+            "name": "Projects"
+        }
+    ]
+}
