@@ -1,7 +1,7 @@
 ---
-title: Longtermism
+title: Miscellany
 tags: [projects]
-date: 2022-05-20
+date: 2020-05-20
 ---
 
 Longtermism is the view that positively influencing the long-term future is a key moral priority of our time. I think it's an idea more people should know about.
