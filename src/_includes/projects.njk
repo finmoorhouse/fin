@@ -5,6 +5,7 @@ layout: base.njk
 {% if title %}
 <h1>{{ title }}</h1>
 {% endif %}
+{% if page.date %} {{ page.date.toLocaleDateString("en-GB", {year: 'numeric', month: 'long'}) }} {% endif %}
 {% backLink "projects", "projects" %}
 {{ content | safe}}
 {% backLink "projects", "projects" %}

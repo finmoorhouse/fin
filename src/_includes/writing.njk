@@ -6,12 +6,21 @@ extraStyle:
 
 {% if title %}
 <h1>{{ title }}</h1>
-{% if page.date %} {{ page.date.toLocaleDateString("en-GB", {year: 'numeric', month: 'long', day: 'numeric'}) }} {% endif %} {% endif %} {%
-if content | toc %}
-{% backLink "writing", "writing" %}
-<nav class="mb-16">
-  <h2>Contents</h2>
-  {{ content | toc | safe}}
+{% if page.date %}
+<span class="font-mono"
+  >{{ page.date.toLocaleDateString("en-GB", {year: 'numeric', month: 'long',
+  day: 'numeric'}) }}</span
+>
+{% endif %} {% endif %} {% if content | toc %} {% backLink "writing", "writing"
+%}
+
+<nav class="side-nav opacity-75 text-sm">
+  <div class="side-nav-offset">
+    <h2>Contents</h2>
+    {{ content | toc | safe}}
+    <a href="#top">Back to top</a>
+  </div>
 </nav>
-{% endif %} {{ content | safe}}
-{% backLink "writing", "writing" %}
+
+{% endif %} {{ content | safe}} {% backLink "writing", "writing" %}
+<a href="#top">Back to top</a>

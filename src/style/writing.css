@@ -111,3 +111,15 @@
     padding: 0.4rem 0;
   }
 }
+.side-nav {
+  background: orange;
+  display: block;
+  position: sticky;
+  top: 2rem;
+  width: 18rem;
+  height: 0;
+}
+.side-nav-offset {
+  position: relative;
+  right: 22rem;
+}

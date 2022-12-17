@@ -45,7 +45,7 @@ module.exports = function (config) {
   config.addShortcode("backLink", function (link, title) {
     return `<div class="mb-6">
     <a
-      href="/${ link }"
+      href="/${link}"
       class="flex items-center gap-1.5 bg-slate-600 text-sm font-semibold text-white px-2.5 py-0.5 rounded-full max-w-max no-underline font-medium"
     >
       <svg
@@ -65,11 +65,13 @@ module.exports = function (config) {
           stroke-width="24"
         ></polyline>
       </svg>
-      <span>Back to ${ title }</span>
+      <span>Back to ${title}</span>
     </a>
   </div>`;
   });
-  
+  config.addShortcode("year", function (date) {
+    return date.toLocaleDateString("en-GB", { year: "numeric", month: "short" });
+  });
   let markdownIt = require("markdown-it");
   let markdownItKatex = require("@iktakahiro/markdown-it-katex");
   let markdownItFootnote = require("markdown-it-footnote");
@@ -87,7 +89,7 @@ module.exports = function (config) {
     level: 2, // minimum level header -- anchors will only be applied to h2 level headers and below but not h1
     permalink: markdownItAnchor.permalink.headerLink({
       safariReaderFix: false,
-      class: "header-anchor"
+      class: "header-anchor",
     }),
   };
 
