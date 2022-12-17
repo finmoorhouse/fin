@@ -4,23 +4,26 @@ extraStyle:
   ["/style/writing.css", "https://unpkg.com/katex@latest/dist/katex.min.css"]
 ---
 
-{% if title %}
-<h1>{{ title }}</h1>
+<h1 class="mb-4">{{ title }}</h1>
 {% if page.date %}
-<span class="font-mono"
-  >{{ page.date.toLocaleDateString("en-GB", {year: 'numeric', month: 'long',
-  day: 'numeric'}) }}</span
->
-{% endif %} {% endif %} {% if content | toc %} {% backLink "writing", "writing"
-%}
+<p class="font-sans">
+  {{ page.date.toLocaleDateString("en-GB", {year: 'numeric', month: 'long'}) }}
+</p>
+{% endif %} {% backLink "writing", "writing" %} {% if content | toc %}
 
-<nav class="side-nav opacity-75 text-sm">
-  <div class="side-nav-offset">
+<div class="block desktop:hidden text-sm bg-flint-400 rounded-md px-8 py-2">
+  <h2 class="mt-4">Contents</h2>
+  {{ content | toc | safe}}
+</div>
+
+<nav class="side-nav opacity-75 text-sm hidden">
+  <div class="side-nav-offset hidden desktop:block">
     <h2>Contents</h2>
     {{ content | toc | safe}}
     <a href="#top">Back to top</a>
   </div>
 </nav>
-
-{% endif %} {{ content | safe}} {% backLink "writing", "writing" %}
-<a href="#top">Back to top</a>
+{% endif %} {{ content | safe}}
+<br />
+<br />
+{% backLink "writing", "writing" %}

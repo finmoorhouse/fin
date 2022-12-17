@@ -1,0 +1,17 @@
+---
+title: "Writing"
+description: "The about page."
+---
+
+You can find many of these posts on the <a href="https://forum.effectivealtruism.org/users/finm">Effective Altruism
+Forum</a>.
+
+<ul>
+  {% for post in collections.writing | reverse %}
+
+  <li class="[&>*]:inline py-2">
+    <a href="{{ post.url }}">{{ post.data.title }}</a>
+    {% if post.data.date %} ({% year post.data.date %}) {% endif %}
+  </li>
+  {% endfor %}
+</ul>

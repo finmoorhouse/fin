@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<html lang="en">
 <head>
   <meta charset="utf-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
@@ -17,7 +18,7 @@
   ">
   <title>{{ site.author }}{% if title %} - {{ title }}{% endif %}</title>
 </head>
-<body id="top">
+<body id="top" class="bg-flint-500">
   <nav class="flex flex-row max-w-lg mx-auto justify-between py-4 text-sm px-4">
     <header class="flex flex-none opacity-50 hover:underline decoration-dotted"><a href="/">Fin Moorhouse</a></header>
     <ul class="flex flex-none gap-x-4">
@@ -32,9 +33,8 @@
     {% endfor %}
   </ul></nav>
   
-  <main class="prose prose-invert font-sans">
+  <main class="prose prose-invert font-sans pt-12">
     {{ content | safe }}
-    <br/>
     {#<small >{{ site.author }} &copy; {{ site.copyrightYear }}</small>#}
   </main>
 </body>
