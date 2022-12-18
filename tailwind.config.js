@@ -23,7 +23,7 @@ module.exports = {
       ],
     },
     screens: {
-      desktop: "1450px",
+      desktop: "1400px",
     },
     extend: {
       colors: {

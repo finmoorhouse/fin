@@ -26,7 +26,10 @@ module.exports = function (config) {
   config.addNunjucksAsyncShortcode("image", imageShortcode);
   config.addLiquidShortcode("image", imageShortcode);
   config.addJavaScriptFunction("image", imageShortcode);
-  config.addPairedShortcode("aside", function (content, label) {
+  config.addPairedShortcode("aside", function (content) {
+    return `<aside class="bg-flint-400 rounded-md px-8 py-2">${content}</aside>`;
+  });
+  config.addPairedShortcode("note", function (content, label) {
     return `<span class="sidenote"><input
         aria-label="Show sidenote"
         type="checkbox"

@@ -22,11 +22,11 @@ In my free time I [read](http://www.goodreads.com/finm), [tweet](https://www.twi
 
 ## Find me
 
-I also live on the Longview [website](https://www.longview.org/), the FHI [website](https://www.fhi.ox.ac.uk/team/fin-moorhouse/), and the Oxford Faculty of Philosophy [website](https://www.philosophy.ox.ac.uk/people/finlay-moorhouse).
-
-The best way to get in touch is to email me at <span class="obfuscate">moc.esuohroom<span>null</span>nif@olleh</span>. You'll need to type that out manually ⁠— it helps prevent spam.
-
 You can also find me on [Twitter](https://www.twitter.com/finmoorhouse), [Goodreads](https://www.goodreads.com/finm), [GitHub](http://www.github.com/finmoorhouse), [Spotify](https://open.spotify.com/user/finmoorhouse), and [rateyourmusic](https://rateyourmusic.com/collection/finm/r0.5-5.0,ss.rd). 
+
+I also live on the [Longview website](https://www.longview.org/), the [FHI website](https://www.fhi.ox.ac.uk/team/fin-moorhouse/), and the Oxford [Faculty of Philosophy website](https://www.philosophy.ox.ac.uk/people/finlay-moorhouse).
+
+The best way to get in touch is to email me at **<span class="obfuscate">moc.esuohroom<span>null</span>nif@olleh</span>**. You'll need to type that out manually (it helps prevent spam).
 
 ## Feedback
 
