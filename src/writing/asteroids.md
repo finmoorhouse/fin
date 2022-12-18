@@ -2,13 +2,14 @@
 title: Risks from Asteroids
 tags: [writing]
 date: 2016-01-10
+permalink: /writing/asteroids/
 ---
 
-<Aside>
+{% aside %}
 
-Recently, I’ve been working on a [problem profile](https://80000hours.org/problem-profiles/) about space governance for [80,000 Hours](https://80000hours.org/). There is a lot to say, so I’m writing some more detailed posts on my site to complement the main article. This post is about deflecting asteroids and comets. Note that this symbol<label class="sidenote-number sidenote-number-example"></label> indicates a sidenote and this indicates an endnote<sup><a class='footnote-ref footnote-ref-example'>0</a></sup>.<span class='display-on-smaller-screens'> Since you're reading on a smaller screen, you'll need to click on both to read them.</span><span class='display-on-larger-screens'> You're reading on a larger screen, so sidenotes will appear on the side, but you still need to click on the endnotes to go to them.</span>
+Recently, I’ve been working on a [problem profile](https://80000hours.org/problem-profiles/) about space governance for [80,000 Hours](https://80000hours.org/). This post is about a small part of that topic: deflecting asteroids and comets.
 
-</Aside>
+{% endaside %}
 
 ## Here's a header{#header}
 

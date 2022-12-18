@@ -1,7 +1,7 @@
 ---
 title: Carl Sagan Quotations
 tags: [writing]
-date: 2016-02-01
+date: 2022-02-01
 ---
 
 [Carl Sagan](https://en.wikipedia.org/wiki/Carl_Sagan) (1934–1996) was an astronomer and science communicator. He organised the first physical messages to space (the [Pioneer plaque](https://en.wikipedia.org/wiki/Pioneer_plaque) and the[ Voyager Golden Record](https://en.wikipedia.org/wiki/Voyager_Golden_Record)), presented the hugely popular TV series *Cosmos* (1980), and considered humanity’s long-term future in *Pale Blue Dot* (1994). He was also part of the team of researchers who first discovered the possibility of nuclear winter, and so became a leading voice of concern about the use of nuclear weapons.
@@ -144,5 +144,5 @@ Sagan answered the question he posed in the final episode if *Cosmos*: “who sp
 
 I’m not exactly sure about the upshot for effective altruism and longtermism. But:
 
-1. I find it striking that I can list very few people who are even earnestly trying to create things that occupy a similar role to Sagan’s work<Sidenote label="work">Very wide in scope, scientifically literate, authentic, not unbearably pretentious.</Sidenote> today.
-2. I think some themes that run through effective altruism and longtermism<Sidenote label='ea'>Messages to the effect that the appropriate reaction to major problems is to try solving them; that problems are solvable and have been solved; that dejection or mere guilt don’t achieve much unless they inspire action.</Sidenote> have the potential to be similarly compelling. 
+1. I find it striking that I can list very few people who are even earnestly trying to create things that occupy a {% note "similar role to Sagan’s work" %}Very wide in scope, scientifically literate, authentic, not unbearably pretentious.{% endnote %} today.
+2. I think some themes {% note "that run through effective altruism and longtermism" %}Messages to the effect that the appropriate reaction to major problems is to try solving them; that problems are solvable and have been solved; that dejection or mere guilt don’t achieve much unless they inspire action.{% endnote %} have the potential to be similarly compelling. 

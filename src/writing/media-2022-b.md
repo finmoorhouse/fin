@@ -22,7 +22,7 @@ The books I'd most recommend to my imagined modal reader are ? and ?.
 - Will MacAskill — What We Owe The Future
 - John Markoff — [Whole Earth: The Many Lives of Stewart Brand](https://www.goodreads.com/book/show/58503523-whole-earth)
 - David Christian — [Big History: The Big Bang, Life On Earth, And The Rise Of Humanity](https://www.goodreads.com/book/show/7956320-big-history)
-- Nick Bilton — [American Kingpin: The Epic Hunt for the Criminal Mastermind Behind the Silk Road](https://www.goodreads.com/book/show/31920777-american-kingpin) {% aside "" %}This is a **long** markdown sidenote, [including a link](https://www.aleksandrhovhannisyan.com/blog/custom-markdown-components-in-11ty/) — how about that!{% endaside %}
+- Nick Bilton — [American Kingpin: The Epic Hunt for the Criminal Mastermind Behind the Silk Road](https://www.goodreads.com/book/show/31920777-american-kingpin) {% note "" %}This is a **long** markdown sidenote, [including a link](https://www.aleksandrhovhannisyan.com/blog/custom-markdown-components-in-11ty/) — how about that!{% endnote %}
 
 ## Music
 
