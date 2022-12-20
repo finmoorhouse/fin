@@ -3,13 +3,17 @@ module.exports = {
   theme: {
     fontFamily: {
       serif: [
-        "Crimson Text",
-        "ui-serif",
-        "Georgia",
-        "Cambria",
+        "Source Serif Pro",
+        "Apple Garamond",
+        "Baskerville",
+        "Libre Baskerville",
+        "Droid Serif",
         "Times New Roman",
         "Times",
         "serif",
+        "ui-serif",
+        "Noto Emoji",
+        "Quivira",
       ],
       mono: [
         "ui-monospace",
@@ -27,10 +31,10 @@ module.exports = {
     },
     extend: {
       colors: {
-        'flint': {
+        flint: {
           400: "#2a2f3c",
-          500:"#333948",
-        }
+          500: "#333948",
+        },
       },
     },
   },

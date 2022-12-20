@@ -2,7 +2,9 @@ const pluginTOC = require("eleventy-plugin-toc");
 
 const Image = require("@11ty/eleventy-img");
 
-async function imageShortcode(src, alt, sizes) {
+async function imageShortcode(src, alt) {
+  let sizes = '100vw';
+
   let metadata = await Image(src, {
     widths: [300, 600],
     formats: ["avif", "jpeg"],

@@ -11,12 +11,12 @@ extraStyle:
 </p>
 {% endif %} {% backLink "writing", "writing" %} {% if content | toc %}
 
-<div class="block desktop:hidden text-sm bg-flint-400 rounded-md px-8 py-2">
+<div class="block desktop:hidden text-sm bg-flint-400 rounded-md px-8 py-2 font-sans">
   <h2 class="mt-4">Contents</h2>
   {{ content | toc | safe}}
 </div>
 
-<nav class="side-nav opacity-75 text-sm hidden">
+<nav class="side-nav opacity-75 text-sm hidden font-sans">
   <div class="side-nav-offset hidden desktop:block">
     <h2>Contents</h2>
     {{ content | toc | safe}}
