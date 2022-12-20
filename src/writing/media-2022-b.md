@@ -37,7 +37,7 @@ I log most things on [rateyourmusic.com](https://rateyourmusic.com/~finm). I als
 Here are the songs, sets, and albums I'm happiest to have discovered:
 
 - [Arthur Russell](https://rateyourmusic.com/artist/arthur-russell) - *[Another Thought](https://rateyourmusic.com/release/album/arthur-russell/another-thought/)* (1994)
-- [Palace Music](https://rateyourmusic.com/artist/palace-music) - {% note "[New Partner](https://open.spotify.com/track/2ZSubX2QFzD7ba7t47k3oe?si=4e978e160c264a09) (from *[Viva Last Blues](https://rateyourmusic.com/release/album/palace-music/viva-last-blues/)*)"%}One of the entries in John Green's *Anthropocene Reviewed* book is about this song. You can [listen to it here](https://www.wnycstudios.org/podcasts/anthropocene-reviewed/episodes/anthropocene-reviewed-hall-presidents-and-new-partner).{% endnote %}
+- [Palace Music](https://rateyourmusic.com/artist/palace-music) - {% note "[New Partner](https://open.spotify.com/track/2ZSubX2QFzD7ba7t47k3oe?si=4e978e160c264a09) (from *[Viva Last Blues](https://rateyourmusic.com/release/album/palace-music/viva-last-blues/)*)"%}One of the entries in John Green's *Anthropocene Reviewed* book is about this song. You can [listen to it here](https://www.wnycstudios.org/podcasts/anthropocene-reviewed/episodes/anthropocene-reviewed-hall-presidents-and-new-partner). Also, you should watch [this video of Angel Olsen and BPB performing in the back of a taxi](https://www.youtube.com/watch?v=8kbemqxw37g).{% endnote %}
 - Pharaoh Sanders - [Love Is Everywhere](https://open.spotify.com/track/4IIxBK0L8uj7viwxhmuSc4?si=4c805f890d454768) (from *[Wisdom Through Music](https://rateyourmusic.com/release/album/pharoah-sanders/wisdom-through-music/)*)
 - [Keith Jarrett](https://rateyourmusic.com/artist/keith-jarrett) - *[The Köln Concert](https://rateyourmusic.com/release/album/keith-jarrett/the-koln-concert/)* (1975)
 - [Fred again.. | Boiler Room: London](https://www.youtube.com/watch?v=c0-hvjV2A5Y)
@@ -64,10 +64,10 @@ Here are the songs, sets, and albums I'm happiest to have discovered:
 - [Bobby Hutcherson](https://rateyourmusic.com/artist/bobby-hutcherson) - *[Components](https://rateyourmusic.com/release/album/bobby-hutcherson/components/)* (1966)
 - [Mammal Hands](https://rateyourmusic.com/artist/mammal-hands) - *[Floa](https://rateyourmusic.com/release/album/mammal-hands/floa/)* (2016) and *[Shadow Work](https://rateyourmusic.com/release/album/mammal-hands/shadow-work/)* (2017)
 - [Soweto Kinch](https://rateyourmusic.com/artist/soweto-kinch) - *[Nonagram](https://rateyourmusic.com/release/album/soweto-kinch/nonagram/)* (2016)
-- **Jazz-funk**
+- Jazz-funk
   - [Jamiroquai](https://rateyourmusic.com/artist/jamiroquai) - *[Emergency on Planet Earth](https://rateyourmusic.com/release/album/jamiroquai/emergency-on-planet-earth/)* (1993)
   - [Bobbi Humphrey](https://rateyourmusic.com/artist/bobbi-humphrey) - *[Blacks and Blues](https://rateyourmusic.com/release/album/bobbi-humphrey/blacks-and-blues/)* (1974)
-- **Vocal jazz**
+- Vocal jazz
   - [Nina Simone](https://rateyourmusic.com/artist/nina-simone) - *[Wild Is the Wind](https://rateyourmusic.com/release/album/nina-simone/wild-is-the-wind/)* (1966)
   - [Chet Baker](https://rateyourmusic.com/artist/chet-baker) - *[Chet Baker Sings](https://rateyourmusic.com/release/album/chet-baker/chet-baker-sings/)* (1954)
 
@@ -75,21 +75,26 @@ Here are the songs, sets, and albums I'm happiest to have discovered:
 ### Electronic and ambient
 
 - [Four Tet](https://rateyourmusic.com/artist/four-tet) - *[Live in Tokyo, 1st December 2013](https://rateyourmusic.com/release/album/four-tet/live-in-tokyo-1st-december-2013/)* (2018) and *[Beautiful Rewind](https://rateyourmusic.com/release/album/four-tet/beautiful-rewind/)* (2013)
-- [Suzanne Ciani](https://rateyourmusic.com/artist/suzanne-ciani) - *[Buchla Concerts 1975](https://rateyourmusic.com/release/album/suzanne-ciani/buchla-concerts-1975/)* (2016)
-- [Terry Riley](https://rateyourmusic.com/artist/terry-riley) - *[A Rainbow in Curved Air](https://rateyourmusic.com/release/album/terry-riley/a-rainbow-in-curved-air/)* (1969)
-- [Kaitlyn Aurelia Smith](https://rateyourmusic.com/artist/kaitlyn-aurelia-smith) - *[The Kid](https://rateyourmusic.com/release/album/kaitlyn-aurelia-smith/the-kid/)* (2017)
+- {% note "[Kaitlyn Aurelia Smith](https://rateyourmusic.com/artist/kaitlyn-aurelia-smith) - *[The Kid](https://rateyourmusic.com/release/album/kaitlyn-aurelia-smith/the-kid/)* (2017)" %}Also watch [this video](https://www.youtube.com/watch?v=Uhtar8FlgzU) of Kaitlyn Aurelia Smith using her Buchla Music Easel{% endnote %}
 - [Time Wharp](https://rateyourmusic.com/artist/time-wharp) - *[Feel No Pain](https://rateyourmusic.com/release/album/time-wharp/feel-no-pain/)* (2017) and *[Spiro World](https://rateyourmusic.com/release/album/time-wharp/spiro-world/)* (2022)
-- [Burial](https://rateyourmusic.com/artist/burial-3) - *[Street Halo](https://rateyourmusic.com/release/ep/burial/street-halo/)* (2011)
 - [Suicide](https://rateyourmusic.com/artist/suicide) - *[Suicide](https://rateyourmusic.com/release/album/suicide/suicide/)* (1977)
-- [Fred again..](https://rateyourmusic.com/artist/fred-again) - *[Actual Life (April 14 – December 17 2020)](https://rateyourmusic.com/release/album/fred-again/actual-life-april-14-–-december-17-2020/)* (2021) and [Boiler Room: London](https://www.youtube.com/watch?v=c0-hvjV2A5Y)
-- [C418](https://rateyourmusic.com/artist/c418) - *[Minecraft: Volume Alpha](https://rateyourmusic.com/release/album/c418/minecraft-volume-alpha/)* (2011)
+- [Fred again..](https://rateyourmusic.com/artist/fred-again) - *[Actual Life (April 14 – December 17 2020)](https://rateyourmusic.com/release/album/fred-again/actual-life-april-14-–-december-17-2020/)* (2021) 
 - [Move D](https://rateyourmusic.com/artist/move_d) & [Benjamin Brunn](https://rateyourmusic.com/artist/benjamin-brunn) - *[Let's Call It a Day](https://rateyourmusic.com/release/album/move-d-benjamin-brunn/lets-call-it-a-day/)* (2006)
-- [36](https://rateyourmusic.com/artist/36) & [zakè](https://rateyourmusic.com/artist/zake-2) - *[Stasis Sounds for Long-Distance Space Travel](https://rateyourmusic.com/release/album/36-zake/stasis-sounds-for-long-distance-space-travel/)* (2020)
 - [Oneohtrix Point Never](https://rateyourmusic.com/artist/oneohtrix-point-never) - *[R Plus Seven](https://rateyourmusic.com/release/album/oneohtrix-point-never/r-plus-seven/)* (2013)
 - [Susumu Yokota](https://rateyourmusic.com/artist/susumu-yokota) - *[Symbol](https://rateyourmusic.com/release/album/susumu-yokota/symbol/)* (2004) & *[Sakura](https://rateyourmusic.com/release/album/susumu-yokota/sakura/)* (2000)
 - [Bonobo](https://rateyourmusic.com/artist/bonobo) - *[LateNightTales](https://rateyourmusic.com/release/djmix/bonobo/latenighttales/)* (2013)
-- [Japanese Breakfast](https://rateyourmusic.com/artist/japanese-breakfast) - *[Sable](https://rateyourmusic.com/release/album/japanese-breakfast/sable/)* (2021)
-- [吉村弘 [Hiroshi Yoshimura](https://rateyourmusic.com/artist/吉村弘)] - *[Music for Nine Post Cards](https://rateyourmusic.com/release/album/吉村弘/music-for-nine-post-cards/)* (1982)
+- Sets
+  - Fred again - [Boiler Room: London](https://www.youtube.com/watch?v=c0-hvjV2A5Y)
+  - Four Tet [@ The Lot Radio](https://soundcloud.com/thelotradio/four-tet-the-lot-radio-12-01-2022) 12-01-2022
+- Ambient
+  - [吉村弘 [Hiroshi Yoshimura](https://rateyourmusic.com/artist/吉村弘)] - *[Music for Nine Post Cards](https://rateyourmusic.com/release/album/吉村弘/music-for-nine-post-cards/)* (1982)
+  - [Japanese Breakfast](https://rateyourmusic.com/artist/japanese-breakfast) - *[Sable](https://rateyourmusic.com/release/album/japanese-breakfast/sable/)* (2021)
+  - [36](https://rateyourmusic.com/artist/36) & [zakè](https://rateyourmusic.com/artist/zake-2) - *[Stasis Sounds for Long-Distance Space Travel](https://rateyourmusic.com/release/album/36-zake/stasis-sounds-for-long-distance-space-travel/)* (2020)
+  - [Burial](https://rateyourmusic.com/artist/burial-3) - *[Street Halo](https://rateyourmusic.com/release/ep/burial/street-halo/)* (2011)
+  - [C418](https://rateyourmusic.com/artist/c418) - *[Minecraft: Volume Alpha](https://rateyourmusic.com/release/album/c418/minecraft-volume-alpha/)* (2011)
+  - [Terry Riley](https://rateyourmusic.com/artist/terry-riley) - *[A Rainbow in Curved Air](https://rateyourmusic.com/release/album/terry-riley/a-rainbow-in-curved-air/)* (1969)
+  - [Suzanne Ciani](https://rateyourmusic.com/artist/suzanne-ciani) - *[Buchla Concerts 1975](https://rateyourmusic.com/release/album/suzanne-ciani/buchla-concerts-1975/)* (2016)
+
 
 ### Rock
 
@@ -128,7 +133,7 @@ Here are the songs, sets, and albums I'm happiest to have discovered:
 - [Nils Frahm](https://rateyourmusic.com/artist/nils-frahm) - *[Music for Animals](https://rateyourmusic.com/release/album/nils-frahm/music-for-animals/)* (2022)
 - [Max Richter](https://rateyourmusic.com/artist/max_richter) - *[Memoryhouse](https://rateyourmusic.com/release/album/max-richter/memoryhouse/)* (2002)
 - [Uakti](https://rateyourmusic.com/artist/uakti) / [Marco Antônio Guimarães](https://rateyourmusic.com/artist/marco_antonio_guimaraes) - *[Águas da Amazônia](https://rateyourmusic.com/release/album/uakti-marco-antonio-guimaraes/aguas-da-amazonia/)* (1999)
-- **Indian classical**
+- Indian classical
   - [Various Artists](https://rateyourmusic.com/artist/various-artists) - *[The Raga Guide: A Survey of 74 Hindustani Ragas](https://rateyourmusic.com/release/comp/various-artists/the-raga-guide-a-survey-of-74-hindustani-ragas/)* (1999)
   - [Ravi Shankar](https://rateyourmusic.com/artist/ravi-shankar) - *[India's Master Musician](https://rateyourmusic.com/release/album/ravi-shankar/indias-master-musician/)* (1958)
 - [David Darling & The Wulu Bunun Tribe](https://rateyourmusic.com/artist/david-darling-and-the-wulu-bunun-tribe) - *[Mudanin Kata](https://rateyourmusic.com/release/album/david-darling-and-the-wulu-bunun-tribe/mudanin-kata/)* (2004)
@@ -153,7 +158,13 @@ Videos, shorter writing, and podcast episodes.
 - [Nick Merrill's Substack](https://www.else.how/)
 - [Simulators](https://www.lesswrong.com/posts/vJFdjigzmcXMhNTsx/simulators) — [janus](https://www.lesswrong.com/posts/vJFdjigzmcXMhNTsx/simulators)
 - [What 2026 looks like](https://www.lesswrong.com/posts/6Xgy6CAf2jqHhynHL/what-2026-looks-like) — Daniel Kokotajlo
+- Surely a bunch of SSC posts
 
 ### Podcasts
 
-TODO
+- Demis on Lex
+- Groupstruckness
+- An AXRP one?
+- Carl Shulman common sense case
+- Sharon Hewitt
+- Hayek on 80k?
