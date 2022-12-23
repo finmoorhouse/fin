@@ -1,10 +1,7 @@
 ---
 title: Research I'd Like to See
-slug: research-sidenotes
-author: Fin Moorhouse
-path: /writing/research
-type: post
-subtype: ea
+permalink: /writing/research/
+tags: [writing]
 date: 2021-12-20
 featuredImage: './research.png'
 ---

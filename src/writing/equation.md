@@ -1,6 +1,6 @@
 ---
 title: Equations
-tags: [writing]
+tags: [writing-wip]
 date: 2016-02-01
 ---
 

@@ -1,10 +1,7 @@
 ---
 title: Causation, Forecasting, and Quantum Computing
-slug: jaime-sevilla-interview
-author: Fin Moorhouse
-path: /writing/jaime-sevilla-interview
-type: post
-subtype: ea
+permalink: /writing/jaime-sevilla-interview/
+tags: [writing]
 date: 2020-07-24
 featuredImage: './crystal-ball.jpg'
 ---

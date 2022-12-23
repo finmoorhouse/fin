@@ -1,7 +1,5 @@
 ---
 title: Causal Closeness
-slug: causal-closeness
-author: Fin Moorhouse
 permalink: /writing/causal-closeness/
 tags: [writing]
 date: 2020-08-17

@@ -1,10 +1,7 @@
 ---
 title: Parfit, Climate Change, and Existential Risk
-slug: existential-risk
-author: Fin Moorhouse
-path: /writing/existential-risk
-type: post
-subtype: ea
+permalink: /writing/existential-risk/
+tags: [writing]
 date: 2020-09-29
 featuredImage: './xrisk.jpg'
 ---

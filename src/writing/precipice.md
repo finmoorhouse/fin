@@ -1,10 +1,7 @@
 ---
 title: Worrying facts from 'The Precipice'
-slug: precipice
-author: Fin Moorhouse
-path: /writing/precipice
-type: post
-subtype: ea
+permalink: /writing/precipice/
+tags: [writing]
 date: 2020-03-24
 featuredImage: './precipice.jpg'
 ---

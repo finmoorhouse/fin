@@ -1,11 +1,7 @@
 ---
-
 title: Advice for Starting a Podcast
-slug: podcast-advice
-author: Fin Moorhouse
-path: /writing/podcast-advice
-type: post
-subtype: misc
+permalink: /writing/podcast-advice/
+tags: [writing]
 date: 2022-11-05
 featuredImage: './podcast-advice-share-image.png'
 ---

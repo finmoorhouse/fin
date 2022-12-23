@@ -1,10 +1,7 @@
 ---
-
 title: Intro to Longtermism
-slug: longtermism-sidenotes
-author: Fin Moorhouse
-path: /writing/longtermism
-type: post
+permalink: /writing/longtermism/
+tags: [writing]
 subtype: ea
 canonicalUrl: https://www.effectivealtruism.org/articles/longtermism/
 date: 2021-01-26

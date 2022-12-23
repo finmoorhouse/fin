@@ -1,11 +1,7 @@
 ---
-
 title: The Case for Protein Alternatives
-slug: protein-alternatives
-author: Fin Moorhouse
-path: /writing/protein-alternatives
-type: post
-subtype: ea
+permalink: /writing/protein-alternatives/
+tags: [writing]
 date: 2021-01-12
 featuredImage: './clean-meat-2.jpg'
 ---

@@ -1,11 +1,7 @@
 ---
-
 title: Speciesism, Lockdown Ethics, and Controversial Ideas
-slug: peter-singer
-author: Fin Moorhouse
-path: /writing/peter-singer
-type: post
-subtype: ea
+permalink: /writing/peter-singer/
+tags: [writing]
 date: 2020-12-08
 featuredImage: './peter-singer.jpg'
 ---

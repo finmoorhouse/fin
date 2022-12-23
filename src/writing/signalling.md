@@ -1,10 +1,8 @@
 ---
 title: Signalling and Self-Deception
-slug: signalling
 author: Fin Moorhouse
-path: /writing/signalling
-type: post
-subtype: ea
+permalink: /writing/signalling/
+tags: [writing]
 date: 2020-02-25
 featuredImage: './peacock1.jpg'
 ---

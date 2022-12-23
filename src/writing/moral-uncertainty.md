@@ -1,11 +1,7 @@
 ---
-
 title: Review and Summary of Moral Uncertainty
-slug: moral-uncertainty
-author: Fin Moorhouse
-path: /writing/moral-uncertainty
-type: post
-subtype: ea
+permalink: /writing/moral-uncertainty/
+tags: [writing]
 date: 2020-10-02
 featuredImage: './moraluncertainty.jpg'
 ---

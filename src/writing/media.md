@@ -1,10 +1,7 @@
 ---
 title: Media Highlights 2021
-slug: media-2021-sidenotes
-author: Fin Moorhouse
-path: /writing/media-2021
-type: post
-subtype: misc
+permalink: /writing/media-2021/
+tags: [writing]
 date: 2021-12-28
 featuredImage: './media-2021.png'
 ---

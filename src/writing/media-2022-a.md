@@ -1,10 +1,7 @@
 ---
 title: Media Highlights 2022 (Jan to Jun)
-slug: media-2022-a-sidenotes
-author: Fin Moorhouse
-path: /writing/media-2022-a
-type: post
-subtype: misc
+permalink: /writing/media-2022-a/
+tags: [writing]
 date: 2022-06-30
 featuredImage: './media-22-a-share.png'
 ---

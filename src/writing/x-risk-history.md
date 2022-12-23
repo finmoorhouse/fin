@@ -1,10 +1,7 @@
 ---
 title: Discovering Existential Risk
-slug: x-risk-history
-author: Fin Moorhouse
-path: /writing/x-risk-history
-type: post
-subtype: ea
+permalink: /writing/x-risk-history/
+tags: [writing]
 date: 2021-03-18
 featuredImage: './x-risk-history.png'
 ---

@@ -159,6 +159,7 @@ Videos, shorter writing, and podcast episodes.
 - [Simulators](https://www.lesswrong.com/posts/vJFdjigzmcXMhNTsx/simulators) — [janus](https://www.lesswrong.com/posts/vJFdjigzmcXMhNTsx/simulators)
 - [What 2026 looks like](https://www.lesswrong.com/posts/6Xgy6CAf2jqHhynHL/what-2026-looks-like) — Daniel Kokotajlo
 - Surely a bunch of SSC posts
+- Gavin's obituaries
 
 ### Podcasts
 
@@ -167,4 +168,4 @@ Videos, shorter writing, and podcast episodes.
 - An AXRP one?
 - Carl Shulman common sense case
 - Sharon Hewitt
-- Hayek on 80k?
+- Hayek on 80k...

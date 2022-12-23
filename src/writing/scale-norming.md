@@ -1,11 +1,7 @@
 ---
-
 title: Intro to Scale-Norming
-slug: scale-norming
-author: Fin Moorhouse
-path: /writing/scale-norming
-type: post
-subtype: ea
+permalink: /writing/scale-norming/
+tags: [writing]
 date: 2020-11-02
 featuredImage: './scale-norming.jpg'
 ---

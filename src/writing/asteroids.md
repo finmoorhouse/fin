@@ -11,7 +11,7 @@ Recently, I’ve been working on a [problem profile](https://80000hours.org/prob
 
 {% endaside %}
 
-## Here's a header{#header}
+## Assessing the risks{#the-risks}
 
 When thinking about risks from space, you’ll likely think of asteroids.
 
@@ -48,6 +48,8 @@ Fortunately, the international community has already done a surprisingly good jo
 
 Waiting a very long time without building a way to proactively defend against asteroid impacts would indeed be reckless — as time passes, the cumulative chance that a large asteroid impact will have occurred increases unsustainably.
 
+## Are asteroid programs worth the money?{#cost-benefit}
+
 Even in this century, I’m not saying that spending on defensive capabilities against asteroid impact would necessarily be a waste of money, _assuming_ the technology couldn’t be misused in dangerous ways. Some back-of-the-envelope calculations from Matheny (2007)[^3] show that the cost-effectiveness of an asteroid deflection program this century could work out at about \$2.50 per life-year saved in expectation,<Sidenote label='asteroid-cea-sidenote'>Assume saving future lives is as valuable as saving lives today, and suppose that (conditional on surviving this century) humanity can be expected to survive as long as our closest relative, homo erectus (1.6 million years) at an average population size of 10 billion people. Suppose it could cost \$20 billion to buy an asteroid detection-and-deflection program which would reduce the chance of an asteroid causing extinction by 50% this century and impose no other risks or benefits. Finally, assume the probability of an extinction-level asteroid impact this century is around one in a million. Then the expected value of such a program would work out as 0.5 × 1.6 million × 10 billion × one in a million = 8 billion life-years. So the cost-effectiveness would work out at 20 billion ÷ 8 billion life-years = \$2.50 per life-year. Matheny notes, “​​it is common for U.S. health programs to spend, and for U.S. policies and citizens to value, more than $100,000 per life-year”.</Sidenote> easily competitive with other programs governments and individuals are willing to spend on.<Sidenote label='asteroid-spending'>Spending on asteroid deflection (ignoring dual use concerns) is probably not crazy even when you only [consider presently existing people](https://80000hours.org/podcast/episodes/carl-shulman-common-sense-case-existential-risks/). [On one reasonable estimate](https://www.nature.com/articles/367033a0), the chance of being killed by an asteroid impact (or its effects on Earth’s climate) in an average century is about 1 in 40,000 — larger than the chance of dying from a venomous bite or sting, and comparable to your chance of dying in a flood. On cost estimates given in the previous sidenote, the U.S. government alone could tax its median taxpayer by an extra $2 per year over the next century to halve this risk for its citizens (and everyone else in the world as a nice bonus). Similar spending to halve the deaths from flooding sounds not unreasonable to me.</Sidenote>
 
 [^3]: [Reducing the Risk of Human Extinction](https://onlinelibrary.wiley.com/doi/10.1111/j.1539-6924.2007.00960.x) by Jason Matheny (2007)
@@ -56,7 +58,7 @@ But spending on such an enormous risk mitigation program would probably mean usi
 
 Plus, work on defection technology doesn’t look especially neglected compared to work on mitigating other risks, either. In particular, NASA’s [Planetary Defence Coordination Office](https://www.nasa.gov/planetarydefense/overview) plans to test its [‘kinetic impact’ technology](https://www.nasa.gov/planetarydefense/dart) by crashing a spacecraft into a near-Earth asteroid at a speed of 6.6 km/s and measuring the effect on its orbit. The program has a [budget](https://www.planetary.org/space-missions/dart) of over \$300 million.
 
-### Dual-use concerns
+## Dual-use concerns
 
 But there’s also a reason we might want to positively _avoid_ rushing into building asteroid defence systems: any technology capable of deflecting an asteroid _away_ from a collision course with Earth will probably make it easier to divert it _toward_ Earth.
 
@@ -72,7 +74,7 @@ This ‘dual-use’ concern mirrors other kinds of projects aimed at making us s
 
 When people think about existential risks for the first time, they often think of asteroids. But the real lessons we should learn from asteroids are unexpected. First, the international effort to track near-Earth asteroids is potentially humanity’s most successful effort to date to directly address an existential risk — that should be a source of inspiration as much as the risks themselves should be a source of concern. Second, expanding beyond mere detection to building deflection systems probably shouldn’t be a priority right now — not just because other comparably tractable risks look far more urgent, but because deflection technology could pose risks of its own from malign use.
 
-### Read more
+## Read more
 
 - [Near-Earth Objects](https://www.unoosa.org/oosa/en/ourwork/topics/neos/index.html) — United Nations Office for Outer Space Affairs
 - [Dangers of asteroid deflection](https://www.nature.com/articles/368501a0) — Carl Sagan and Steven J. Ostro

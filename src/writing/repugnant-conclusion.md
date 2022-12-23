@@ -1,10 +1,7 @@
 ---
 title: Intro to the Repugnant Conclusion
-slug: repugnant-conclusion
-author: Fin Moorhouse
-path: /writing/repugnant-conclusion
-type: post
-subtype: ea
+permalink: /writing/repugnant-conclusion/
+tags: [writing]
 featuredImage: './repugnant-conclusion.jpg'
 date: 2019-12-01
 ---

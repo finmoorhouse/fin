@@ -1,10 +1,7 @@
 ---
 title: Effective Altruism Blogs to Follow
-slug: ea-blogs
-author: Fin Moorhouse
-path: /writing/ea-blogs
-type: post
-subtype: ea
+permalink: /writing/ea-blogs/
+tags: [writing]
 date: 2020-02-01
 featuredImage: './ea-blogs.jpg'
 ---

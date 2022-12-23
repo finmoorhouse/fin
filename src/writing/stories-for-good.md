@@ -1,10 +1,7 @@
 ---
 title: Stories for Good
-slug: stories-for-good
-author: Fin Moorhouse
-path: /writing/stories-for-good
-type: post
-subtype: ea
+permalink: /writing/stories-for-good/
+tags: [writing]
 date: 2019-12-19
 featuredImage: './pig.jpg'
 ---

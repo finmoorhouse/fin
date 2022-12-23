@@ -1,11 +1,7 @@
 ---
-
 title: Institutions for the Long Run
-slug: longterm-institutions
-author: Fin Moorhouse
-path: /writing/longterm-institutions
-type: post
-subtype: ea
+permalink: /writing/longterm-institutions/
+tags: [writing]
 date: 2021-07-26
 featuredImage: './longterm-institutions.png'
 ---

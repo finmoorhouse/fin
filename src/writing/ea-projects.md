@@ -1,10 +1,7 @@
 ---
 title: EA Projects I'd Like to See
-slug: ea-projects-sidenotes
-author: Fin Moorhouse
-path: /writing/ea-projects
-type: post
-subtype: misc
+permalink: /writing/ea-projects/
+tags: [writing]
 date: 2022-03-13
 featuredImage: './ea-projects-share.png'
 ---

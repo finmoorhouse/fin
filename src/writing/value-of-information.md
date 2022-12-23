@@ -1,11 +1,7 @@
 ---
-
 title: Risk Mitigation and the Value of Information
-slug: value-of-information
-author: Fin Moorhouse
-path: /writing/value-of-information
+permalink: /writing/value-of-information/
 type: unpublished
-subtype: ea
 date: 2021-07-28
 featuredImage: './value-of-information.png'
 ---

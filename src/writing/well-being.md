@@ -1,10 +1,7 @@
 ---
 title: Intro to the Philosophy of Well-Being
-slug: well-being
-author: Fin Moorhouse
-path: /writing/well-being
-type: post
-subtype: ea
+permalink: /writing/well-being/
+tags: [writing]
 date: 2020-11-11
 featuredImage: './well-being.jpg'
 ---

@@ -1,11 +1,7 @@
 ---
-
 title: Summary of 'Our Common Agenda' UN Report
-slug: our-common-agenda
-author: Fin Moorhouse
-path: /writing/our-common-agenda
-type: post
-subtype: ea
+permalink: /writing/our-common-agenda/
+tags: [writing]
 date: 2021-09-17
 featuredImage: './oca-share-image.jpg'
 ---

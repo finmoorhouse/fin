@@ -1,10 +1,7 @@
 ---
 title: Unsung Heroism
-slug: unsung-heroism
-author: Fin Moorhouse
-path: /writing/unsung-heroism
-type: post
-subtype: ea
+permalink: /writing/unsung-heroism/
+tags: [writing]
 date: 2020-04-25
 featuredImage: './elion.jpg'
 ---

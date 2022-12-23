@@ -1,10 +1,7 @@
 ---
 title: Saving the Web With Very Small Amounts of Money
-slug: micropayments
-author: Fin Moorhouse
-path: /writing/micropayments
-type: post
-subtype: misc
+permalink: /writing/micropayments/
+tags: [writing]
 date: 2020-08-23
 featuredImage: './micropayments.jpg'
 ---

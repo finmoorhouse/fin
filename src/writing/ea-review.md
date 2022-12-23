@@ -1,11 +1,7 @@
-
 ---
 title: Review of Effective Altruism – Philosophical Issues
-slug: ea-review
-author: Fin Moorhouse
-path: /writing/ea-review
-type: post
-subtype: ea
+permalink: /writing/ea-review/
+tags: [writing]
 date: 2020-06-26
 featuredImage: './pond.jpg'
 ---

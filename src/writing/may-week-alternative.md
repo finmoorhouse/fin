@@ -1,10 +1,7 @@
 ---
 title: MWA and Student Charity
-slug: mwa
-author: Fin Moorhouse
-path: /writing/mwa
-type: post
-subtype: ea
+permalink: /writing/mwa/
+tags: [writing]
 date: 2020-04-10
 featuredImage: './mayball.jpg'
 ---
