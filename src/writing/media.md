@@ -5,8 +5,6 @@ tags: [writing]
 date: 2021-12-28
 featuredImage: './media-2021.png'
 ---
-import Sidenote from "components/writing/sidenote";
-
 I've enjoyed others' roundups of the media they've recently enjoyed ([example](http://lukemuehlhauser.com/media-diet-for-q3-2021/)). I've discovered some amazing books, music, and films this way (for the same reason recommendations from friends tend to beat aggregated reviews).
 
 I thought I would look through my own highlights from 2021 in case it helps someone else find something they end up enjoying.

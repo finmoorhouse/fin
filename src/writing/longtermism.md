@@ -7,9 +7,6 @@ canonicalUrl: https://www.effectivealtruism.org/articles/longtermism/
 date: 2021-01-26
 featuredImage: './longtermism.jpg'
 ---
-import Sidenote from "components/writing/sidenote";
-import Aside from "components/writing/aside";
-
 {% aside %}
 You can now read this <a href='https://www.effectivealtruism.org/articles/longtermism/' target='_blank'>introduction to longtermism</a> on effectivealtruism.org.
 {% endaside %}

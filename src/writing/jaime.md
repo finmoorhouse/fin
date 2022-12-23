@@ -188,9 +188,9 @@ To be well-calibrated, then, means that the probabilities you assign to your for
 
 To see and even contribute to crowd-sourced forecasting, take a look at the website [Metaculus](https://www.metaculus.com). On this site, anybody is free to create an account and start making predictions about open questions. For illustration, one of the most popular questions on the front page right now is, "Will an AI system do credibly well on a full math SAT exam by 2025?". If you start making predictions, they will start resolving, and you will begin to find out if your guesses were more or less accurate than the average user. The track record of the overall system (aggregating everybody's guesses) is [remarkably good](https://www.metaculus.com/questions/track-record/).
 
-<div class='callout'>
+{% aside %}
 The words 'probability' and 'confidence' have been used interchangeably here. Elsewhere, a distinction is sometimes drawn between 'subjective' and 'objective' probabilities, or else between risk and uncertainty. These distinctions do mark out some practical differences between cases. But here we are not assuming any fundamental distinction between these 'kinds' of probability. Probabilities are best understood here as <i>degrees of belief</i> manifested in terms of betting preferences: roughly speaking you assign probability p to X when you would pay no more than p dollars (or whatever it is you value) to take a bet which pays 1 dollar if X, and nothing otherwise. For more, see <a href='https://plato.stanford.edu/entries/probability-interpret/'>this overview</a> of interpretations of probability.
-</div>
+{% endaside %}
 
 
 ### Why Quantified Forecasting Matters
@@ -251,10 +251,9 @@ What are these magical skills which so reliably improve forecasting ability? Jai
 
 Of course, it will sometimes be tricky to find an obvious reference class. Consider: "what is the probability that humanity will become extinct this century?". Well, humanity has never gone extinct before. As such, what could possibly play the role of our initial 'prior' estimate? Here Jaime suggests there is scope to get creative: for instance, we might look to the past instances of civilisation collapse, or maybe the lifetimes of other extinct mammalian species.
 
-<div class='callout'>
+{% aside %}
 This links to <a href='https://hearthisidea.com/episodes/neel'>episode 9</a> with Neel Nanda, where Neel discusses the value of using the 'outside view' to avoid the planning fallacy.
-</div>
-
+{% endaside %}
 
 Using a reference class is one example of a skill which reliably improves forecasting accuracy, and Tetlock's team list many more: identifying which questions are predictable in principle, breaking problems down [Fermi-style](https://en.wikipedia.org/wiki/Fermi_problem), balancing inside and outside views, updating beliefs in line with [Bayes' rule](https://en.wikipedia.org/wiki/Bayes'_theorem), acknowledging counterarguments, and managing your team.
 

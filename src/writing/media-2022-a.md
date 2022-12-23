@@ -5,8 +5,6 @@ tags: [writing]
 date: 2022-06-30
 featuredImage: './media-22-a-share.png'
 ---
-import Sidenote from "components/writing/sidenote";
-
 Cultural signalling, round two!
 
 This is me listing things I enjoyed reading / hearing / watching from the first half of 2022. [Here are my highlights](https://www.finmoorhouse.com/writing/media-2021) for all of 2021.

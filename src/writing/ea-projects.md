@@ -5,13 +5,7 @@ tags: [writing]
 date: 2022-03-13
 featuredImage: './ea-projects-share.png'
 ---
-import Sidenote from "components/writing/sidenote";
-
-import { Link } from "gatsby"
-
-
-
-I think sharing half-baked ideas is an underrated practice (see my post on <Link to='../research'>research ideas</Link>)<Sidenote label='harm'>Typical caveats apply: make you're not doing accidental harm by spreading bad ideas.</Sidenote>. So I've written out some ideas for concrete projects that have been floating around my head for a while.<Sidenote label='FTX'>[Effective altruism](https://www.effectivealtruism.org/), especially [longtermist](https://longtermism.com/) EA, needs ideas for new, *scalable*, *[ambitious](https://80000hours.org/articles/be-more-ambitious/)* projects — because of [announcements like this.](https://forum.effectivealtruism.org/posts/2mx6xrDrwiEKzfgks/announcing-the-future-fund-1) Unfortunately many of these ideas are neither especially scalable nor especially ambitious.</Sidenote>.
+I think sharing half-baked ideas is an underrated practice (see my post on [research ideas](/writing/research))<Sidenote label='harm'>Typical caveats apply: make you're not doing accidental harm by spreading bad ideas.</Sidenote>. So I've written out some ideas for concrete projects that have been floating around my head for a while.<Sidenote label='FTX'>[Effective altruism](https://www.effectivealtruism.org/), especially [longtermist](https://longtermism.com/) EA, needs ideas for new, *scalable*, *[ambitious](https://80000hours.org/articles/be-more-ambitious/)* projects — because of [announcements like this.](https://forum.effectivealtruism.org/posts/2mx6xrDrwiEKzfgks/announcing-the-future-fund-1) Unfortunately many of these ideas are neither especially scalable nor especially ambitious.</Sidenote>.
 
 If you could see yourself actually working on one of these, please do let me know! I might be able to connect you to other people who could work with, elaborate on details, or help you find funding.
 
