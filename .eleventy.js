@@ -51,7 +51,7 @@ module.exports = function (config) {
     return `<div class="mb-6">
     <a
       href="/${link}"
-      class="flex items-center gap-1.5 bg-slate-600 text-sm font-semibold text-white px-2.5 py-0.5 rounded-full max-w-max no-underline font-medium"
+      class="flex items-center gap-1.5 bg-slate-600 text-sm font-semibold text-white px-2.5 py-0.5 rounded-full max-w-max no-underline font-medium font-sans"
     >
       <svg
         xmlns="http://www.w3.org/2000/svg"
