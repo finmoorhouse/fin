@@ -1,7 +1,7 @@
 ---
 title: Risks from Asteroids
 tags: [writing]
-date: 2016-01-10
+date: 2021-10-13
 permalink: /writing/asteroids/
 ---
 

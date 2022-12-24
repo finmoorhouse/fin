@@ -1,7 +1,7 @@
 ---
 title: Convex Altruism
 tags: [writing]
-date: 2016-01-05
+date: 2022-04-28
 ---
 ## Summary
 
