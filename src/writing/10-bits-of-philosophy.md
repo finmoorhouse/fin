@@ -192,8 +192,6 @@ Thus, if epiphenomenalists about consciousness want to avoid the Frankish’s an
 
 Read it [here](http://people.brandeis.edu/~teuber/parfit-personal-identity.pdf).
 
-![Parfit](parfit.jpg)
-
 {% image "https://images.finmoorhouse.com/writing/10-bits-of-philosophy/parfit.jpg", "Derek Parfit" %}
 
 Until his untimely death, Parfit was *the* doyen of anglophone philosophy. His writing had the quality of timeless clarity from the moment it was published. He also had all the idiosyncrasies that his ‘reclusive genius’ reputation promised — I can’t remember who mentioned that he made instant coffee straight from the hot tap in order to skip the kettle and save an extra minute for writing. 

@@ -32,9 +32,9 @@ Moreover, the number of lives that have been saved year-on-year by advances in g
 
 I thought this was clear and compelling enough to refer to anybody curious about the ideas which underpin effective altruism.
 
-![Cost Effectiveness](cost-effectiveness.png)
+{% image "https://images.finmoorhouse.com/writing/ea-review/cost-effectiveness.png", "Cost effectiveness" %}
 
-(That graph is from [this](https://80000hours.org/career-guide/world-problems/) old 80,000 Hours career guide.)
+*(That graph is from [this](https://80000hours.org/career-guide/world-problems/) old 80,000 Hours career guide.)*
 
 Worth noting, however, that since this paper’s original publication, the claims made in the passage about trachoma have been scrutinised. See [this post](https://forum.effectivealtruism.org/posts/SMRHnGXirRNpvB8LJ/fact-checking-comparison-between-trachoma-surgeries-and) for some fact checking.
 
@@ -69,7 +69,7 @@ However, Askell points out that plain old measures of expected value don’t tel
 
 A ‘[multi-armed bandit](https://en.wikipedia.org/wiki/Multi-armed_bandit)’ is an array of slot machines (or equivalent), each with different reward distributions. Some might reliably deliver a small payout; some might deliver rare but large payouts (and so on). The interesting problem posed by multi-armed bandits is how and how much to ‘explore’ — testing each machine to learn about its reward distribution — and when to ‘exploit’ — begin cashing in on the machine you decide has the highest expected value. As it turns out, [answering that question](https://arxiv.org/pdf/1904.07272.pdf) is tricky and kind of profound. Investing in charities (and many other things for that matter) is analogous to the multi-armed bandit in the following ways: firstly, you bring about a desirable outcome with some probability; secondly, *you learn something new about that outcome and that probability* when you invest. This, argues Askell, is what the evidence-favouring and evidence-neutral views miss.
 
-![Slot Machine](./slot-machine.jpg)
+{% image "https://images.finmoorhouse.com/writing/ea-review/slot-machine.jpg", "A slot machine" %}
 
 Incidentally, multi-armed bandits are similar (maybe the same) to a task used in psychological evaluations called the ‘[Iowa gambling task](https://www.psytoolkit.org/experiment-library/igt.html)’. Wrong place to start talking about all the interesting [stuff](https://www.frontiersin.org/articles/10.3389/fpsyg.2015.00391/full) you can learn from this simple test, but worth googling! You can play an online demo yourself [here](https://www.psytoolkit.org/experiment-library/experiment_igt.html).
 
@@ -81,7 +81,7 @@ A question remains about why effective altruists tend, in general, towards the e
 
 In the next article, Lauri Paul's recent writing about '[Transformative Experience](https://www.goodreads.com/book/show/22329084.Transformative_Experience)' is adapted for the context of effective altruism. The general idea is  that certain experiences or changes are dramatic enough that (i) actually undergoing them is a necessary condition for knowing what  they're like; and (ii) you emerge with (substantially) new preferences, sense of identity, or beliefs. For instance, it is virtually impossible  to make a fully informed decision about having a child or getting  married if you haven’t before been married or had children. As applied:  how should an aspiring effective altruist plan her career if she lacks  the experience to make an informed decision, nor the time to try every  alternative? Should she [“earn to give”](https://80000hours.org/articles/earning-to-give/') if her future hedge-fund-manager-self eventually writes-off her original intention as naïve, youthful optimism?
 
-![Cocoon](cocoon.jpg)
+{% image "https://images.finmoorhouse.com/writing/ea-review/cocoon.jpg", "A cocoon" %}
 
 This is an important thought! And those new, transformed, preferences could go both ways. Suppose I’m choosing between career options A and B. Let’s say—purely hypothetically!—that I’ve just graduated and need to choose between grad school and some kind of work. In that case, I might expect to be confident I made the right decision *irrespective* of whether I chose A or B. If I continue my studies, I’ll make friends with more academics, and get familiar and comfortable with the academic life. If I choose to work, I’ll get comfortable and familiar with working… There are absolutely [all kinds](https://en.wikipedia.org/wiki/Choice-supportive_bias) of reason in addition why I might expect to endorse my decision. Conversely, there are some (perhaps rarer) decisions between options when I can expect to *regret* my decision. Here’s the ever-cheery and nuanced [Kierkegaard](https://www.goodreads.com/book/show/24970.Either_Or):
 

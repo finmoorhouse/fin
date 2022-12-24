@@ -3,9 +3,6 @@ title: Convex Altruism
 tags: [writing]
 date: 2016-01-05
 ---
-
-
-
 ## Summary
 
 Many of the original insights of effective altruism are insights about diminishing returns, especially from *concave* functions. In particular, ideas about concavity motivate the concept of *neglectedness*, and the heuristic of *giving to the most marginally cost-effective charity*. But sometimes we instead confront *increasing* returns, often from *convex* functions. In such cases, I think some of the simpler EA heuristics break down in instructive ways. I also suggest thinking in terms of ‘impact functions’ for projects, analogous to production functions for firms. These are scattered points, many of which are kind of obvious.
@@ -18,7 +15,7 @@ Thank you to [Luca Righetti](https://www.lucarighetti.com) and [Loren Fryxell](h
 
 Suppose you’re considering how total outputs vary with total inputs. You’re thinking of a continuous function from inputs to outputs. When you move to the right along the graph, the slope of the curve may decrease. That’s how you know you’re dealing with a **concave** function.
 
-![Concave function](images/1.png)
+{% image "https://images.finmoorhouse.com/writing/convex-ea/images/1.png", "A concave function" %}
 
 Consider how the quality of meal you can find in a big city might vary with the amount of money you’re prepared to spend. Money (the input) runs along the x, and quality (the output) on the y. When you’re on a tight budget, an extra dollar goes a long way. When you’re already prepared to spend big, it’ll make a smaller difference. The output (quality) scales as a concave function of the input (money). Or consider how your expected grade on an exam scales with the total time you spend studying for it: it’s got to eventually turn concave, because you can’t score higher than 100%.
 
@@ -28,9 +25,9 @@ Imagine a graph showing how the quality of a person’s life varies with their i
 
 Similar shapes show up for projects, as well as people. Once a project is saturated with resources, then an extra unit of that resource will often make less of a difference than the first investments. This motivates the thought that the more *neglected* a problem is, the more good a unit of work will do.
 
-Economists talk about [*production functions*](https://en.wikipedia.org/wiki/Production_function), which describe how physical goods (the output) vary with inputs, of ‘factors of production’, such as labour. We might use the term ‘impact function’ to refer to the analogous functions where the output is some kind of outcome that altruists ultimately care about: lives saved, animals spared, basis points of existential risk mitigated, etc<Sidenote label='2'>Since writing most of this post, I found that Max Dalton had written about this idea in 2017: ‘[Defining returns functions and funding gaps](https://www.centreforeffectivealtruism.org/blog/defining-returns-functions-and-funding-gaps)’.</Sidenote>. Money, labour, and many other things can count as ‘factors of impact’<Sidenote label='3'> I’ll often default to talking about money, but the same points go through whatever the ‘factor of impact’.</Sidenote> Concave impact functions mean *diminishing marginal impact*. In general, every extra unit of input results in smaller increases in output. Here’s a concave impact function, for a given timeframe:<Sidenote label='4'>You often see the analogous production graphs showing costs on the y,  and output on the x. But in this context, I prefer framing things as  ‘maximising impact per dollar’ rather than ‘minimising dollars per unit  of impact’.</Sidenote>
+Economists talk about [*production functions*](https://en.wikipedia.org/wiki/Production_function), which describe how physical goods (the output) vary with inputs, of ‘factors of production’, such as labour. We might use the term ‘impact function’ to refer to the analogous functions where the output is some kind of outcome that altruists ultimately care about: lives saved, animals spared, basis points of existential risk mitigated, etc<Sidenote label='2'>Since writing most of this post, I found that Max Dalton had written about this idea in 2017: ‘[Defining returns functions and funding gaps](https://www.centreforeffectivealtruism.org/blog/defining-returns-functions-and-funding-gaps)’.</Sidenote>. Money, labour, and many other things can count as ‘factors of impact’<Sidenote label='3'> I’ll often default to talking about money, but the same points go through whatever the ‘factor of impact’.</Sidenote> Concave impact functions mean *diminishing marginal impact*. In general, every extra unit of input results in smaller increases in output. Here’s a concave impact function, for a given timeframe:<Sidenote label='4'>You often see the analogous production graphs showing costs on the y,  and output on the x. But in this context, I prefer framing things as  ‘maximising impact per dollar’ rather than ‘minimising dollars per unit of impact’.</Sidenote>
 
-![Impact function](/Users/fin/dev/fin/src/posts/posts/convex-ea/images/2.png)
+{% image "https://images.finmoorhouse.com/writing/convex-ea/images/2.png", "An impact function" %}
 
 Getting the most outputs possible in a world of concave impact functions often means sharing out your resources among many things: *diversifying* between options.
 
@@ -40,7 +37,8 @@ Suppose you’re choosing how to spend on a few options, and you’re assuming d
 
 An alternative framing on the same thing comes from Vitalik Buterin’s post on [‘Convex and Concave Dispositions’](https://vitalik.ca/general/2020/11/08/concave.html). He imagines situations when you’re deciding how to distribute resources between two options. Roughly speaking, you can end end up with two shapes:
 
-![Vitalik shapes](/Users/fin/dev/fin/src/posts/posts/convex-ea/images/3.png)
+{% image "https://images.finmoorhouse.com/writing/convex-ea/images/3.png", "Two impact functions" %}
+
 
 Notice that if the impact functions of both options are concave, then so will the graph above — and vice-versa.
 
@@ -108,7 +106,7 @@ Here we said neglectedness is a quantity which is inversely proportional to tota
 
 Not all production or impact functions are entirely concave. Sometimes, when you move to the right along the graph, the slope of the curve *increases*. Sometimes marginal impact *increases* with inputs. This is the opposite of concavity: convexity.
 
-![Convexity](/Users/fin/dev/fin/src/posts/posts/convex-ea/images/4.png)
+{% image "https://images.finmoorhouse.com/writing/convex-ea/images/4.png", "Convexity" %}
 
 Generally speaking, the early stages of starting up a project often involves *increasing returns* with more inputs.
 
@@ -118,11 +116,11 @@ Or it could be because of *increasing returns to scale*: the feature of many pro
 
 Presumably no real production or impact functions are *entirely* convex (for indefinite amounts of input)<Sidenote label='11'>This is related to the law of [diminishing marginal returns](https://www.investopedia.com/terms/l/lawofdiminishingmarginalreturn.asp). If you’re working in a finite world, it’s got to be true!</Sidenote>, but convexity for some range of inputs is common. In particular, many production and impact functions are going to look *S-shaped*: increasing returns in the beginning, followed by decreasing returns:
 
-![Increasing returns](/Users/fin/dev/fin/src/posts/posts/convex-ea/images/5.png)
+{% image "https://images.finmoorhouse.com/writing/convex-ea/images/5.png", "Increasing returns" %}
 
 Analogous to standard [production functions](https://en.wikipedia.org/wiki/Production_function), you can also show *marginal* impact and average *impact* (per unit input) on a graph with the same x-axis. But all the information is contained in the 'total impact' graph (above).
 
-![Marginal and average impact](/Users/fin/dev/fin/src/posts/posts/convex-ea/images/6.png)
+{% image "https://images.finmoorhouse.com/writing/convex-ea/images/6.png", "Marginal and average impact" %}
 
 Suppose you’ve discovered a new deposit of gold, but most of the gold is some way below the surface. How does the total gold you can extract vary with the efforts you’re able to spend on the project? Maybe most of your early efforts are aimed at digging through to reach most of the gold; then you can clear out the easiest-to-reach parts of the deposit, and finally it gets increasingly difficult to mine more gold. That could give you an s-curve like the one above.
 
@@ -132,11 +130,12 @@ For what it’s worth, the *average cost of outputs* can decrease with inputs ev
 
 This could also describe a version of the gold scenario in which you need to buy a bunch of mining machinery before you can get started at all.
 
-![Startup costs](/Users/fin/dev/fin/src/posts/posts/convex-ea/images/7.png)
+{% image "https://images.finmoorhouse.com/writing/convex-ea/images/7.png", "Startup costs" %}
+
 
 Another example is when your function is discontinuous (or at least has a sharp jump). This might apply if you’re pushing for one side of a binary decision. The inputs in that instance could be ‘votes’, or ‘efforts spent on advocating for that side’.<Sidenote label='12'>This is the shape of the graph *ex-post.* Your *ex-ante* impact function might look different if you’re unsure where the threshold is.  In particular, it will look smoother, and will perhaps take on an  s-shape.</Sidenote>
 
-![Discontinuity](/Users/fin/dev/fin/src/posts/posts/convex-ea/images/8.png)
+{% image "https://images.finmoorhouse.com/writing/convex-ea/images/8.png", "Discontinuity" %}
 
 In fact, we can describe a number of shapes which don’t resemble the ‘highest returns at zero inputs followed by diminishing returns’ shape from the first section. I think most of the points I’ll make about convex functions will apply to these examples also.
 
@@ -152,7 +151,7 @@ Suppose you’re a funder choosing between potential projects, all of which prom
 
 When you’re dealing with convex functions, it will often make sense to take risks with your resources. Suppose you’re looking at giving to a project with this impact function:
 
-![Risk seeking](/Users/fin/dev/fin/src/posts/posts/convex-ea/images/9.png)
+{% image "https://images.finmoorhouse.com/writing/convex-ea/images/9.png", "Risk seeking" %}
 
 If all you care about is expected impact, it could make sense to bring all your money to a roulette wheel, and put everything on red. Even though you expect to lose a small amount of money in expectation, you can expect to have *more* impact.
 
@@ -188,7 +187,8 @@ Previously, I said: “[w]hen you’re dealing with concave impact functions, th
 
 Notice that this heuristic doesn’t always work when some impact functions are convex. Consider the following two functions:<Sidenote label='17'>One misconception I’m worried about imparting is that the option with  increasing returns always beats the concave option. Of course, that’s  not always true.</Sidenote>
 
-![Complexities](/Users/fin/dev/fin/src/posts/posts/convex-ea/images/10.png)
+{% image "https://images.finmoorhouse.com/writing/convex-ea/images/10.png", "Complexities" %}
+
 
 Although A *starts off* most marginally effective, B *becomes* more marginally effective than A ever is, such that you could have had more total impact if you put all your money in B from the start.
 

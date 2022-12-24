@@ -26,9 +26,9 @@ Not so much a fact, but an interesting thought: consider a toy model of existent
 
 > Suppose you thought it equally likely the value of reducing risk was ten times as important as the basic model suggests, or a tenth as important. The average of these is not one times as important: it is 5.05 times as important.
 
-Again, strongly recommended; but not remotely comforting.
+Again, strongly recommended; but not at all comforting.
 
-![The Precipice and the Land Beyond - Hilary Paynter](precipice.jpg)
+{% image "https://images.finmoorhouse.com/writing/precipice/precipice.jpg", "The Precipice and the Land Beyond - Hilary Paynter" %}
 
 *The Precipice and the Land Beyond* - Hilary Paynter
 

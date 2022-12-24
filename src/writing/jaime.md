@@ -76,7 +76,7 @@ A **natural experiment** is when this randomisation happens by accident, rather 
 
 Fortunately, there are some clever statistical methods we can use. Perhaps the most popular one is the **instrumental variable**.  This is a variable $Z$ that is related to how likely someone receives treatment $D$ (the relevance condition) but is *uncorrelated* with the error $e$ i.e. selection bias (the exclusion restriction). We can show this graphically:
 
-<img src="images/instrument.svg" class="writing-image_small" alt="Instrumental Variable"   />
+<img src="https://images.finmoorhouse.com/writing/jaime/images/instrument.svg" class="writing-image_small" alt="Instrumental Variable"   />
 
 If these two conditions are fulfilled, then an instrumental variable can identify the true causal effect using linear regression. The exact reasons why are more complicated, but see this [textbook](http://www.mostlyharmlesseconometrics.com/book-contents/) for a intuitive explanation, this [chapter](https://www.sciencedirect.com/topics/economics-econometrics-and-finance/instrumental-variables) for a academic overview, and this [video](https://www.youtube.com/watch?v=pI9YGSJ2qPk) for an applied example.
 
@@ -94,25 +94,25 @@ Jaime has recently been investigating the evidence for 'cultural persistence'. T
 
 We discuss the seminal work by Nathan Nunn (2008) "[The Long Term Effects of Africa's Slave Trades](https://scholar.harvard.edu/nunn/publications/long-term-effects-africas-slave-trades)". The paper specifically looks at the example of the African slave trade to see if it can explain country's underdevelopment today. It bases this hypothesis on a rich historical literature on how people of similar African ethnicities enslaved each other to sell to European traders, creating ethnic fractionalisation that influences today's civil strife and low level of trusts. Or crudely put, Slave trade → Historically ethnic fractionalisation → Post-colonial low levels of trust → Underdevelopment.
 
-![Distance Instruments Example](/images/burkina-faso.jpg)
+{% image "https://images.finmoorhouse.com/writing/jaime/images/burkina-faso.jpg", "Distance instruments example" %}
 
-##### Source: Nunn (2008)
+*Source: Nunn (2008)*
 
 To empirically quantify this effect, Nunn makes use of a novel instrumental variable, whereby the sailing distances from each African country to the ports where slaves were traded 'instruments' for the number of slaves exported. Doing this, he finds a significant negative relationship between slave trade and economic development today.
 
-![Relationship between slave exports and per capita GDP](/images/exports.jpg)
+{% image "https://images.finmoorhouse.com/writing/jaime/images/exports.jpg", "Relationship between slave exports and per capita GDP" %}
 
-##### Source: Nunn (2008)
+*Source: Nunn (2008)*
 
 Some challenges have been raised to Nunn's findings, in particular whether the instrumental variable satisfies the **exclusion** restriction or not. The distances to slave markets is very likely to be related to other forms of trade, which also matter for economic development. If this is the case, then we are overestimating the causal effect of the slave-trade. Nunn has disputed this, but it remains an active debate.
 
 
-<img src="images/shipping.svg" class="writing-image_small" alt="Shipping Distance"   />
+<img src="https://images.finmoorhouse.com/writing/jaime/images/shipping.svg" class="writing-image_small" alt="Shipping Distance" />
 
 
 Another point of contention is the exact causal mechanism through which the slave trade affects economic development. Merely observing causality does not reveal the underlying mechanisms and mediators — a point that Jaime emphasises. In a [later paper](https://scholar.harvard.edu/files/nunn/files/nunn_wantchekon_aer_2011.pdf), Nunn provides evidence that ethnic fractionalization plays a role through creating lower levels of trust. Making use of data on immigrants, Nunn shows that slave trade exposure based on ethnicity matters almost twice as much as based on location. This suggests that the effect is through cultural persistence and not just institutions. However, in practice such distinctions are always blurry (culture affects institutions *and* vice versa) and there may be other slave-trade channels (e.g. lost labour).
 
-<img src="images/shipping2.svg" class="writing-image_small" alt="Shipping Distance"   />
+<img src="https://images.finmoorhouse.com/writing/jaime/images/shipping2.svg" class="writing-image_small" alt="Shipping Distance 2"   />
 
 If you are interested in cultural persistence, here are some other papers to look at:
 
@@ -289,9 +289,9 @@ For the rest of us, Jaime suggests it is more useful to discuss what quantum com
 
 Suppose you're given a big unordered pile of integers, and you're told that exactly one of them is prime. You need to instruct a computer to search through the numbers in order to find the prime. It turns out you can't do much better than this: take one number from the pile and check if it's prime. If it is, stop — you've found it. If it's not, throw away that number and take the next number from the pile. Repeat until you have one number left. You don't need to check that one, because it's definitely prime. How should we expect the amount of time the computer takes to scale with the number of integers? In the worst case, you get unlucky and check through *every* number before you realise the last number you checked was the prime you were looking for. On average, you should expect to check through roughly half the numbers before you find the prime. In any case, the length of time you should *expect* your computer to take in finding the prime will scale more or less linearly with the size of the pile of numbers: doubling the size of the pile doubles the time you should expect your computer to take. For n integers, your computer will take some constant multiplied by n steps.
 
-![IBM’s quantum computer](images/quantum_computer.jpg)
+{% image "https://images.finmoorhouse.com/writing/jaime/images/quantum_computer.jpg", "IBM's quantum computer" %}
 
-##### Source: IBM on [Flickr](https://www.flickr.com/photos/ibm_research_zurich/40786969122)
+*Source: IBM on [Flickr](https://www.flickr.com/photos/ibm_research_zurich/40786969122)*
 
 Things are different for quantum computers. A clever trick called '[Grover's algorithm](https://en.wikipedia.org/wiki/Grover's_algorithm)' allows a quantum computer to perform this search more efficiently, such that the steps you should expect the quantum computer to take scales not with the size of the pile of numbers, but with the *square root* of the size. Now *quadrupling* the size of the pile doubles the time you should expect the computer to take (roughly speaking). This result extends beyond the present example, and even beyond this kind of unstructured search problem to all kinds of application. "This is super general in pretty much any problem where once you find a solution you can easily check that the solution is correct".
 

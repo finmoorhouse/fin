@@ -62,7 +62,7 @@ You can [watch this opening scene here](https://www.youtube.com/watch?v=h8k48bXJ
 
 ## Pale Blue Dot (1994)
 
-![The pale blue dot](/Users/fin/dev/fin/src/posts/posts/sagan-quotes/images/pale-blue-dot.png)
+{% image "https://images.finmoorhouse.com/writing/sagan-quotes/images/pale-blue-dot.png", "The pale blue dot" %}
 
 Above: the pale blue dot in question, taken by the Voyager 1 spacecraft, 3.7 billion miles from the Earth. Sagan [requested](https://web.archive.org/web/20141218203249/http://fettss.arc.nasa.gov/collection/details/the-pale-blue-dot/) that NASA turn the spacecraft around to capture the image.
 
