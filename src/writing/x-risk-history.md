@@ -45,9 +45,9 @@ In the Middle Ages, religious and secular figures alike tended to imagine the un
 
 The etchings below are taken from a book called *[Conversations on the Plurality of Worlds](https://en.wikipedia.org/wiki/Conversations_on_the_Plurality_of_Worlds)*, in which its author [Bernard Le Bovier de Fontenelle](https://en.wikipedia.org/wiki/Bernard_Le_Bovier_de_Fontenelle) depicted a stellar neighbourhood replete with Earth-like worlds harbouring human-like intelligences.
 
-![Fontenelle](images/fontenelle.jpg)
+{% image "https://images.finmoorhouse.com/writing/x-risk-history/images/fontenelle.jpg", "Fontanelle" %}
 
-##### Source: [Arts and Culture](https://artsandculture.google.com/asset/illustration-from-fontenelle-s-conversations-on-the-plurality-of-worlds/zQFodaE3532KQA)
+*Source: [Arts and Culture](https://artsandculture.google.com/asset/illustration-from-fontenelle-s-conversations-on-the-plurality-of-worlds/zQFodaE3532KQA)*
 
 Well into the 18th century, leading thinkers were convinced of this 'suffusion' of value throughout space. '[Bonum](https://www.jstor.org/stable/44617042?seq=1) est diffusivum sui' stated a key scholastic principle: *goodness is self-promulgating*. Even the philosopher Immanuel Kant, who has more of a reputation for dry pedantry than any sci-fi fleets of imagination, mentions in his [*Critique of Pure Reason*](https://en.wikipedia.org/wiki/Critique_of_Pure_Reason) that he is "ready to bet the whole of my earthly goods on my belief that at least one of the planets which we see [i.e. in our solar system] is inhabited." Just as before, the views of Augustine, de Fontenelle, and Kant all but ruled out the possibility of any significant, accidental extinguishing of value from the known universe — because the responsibility to create, confer, and protect things that matter morally is largely *out of our hands*.
 
@@ -63,7 +63,7 @@ Tom continues —
 
 This reckless projection of value and purpose also manifested in depictions of our planet. For illustration, the Jesuit scholar [Athanasius Kircher](https://en.wikipedia.org/wiki/Athanasius_Kircher) compiled a [scientific textbook](https://en.wikipedia.org/wiki/Mundus_Subterraneus_(book)) in which he imagined the Earth itself as a kind of living, breathing organism. His vision is depicted beautifully in the drawing below —
 
-![Kircher](images/kircher.jpg)
+{% image "https://images.finmoorhouse.com/writing/x-risk-history/images/kircher.jpg", "Kircher" %}
 
 This 'everything in its right [place](https://www.youtube.com/watch?v=NUnXxh5U25Y)' thesis ruled out parts of the world not existing for some life-like purpose. Accordingly, many even believed that the *interior* of the globe must be either habitable, or indeed *inhabited*, right through to the 19th century. Tom points out that the astronomer Edmond Halley made remarks to this effect in the 1690s, as did "the anonymous German author of an 1828 book whose title translates as *The Underworld, or Reasons for a Habitable and Inhabitable Interior of our Earth.*"
 
@@ -79,7 +79,7 @@ Further, the show would go on without us: the rest of the universe, in a way of 
 
 > Where apocalypse secures a sense of an ending, extinction anticipates the ending of sense.
 
-![Dante Heaven Etching](images/dante-heaven.jpg)
+{% image "https://images.finmoorhouse.com/writing/x-risk-history/images/dante-heaven.jpg", "Etching of Dante's heaven" %}
 
 ##### Source: [Digital Dante](https://digitaldante.columbia.edu/image/birk-illustrations/paradiso/), Selected illustrations from Birk’s Comedy — Paradiso. Notice the similarity with the frontpiece for Fontenelle's *[Conversations on the Plurality of Worlds](https://en.wikipedia.org/wiki/Conversations_on_the_Plurality_of_Worlds)*, abov*e.*
 
@@ -187,9 +187,9 @@ Running concurrently to this ethical progress was progress of a more concrete an
 
 The nuclear weapons were of course deployed in WWII on two occasions, over the Japanese cities of Hiroshima and Nagasaki — the only times they have been used in war. Although Japan surrendered shortly after, the consequences were undeniably awful. Despite this, or perhaps because of it, nuclear stockpiles grew rapidly after WWII. By the height of the Cold War, the combined nuclear arsenals of Russia and the United States numbered above *60,000* warheads.
 
-![[Number of nuclear warheads in the inventory of the nuclear powers, 1945 to 2014](/Users/finmoorhouse/dev/hti/src/episodes/25-thomas-moynihan/images/stockpiles.png)](images/stockpiles.png)
+{% image "https://images.finmoorhouse.com/writing/x-risk-history/images/stockpiles.png", "Number of nuclear warheads in the inventory of the nuclear powers, 1945 to 2014" %}
 
-##### Source: [Our World in Data](https://ourworldindata.org/grapher/number-of-nuclear-warheads-in-the-inventory-of-the-nuclear-powers)
+*Source: [Our World in Data](https://ourworldindata.org/grapher/number-of-nuclear-warheads-in-the-inventory-of-the-nuclear-powers)*
 
 Noticing this new destructive potential, the philosopher Bertrand Russell and physicist Albert Einstein were moved to submit a [co-written manifesto](https://www.atomicheritage.org/key-documents/russell-einstein-manifesto), urging world leaders to resolve any potential Cold War conflicts peacefully: to urgently pull back from any slide towards mutually assured destruction. Although the direct effects of full-scale nuclear war might not be enough to cause human extinction, their words are refreshingly uncompromising —
 
@@ -209,9 +209,9 @@ Yet, forecasting future technologies is notoriously — [necessarily](https://me
 
 In parallel to the story of the discovery of existential risk runs an interweaving story of the discovery of humanity's place in the cosmos, and the cosmic futures it could one day inherit. On one occasion, these two threads met — in the physicist [Enrico Fermi](https://en.wikipedia.org/wiki/Enrico_Fermi). As one of the chief architects of the Manhattan Project, Fermi was there to witness the Trinity test. Almost exactly five years later, Fermi was talking over lunch at the Los Alamos National Laboratory in New Mexico. A co-worker had mentioned a recent New Yorker cartoon, depicting aliens stealing trash cans (as likely a hypothesis as any).
 
-![New Yorker alien cartoon](images/new-yorker-cartoon.jpg)
+{% image "https://images.finmoorhouse.com/writing/x-risk-history/images/new-yorker-cartoon.jpg", "New Yorker alien cartoon" %}
 
-##### New Yorker, May 20th 1950
+*New Yorker, May 20th 1950*
 
 Later, the conversation passed from UFOs to other matters. Without warning or context, Fermi exclaimed: "but where are they?". Somehow, it was clear to his conversational partners that he was referring to the the aliens from the New Yorker cartoon. More serious thinking and calculations later, Fermi's lunchtime question became the famous [Fermi *paradox*](https://en.wikipedia.org/wiki/Fermi_paradox): space is vast, and full of opportunities for alien intelligences to emerge and communicate with us. Yet, we hear and see no clear signs of alien intelligence at all. Decades later, SETI — the search for extraterrestrial intelligence — redoubled efforts to pick up even the faintest clues from the night sky static. Still, nothing. What gives?
 
@@ -229,11 +229,9 @@ Energy from some derivative of a Dyson sphere might be used to supply power to f
 
 It wasn't long before images of such structures began to permeate popular culture and even inspire social movements. Many of the most iconic depictions of O'Neill cylinders were created by the artist [Don Davis](https://en.wikipedia.org/wiki/Don_Davis_(artist)), commissioned by NASA to depict descriptions of life beyond Earth. Later, Davis would work on the visual effects for Carl Sagan's *Cosmos* television series, and create several of his book covers. Here's an example —
 
-![Don Davis](images/don-davis.jpg)
+{% image "https://images.finmoorhouse.com/writing/x-risk-history/images/don-davis.jpg", "Don Davis" %}
 
-##### Source: [Wikipedia](https://en.wikipedia.org/wiki/O%27Neill_cylinder#/media/File:Spacecolony3edit.jpeg)
-
-
+*Source: [Wikipedia](https://en.wikipedia.org/wiki/O%27Neill_cylinder#/media/File:Spacecolony3edit.jpeg)*
 
 Earlier in the 20th century, a new generation of Russian thinkers and scientists began to investigate interplanetary travel in earnest, inspiring (and inspired by) a philosophical movement called *[Russian cosmism](https://en.wikipedia.org/wiki/Russian_cosmism)*. This coalition of philosophers, scientists, and religious thinkers discussed visions of humanity's space-faring future, blending scientific forecasts with Orthodox theology. Guided by a religious sensibility, they argued that future technology [might be employed](https://theconversation.com/russian-cosmism-a-national-mythology-against-transhumanism-152780) to "resuscitate ancestors, achieve immortality, transform human nature toward its deification, and finally, conquer and regulate the cosmos." Central among this school was the reclusive and idiosyncratic rocket scientist [Konstantin Tsiolkovsky](https://en.wikipedia.org/wiki/Konstantin_Tsiolkovsky) — author of the first serious scientific work on space travel in 1903. In the 1970s, the ideas of pioneering thinkers like Tsiolkovsky were later rediscovered and recombined.
 

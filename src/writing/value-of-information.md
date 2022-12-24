@@ -1,7 +1,7 @@
 ---
 title: Risk Mitigation and the Value of Information
 permalink: /writing/value-of-information/
-type: unpublished
+tags: [writing-wip]
 date: 2021-07-28
 featuredImage: './value-of-information.png'
 ---
