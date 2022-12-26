@@ -35,15 +35,15 @@ module.exports = function (config) {
     return `<span class="sidenote"><input
         aria-label="Show sidenote"
         type="checkbox"
-        id="sidenote__checkbox--${label}.replaceAll(' ', '-')"
+        id="sidenote__checkbox--${label.replaceAll(' ', '-')}"
         class="sidenote__checkbox"><label
         tabindex="0"
         title=""
-        aria-describedby="sidenote-${label}.replaceAll(' ', '-')"
-        for="sidenote__checkbox--${label}.replaceAll(' ', '-')"
+        aria-describedby="sidenote-${label.replaceAll(' ', '-')}"
+        for="sidenote__checkbox--${label.replaceAll(' ', '-')}"
         class="sidenote__button"
         >${label}</label><small
-        id="sidenote-${label}.replaceAll(' ', '-')"
+        id="sidenote-${label.replaceAll(' ', '-')}"
         class="sidenote__content"><span class="sidenote__content-parenthesis"
         >(sidenote: </span>${content}<span class="sidenote__content-parenthesis">)</span></small></span>`;
   });

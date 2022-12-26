@@ -101,14 +101,16 @@
 
   .sidenote__content {
     display: block;
-    position: absolute;
+    position: relative;
     right: 0;
+    top: -0.75rem;
     left: auto;
     margin-left: auto;
     margin-right: -21rem;
     width: 18rem;
-    margin-top: -3rem;
-    padding: 0.4rem 0;
+    padding: 0.4rem 0 1rem 0;
+    clear: right;
+    float: right;
   }
 }
 .side-nav {
