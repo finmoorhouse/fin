@@ -1,5 +1,5 @@
 ---
-title: Space Governance
+title: Space governance
 tags: [projects]
 date: 2016-02-01
 ---

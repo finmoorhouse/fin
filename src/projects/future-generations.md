@@ -1,5 +1,5 @@
 ---
-title: Future Generations
+title: Future generations
 tags: [projects]
 date: 2016-02-01
 ---
