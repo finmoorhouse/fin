@@ -3,6 +3,7 @@
 <head>
   <meta charset="utf-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <!-- <base target="_blank"> -->
   <link rel="stylesheet" href="/global-processed.css"/>
   {% if extraStyle %}
   {% for styleLink in extraStyle %}
@@ -28,7 +29,7 @@
       aria-current="page" data-state="active" class="opacity-100 underline decoration-dotted"
       {% else %}
       class="opacity-50 hover:underline decoration-dotted"
-      {% endif %}>{{ item.name }}</a>
+      {% endif %} target="_self">{{ item.name }}</a>
     </li>
     {% endfor %}
   </ul></nav>

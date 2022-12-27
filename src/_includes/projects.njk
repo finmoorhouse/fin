@@ -8,7 +8,15 @@ layout: base.njk
 <p class="font-sans">
   {{ page.date.toLocaleDateString("en-GB", {year: 'numeric', month: 'long'}) }}
 </p>
-{% endif %}
-{% backLink "projects", "projects" %}
-<br class="h-1 block"/>
+{% endif %} {% backLink "projects", "projects" %}
+<br class="h-1 block" />
 {{ content | safe}}
+{% if link %}
+  <a
+    href="{{link}}"
+    target="_blank"
+    class="flex items-center mt-10 gap-1.5 max-w-max underline decoration-dotted mx-auto"
+  >
+    View project →
+  </a>
+{% endif %}

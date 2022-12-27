@@ -103,7 +103,7 @@
     display: block;
     position: relative;
     right: 0;
-    top: -0.75rem;
+    top: -0.4rem;
     left: auto;
     margin-left: auto;
     margin-right: -21rem;
@@ -124,4 +124,7 @@
 .side-nav-offset {
   position: relative;
   right: 22rem;
+  overflow-y: auto;
+  max-height: calc(100vh - 2rem);
+  padding-bottom: 1rem;
 }
