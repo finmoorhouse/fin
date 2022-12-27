@@ -1,7 +1,7 @@
 ---
 title: Carl Sagan Quotations
 tags: [writing]
-date: 2022-02-01
+date: 2022-10-10
 ---
 
 [Carl Sagan](https://en.wikipedia.org/wiki/Carl_Sagan) (1934–1996) was an astronomer and science communicator. He organised the first physical messages to space (the [Pioneer plaque](https://en.wikipedia.org/wiki/Pioneer_plaque) and the[ Voyager Golden Record](https://en.wikipedia.org/wiki/Voyager_Golden_Record)), presented the hugely popular TV series *Cosmos* (1980), and considered humanity’s long-term future in *Pale Blue Dot* (1994). He was also part of the team of researchers who first discovered the possibility of nuclear winter, and so became a leading voice of concern about the use of nuclear weapons.
