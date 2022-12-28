@@ -86,11 +86,11 @@ Here \(S\) indicates the impact of solving the entire problem, \(T\) relates the
 
 {% note "Now you can express total impact as:" %}Yes, this will go above 1 for positive values of T. I’m sacrificing realism for simplicity here. Or maybe you *can* solve a problem by more than 100%!{% endnote %}
 
-$$\text{Impact}=S\timesT\times\ln(\text{In})$$
+$$\text{Impact}=S\times T\times\ln(\text{In})$$
 
 But we’re asking about marginal impact, which is the derivative of total impact. This works out to:
 
-$$\frac{d\text{ Impact}}{d\text{Inputs}}=\frac{s\timest}{\text{Inputs}}$$
+$$\frac{d\text{ Impact}}{d\text{Inputs}}=\frac{s\times t}{\text{Inputs}}$$
 
 Now we can *define* neglectedness as the reciprocal of the total inputs:
 
@@ -98,7 +98,7 @@ $$N=\frac{1}{\text{Inputs}}$$
 
 And finally we get a neat expression for marginal impact:
 
-$$\frac{d\text{ Impact}}{d\text{Inputs}}=S\timesT\times N$$
+$$ \frac{d\text{ Impact}}{d\text{Inputs}}=S\times T\times N$$
 
 Here we said neglectedness is a quantity which is inversely proportional to total inputs, and we assumed that progress on a problem varies logarithmically (concavely) with inputs. That allowed us to say that marginal impact varies in proportion with this quantity we’ve called neglectedness. The maths here is very elegant, and I’m concerned that makes it look *necessarily true*, or *true by definition*. Not so: it’s neat in large part because we decided to make it neat. But the framework wouldn’t be accurate if progress did not vary logarithmically with inputs, let alone if did not vary in a concave way. Stay tuned…
 
