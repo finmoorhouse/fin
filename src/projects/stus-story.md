@@ -1,7 +1,7 @@
 ---
 title: Stu's Story
 tags: [projects]
-date: 2016-02-01
+date: 2019-09-04
 link: https://www.youtube.com/playlist?list=PLbCQ-eLK9qR2ClXKRGrymiCVXNkZtV8eO
 ---
 

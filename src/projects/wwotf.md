@@ -1,7 +1,7 @@
 ---
 title: Contributions to What We Owe The Future
 tags: [projects]
-date: 2016-02-01
+date: 2022-04-01
 link: https://whatweowethefuture.com/
 ---
 

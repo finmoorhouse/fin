@@ -1,7 +1,7 @@
 ---
 title: Liv Boeree
 tags: [projects]
-date: 2016-02-01
+date: 2020-12-01
 ---
 
 In 2020 and early 2021, I helped [Liv Boeree](https://en.wikipedia.org/wiki/Liv_Boeree) with planning, editing, research, and animations for her videos. Here are some videos I worked on:

@@ -1,7 +1,7 @@
 ---
 title: Isodope
 tags: [projects]
-date: 2016-02-01
+date: 2021-01-12
 ---
 
 [Isodope](https://i-sodope.com/) is the project of [Isabelle Boemeke](https://twitter.com/isaboemeke), a fashion model from Brazil.

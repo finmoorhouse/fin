@@ -1,7 +1,7 @@
 ---
 title: Future generations
-tags: [projects]
+tags: [wip]
 date: 2016-02-01
 ---
 
-A sample project post 3
+Todo

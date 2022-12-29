@@ -1,7 +1,8 @@
 ---
 title: Hear This Idea
 tags: [projects]
-date: 2016-02-01
+date: 2022-12-01
+link: https://www.hearthisidea.com
 ---
 
 [Hear This Idea](https://hearthisidea.com/) is a podcast showcasing new thinking in philosophy, economics, and effective altruism. I started it in late 2019 with [Luca Righetti](https://lucarighetti.com/), a Research Fellow at [Open Philanthropy](https://openphilanthropy.org/) and one of my closest friends.
@@ -19,7 +20,6 @@ Here are five episodes I'm especially happy with:
 - [Michael Aird on how to do Impact-Driven Research](https://hearthisidea.com/episodes/aird)
   - If you are considering a career related to impact-driven research, you will likely get a lot of concrete (and good) advice from listening to this episode.
 
-We write an accompanying article [for each episode](https://www.hearthisidea.com/episodes) which typically includes a full transcript, reading recommendations, and as many  links as we can find. You can browse all our guests' recommendations on  our [library page](https://hearthisidea.com/library).
+We write an accompanying article [for each episode](https://www.hearthisidea.com/episodes) which typically includes a full transcript, reading recommendations, and as many relevant links as we can find.
 
 If you have feedback for it, you can leave it through our [feedback form](https://feedback.hearthisidea.com/listener). As a thank you for taking time to leave feedback, you'll be able to **redeem a free book** from a list of books that we highly recommend. You're welcome to fill out the form anonymously.
-
