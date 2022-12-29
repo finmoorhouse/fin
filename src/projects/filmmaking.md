@@ -20,9 +20,9 @@ This was the story I wanted to tell in a short documentary. I started filming in
 
 I was part of the way through editing the film before I got tied up in my studies, and later in full-time work. The film would have been around half an hour long. If anyone would like to finish editing a film about a pub in a village in Somerset — drop me a line.
 
-{% image "https://www.images.finmoorhouse.com/projects/packhorse/motorbike.jpg" "An archival photo" %}
+{% image "https://images.finmoorhouse.com/projects/packhorse/motorbike.jpg" "An archival photo" %}
 
-{% image "https://www.images.finmoorhouse.com/projects/packhorse/still.jpg" "An archival photo" %}
+{% image "https://images.finmoorhouse.com/projects/packhorse/still.jpg" "An archival photo" %}
 
 ### Growth
 
