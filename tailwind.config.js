@@ -3,6 +3,7 @@ module.exports = {
   theme: {
     fontFamily: {
       serif: [
+        "Spectral",
         "Source Serif Pro",
         "Apple Garamond",
         "Baskerville",
@@ -31,6 +32,7 @@ module.exports = {
     },
     screens: {
       desktop: "1400px",
+      tablet: "600px",
     },
     extend: {
       colors: {
