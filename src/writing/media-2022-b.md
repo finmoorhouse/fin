@@ -3,6 +3,7 @@ title: Media Highlights 2022 (July to December)
 date: 2022-12-12
 permalink: /writing/media-2022-b/
 tags: [writing]
+shareImage: https://www.images.finmoorhouse.com/writing/media-2022-b/books.jpg
 ---
 This is me listing things I enjoyed reading / hearing / watching from the first half of 2022. [Here are my highlights](https://www.finmoorhouse.com/writing/media-2021) for all of 2021.
 

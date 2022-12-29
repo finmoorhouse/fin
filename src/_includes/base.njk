@@ -22,11 +22,19 @@
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
 
   <!-- Custom titles and share images -->
+  <!-- The ideal size for Twitter share images is 1200 pixels wide x 675 pixels tall -->
+  <!-- Places to find images: Artvee, Unsplash -->
   <meta name="twitter:title" content="Concave and Convex Altruism">
   <meta property="og:title" content="Concave and Convex Altruism">
-  <meta name="twitter:image" content="https://www.images.finmoorhouse.com/writing/asteroid-deflection/asteroids.png">
-  <meta property="og:image" content="https://www.images.finmoorhouse.com/writing/asteroid-deflection/asteroids.png">
-  <meta name="image" content="https://www.images.finmoorhouse.com/writing/asteroid-deflection/asteroids.png">
+  {% if shareImage %}
+  <meta name="twitter:image" content="{{ shareImage }}">
+  <meta property="og:image" content="{{ shareImage }}">
+  <meta name="image" content="{{ shareImage }}">
+  {% else %}
+  <meta name="twitter:image" content="https://www.images.finmoorhouse.com/share-images/share-1.png">
+  <meta property="og:image" content="https://www.images.finmoorhouse.com/share-images/share-1.png">
+  <meta name="image" content="https://www.images.finmoorhouse.com/wshare-images/share-1.png">
+  {% endif %}
 
   <!-- <base target="_blank"> -->
   <link rel="stylesheet" href="/global-processed.css"/>
