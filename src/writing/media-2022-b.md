@@ -34,7 +34,7 @@ I log most things on [rateyourmusic.com](https://rateyourmusic.com/~finm). I als
 
 ### Favourites
 
-Here are the songs, sets, and albums I'm happiest to have discovered:
+Here are the songs and albums I'm happiest to have discovered:
 
 - [Arthur Russell](https://rateyourmusic.com/artist/arthur-russell) - *[Another Thought](https://rateyourmusic.com/release/album/arthur-russell/another-thought/)* (1994)
 - [Palace Music](https://rateyourmusic.com/artist/palace-music) - {% note "[New Partner](https://open.spotify.com/track/2ZSubX2QFzD7ba7t47k3oe?si=4e978e160c264a09) (from *[Viva Last Blues](https://rateyourmusic.com/release/album/palace-music/viva-last-blues/)*)"%}One of the entries in John Green's *Anthropocene Reviewed* book is about this song. You can [listen to it here](https://www.wnycstudios.org/podcasts/anthropocene-reviewed/episodes/anthropocene-reviewed-hall-presidents-and-new-partner). Also, you should watch [this video of Angel Olsen and BPB performing in the back of a taxi](https://www.youtube.com/watch?v=8kbemqxw37g).{% endnote %}
