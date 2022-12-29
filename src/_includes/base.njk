@@ -23,9 +23,9 @@
   <meta name="description" content="{{ description }}">
   <meta property="og:description" content="{{ description }}">
   {% else %}
-  <meta name="twitter:description" content="The portfolio and blog of Fin Moorhouse.">
-  <meta name="description" content="The portfolio and blog of Fin Moorhouse.">
-  <meta property="og:description" content="The portfolio and blog of Fin Moorhouse.">
+  <meta name="twitter:description" content="{{ site.description }}">
+  <meta name="description" content="{{ site.description }}">
+  <meta property="og:description" content="{{ site.description }}">
   {% endif %}  
 
   <!-- Title -->
@@ -43,25 +43,19 @@
   <meta property="og:image" content="{{ shareImage }}">
   <meta name="image" content="{{ shareImage }}">
   {% else %}
-  <meta name="twitter:image" content="https://www.images.finmoorhouse.com/share-images/share-1.png">
-  <meta property="og:image" content="https://www.images.finmoorhouse.com/share-images/share-1.png">
-  <meta name="image" content="https://www.images.finmoorhouse.com/wshare-images/share-1.png">
+  <meta name="twitter:image" content="https://www.images.finmoorhouse.com/share-images/share-3.png">
+  <meta property="og:image" content="https://www.images.finmoorhouse.com/share-images/share-3.png">
+  <meta name="image" content="https://www.images.finmoorhouse.com/wshare-images/share-3.png">
   {% endif %}
 
-  <!-- <base target="_blank"> -->
+  <!-- Additional styling -->
   <link rel="stylesheet" href="/global-processed.css"/>
   {% if extraStyle %}
   {% for styleLink in extraStyle %}
       <link rel="stylesheet" href="{{styleLink}}"/>
       {% endfor %}
   {% endif %}
-  <meta name="description" content="
-  {% if description %}
-  {{ description }}
-  {% else %}
-  {{ site.description }}
-  {% endif %}
-  ">
+
   <title>{{ site.author }}{% if title %} - {{ title }}{% endif %}</title>
 </head>
 <body id="top" class="bg-flint-500 text-slate-50">

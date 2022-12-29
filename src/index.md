@@ -1,6 +1,7 @@
 ---
 title: About me
 layout: page.njk
+description: What I'm doing, and how to contact me.
 ---
 
 Right now my main thing is being Head of Research at [Longview](https://www.longview.org/) Media. I'm also a Research Scholar and assistant to [Toby Ord](https://en.wikipedia.org/wiki/Toby_Ord) at Oxford University's [Future of Humanity Institute](https://www.fhi.ox.ac.uk/).
