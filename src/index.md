@@ -35,4 +35,4 @@ Please give me [anonymous feedback](https://www.admonymous.co/fin) about anythin
 
 ## What do I look like?
 
-Here are some photos of me.
+Here are some photos of me: [1](https://www.images.finmoorhouse.com/photos-of-me/1.png), [2](https://www.images.finmoorhouse.com/photos-of-me/2.jpg), [3](https://www.images.finmoorhouse.com/photos-of-me/3.jpg), [4](https://www.images.finmoorhouse.com/photos-of-me/4.jpg).
