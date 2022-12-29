@@ -109,6 +109,8 @@ module.exports = function (config) {
   config.addPlugin(pluginTOC);
 
   config.addPassthroughCopy("src/style/*.css");
+  
+  config.addPassthroughCopy({ "src/favicon" : "/" });
 
   return {
     dir: {

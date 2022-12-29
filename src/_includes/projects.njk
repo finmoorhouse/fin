@@ -7,16 +7,19 @@ layout: base.njk
 {% endif %} {% if page.date %}
 <p class="font-sans">
   {{ page.date.toLocaleDateString("en-GB", {year: 'numeric', month: 'long'}) }}
+  {% if link %}
+  &#x2022; <a href="{{link}}" target="_blank" class="decoration-dotted font-normal">Link to project →</a>
+  {% endif %}
 </p>
 {% endif %} {% backLink "projects", "projects" %}
+
 <br class="h-1 block" />
-{{ content | safe}}
-{% if link %}
-  <a
-    href="{{link}}"
-    target="_blank"
-    class="flex items-center mt-10 gap-1.5 max-w-max underline decoration-dotted mx-auto"
-  >
-    View project →
-  </a>
+{{ content | safe}} {% if link %}
+<a
+  href="{{link}}"
+  target="_blank"
+  class="flex items-center mt-10 gap-1.5 max-w-max underline decoration-dotted mx-auto"
+>
+  View project →
+</a>
 {% endif %}
