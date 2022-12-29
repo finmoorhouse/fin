@@ -6,26 +6,38 @@
   <link href="https://github.com/finmoorhouse" rel="me">
   <link rel="webmention" href="https://webmention.io/www.finmoorhouse.com/webmention">
   <link rel="pingback" href="https://webmention.io/www.finmoorhouse.com/xmlrpc">
-  <meta name="description" content="The portfolio and blog of Fin Moorhouse.">
-  <meta property="og:description" content="The portfolio and blog of Fin Moorhouse.">
   <meta property="og:type" content="website">
-
-  <!-- Twitter meta tags -->
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:site" content="@finmoorhouse">
-  <meta name="twitter:creator" content="Fin Moorhouse">
-  <meta name="twitter:description" content="The portfolio and blog of Fin Moorhouse.">
-  
   <meta name="author" content="Fin Moorhouse">
   <meta name="theme-color" content="#333948">
   <meta name="monetization" content="ilp.uphold.com/4rHyDzRz66Dw">
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  
+  <!-- Twitter meta tags -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@finmoorhouse">
+  <meta name="twitter:creator" content="Fin Moorhouse">
 
-  <!-- Custom titles and share images -->
-  <!-- The ideal size for Twitter share images is 1200 pixels wide x 675 pixels tall -->
-  <!-- Places to find images: Artvee, Unsplash -->
-  <meta name="twitter:title" content="Concave and Convex Altruism">
-  <meta property="og:title" content="Concave and Convex Altruism">
+  <!-- Description -->
+  {% if description %}
+  <meta name="twitter:description" content="{{ description }}">
+  <meta name="description" content="{{ description }}">
+  <meta property="og:description" content="{{ description }}">
+  {% else %}
+  <meta name="twitter:description" content="The portfolio and blog of Fin Moorhouse.">
+  <meta name="description" content="The portfolio and blog of Fin Moorhouse.">
+  <meta property="og:description" content="The portfolio and blog of Fin Moorhouse.">
+  {% endif %}  
+
+  <!-- Title -->
+  {% if title %}
+  <meta name="twitter:title" content="{{ title }}">
+  <meta property="og:title" content="{{ title }}">
+  {% else %}
+  <meta name="twitter:title" content="Fin Moorhouse">
+  <meta property="og:title" content="Fin Moorhouse">
+  {% endif %}
+  
+  <!-- Share image -->
   {% if shareImage %}
   <meta name="twitter:image" content="{{ shareImage }}">
   <meta property="og:image" content="{{ shareImage }}">
