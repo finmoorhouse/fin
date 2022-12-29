@@ -1,12 +1,28 @@
 ---
-title: Filmmaking 2018–2021
+title: Filmmaking 2015–2021
 tags: [projects]
-date: 2016-02-01
+date: 2015-02-01
 ---
 
 Before I started working full-time, I made a lot of films. Some of this was freelance filmmaking as a way to make money; other films I made to enter into small contests, and similar.
 
 Here are some highlights:
+
+### The Packhorse documentary (unfinished)
+
+[The Packhorse Pub](https://packhorsebath.co.uk/) in Bath is a 600 year-old building in the village of South Stoke. In 2015, it was shut down, and the derelict building was bought by a property developer with a plan to convert it to an office or residential building. While applications to change it were blocked by the village, the building fell into disrepair.
+
+Then a group of volunteers in the village began an effort to save the pub by buying it back as a collective. So began a lengthy effort to raise the funds needed to buy and restore the Packhorse to the communal heart of the village.
+
+This was the story I wanted to tell in a short documentary. I started filming in around 2017, and collected dozens of hours of footage. My favourite interview was with a man who was [born in the pub in 1930](https://packhorsebath.co.uk/our-story/the-packhorse-remembered/), and married his wife Edith after he got notice about being posted to Egypt in the air force:
+
+> In 1951, I began my National Service and was given short notice of my posting to Egypt. Edith and I decided to marry that weekend. I was  allowed 48 hours’ leave for the purpose. As soon as he had finished his  delivery round, Farmer Wilson drove Edith in the milk van to obtain a  special licence from the Bishop of Bath and Wells. Our wedding, after a  frantic two days of preparations, took place in St James’ on 3 November  1951, with a reception in Bob and Doris’ front room in the Packhorse.  Doris stayed up late the night before, transforming a birthday cake into a wedding cake. Everyone contributed food, at a time when rationing was still in effect. This month we celebrated our 65th anniversary and, as we do every year, we returned to the church and the village to reminisce.
+
+I was part of the way through editing the film before I got tied up in my studies, and later in full-time work. The film would have been around half an hour long. If anyone would like to finish editing a film about a pub in a village in Somerset — drop me a line.
+
+{% image "https://www.images.finmoorhouse.com/projects/packhorse/motorbike.jpg" "An archival photo" %}
+
+{% image "https://www.images.finmoorhouse.com/projects/packhorse/still.jpg" "An archival photo" %}
 
 ### Growth
 
