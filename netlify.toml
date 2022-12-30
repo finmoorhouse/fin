@@ -1,0 +1,10 @@
+[[plugins]]
+    package = "netlify-plugin-11ty"
+    [plugins.inputs]
+        # eleventy-img outputDir, path relative to publish directory
+        cache_img = 'img/'
+        cache_img_httpHeader = false
+
+        # eleventy-fetch cacheDir, path relative to publish directory
+        cache_assets = '../.cache/'
+        cache_other = []
