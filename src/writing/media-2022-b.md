@@ -6,7 +6,7 @@ tags: [writing]
 shareImage: https://images.finmoorhouse.com/writing/media-2022-b/books.jpg
 description: Reading and listening highlights from the second half of 2022.
 ---
-This is me listing things I enjoyed reading / hearing / watching from the first half of 2022. [Here are my highlights](https://www.finmoorhouse.com/writing/media-2021) for all of 2021.
+This is me listing things I enjoyed reading / hearing / watching from the first half of 2022. Here are my highlights [for the first half of 2022](https://finmoorhouse.com/writing/media-2022-a/), and [for all of 2021](https://www.finmoorhouse.com/writing/media-2021).
 
 Ordering remains arbitrary. Let me know if you find something from this list that you end up enjoying.
 
