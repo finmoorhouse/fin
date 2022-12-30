@@ -209,4 +209,4 @@ Videos, shorter writing, and podcast episodes.
   - [Carl Shulman on the common-sense case for existential risk work and its practical implications](https://80000hours.org/podcast/episodes/carl-shulman-common-sense-case-existential-risks/)
   - {% note "[Sharon Hewitt Rawlette on why pleasure and pain are the only things that intrinsically matter](https://80000hours.org/podcast/episodes/sharon-hewitt-rawlette-hedonistic-utilitarianism/)" %}Made me read [*The Feeling of Value*](https://www.goodreads.com/en/book/show/30894473). I enjoyed that book and the podcast, though they made me feel productively confused rather than persuaded.{% endnote %}
   - [Alan Hájek on puzzles and paradoxes in probability and expected value](https://80000hours.org/podcast/episodes/alan-hajek-probability-expected-value/)
-- Criminal Podcast - [He's Neutral](https://thisiscriminal.com/episode-15-hes-neutral/).
+- Criminal Podcast - [He's Neutral](https://thisiscriminal.com/episode-15-hes-neutral/)
