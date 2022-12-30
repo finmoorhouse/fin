@@ -17,7 +17,6 @@ I keep track of what I read on [Goodreads](https://www.goodreads.com/user/show/3
 - Joan Didion — [Slouching Towards Bethlehem](https://www.goodreads.com/book/show/424.Slouching_Towards_Bethlehem)
 - Carl Sagan — [Billions & Billions: Thoughts on Life and Death at the Brink of the Millennium](https://www.goodreads.com/book/show/61665.Billions_Billions)
 - Steven Levy — [Hackers: Heroes of the Computer Revolution](https://www.goodreads.com/book/show/56829.Hackers)
-
 - {% note "John Green — [The Anthropocene Reviewed](https://www.goodreads.com/book/show/55145261-the-anthropocene-reviewed)" %}It's a YA fiction author making a book-based-on-the-podcast of charming but sometimes schmaltzy essays reviewing various bits of the universe. But actually it was great and the essay on ["humanity's temporal range"](https://www.wnycstudios.org/podcasts/anthropocene-reviewed/episodes/anthropocene-reviewed-humanitys-temporal-range) made me teary.{% endnote %}
 - Josh Greene — [Moral Tribes: Emotion, Reason, and the Gap Between Us and Them](https://www.goodreads.com/book/show/17707599-moral-tribes)
 - Scott Alexander — Slate Star Codex Essays: [Volume I](https://www.goodreads.com/book/show/55555976-slate-star-codex-essays), [Volume II](https://www.goodreads.com/book/show/56146392-slate-star-codex-essays), and [Volume III](https://www.goodreads.com/book/show/56146394-slate-star-codex-essays)
@@ -40,6 +39,7 @@ Here are the songs and albums I'm happiest to have discovered:
 
 - [Arthur Russell](https://rateyourmusic.com/artist/arthur-russell) - *[Another Thought](https://rateyourmusic.com/release/album/arthur-russell/another-thought/)* (1994)
 - [Palace Music](https://rateyourmusic.com/artist/palace-music) - {% note "[New Partner](https://open.spotify.com/track/2ZSubX2QFzD7ba7t47k3oe?si=4e978e160c264a09) (from *[Viva Last Blues](https://rateyourmusic.com/release/album/palace-music/viva-last-blues/)*)"%}One of the entries in John Green's *Anthropocene Reviewed* book is about this song. You can [listen to it here](https://www.wnycstudios.org/podcasts/anthropocene-reviewed/episodes/anthropocene-reviewed-hall-presidents-and-new-partner). Also, you should watch [this video of Angel Olsen and BPB performing in the back of a taxi](https://www.youtube.com/watch?v=8kbemqxw37g).{% endnote %}
+- [Kolinga](https://rateyourmusic.com/artist/kolinga) - *[Legacy](https://rateyourmusic.com/release/album/kolinga/legacy/)* (2022)
 - Pharaoh Sanders - [Love Is Everywhere](https://open.spotify.com/track/4IIxBK0L8uj7viwxhmuSc4?si=4c805f890d454768) (from *[Wisdom Through Music](https://rateyourmusic.com/release/album/pharoah-sanders/wisdom-through-music/)*)
 - [Keith Jarrett](https://rateyourmusic.com/artist/keith-jarrett) - *[The Köln Concert](https://rateyourmusic.com/release/album/keith-jarrett/the-koln-concert/)* (1975)
 
@@ -48,7 +48,7 @@ Here are the songs and albums I'm happiest to have discovered:
 - [Pharoah Sanders](https://rateyourmusic.com/artist/pharoah-sanders), [John Hicks](https://rateyourmusic.com/artist/john-hicks), [Curtis Lundy](https://rateyourmusic.com/artist/curtis-lundy) & [Idris Muhammed](https://rateyourmusic.com/artist/idris-muhammad) - *[Africa](https://rateyourmusic.com/release/album/pharoah-sanders-john-hicks-curtis-lundy-idris-muhammed/africa/)* (1988)
 - [Pharoah Sanders](https://rateyourmusic.com/artist/pharoah-sanders) - *[Karma](https://rateyourmusic.com/release/album/pharoah-sanders/karma/)* (1969)
 - [Stan Getz](https://rateyourmusic.com/artist/stan-getz) & [Bill Evans](https://rateyourmusic.com/artist/bill-evans) - *[Stan Getz & Bill Evans](https://rateyourmusic.com/release/album/stan-getz-bill-evans/stan-getz-and-bill-evans/)* (1973)
-- [Binker and Moses](https://rateyourmusic.com/artist/binker-and-moses) - *[Journey to the Mountain of Forever](https://rateyourmusic.com/release/album/binker-and-moses/journey-to-the-mountain-of-forever/)* (2017) and *[Escape the Flames](https://rateyourmusic.com/release/album/binker-and-moses/escape-the-flames/)* (2020)
+- {% note '[Binker and Moses](https://rateyourmusic.com/artist/binker-and-moses) - *[Journey to the Mountain of Forever](https://rateyourmusic.com/release/album/binker-and-moses/journey-to-the-mountain-of-forever/)* (2017) and *[Escape the Flames](https://rateyourmusic.com/release/album/binker-and-moses/escape-the-flames/)* (2020)' %}Energetic post-bop / free jazz. Really fun. I want to see them live.{% image "https://images.finmoorhouse.com/writing/media-2022-b/binker-and-moses.png", "Binker and Moses" %}{% endnote %}
 - [Makaya McCraven](https://rateyourmusic.com/artist/makaya-mccraven) - *[Universal Beings](https://rateyourmusic.com/release/album/makaya-mccraven/universal-beings/)* (2018)
 - [Freddie Hubbard](https://rateyourmusic.com/artist/freddie_hubbard) - *[Ready for Freddie](https://rateyourmusic.com/release/album/freddie-hubbard/ready-for-freddie-6/)* (1962)
 - [Daniel Villarreal](https://rateyourmusic.com/artist/daniel-villarreal) - *[Panamá 77](https://rateyourmusic.com/release/album/daniel-villarreal/panama-77/)* (2022)
@@ -78,7 +78,7 @@ Here are the songs and albums I'm happiest to have discovered:
 ### Electronic and ambient
 
 - [Four Tet](https://rateyourmusic.com/artist/four-tet) - *[Live in Tokyo, 1st December 2013](https://rateyourmusic.com/release/album/four-tet/live-in-tokyo-1st-december-2013/)* (2018) and *[Beautiful Rewind](https://rateyourmusic.com/release/album/four-tet/beautiful-rewind/)* (2013)
-- {% note "[Kaitlyn Aurelia Smith](https://rateyourmusic.com/artist/kaitlyn-aurelia-smith) - *[The Kid](https://rateyourmusic.com/release/album/kaitlyn-aurelia-smith/the-kid/)* (2017)" %}Also watch [this video](https://www.youtube.com/watch?v=Uhtar8FlgzU) of Kaitlyn Aurelia Smith using her Buchla Music Easel{% endnote %}
+- {% note "[Kaitlyn Aurelia Smith](https://rateyourmusic.com/artist/kaitlyn-aurelia-smith) - *[The Kid](https://rateyourmusic.com/release/album/kaitlyn-aurelia-smith/the-kid/)* (2017)" %}Also watch [this video](https://www.youtube.com/watch?v=Uhtar8FlgzU) of Kaitlyn Aurelia Smith using her Buchla Music Easel {% image "https://images.finmoorhouse.com/writing/media-2022-b/buchla.png", "Buchla" %}{% endnote %}
 - [Time Wharp](https://rateyourmusic.com/artist/time-wharp) - *[Feel No Pain](https://rateyourmusic.com/release/album/time-wharp/feel-no-pain/)* (2017) and *[Spiro World](https://rateyourmusic.com/release/album/time-wharp/spiro-world/)* (2022)
 - [Suicide](https://rateyourmusic.com/artist/suicide) - *[Suicide](https://rateyourmusic.com/release/album/suicide/suicide/)* (1977)
 - [Fred again..](https://rateyourmusic.com/artist/fred-again) - *[Actual Life (April 14 – December 17 2020)](https://rateyourmusic.com/release/album/fred-again/actual-life-april-14-–-december-17-2020/)* (2021) 
@@ -103,6 +103,11 @@ Here are the songs and albums I'm happiest to have discovered:
 
 - [black midi](https://rateyourmusic.com/artist/black-midi) - *[Hellfire](https://rateyourmusic.com/release/album/black-midi/hellfire/)* (2022)
 - [Phish](https://rateyourmusic.com/artist/phish) - *[LivePhish 11: 11.17.97 - McNichols Sports Arena, Denver, Colorado](https://rateyourmusic.com/release/album/phish/livephish-11-11_17_97-mcnichols-sports-arena-denver-colorado/)* (2002)
+  - Plus some standout song versions:
+  - [You Enjoy Myself](https://open.spotify.com/track/2iBX7BTEqp1Ro98Zl0d3cM?si=429156e521c948ef) 11/17/97
+  - [Harry Hood](https://open.spotify.com/track/31oDEEJkvIGXu15MnMSluf?si=e59b03aac9534126) 23/10/1994
+  - [Down With Disease](https://open.spotify.com/track/3GgcI3Efpom6Se3xRho66s?si=af8269da05514172) 17/02/1997
+
 - [The Mountain Goats](https://rateyourmusic.com/artist/the-mountain-goats) - *[Tallahassee](https://rateyourmusic.com/release/album/the-mountain-goats/tallahassee/)* (2002)
 - Radiohead - [In Rainbows From the Basement](https://www.youtube.com/watch?v=DWuAn6C8Mfc) (2008)
 - [The Mahavishnu Orchestra](https://rateyourmusic.com/artist/mahavishnu-orchestra) With John McLaughlin - *[The Inner Mounting Flame](https://rateyourmusic.com/release/album/the-mahavishnu-orchestra-with-john-mclaughlin/the-inner-mounting-flame/)* (1971)
@@ -111,8 +116,7 @@ Here are the songs and albums I'm happiest to have discovered:
 ### Pop, folk, singer-songwriter
 
 - [Arthur Russell](https://rateyourmusic.com/artist/arthur-russell) - *[Calling Out of Context](https://rateyourmusic.com/release/album/arthur-russell/calling-out-of-context/)* (2004) and *[World of Echo](https://rateyourmusic.com/release/album/arthur-russell/world-of-echo/)* (1986) and *[Another Thought](https://rateyourmusic.com/release/album/arthur-russell/another-thought/)* (1994)
-- [Kate Bush](https://rateyourmusic.com/artist/kate-bush) - *[Hounds of Love](https://rateyourmusic.com/release/album/kate-bush/hounds-of-love/)* (1985)
-- [Frank Ocean](https://rateyourmusic.com/artist/frank-ocean) - *[Endless](https://rateyourmusic.com/release/album/frank-ocean/endless/)* (2018)
+- {% note '[Kolinga](https://rateyourmusic.com/artist/kolinga) - *[Legacy](https://rateyourmusic.com/release/album/kolinga/legacy/)* (2022)' %}This one's amazing. So many influences and directions; full of life.{% endnote %}
 - [SPELLLING](https://rateyourmusic.com/artist/spellling) - *[The Turning Wheel](https://rateyourmusic.com/release/album/spellling/the-turning-wheel/)* (2021)
 - [Joy Division](https://rateyourmusic.com/artist/joy-division) - *[Closer](https://rateyourmusic.com/release/album/joy-division/closer/)* (1980)
 - [Lorde](https://rateyourmusic.com/artist/lorde) - *[Melodrama](https://rateyourmusic.com/release/album/lorde/melodrama/)* (2017)
@@ -128,7 +132,7 @@ Here are the songs and albums I'm happiest to have discovered:
 
 ### Concert
 
-- [Steve Reich](https://rateyourmusic.com/artist/steve-reich) - *[Works: 1965-1995](https://rateyourmusic.com/release/comp/steve-reich/works-1965-1995/)* (1997)
+- {% note "[Steve Reich](https://rateyourmusic.com/artist/steve-reich) - *[Works: 1965-1995](https://rateyourmusic.com/release/comp/steve-reich/works-1965-1995/)* (1997)" %}You should also see [this video](https://www.youtube.com/watch?v=AnQdP03iYIo) of Reich's 'Piano Phase' (a tricky time-shifting piece written for two pianos) being played, for the first time, by one person.{% image "https://images.finmoorhouse.com/writing/media-2022-b/piano-phase.png", "Piano phase solo" %}{% endnote %}
 - [Reuben Wilson](https://rateyourmusic.com/artist/reuben-wilson) - *[Love Bug](https://rateyourmusic.com/release/album/reuben-wilson/love-bug/)* (1969)
 - [Keith Jarrett](https://rateyourmusic.com/artist/keith-jarrett) - *[The Köln Concert](https://rateyourmusic.com/release/album/keith-jarrett/the-koln-concert/)* (1975) & *[Sun Bear Concerts Piano Solo: Recorded in Japan](https://rateyourmusic.com/release/album/keith-jarrett/sun-bear-concerts-piano-solo-recorded-in-japan/)* (1978) & *[The Survivors' Suite](https://rateyourmusic.com/release/album/keith-jarrett/the-survivors-suite/)* (1977) & *[The Melody at Night, With You](https://rateyourmusic.com/release/album/keith-jarrett/the-melody-at-night-with-you/)* (1999)
 - [Kenny Barron Trio](https://rateyourmusic.com/artist/kenny_barron) - *[Lemuria-Seascape](https://rateyourmusic.com/release/album/kenny_barron_trio/lemuria_seascape/)* (1991)
