@@ -59,7 +59,7 @@
       {% endfor %}
   {% endif %}
 
-  <title>{{ site.author }}{% if title %} - {{ title }}{% endif %}</title>
+  <title>{% if title %}{{ title }} - {% endif %}{{ site.author }}</title>
 </head>
 <body id="top" class="bg-flint-500 text-slate-50">
   <nav class="flex flex-row max-w-lg mx-auto justify-between py-4 text-sm px-4">
