@@ -14,7 +14,6 @@ Ordering remains arbitrary. Let me know if you find something from this list tha
 
 I keep track of what I read on [Goodreads](https://www.goodreads.com/user/show/38695642-fin-moorhouse).
 
-- Joan Didion — [Slouching Towards Bethlehem](https://www.goodreads.com/book/show/424.Slouching_Towards_Bethlehem)
 - Carl Sagan — [Billions & Billions: Thoughts on Life and Death at the Brink of the Millennium](https://www.goodreads.com/book/show/61665.Billions_Billions)
 - Steven Levy — [Hackers: Heroes of the Computer Revolution](https://www.goodreads.com/book/show/56829.Hackers)
 - {% note "John Green — [The Anthropocene Reviewed](https://www.goodreads.com/book/show/55145261-the-anthropocene-reviewed)" %}It's a YA fiction author making a book-based-on-the-podcast of charming but sometimes schmaltzy essays reviewing various bits of the universe. But actually it was great and the essay on ["humanity's temporal range"](https://www.wnycstudios.org/podcasts/anthropocene-reviewed/episodes/anthropocene-reviewed-humanitys-temporal-range) made me teary.{% endnote %}
