@@ -4,6 +4,7 @@ permalink: /writing/moral-uncertainty/
 tags: [writing]
 date: 2020-10-02
 featuredImage: './moraluncertainty.jpg'
+canonicalUrl: https://finmoorhouse.com/writing/moral-uncertainty/
 ---
 
 I just read the recently published '[Moral Uncertainty](https://www.moraluncertainty.com/)' by Will MacAskill, Krister Bykvist, and Toby Ord. It's a thoughtful survey of a nascent field in moral philosophy, and a key contribution to the field in its own right. Like my previous review of '[Effective Altruism – Philosophical Issues](https://www.finmoorhouse.com/writing/ea-review)' I've written this half-summary-half-review for a couple of reasons. First, because I imagine there are some people who would be interested in reading about the main takeaways of the book before (or instead of) reading all of it. Second, because trying to explain something in your own words is a good test that you've actually understood it.
