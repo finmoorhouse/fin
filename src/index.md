@@ -13,8 +13,8 @@ Also:
 - I co-host a podcast called [Hear This Idea](https://www.hearthisidea.com), which showcases new thinking in philosophy, economics, and effective altruism.
 - I'm thinking about [some EA project ideas](https://www.finmoorhouse.com/writing/ea-projects) I'd like to help make happen.
 - I'm a mentor and panelist for the [Effective Ideas](https://www.effectiveideas.org/) blog prize
-- I researched [space governance](https://80000hours.org/problem-profiles/space-governance/) as an EA cause area, and now I'm trying to help get this very early field up and running.
-- I'm helping a bit with some international policy work
+- I researched [space governance](https://80000hours.org/problem-profiles/space-governance/) as an EA cause area (and now advise a [couple](https://spacefuturesinitiative.org/) [groups](https://governance.space/) which were since established)
+- I worked on a policy brief about a [UN Declaration on Future Generations](https://www.bsg.ox.ac.uk/research/publications/toward-declaration-future-generations)
 - I helped [set up a contest](https://forum.effectivealtruism.org/posts/8hvmvrgcxJJ2pYR4X/announcing-a-contest-ea-criticism-and-red-teaming) to support EA criticism
 
 Before this, I interned with [Charity Entrepreneurship](https://www.charityentrepreneurship.com/), and helped [Liv Boeree](https://en.wikipedia.org/wiki/Liv_Boeree) make [videos](https://youtu.be/kM7J56OxA6w). Before _that_, I did philosophy at Cambridge.
@@ -35,4 +35,4 @@ Please give me [anonymous feedback](https://www.admonymous.co/fin) about anythin
 
 ## What do I look like?
 
-Here are some photos of me: [1](https://images.finmoorhouse.com/photos-of-me/1.png), [2](https://images.finmoorhouse.com/photos-of-me/2.jpg), [3](https://images.finmoorhouse.com/photos-of-me/3.jpg), [4](https://images.finmoorhouse.com/photos-of-me/4.jpg).
+[Here](https://images.finmoorhouse.com/photos-of-me/1.png) [are](https://images.finmoorhouse.com/photos-of-me/2.jpg) [some](https://images.finmoorhouse.com/photos-of-me/3.jpg) [photos](https://images.finmoorhouse.com/photos-of-me/4.jpg) of me.
