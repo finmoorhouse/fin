@@ -50,6 +50,11 @@
   <meta property="og:image" content="https://images.finmoorhouse.com/share-images/share-4.png">
   <meta name="image" content="https://images.finmoorhouse.com/wshare-images/share-4.png">
   {% endif %}
+  
+  {% if canonicalUrl %}
+  <!-- Canonical URL -->
+  <link rel="canonical" href="{{canonicalUrl}}" />
+  {% endif %}
 
   <!-- Additional styling -->
   <link rel="stylesheet" href="/global-processed.css"/>
