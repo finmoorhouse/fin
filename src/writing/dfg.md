@@ -3,6 +3,7 @@ title:  Toward a Declaration on Future Generations
 tags: [writing]
 date: 2023-01-15
 permalink: /writing/future-generations/
+shareImage: https://images.finmoorhouse.com/writing/dfg/rockwell-un.jpg
 canonicalUrl: https://www.bsg.ox.ac.uk/research/publications/toward-declaration-future-generations
 ---
 
