@@ -10,7 +10,7 @@ canonicalUrl: https://www.effectivealtruism.org/articles/longtermism/
 {% aside %}
 You can now read this <a href='https://www.effectivealtruism.org/articles/longtermism/' target='_blank'>introduction to longtermism</a> on effectivealtruism.org.
 
-This essay has now been translated to [Turkish](https://www.sosyalbilimler.org/uzun-donemcilik-nedir/) and French (link on request).
+This essay has now been translated to [Turkish](https://www.sosyalbilimler.org/uzun-donemcilik-nedir/) and [French](https://medium.com/altruisme-efficace/les-trois-hypoth%C3%A8ses-du-long-termisme-c0910ed1f72b).
 {% endaside %}
 
 'Longtermism' refers to a set of ethical views concerned about protecting and improving the long-run future. Although concern for the long-run future is not a new idea, only recently has a serious intellectual project emerged around it — asking whether it is legitimate, and what it implies.
