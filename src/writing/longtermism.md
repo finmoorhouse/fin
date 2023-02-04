@@ -8,6 +8,7 @@ featuredImage: './longtermism.jpg'
 canonicalUrl: https://www.effectivealtruism.org/articles/longtermism/
 ---
 {% aside %}
+
 You can now read this <a href='https://www.effectivealtruism.org/articles/longtermism/' target='_blank'>introduction to longtermism</a> on effectivealtruism.org.
 
 This essay has now been translated to [Turkish](https://www.sosyalbilimler.org/uzun-donemcilik-nedir/) and [French](https://medium.com/altruisme-efficace/les-trois-hypoth%C3%A8ses-du-long-termisme-c0910ed1f72b).
