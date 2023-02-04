@@ -320,17 +320,13 @@ But while a larger transformation will ultimately be needed across the multilate
 The core of a Declaration on Future Generations would be a set of principles that create a dynamic compact between present generations and future generations in perpetuity. These high-level principles could include the following elements:
 
 1. A recognition of the moral worth of future generations.
-
 2. A corresponding duty of present generations to act in a way that protects future generations.
-
 3. Specific principles regarding how this duty should manifest with respect to the core topics identified above, viz:
-
-4. 1. Sustainable planet
+   1. Sustainable planet
    2. Responsible stewardship of emerging technology
    3. Managing and monitoring existential risks
    4. Long-term development
-
-5. A commitment to perpetually review and re-affirm the principles once per generation (say, every 25 years) allowing for updating of the principles within (3) while maintaining continuity in (1) and (2). This reflexive feature would make the Declaration a highly innovative international legal document, helping it balance endurance with adaptability. 
+4. A commitment to perpetually review and re-affirm the principles once per generation (say, every 25 years) allowing for updating of the principles within (3) while maintaining continuity in (1) and (2). This reflexive feature would make the Declaration a highly innovative international legal document, helping it balance endurance with adaptability. 
 
 A compelling and authoritative set of principles can be expected to have political, normative, and legal effects.
 
