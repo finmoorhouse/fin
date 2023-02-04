@@ -11,14 +11,15 @@ extraStyle:
 </p>
 {% endif %} {% backLink "writing", "writing" %} {% if content | toc %}
 
-<div class="block desktop:hidden text-sm bg-flint-400 rounded-md px-8 py-2 font-sans">
-  <h2 class="mt-4">Contents</h2>
+<div class="block desktop:hidden text-sm bg-flint-400 rounded-md px-8 py-2 font-sans mb-4">
+  <h2>Contents</h2>
   {{ content | toc | safe}}
 </div>
 
 <nav class="side-nav opacity-60 text-sm hidden font-sans hover:opacity-100">
   <div class="side-nav-offset hidden desktop:block overflow-hidden">
     <h2>Contents</h2>
+    <p>{{ content | wordStats }}</p>
     {{ content | toc | safe}}
     <a href="#top">Back to top</a>
   </div>
@@ -27,7 +28,7 @@ extraStyle:
 
 <br/>
 {% aside %}
-Please feel free to <a href="https://www.admonymous.co/fin" target="_blank">leave feedback</a> on this post or this website. You can do so anonymously. Thanks!
+You can <a href="https://www.admonymous.co/fin" target="_blank">leave (anonymous) feedback</a> on this post, or any other aspect of this website.
 {% endaside %}
 <br/>
 {% backLink "writing", "writing" %}

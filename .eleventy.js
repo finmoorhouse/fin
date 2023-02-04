@@ -2,6 +2,8 @@ const pluginTOC = require("eleventy-plugin-toc");
 
 const Image = require("@11ty/eleventy-img");
 
+const wordStats = require('@photogabble/eleventy-plugin-word-stats');
+
 async function imageShortcode(src, alt) {
   let sizes = '100vw';
 
@@ -107,6 +109,8 @@ module.exports = function (config) {
   config.setLibrary("md", markdownLib);
 
   config.addPlugin(pluginTOC);
+
+  config.addPlugin(wordStats);
 
   config.addPassthroughCopy("src/style/*.css");
   

@@ -128,3 +128,10 @@
   max-height: calc(100vh - 2rem);
   padding-bottom: 1rem;
 }
+.toc a{
+  text-decoration: none;
+}
+.toc a:hover{
+  text-decoration: underline;
+  text-decoration-style: dotted;
+}
