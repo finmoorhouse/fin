@@ -1,5 +1,6 @@
 ---
 title:  Summary of What We Owe The Future
+description: A chapter-by-chapter summary of the book What We Owe The Future.
 tags: [writing]
 date: 2023-01-20
 permalink: /writing/wwotf-summary/
