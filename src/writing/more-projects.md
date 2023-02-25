@@ -56,7 +56,7 @@ This doesn’t typically apply for other kinds of Fermi estimation questions. In
 Nonetheless I think that doing Fermi estimates well *is* a teachable and testable skill! Here are some general reasons:
 
 - Even if you’re estimating a number where there is no agreed answer, you will likely appeal to numbers which we do know. You can know more or fewer of those important numbers. This kind of knowledge is straightforwardly memorisable and testable.
-- Where memorisation isn’t practical, you can learn to quickly estimate certain kinds of number by some process of finding the right comparisons and getting a feeling for what counts as a sensible prior. {% note 'These guesses again are testable.' %}A silly example: before clicking on the profile of someone new on Twitter, I’ll guess their follower count. I’ve found that I’ve gone from very bad to only mediocre!{% endnote %}
+- Where memorisation isn’t practical, you can learn to quickly estimate certain kinds of number by some process of finding the right comparisons and getting a feeling for what counts as a sensible prior. {% note 'These guesses again are testable.' %}A facile example: before clicking on the profile of someone new on Twitter, I’ll guess their follower count. I've gotten better!{% endnote %}
 - Independent of accuracy, good BOTECs are *instructive*, such as by telling you which parameters the outcome is most sensitive to; or what the parameters *would have to be* in order for the overall guess to meet some condition. BOTECs can be evaluated by experts on the grounds of how informative they are, independent of the accuracy of the bottom line estimates.
 
 - Some people are better at estimating known quantities, and those people are often going to be the same people who have strong track records at forecasting, which is harder to game. We should expect these people to do better at estimating unknown quantities also, so we can use these people’s estimates as a noisy benchmark for other people’s estimates.
@@ -92,7 +92,7 @@ Or maybe it could work like a (series of) guided course(s), where you only pass 
 
 There is clearly a tradeoff here, where the numbers with the least disputable and easiest to google answers are often the ones that rely the least on the BOTEC skills, while the numbers that are most similar to *crucial numbers that rely on good sense for making difficult BOTECs* are often those without indisputable answers, and so are harder to test. But I hope there’s at least some skill transfer between “questions with easily evaluable answers” and “actually important questions without ground-truth answers”.
 
-While I’m throwing half-formed ideas out, here’s another one: {% note 'a site for crowdsourcing BOTECs' %}Such a platform could replace the occasional Twitter polls I see which try to capture the crowd’s guesses about important numbers — I’m glad these polls happen but they’re not indexed in a central place, which is a shame. Ozzie Gooen has some illustrative examples: such as [here](https://twitter.com/ozziegooen/status/1490313388970364935), [here](https://twitter.com/ozziegooen/status/1490313714570047491), and [here](https://twitter.com/ozziegooen/status/1483273265753694208).{% endnote %}. Imagine a site like [Metaculus](https://www.metaculus.com/) or [Manifold Markets](https://manifold.markets/), where people list questions they’d love to get help with estimating. So you post a question, and others post their models and their bottom-line guesses (maybe most these models end up being links to [Guesstimate](http://getguesstimate.com/) sheets). Different people’s guesses get combined into an aggregate guess.
+While I’m throwing out half-formed ideas, here’s another one: {% note 'a site for crowdsourcing BOTECs' %}Such a platform could replace the occasional Twitter polls I see which try to capture the crowd’s guesses about important numbers — I’m glad these polls happen but they’re not indexed in a central place, which is a shame. Ozzie Gooen has some illustrative examples: such as [here](https://twitter.com/ozziegooen/status/1490313388970364935), [here](https://twitter.com/ozziegooen/status/1490313714570047491), and [here](https://twitter.com/ozziegooen/status/1483273265753694208).{% endnote %}. Imagine a site like [Metaculus](https://www.metaculus.com/) or [Manifold Markets](https://manifold.markets/), where people list questions they’d love to get help with estimating. So you post a question, and others post their models and their bottom-line guesses (maybe most these models end up being links to [Guesstimate](http://getguesstimate.com/) sheets). Different people’s guesses get combined into an aggregate guess.
 
 Of course, weighting, ranking, and scoring these guesses is trickier than for prediction markets and their outgrowths: for instance, the price a binary option trades at essentially depends on the fact that the question will eventually resolve, and the option will expire at e.g. either $0 or $1. But all is not lost: other users could upvote other people’s models in good faith, and those people’s models going forward could then get weighted higher in aggregate guesses. I also wonder if viewing the aggregate guess should preclude you from contributing your own guess, so you could introduce some incentives to guess the aggregate answer before you make your own (and then your own guesses can get weighted with how good you are at guessing aggregate guesses). The same idea could work for voting between discrete categories as well as estimating continuous variables.
 
@@ -123,11 +123,10 @@ Here is one idea from Tom Adamczewski, copying from (and minorly redacting) an e
 >
 > [Can give lots more detail, I have a pretty specific vision and this is a massively compressed version of that]
 >
-> I think this could be a great product for any sophisticated user of quantitative estimates, but tailoring the tool based on requests from specific organisations (e.g. OpenPhil) could give an edge in altruistic terms.
+> [...]
 >
 > One nice thing is you could pretty easily create the ability to import/export Excel spreadsheets, where they would be represented as trees/graphs (nodes would be cells and edges would be cell references). So people wouldn't have to re-create their models from scratch. I think the Excel interoperability (even if imperfect) would be a huge win for adoption. Lots of orgs run on spreadsheets.
 >
-> What would be the dream interface for [funders], to talk about their forecasts and models? e.g. chat about specific parameters, locate the node(s) that account for the greatest fraction of disagreement, disagree on a subtree and be able to build two competing subtrees in a smooth way, defer to different people for different nodes or subtrees.
 
 Let me or Tom know if you'd be excited about helping build this.
 
@@ -168,11 +167,9 @@ After thinking about this and discussing it with others, here’s a more concret
 - You can view a list of the (say) top 100 wealthiest people in the world, ranked by percentage donated or pledged; and absolute amount donated or pledged. Based on available data.
 
 - Then there is an editorial side to the website, with:
-
-- - Stories of targeted giving having an outsized impact;
+  - Stories of targeted giving having an outsized impact;
   - Spotlights on donors, including outside of the top 100 list, who are leading the way on effective giving;
   - Spotlights on donors whose donation track record seems small, opaque, or non-existent
-
 - There’s a clear call to action: the wealthiest people in the world should be taking the [Giving Pledge](https://givingpledge.org/), they should ultimately be giving 90%+ of their wealth, and they should try to do the most good that they can through that giving.
 
 ## Forecasting guide
@@ -255,7 +252,7 @@ One thing that could mean is to get really good at information security in this 
 
 But I don’t think you need to wait for these orgs to start hiring — you could start a consultancy and offer information security as a service to various orgs. Cybersecurity consultancies are big business, but I expect the AI lab context is niche enough to warrant a specialised shop.
 
-I don’t have much else to add!
+I don’t have much else to add.
 
 See:
 
@@ -362,5 +359,3 @@ Therefore, I think ideas lists are useful when:
 I think these circumstances are rare. More likely:
 
 4. You enjoy writing lists.
-
-Curious for people’s thoughts.
