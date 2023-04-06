@@ -4,7 +4,7 @@ description: Transcript from a podcast interview with Rory Stewart
 tags: [writing]
 date: 2023-04-06
 permalink: /writing/rory-stewart-givedirectly/
-shareImage: https://images.finmoorhouse.com/writing/rory-stewart/construction.jpg
+shareImage: https://images.finmoorhouse.com/writing/rory-stewart/market.jpg
 ---
 
 I recently got to speak with [Rory Stewart](https://en.wikipedia.org/wiki/Rory_Stewart), on the [podcast I co-host](https://hearthisidea.com/episodes/stewart) with my friend Luca. Rory is now President of the charity GiveDirectly, so we spoke about ending poverty by scaling unconditional cash transfers. I found the conversation unusually valuable and memorable, so I'm copying out the transcript. [Here's the link to the episode itself](https://pnc.st/s/hear-this-idea/e5291b0f/rory-stewart-on-givedirectly-and-massively-scaling-cash-transfers), if you prefer to listen.
