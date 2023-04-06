@@ -3,7 +3,7 @@ title:  Speaking with Rory Stewart about GiveDirectly
 description: Transcript from a podcast interview with Rory Stewart
 tags: [writing]
 date: 2023-04-06
-permalink: /writing/rory-stewart/
+permalink: /writing/rory-stewart-givedirectly/
 shareImage: https://images.finmoorhouse.com/writing/rory-stewart/construction.jpg
 ---
 
