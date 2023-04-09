@@ -326,7 +326,7 @@ Note: this idea is a cousin of the excellent [‘Possible Worlds Tree’](https:
 
 **The idea:** an earnestly scope-sensitive newspaper.
 
-It turns out, even among highbrow newspapers with international circulation, that journalism does not tend to cover topics in proportion with their all-things-considered significance for the world. Unfortunately demand for news is not demand for line graphs.
+It turns out, even among highbrow newspapers with international circulation, that journalism does not tend to cover topics in proportion with their all-things-considered significance for the world. Demand for news is not demand for line graphs.
 
 Journalistic outlets are appearing which are making an earnest effort to *be about the most important things*. [Asterisk magazine](https://asteriskmag.com), for instance, "is a quarterly journal of writing and clear thinking about things that matter."
 
