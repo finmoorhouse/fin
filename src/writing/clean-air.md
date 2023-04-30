@@ -7,7 +7,7 @@ shareImage: https://images.finmoorhouse.com/writing/clean-air/sewer-building.jpg
 
 ---
 
-[*The excellent report*](https://docs.google.com/document/d/e/2PACX-1vQmAmdB2BmzVJ42zhFwpnPz0Cl1GFTSDMi4Qx_RvVNCMfFZ_wvqby4wpIRdB0KK0XiiXSsCMYbKkROP/pub#h.gdlsqjaiveng) *from Rethink Priorities was my main source for this. Many of the substantial points I make are taken from it, though errors are my own. It's worth reading!*
+{% note '[*The excellent report*](https://docs.google.com/document/d/e/2PACX-1vQmAmdB2BmzVJ42zhFwpnPz0Cl1GFTSDMi4Qx_RvVNCMfFZ_wvqby4wpIRdB0KK0XiiXSsCMYbKkROP/pub#h.bqwo4aq0txbb)' %}By Gavriel Kleinwaks, Alastair Fraser-Urquhart, Jam Kraprayoon, and Josh Morrison{% endnote %} *from Rethink Priorities was my main source for this. Many of the substantial points I make are taken from it, though errors are my own. It's worth reading!*
 
 ## Clean water
 
@@ -116,7 +116,7 @@ Like antibacterial soap, it turns out that certain wavelengths of light can effe
 
 **Upper-room UVC** illuminates the top of the room and avoids illuminating people. This means you can use relatively lower frequencies of UV light which are currently easier to produce with lamps, but which can cause eye damage in humans. Upper-room UVC is cheap and well-understood. [This study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4595666/) found an 80% reduction in TB transmission in guinea pigs. So it will also keep pets safe.
 
-**Far-UVC** is a [narrow band of UV](https://iuva.org/resources/covid-19/Far UV-C Radiation- Current State-of Knowledge.pdf) wavelengths at higher frequencies than are currently economical to produce with lamps. The key advantage of Far-UVC is that [early studies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7894148/) show no indications that it harms humans, even at very [high doses](https://discovery.dundee.ac.uk/ws/portalfiles/portal/59579850/bjd.19816.pdf). But it *is* effective at stopping pathogens: for example [this study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7314750/) finds that Far-UVC light inactivated 99.9% of aerosolized coronaviruses. As long as longer-term studies on the safety of Far-UVC agree, then this is some extremely exciting technology.
+**Far-UVC** is a [narrow band of UV](https://iuva.org/resources/covid-19/Far%20UV-C%20Radiation-%20Current%20State-of%20Knowledge.pdf) wavelengths at higher frequencies than are currently economical to produce with lamps. The key advantage of Far-UVC is that [early studies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7894148/) show no indications that it harms humans, even at very [high doses](https://discovery.dundee.ac.uk/ws/portalfiles/portal/59579850/bjd.19816.pdf). But it *is* effective at stopping pathogens: for example [this study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7314750/) finds that Far-UVC light inactivated 99.9% of aerosolized coronaviruses. As long as longer-term studies on the safety of Far-UVC agree, then this is some extremely exciting technology.
 
 Currently, Far-UVC is too expensive to scale to a significant fraction of all the indoor spaces in a country. We’ll need a few years of figuring out how to produce it more cheaply (ideally with LEDs).
 
