@@ -9,12 +9,13 @@ shareImage: https://images.finmoorhouse.com/writing/clean-air/pollution.jpg
 
 {% note '[*The excellent report*](https://docs.google.com/document/d/e/2PACX-1vQmAmdB2BmzVJ42zhFwpnPz0Cl1GFTSDMi4Qx_RvVNCMfFZ_wvqby4wpIRdB0KK0XiiXSsCMYbKkROP/pub#h.bqwo4aq0txbbhttps://drive.google.com/file/d/1QKusCnLzUs041nIuiq6nMxSIRcXaGiKq/view)' %}By Gavriel Kleinwaks, Alastair Fraser-Urquhart, Jam Kraprayoon, and Josh Morrison{% endnote %} *from [Rethink Priorities](https://rethinkpriorities.org/) and [1Day Sooner](https://www.1daysooner.org/) was my main source for this ([here's a summary](https://forum.effectivealtruism.org/posts/SsZ4AqmBdgrfN6hfz/air-safety-to-combat-global-catastrophic-biorisks-revised)). Many of the substantial points I make are taken from it, though errors are my own. It's worth reading!*
 
+You can also listen to the {% note 'audio narration' %}Thanks to [Type III Audio](https://preview.type3.audio/), which professionally narrates writing on AI and other impactful topics.{% endnote %} of this article, below:
+
 <script
   type="module"
   crossorigin
   src="https://embed.type3.audio/player.js"
 ></script>
-
 <type-3-player
   mp3-url="https://www.buzzsprout.com/2073880/12765101-first-clean-water-now-clean-air-by-fin-moorhouse.mp3"
   author="Fin Moorhouse"
