@@ -9,6 +9,27 @@ shareImage: https://images.finmoorhouse.com/writing/clean-air/pollution.jpg
 
 {% note '[*The excellent report*](https://docs.google.com/document/d/e/2PACX-1vQmAmdB2BmzVJ42zhFwpnPz0Cl1GFTSDMi4Qx_RvVNCMfFZ_wvqby4wpIRdB0KK0XiiXSsCMYbKkROP/pub#h.bqwo4aq0txbbhttps://drive.google.com/file/d/1QKusCnLzUs041nIuiq6nMxSIRcXaGiKq/view)' %}By Gavriel Kleinwaks, Alastair Fraser-Urquhart, Jam Kraprayoon, and Josh Morrison{% endnote %} *from [Rethink Priorities](https://rethinkpriorities.org/) and [1Day Sooner](https://www.1daysooner.org/) was my main source for this ([here's a summary](https://forum.effectivealtruism.org/posts/SsZ4AqmBdgrfN6hfz/air-safety-to-combat-global-catastrophic-biorisks-revised)). Many of the substantial points I make are taken from it, though errors are my own. It's worth reading!*
 
+<script
+  type="module"
+  crossorigin
+  src="https://embed.type3.audio/player.js"
+></script>
+
+<type-3-player
+  mp3-url="https://www.buzzsprout.com/2073880/12765101-first-clean-water-now-clean-air-by-fin-moorhouse.mp3"
+  author="Fin Moorhouse"
+  title="First clean water, now clean air"
+  cover-image-url="https://images.finmoorhouse.com/writing/clean-air/clean-air-icon.jpg"
+  background-color="#2a2f3c"
+  analytics="none"
+  primary-color="#eee"
+  secondary-color="#475569"
+  accent-color="#fff"
+  primary-font-family="Spectral,Source Serif Pro,Apple Garamond,Baskerville,Libre Baskerville,Droid Serif,Times New Roman,Times,serif,ui-serif,Noto Emoji,Quivira, serif"
+  t3a-logo="false"
+  secondary-font-family="ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji">
+</type-3-player>
+
 ## Clean water
 
 In the mid 19th century, London had a sewage problem. It relied on a patchwork of a few hundred sewers, of brick and wood, and hundreds of thousands of [cesspits](https://en.wikipedia.org/wiki/Cesspit). The Thames — Londoners’ main source of drinking water — was near-opaque with waste. Here is Michael Faraday in [an 1855 letter](https://todayinsci.com/F/Faraday_Michael/FaradayMichael-ThamesPollutionLetter.htm) to *The Times:*
