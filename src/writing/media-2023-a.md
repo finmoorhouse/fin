@@ -19,6 +19,9 @@ Ordering remains arbitrary. Let me know if you find something from this list tha
 
 I keep track of what I read on [Goodreads](https://www.goodreads.com/user/show/38695642-fin-moorhouse).
 
+- [One More Thing: Stories and Other Stories](https://www.goodreads.com/book/show/18007533-one-more-thing) — B. J. Novak
+- [The White Album: Essays](https://www.goodreads.com/book/show/35075917-the-white-album) — Joan Didion
+- {% note '[A Swim in a Pond in the Rain: In Which Four Russians Give a Master Class on Writing, Reading, and Life](https://www.goodreads.com/book/show/53487237-a-swim-in-a-pond-in-the-rain) — George Saunders' %}Get the audiobook for Saunder's own gravelly avuncular armchair lecture narration. I also really enjoyed ['The Incredible Buddha Boy'](https://www.gq.com/story/ram-bornjon-miracle-meditating).{% image "https://images.finmoorhouse.com/writing/media-2023-a/saunders.jpg" "Swim in a Pond" %}{% endnote %}
 - [The Hacker and the State: Cyber Attacks and the New Normal of Geopolitics](https://www.goodreads.com/book/show/51589806-the-hacker-and-the-state) — Ben Buchanan
 - {% note "[What's Our Problem?: A Self-Help Book for Societies](https://www.goodreads.com/book/show/102146148-what-s-our-problem) — Tim Urban" %}Robin Hanson has [a review](https://www.overcomingbias.com/p/tim-urbans-whats-our-problem): "We might try to create and enforce social norms that encourage use of high minds, relative to low. Unfortunately, this distinction just isn’t identified very well in terms of clear enough observables, of the sort that social norms require for successful enforcement [...] I suggest that what would really help are better social institutions"{% endnote %}
 - [The Pattern on the Stone: The Simple Ideas that Make Computers Work](https://www.goodreads.com/book/show/277658.The_Pattern_on_the_Stone) — William Daniel Hillis
@@ -27,13 +30,10 @@ I keep track of what I read on [Goodreads](https://www.goodreads.com/user/show/3
 - [Moral Mazes: The World of Corporate Managers](https://www.goodreads.com/book/show/279812.Moral_Mazes) — Robert Jackall
 - [The Visual Display of Quantitative Information, 2nd Ed.](https://www.goodreads.com/book/show/17744.The_Visual_Display_of_Quantitative_Information_2nd_Ed_) — Edward Tufte
 - [Diaspora](https://www.goodreads.com/book/show/156785.Diaspora) — Greg Egan
-- {% note '[A Swim in a Pond in the Rain: In Which Four Russians Give a Master Class on Writing, Reading, and Life](https://www.goodreads.com/book/show/53487237-a-swim-in-a-pond-in-the-rain) — George Saunders' %}Get the audiobook for Saunder's own gravelly avuncular narration. I also really enjoyed ['The Incredible Buddha Boy'](https://www.gq.com/story/ram-bornjon-miracle-meditating).{% image "https://images.finmoorhouse.com/writing/media-2023-a/saunders.jpg" "Swim in a Pond" %}{% endnote %}
 - [Nothing to Envy: Ordinary Lives in North Korea](https://www.goodreads.com/book/show/40604846-nothing-to-envy) — Barbara Decimal
 - [The Case Against the Sexual Revolution: A New Guide to Sex in the 21st Century](https://www.goodreads.com/book/show/59852733-the-case-against-the-sexual-revolution) — Louise Perry
 - [Means of Ascent](https://www.goodreads.com/book/show/208324.Means_of_Ascent) and [The Path to Power](https://www.goodreads.com/book/show/86524.The_Path_to_Power) (books 1 and 2 of [The Years of Lyndon Johnson](https://www.goodreads.com/series/68730-the-years-of-lyndon-johnson)) — Robert Caro
-- [The White Album: Essays](https://www.goodreads.com/book/show/35075917-the-white-album) — Joan Didion
 - [The Prince of the Marshes: And Other Occupational Hazards of a Year in Iraq](https://www.goodreads.com/book/show/81763.The_Prince_of_the_Marshes) — Rory Stewart
-- [One More Thing: Stories and Other Stories](https://www.goodreads.com/book/show/18007533-one-more-thing) — B. J. Novak
 - {% note '[The Making of the Atomic Bomb](https://www.goodreads.com/book/show/16884.The_Making_of_the_Atomic_Bomb)  — Richard Rhodes' %}An arresting passage: "[We were](https://www.goodreads.com/book/show/17786145-science) lying there, very tense, in the early dawn, and there were just a few  streaks of gold in the east; you could see your neighbor very dimly [...] Suddenly, there was an enormous flash of light, the brightest light I have ever seen or that I think anyone has ever seen [...] It was a vision which was seen with more than the eye [...] A new thing had just been born" To Teller at Compañia Hill  the burst “was like opening the heavy curtains of a darkened room to a  flood of sunlight.” Had astronomers been watching they could have seen  it reflected from the moon, literal moonshine.{% endnote %}
 
 ## Music
@@ -58,9 +58,8 @@ Absolute highlights are maybe *[Gongjoong Doduk](https://rateyourmusic.com/relea
 - [Alice Coltrane With Strings](https://rateyourmusic.com/artist/alice-coltrane) - *[World Galaxy](https://rateyourmusic.com/release/album/alice-coltrane-with-strings/world-galaxy/)* (1972)
 - [Grant Green](https://rateyourmusic.com/artist/grant-green) - *[Idle Moments](https://rateyourmusic.com/release/album/grant-green/idle-moments/)* (1965)
 - [Freddie Hubbard](https://rateyourmusic.com/artist/freddie_hubbard) - *[Red Clay](https://rateyourmusic.com/release/album/freddie_hubbard/red_clay/)* (1970)
-- [Don Cherry](https://rateyourmusic.com/artist/don-cherry) - *[Organic Music Society](https://rateyourmusic.com/release/album/don-cherry/organic-music-society-2/)* (1972)
 - [Albert Ayler Trio](https://rateyourmusic.com/artist/albert-ayler) - *[Spiritual Unity](https://rateyourmusic.com/release/album/albert-ayler-trio/spiritual-unity/)* (1965)
-- [Don Cherry](https://rateyourmusic.com/artist/don-cherry) - *[Don Cherry](https://rateyourmusic.com/release/album/don-cherry/don-cherry/)* (1977), *["Mu" First Part / "Mu" Second Part](https://rateyourmusic.com/release/comp/don-cherry/mu-first-part-mu-second-part/)* (1971), and *[Orient](https://rateyourmusic.com/release/album/don-cherry/don-cherry-orient/)* (1973)
+- {% note '[Don Cherry](https://rateyourmusic.com/artist/don-cherry) - *[Don Cherry](https://rateyourmusic.com/release/album/don-cherry/don-cherry/)* (1977), *[Mu First Part / Mu Second Part](https://rateyourmusic.com/release/comp/don-cherry/mu-first-part-mu-second-part/)* (1971), *[Organic Music Society](https://rateyourmusic.com/release/album/don-cherry/organic-music-society-2/)* (1972), and *[Orient](https://rateyourmusic.com/release/album/don-cherry/don-cherry-orient/)* (1973)' %}Glad to have discovered this. Amazingly eclectic. 'Brown rice' from the pictured album is a favourite.{% image "https://images.finmoorhouse.com/writing/media-2023-a/don-cherry.webp" "Don Cherry" %}{% endnote %}
 - [Milt Jackson](https://rateyourmusic.com/artist/milt-jackson) - *[Sunflower](https://rateyourmusic.com/release/album/milt_jackson/sunflower_f1/)* (1973)
 - [Sun-Ra and His Astro Infinity Arkestra](https://rateyourmusic.com/artist/sun-ra) - *[Atlantis](https://rateyourmusic.com/release/album/sun-ra-and-his-astro-infinity-arkestra/atlantis/)* (1969)
 - [Kenny Garrett](https://rateyourmusic.com/artist/kenny-garrett) - *[Triology](https://rateyourmusic.com/release/album/kenny-garrett/triology/)* (1995)
@@ -159,7 +158,7 @@ Absolute highlights are maybe *[Gongjoong Doduk](https://rateyourmusic.com/relea
 - {% note '[The Ingenious Design of the Aluminum Beverage Can](https://www.youtube.com/watch?v=hUhisi2FBuw)' %}In particular, modern soda cans solve the problem of how to create a tab which easily opens the pressurised can, without falling off once opened. Also, the little tab on a drinks can always folds to the left when it's opened. The more you know.{% endnote %}
 - [The Speedrun Where Link Stares at Rupees for 17 Hours](https://www.youtube.com/watch?v=v2nRW3wKnVY)
 - [The Spring Paradox](https://www.youtube.com/watch?v=Cg73j3QYRJc)
-- {% note '[YouTube, the jewel of the internet](https://www.ft.com/content/c57e3503-6fc0-44dc-9d50-35f8f9da25d2)' %}I think we generally don't appreciate that our willingness to pay for access to sites like YouTube is probably very high. They provide a lot of value which doesn't show up in GDP (in the same way nice weather does). Also, YouTube seems to have solved their comment ranking algorithm. Contrary to what (I imagine) someone who hasn't checked in recently might believe, the top comments on popular videos are almost universally constructive and almost bizarrely nice.{% endnote %}
+- {% note '[YouTube, the jewel of the internet](https://www.ft.com/content/c57e3503-6fc0-44dc-9d50-35f8f9da25d2)' %}I think we generally don't appreciate that our willingness to pay for access to sites like YouTube is probably very high. They provide a lot of value which doesn't show up in GDP (in the same way nice weather does). Also, YouTube seems to have solved their comment ranking algorithm? Contrary to what (I imagine) someone who hasn't checked in recently might believe, the top comments on popular videos are almost universally constructive and almost bizarrely nice.{% endnote %}
 - [Neural Network 3D Simulation](https://www.youtube.com/watch?v=3JQ3hYko51Y)
 - [world's best ai vs geoguessr pro](https://www.youtube.com/watch?v=ts5lPDV--cU)
 - [Real-life fractal zoom](https://www.youtube.com/watch?v=S1kpqOqSttA)
@@ -181,7 +180,7 @@ Absolute highlights are maybe *[Gongjoong Doduk](https://rateyourmusic.com/relea
 
 - [Kevin Kelly’s Selected Books for the Manual for Civilization](https://longnow.org/ideas/kevin-kelly-books/)
 - [Double descent in human learning](https://chris-said.io/2023/04/21/double-descent-in-human-learning/)
-- [More than 75 percent decline over 27 years in total flying insect biomass in protected areas](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0185809)
+- [More than 75 percent decline over 27 years in total flying insect biomass in protected areas](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0185809) (?!)
 
 
 
