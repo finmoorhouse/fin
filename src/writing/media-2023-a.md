@@ -187,3 +187,5 @@ Absolute highlights are maybe *[Gongjoong Doduk](https://rateyourmusic.com/relea
 
 
 
+{% image "https://images.finmoorhouse.com/writing/media-2023-a/books-3.png" "Books (Midjourney)" %}
+
