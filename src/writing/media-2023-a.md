@@ -51,6 +51,7 @@ Absolute highlights are maybe *[Gongjoong Doduk](https://rateyourmusic.com/relea
 - [Nightingale](https://open.spotify.com/track/5NR9iphghcSLdLdLTNFsm5?si=50230fd9f1d7461a) (EP) from [Mammal Hands](https://open.spotify.com/artist/497rp5TEzJffeBnUT0BeE1)
 - [101 FM](https://open.spotify.com/track/5pSCNRGLvjjU9tMOh7mvq1?si=b123fddce6934e2e) (Little Simz)
 - [Waltz For Debby](https://open.spotify.com/track/4ZMIYuiM4UlVRePiGIlgXT?si=0c8633ff93af4d10) (Bill Evans Trio)
+- [Heavy Things](https://open.spotify.com/track/5dvrgdx83lx6TM6Ok8Oh4C?si=2398026573d24b4d) (Phish, from [Fukuoka 06/23](https://phish.net/setlists/phish-june-14-2000-drum-logos-chuo-ku-fukuoka-japan.html))
 - [Red Clay (alt take)](https://open.spotify.com/track/2TbG0uvC3BdlCk2W638bwf?si=5fb4f3d05ee94ac3) (Freddie Hubbard)
 
 ### Jazz
@@ -84,6 +85,7 @@ Absolute highlights are maybe *[Gongjoong Doduk](https://rateyourmusic.com/relea
 - [DJ Metatron](https://rateyourmusic.com/artist/dj-metatron) - *[Loops of Infinity (A Rave Loveletter)](https://rateyourmusic.com/release/album/dj-metatron/loops-of-infinity-a-rave-loveletter/)* (2020)
 - [Boards of Canada](https://rateyourmusic.com/artist/boards-of-canada) - *[The Campfire Headphase](https://rateyourmusic.com/release/album/boards-of-canada/the-campfire-headphase/)* (2005)
 - [Avalon Emerson](https://rateyourmusic.com/artist/avalon-emerson) - *[DJ-Kicks](https://rateyourmusic.com/release/djmix/avalon-emerson/dj-kicks/)* (2020)
+- [Four Tet](https://rateyourmusic.com/artist/four-tet) - *[Randoms](https://rateyourmusic.com/release/comp/four-tet/randoms/)* (2016)
 - [Prizes Roses Rosa (p rosa) (panda rosa)](https://rateyourmusic.com/artist/p_rosa) - *[Burned Car Highway Light Volcanic](https://rateyourmusic.com/release/album/prizes-roses-rosa-p-rosa-panda-rosa/burned-car-highway-light-volcanic/)* (2023)
 - [芸能山城組 [Geinoh Yamashirogumi\]](https://rateyourmusic.com/artist/芸能山城組) - *[輪廻交響楽 (Ecophony Rinne)](https://rateyourmusic.com/release/album/芸能山城組/輪廻交響楽-ecophony-rinne/)* (1986)
 
@@ -155,6 +157,7 @@ Absolute highlights are maybe *[Gongjoong Doduk](https://rateyourmusic.com/relea
   - [Before Sunrise](https://letterboxd.com/film/before-sunrise/) (1995), [Before Sunset](https://letterboxd.com/film/before-sunset/) (2004), [Before Midnight](https://letterboxd.com/film/before-midnight/) (2013)
   - [The Fellowship of the Ring](https://letterboxd.com/film/the-lord-of-the-rings-the-fellowship-of-the-ring/) (2001), [The Two Towers](https://letterboxd.com/film/the-lord-of-the-rings-the-two-towers/) (2002), [The Return of the King](https://letterboxd.com/film/the-lord-of-the-rings-the-return-of-the-king/) (2003)
 - [The King of Kong](https://letterboxd.com/film/the-king-of-kong-a-fistful-of-quarters/) (2007)
+- [The Return of Benjamin Lay](https://finboroughtheatre.co.uk/production/the-return-of-benjamin-lay/)
 - {% note '[The Ingenious Design of the Aluminum Beverage Can](https://www.youtube.com/watch?v=hUhisi2FBuw)' %}In particular, modern soda cans solve the problem of how to create a tab which easily opens the pressurised can, without falling off once opened. Also, the little tab on a drinks can always folds to the left when it's opened. The more you know.{% endnote %}
 - [The Speedrun Where Link Stares at Rupees for 17 Hours](https://www.youtube.com/watch?v=v2nRW3wKnVY)
 - [The Spring Paradox](https://www.youtube.com/watch?v=Cg73j3QYRJc)
