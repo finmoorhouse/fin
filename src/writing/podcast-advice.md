@@ -210,7 +210,7 @@ Here's a list of advice I wrote for podcast guests, on the theme of "what seems 
 
 - **Veering off on fun tangents.** Some of the best moments in previous episodes have come from guests 
 
-- **Concrete examples.** Especially when explaining abstract or technical ideas, concrete examples and s
+- **Concrete examples.** Especially when explaining abstract or technical ideas, give multiple examples. Especially numbers and stories with named people. I can't think of a particular interview where this is done exceptionally well, so you'll have to guess why this is useful.
 
 ### Building a website and social media presence
 
