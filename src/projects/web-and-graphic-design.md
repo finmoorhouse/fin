@@ -10,7 +10,7 @@ Over the years I have done a bunch of graphic and web design.
 
 The Cambridge Union is the oldest continuously running debating society in the world. In 2019, I made banners, posters, and images for social media.
 
-Highlights for me were the [announcement poster](https://images.finmoorhouse.com/projects/union/fry.jpg) for Bill Gates' scheduled appearance, and the full-page ad for the Tab newspaper.
+Highlights for me were the [announcement poster](https://images.finmoorhouse.com/projects/union/gates-poster.jpg) for Bill Gates' scheduled appearance, and the full-page ad for the Tab newspaper.
 
 {% image "https://images.finmoorhouse.com/projects/union/gates-poster.jpg" "Poster for Bill Gates event" %}
 
