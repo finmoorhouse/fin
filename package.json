@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "serve": "rm -rf build && mkdir build && eleventy --serve --quiet",
+    "serve": "eleventy --serve --quiet",
     "build": "rm -rf build && eleventy && NODE_ENV=production postcss ./src/global.css > build/global-processed.css",
     "tailwind:process": "npx postcss src/global.css --o build/global-processed.css --watch",
     "dev": "concurrently \"npm run tailwind:process\" \"npm run serve\""
@@ -14,10 +14,11 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@11ty/eleventy": "^1.0.2",
+    "@11ty/eleventy": "^2.0.1",
     "@11ty/eleventy-img": "^2.0.1"
   },
   "dependencies": {
+    "@11ty/eleventy-fetch": "^4.0.0",
     "@iktakahiro/markdown-it-katex": "^4.0.1",
     "@photogabble/eleventy-plugin-word-stats": "^1.0.0",
     "@tailwindcss/typography": "^0.5.8",
