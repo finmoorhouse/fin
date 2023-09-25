@@ -11,24 +11,35 @@ extraStyle:
 </p>
 {% endif %} {% backLink "writing", "writing" %} {% if content | toc %}
 
-<details class="block desktop:hidden text-sm bg-flint-400 rounded-md px-8 py-4 font-sans mb-4 ring-slate-600 hover:ring-1">
-  <summary class="text-md cursor-pointer font-medium">Contents <span class="hidde sm:inline opacity-70 serif"> (click to toggle)</span></summary>
+<details
+  class="block desktop:hidden text-sm bg-flint-400 rounded-md px-8 py-4 font-sans mb-4 ring-slate-600 hover:ring-1"
+>
+  <summary class="text-md cursor-pointer font-medium">
+    Contents
+    <span class="hidde sm:inline opacity-70 serif"> (click to toggle)</span>
+  </summary>
   {{ content | toc | safe}}
 </details>
 
-<nav class="side-nav opacity-60 text-sm hidden font-sans hover:opacity-100">
+<div class="side-nav opacity-60 text-sm hidden font-sans hover:opacity-100">
   <div class="side-nav-offset hidden desktop:block overflow-hidden">
     <h2>Contents</h2>
     <p>{{ content | wordStats }}</p>
     {{ content | toc | safe}}
-    <a href="#top">Back to top</a>
+    <br />
+    <a
+      href="#top"
+      class="inline-block no-underline rounded-sm outline outline-1 outline-slate-400/60 p-2 ml-2 hover:outline-slate-600 box-border"
+      >Back to top &#8593;</a
+    >
   </div>
-</nav>
-{% endif %}
-{{ content | safe}}
-<br/>
-{% aside %}
-You can <a href="https://www.admonymous.co/fin" target="_blank">leave (anonymous) feedback</a> on this post, or any other aspect of this website.
-{% endaside %}
-<br/>
+</div>
+{% endif %} {{ content | safe}}
+<br />
+{% aside %} You can
+<a href="https://www.admonymous.co/fin" target="_blank"
+  >leave (anonymous) feedback</a
+>
+on this post, or any other aspect of this website. {% endaside %}
+<br />
 {% backLink "writing", "writing" %}
