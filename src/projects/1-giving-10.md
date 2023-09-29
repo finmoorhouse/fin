@@ -1,7 +1,6 @@
 ---
 title: Report and TED talk on 1% giving 10%
 tags: [projects]
-permalink: /projects/ted
 date: 2023-09-14
 link: https://www.longview.org/what-if-the-1-gave-10/
 ---
