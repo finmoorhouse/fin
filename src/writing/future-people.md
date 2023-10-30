@@ -4,7 +4,7 @@ description: Falling down a rabbit hole
 tags: [writing]
 date: 2023-10-30
 permalink: /writing/future-people/
-shareImage: https://images.finmoorhouse.com/writing/where-are-future-people/market.jpg
+shareImage: https://images.finmoorhouse.com/writing/where-are-future-people/smil-nitrogen-cycle.png
 ---
 
 When someone is born, chemical parts once scattered across the world converge to form a human. 
