@@ -180,7 +180,7 @@ If that’s right, then the threads of the braid that makes up a person run thro
 <div class="opacity-50 hover:opacity-100 transition text-sm">
 
 
-### Appendix on sharing breath with historical figures
+## Appendix on sharing breath with historical figures
 
 In this example, a simple model here would be to treat the Earth’s atmosphere and oceans as a connected [control volume](https://en.wikipedia.org/wiki/Control_volume) which mixes a person’s breath [negligibly quickly](https://en.wikipedia.org/wiki/Continuous_stirred-tank_reactor).
 
