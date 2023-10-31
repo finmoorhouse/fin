@@ -4,7 +4,7 @@ description: Falling down a rabbit hole
 tags: [writing]
 date: 2023-10-30
 permalink: /writing/future-people/
-shareImage: https://images.finmoorhouse.com/writing/future-people/smil-nitrogen-cycle.png
+shareImage: https://images.finmoorhouse.com/writing/future-people/nitrogen-cycle-share-2.png
 ---
 
 When someone is born, chemical parts once scattered across the world converge to form a human. 
@@ -158,13 +158,13 @@ Collecting a few estimates, my guess is that a given atom in your body has been 
 
 In any case: to me, the picture this paints is one in which we are not so much solid, isolated objects; and more like *patterns* surviving {% note 'through time' %}Consider tattoos. Skin cells last about a month from being born to being shed, but tattoos last for decades. The explanation is that cells absorb the ink until they die, then release it to be absorbed by newer cells, “throwing the ink in a [perpetually revolving prison](https://lynettebye.com/blog/2023/7/13/tattoos)”. So too with the rest of us — cells swapping in and out of something like a revolving human-shaped prison (is the kind of thing I’d write in my Camus phase).{% endnote %}.
 
-As we eject atoms, they enter back into the flow from which other people absorb them. This raises a final question: how many atoms do we share in common with past people? How much of *us* will end up composing future people? I believe the following claim is true: *for effectively everyone who has ever lived, and even most living adults, your body contains at least one atom that has been part of them*, such as air they breathed or water they drank. The key here is just that the basic molecules that make up most of our mass are very small (citation needed). Take air as an example: the “fraction of the atmosphere that contains water vapour breathed out by a given person” is a small number, but it is larger than the number of all the water molecules in our body (on the order of 10^27), meaning we likely contain many, many molecules [breathed out by that person](#appendix-on-sharing-breath-with-historical-figures).
+As we eject atoms, they enter back into the flow from which other people absorb them. This raises a final question: how many atoms do we share in common with past people? How much of *us* will end up composing future people? I believe the following claim is true: *for effectively everyone who has ever lived, and even most living adults, your body contains at least one atom that has been part of them*, such as air they breathed or water they drank. The key here is just that the basic molecules that make up most of our mass are very small (citation needed). Take air as an example: the “fraction of the atmosphere that contains water vapour breathed out by a given person” is a small number, but it is larger than the number of all the water molecules in our body (on the order of $10^{27}$), meaning we likely contain many, many molecules [breathed out by that person](#appendix-on-sharing-breath-with-historical-figures).
 
 Very likely even water that was part of your body as a kid got entangled with irrigation, reservoirs, and water filtration systems years ago, and recently got reunited with you.
 
 Levi again:
 
-> “The number of atoms is so great that one could always be found whose story coincides with any capriciously invented story. I could recount an endless number of stories about carbon atoms that become colors or perfumes in flowers; of others which, from tiny algae to small crustaceans to fish, gradually return as carbon dioxide to the waters of the sea, in a perpetual, frightening round-dance of life and death, in which every devourer is immediately devoured[.]
+> The number of atoms is so great that one could always be found whose story coincides with any capriciously invented story. I could recount an endless number of stories about carbon atoms that become colors or perfumes in flowers; of others which, from tiny algae to small crustaceans to fish, gradually return as carbon dioxide to the waters of the sea, in a perpetual, frightening round-dance of life and death, in which every devourer is immediately devoured[.]
 
 ---
 
@@ -199,8 +199,8 @@ We then need to consider three volumes:
 
 We’re assuming that the water in your body is ≈ entirely coming from water in the oceans and atmosphere (realistic!), and that the water vapour breathed out by a given person is perfectly mixed into this volume before you drank it / breathed it in (I think realistic for long times ago, less realistic for more recent people):
 
-- Proportion of all the molecules in the oceans and atmosphere breathed out by a given person ≈ ($6 \times 10^5$ moles) / ($6 \times 10^{19}$ moles) = 10^-14.
-- Expected number of molecules in your body from water vapour breathed out given person = $10^{-14} \times 2.5 * 10^3 \times$ [$6 \times 10^{23}$](https://en.wikipedia.org/wiki/Avogadro_constant) = $1.5 \times 10^{13}$
+- Proportion of all the molecules in the oceans and atmosphere breathed out by a given person ≈ ($6 \times 10^5$ moles) / ($6 \times 10^{19}$ moles) = $10^{-14}$.
+- Expected number of molecules in your body from water vapour breathed out given person = $10^{-14} \times 2.5 \times 10^3 \times 6 \times 10^{23}$](https://en.wikipedia.org/wiki/Avogadro_constant) = $1.5 \times 10^{13}$
 - That’s about **10 trillion water molecules** in your body breathed out by a given historical figure.
 
 I’m sufficiently surprised by this that I put a decent weight on having made a rookie error — maybe someone can check my working!
