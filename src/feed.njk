@@ -21,7 +21,7 @@ eleventyExcludeFromCollections: true
     <link href="{{ absolutePostUrl }}"/>
     <updated>{{ post.date |  dateToRfc3339 }}</updated>
     <id>{{ absolutePostUrl }}</id>
-    <content type="html">{{ post.templateContent | excerpt | htmlToAbsoluteUrls(absolutePostUrl) }} (Read the <a href="{{ absolutePostUrl }}">full post here</a>.)</content>
+    <content type="html">{{ post.templateContent | excerpt | htmlToAbsoluteUrls(absolutePostUrl) }} (Read the full post at: {{ absolutePostUrl }}.)</content>
   </entry>
   {%- endfor %}
 </feed>

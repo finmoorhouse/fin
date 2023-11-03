@@ -1,14 +1,14 @@
 {
-	"feed": {
-        "title": "Fin Moorhouse - Writing",
-		"subtitle": "Writing from Fin Moorhouse.",
-		"filename": "feed.xml",
-		"path": "/writing/feed.xml",
-		"url": "https://www.finmoorhouse.com/writing/feed.xml",
-		"id": "https://www.finmoorhouse.com",
-        "author": {
-            "name": "Fin Moorhouse"
-          }
-	},
-	"url" : "https://www.finmoorhouse.com"
+  "feed": {
+    "subtitle": "RSS feed for new writing posts from Fin Moorhouse.",
+    "filename": "feed.xml",
+    "path": "/writing/feed.xml",
+    "url": "https://finmoorhouse.com/writing/feed.xml",
+    "id": "https://www.finmoorhouse.com/"
+  },
+  "title": "Fin Moorhouse - Writing",
+  "url": "https://www.finmoorhouse.com",
+  "author": {
+    "name": "Fin Moorhouse"
+  }
 }
