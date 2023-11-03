@@ -15,7 +15,7 @@ eleventyExcludeFromCollections: true
     <name>{{ metadata.author.name }}</name>
   </author>
   {%- for post in collections.writing | reverse %}
-  {% set absolutePostUrl %}https://www.finmoorhouse.com{{ post.url | url | absoluteUrl(metadata.url) }}{% endset %}
+  {% set absolutePostUrl %}{{ post.url | url | absoluteUrl(metadata.url) }}{% endset %}
   <entry>
     <title>{{ post.data.title }}</title>
     <link href="{{ absolutePostUrl }}"/>
