@@ -19,7 +19,7 @@ By elements we are mostly oxygen, carbon, then hydrogen and nitrogen; and by mol
 
 ## Water
 
-Of course during gestation the mother is the source of water and everything else. Assuming most of this derives from {% note 'tap water' %} The water in bottled drinks is often and [perhaps mostly just bottled water](https://www.latimes.com/business/story/2021-09-28/bottled-water-is-really-just-tap-water), despite marketing language.{% endnote %}, then most proximally (up to around a day before) that water will have been flowing through a network of water distribution pipes.
+Of course during gestation the mother is the source of water and everything else. Assuming most of this derives from {% note 'tap water' %} The water in bottled drinks is often and [perhaps mostly just tap water](https://www.latimes.com/business/story/2021-09-28/bottled-water-is-really-just-tap-water), despite marketing language.{% endnote %}, then most proximally (up to around a day before) that water will have been flowing through a network of water distribution pipes.
 
 Then the possibilities branch out depending on how water treatment and storage works for the area. It might have sat in a water tower for a while, but likely (very roughly a day before) it will have passed through a water treatment plant.
 

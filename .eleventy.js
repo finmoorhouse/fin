@@ -1,16 +1,29 @@
 const pluginTOC = require("eleventy-plugin-toc");
 
+const pluginRss = require("@11ty/eleventy-plugin-rss");
+
+const eleventyFetch = require("@11ty/eleventy-fetch");
+
 const Image = require("@11ty/eleventy-img");
 
-const wordStats = require('@photogabble/eleventy-plugin-word-stats');
+const { DateTime } = require('luxon');
+
+const wordStats = require("@photogabble/eleventy-plugin-word-stats");
 
 async function imageShortcode(src, alt) {
-  let sizes = '100vw';
+  let sizes = "100vw";
 
   let metadata = await Image(src, {
     widths: [300, 600],
     formats: ["avif", "jpeg"],
     outputDir: "build/img/",
+    cacheOptions: {
+      // if a remote image URL, this is the amount of time before it fetches a fresh copy
+      duration: "10d",
+      // project-relative path to the cache directory
+      directory: ".cache",
+      removeUrlQueryParams: true,
+    },
   });
 
   let imageAttributes = {
@@ -37,15 +50,15 @@ module.exports = function (config) {
     return `<span class="sidenote"><input
         aria-label="Show sidenote"
         type="checkbox"
-        id="sidenote__checkbox--${label.replaceAll(' ', '-')}"
+        id="sidenote__checkbox--${label.replaceAll(" ", "-")}"
         class="sidenote__checkbox"><label
         tabindex="0"
         title=""
-        aria-describedby="sidenote-${label.replaceAll(' ', '-')}"
-        for="sidenote__checkbox--${label.replaceAll(' ', '-')}"
+        aria-describedby="sidenote-${label.replaceAll(" ", "-")}"
+        for="sidenote__checkbox--${label.replaceAll(" ", "-")}"
         class="sidenote__button"
         >${label}</label><small
-        id="sidenote-${label.replaceAll(' ', '-')}"
+        id="sidenote-${label.replaceAll(" ", "-")}"
         class="sidenote__content"><span class="sidenote__content-parenthesis"
         >(sidenote: </span>${content}<span class="sidenote__content-parenthesis">)</span></small></span>`;
   });
@@ -77,7 +90,10 @@ module.exports = function (config) {
   </div>`;
   });
   config.addShortcode("year", function (date) {
-    return date.toLocaleDateString("en-GB", { year: "numeric", month: "short" });
+    return date.toLocaleDateString("en-GB", {
+      year: "numeric",
+      month: "short",
+    });
   });
   let markdownIt = require("markdown-it");
   let markdownItKatex = require("@iktakahiro/markdown-it-katex");
@@ -106,15 +122,34 @@ module.exports = function (config) {
     .use(markdownItAnchor, markdownItAnchorOptions)
     .use(markdownItAttrs);
 
+  // config.addPlugin(eleventyFetch, {
+  //   duration: "1d",
+  //   type: "buffer",
+  // });
+
   config.setLibrary("md", markdownLib);
 
   config.addPlugin(pluginTOC);
 
   config.addPlugin(wordStats);
 
+  config.addPlugin(pluginRss);
+
   config.addPassthroughCopy("src/style/*.css");
-  
-  config.addPassthroughCopy({ "src/favicon" : "/" });
+
+  config.addPassthroughCopy({ "src/favicon": "/" });
+
+  config.addFilter("excerpt", (post) => {
+    const content = post.replace(/(<([^>]+)>)/gi, "");
+    return content.substr(0, content.lastIndexOf(" ", 200)) + "...";
+  });
+
+  config.addFilter("toUTCDate", function (dateString) {
+    // Parse the date string as a UTC date
+    const dateObject = DateTime.fromISO(dateString, { zone: "utc" });
+    // Format the date as an RFC 3339 string
+    return dateObject.toISO({ includeOffset: true });
+  });
 
   return {
     dir: {

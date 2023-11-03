@@ -1,0 +1,13 @@
+{
+	"feed": {
+        "title": "Fin Moorhouse - Writing",
+		"subtitle": "Writing from Fin Moorhouse.",
+		"filename": "feed.xml",
+		"path": "/writing/feed.xml",
+		"url": "https://www.finmoorhouse.com/writing/feed.xml",
+		"id": "https://www.finmoorhouse.com",
+        "author": {
+            "name": "Fin Moorhouse"
+          }
+	}
+}
