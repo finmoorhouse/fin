@@ -4,12 +4,14 @@ description: My written book reviews
 tags: [writing]
 date: 2023-11-05
 permalink: /writing/book-reviews/
-shareImage: https://images.finmoorhouse.com/writing/book-reviews/books-preview.jpg
+shareImage: https://images.finmoorhouse.com/writing/book-reviews/van-gogh-books.jpg
 ---
 
 This is a mirror of my *written* [book reviews on Goodreads](https://www.goodreads.com/review/list/38695642-fin-moorhouse?shelf=read).
 
 They are generated using the .csv file of reviews which [Goodreads lets your export](https://www.goodreads.com/review/import). [Here's the code I used](https://gist.github.com/finmoorhouse/4fd8ddb50a6b9a7d9690f049992f89c9) if you're interested.
+
+{% image 'https://images.finmoorhouse.com/writing/book-reviews/jan-davidsz-de-heem.jpg' 'A pile of books' %}
 ## 2023
 
 ### Elon Musk
