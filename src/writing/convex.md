@@ -7,7 +7,7 @@ date: 2022-04-28
 
 Many of the original insights of effective altruism are insights about diminishing returns, especially from *concave* functions. In particular, ideas about concavity motivate the concept of *neglectedness*, and the heuristic of *giving to the most marginally cost-effective charity*. But sometimes we instead confront *increasing* returns, often from *convex* functions. In such cases, I think some of the simpler EA heuristics break down in instructive ways. I also suggest thinking in terms of ‘impact functions’ for projects, analogous to production functions for firms. These are scattered points, many of which are kind of obvious.
 
-Credit for many of these original insights goes to Toby Ord, who was originally prompted by a conversation with Luke Ding. Errors remain my own.
+Credit for many of these original insights mostly goes to Toby Ord. Errors remain my own.
 
 Thank you to [Luca Righetti](https://www.lucarighetti.com) and [Loren Fryxell](https://lorenfryxell.com/) for thorough comments and helpful conversation.
 
@@ -32,6 +32,15 @@ Economists talk about [*production functions*](https://en.wikipedia.org/wiki/Pro
 Getting the most outputs possible in a world of concave impact functions often means sharing out your resources among many things: *diversifying* between options.
 
 Suppose you’re choosing how to spend on a few options, and you’re assuming diminishing returns. In that case, the rule of thumb should be to spend on the option with the best marginal returns, up until another option beats it, at which point you switch to that option, and so on. With enough resources and enough options, the optimal approach is to spread your resources across several options.
+
+By the way, here are two things to look out for when reading these graphs:
+
+- The **marginal cost-effectiveness** of the function at some level of input is just the *slope of curve at the input level that would occur without you*; i.e. before you add input
+  - The ['ITN' framework](https://forum.effectivealtruism.org/topics/itn-framework) (importance, tractability, and neglectedness) is a way of trying to estimate this slope, though it's not *fully* general (as we'll see, it assumes the curve takes a particular though quite general shape)
+- The average **cost-effectiveness** at some level of input is the *slope of the diagonal line from the origin to the curve at that input level*
+  - Some impact functions are roughly sigmoidal — first fully convex, then fully concave. These functions have a nice property that there is some point on the graph where the line from the origin to the function hits the curve at a tangent. This is the point of **highest average cost-effectiveness**
+
+Now let's ask: *what features do concave impact functions share?*
 
 ### Diversifying
 
@@ -68,7 +77,7 @@ So far, I haven’t talked about how you should orient your giving in light of h
 
 ### Spend marginal inputs by following a simple rule
 
-When you’re dealing with concave impact functions, the following simple rule works well: {% note "*always give*" %}E.g. your money or time.{% endnote %} *to the most marginally cost-effective cause*. That cause won’t always stay the same — once you saturate the best opportunity until it’s no longer marginally best, {% note "turn to the new best — and so on." %}This might just be obvious, but if it’s not, think of it this way: the  task of spending all your money in the most impactful way is the task of finding the way to allocate your money that has the highest average  returns. This is easy to figure out when you know the returns from where you can spend, and all the places you can spend have concave returns.  The key is that average returns are always highest (or no lower) for the first inputs, and lower (or no higher) for inputs that come after  you’ve spent those first inputs. So you can do induction: to find the best way to spend $N$, take the best way to spend $(N−1)$, and then spend your one remaining dollar on the most impactful opportunity. Then work back to your first dollar.{% endnote %}
+When you’re dealing with concave impact functions, the following simple rule works well: {% note "*always give*" %}E.g. your money or time.{% endnote %} *to the most marginally cost-effective cause*. That cause won’t always stay the same — once you saturate the best opportunity until it’s no longer marginally best, {% note "turn to the new best — and so on." %}This might just be obvious, but if it’s not, think of it this way: the  task of spending all your money in the most impactful way is the task of finding the way to allocate your money that has the highest average  returns. This is easy to figure out when you know the returns from where you can spend, and all the places you can spend have concave returns.  The key is that average returns are always highest (or no lower) for the first inputs, and lower (or no higher) for inputs that come after  you’ve spent those first inputs. So you can do induction: to find the best way to spend $N$, take the best way to spend $(N-1)$, and then spend your one remaining dollar on the most impactful opportunity. Then work back to your first dollar.{% endnote %}
 
 This is a simple rule because, assuming you know all the impact functions you’re dealing with, the complexity of the problem scales in a friendly, manageable way with the number of options you can spend on: the problem of how to spend your marginal dollar (or hour of time, etc) is independent of the problem of how to spend the dollar that comes after it, and so on. So you don’t need to check different combinations of inputs.
 
