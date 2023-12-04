@@ -4,9 +4,18 @@ description: "My writing."
 extraStyle: ["/style/writing.css"]
 ---
 
-<a href="https://finmoorhouse.substack.com/">I have a Substack</a> if you'd like to be notified of future posts.<br/>There's also an <a href="feed.xml">RSS (Atom) feed</a> for this page.
-
-<ul>
+<a href="https://finmoorhouse.substack.com/">I have a Substack</a> if you'd like
+to be notified of future posts. There's also an
+<a href="feed.xml">RSS (Atom) feed</a> for this page.
+<br />
+<a
+  href="https://finmoorhouse.substack.com/subscribe"
+  target="_blank"
+  class="no-underline decoration-dotted hover:underline mt-8 mb-2 block relative mx-auto text-center max-w-xs py-2 rounded-md bg-slate-800 border-slate-700 bg-opacity-60 hover:bg-opacity-100 px-2 italic"
+  >Subscribe to my posts by email →</a
+>
+<br />
+<ul class="border-t border-slate-500/25 py-6">
   {% for post in collections.writing | reverse %}
 
   <li class="[&>*]:inline py-2">
@@ -15,3 +24,5 @@ extraStyle: ["/style/writing.css"]
   </li>
   {% endfor %}
 </ul>
+
+<!-- <iframe src="https://finmoorhouse.substack.com/embed" width="600" height="160" style=" background:#333948;" frameborder="0" scrolling="no"></iframe> -->
