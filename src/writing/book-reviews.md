@@ -14,6 +14,51 @@ They are generated using the .csv file of reviews which [Goodreads lets your exp
 {% image 'https://images.finmoorhouse.com/writing/book-reviews/jan-davidsz-de-heem.jpg' 'A pile of books' %}
 ## 2023
 
+### Poor Charlie’s Almanack: The Essential Wit and Wisdom of Charles T. Munger
+
+Charles T. Munger (2023) • &#9733;&#9733;&#9733;&#9733;&#9734; • Dec 23 • [Link to book ↗](https://www.goodreads.com/book/show/157686100)
+
+Great collection of transcribed talks from a man too busy to sit down and write a worse book.
+
+Salient features: a midwestern straightforwardness, a love for the hard sciences and the history of ideas only possessed by those not formally schooled in them, a corresponding impatience for academics with pretensions of rigour but nothing to show for it, pet sayings ("invert, always invert"), aphorisms, and colorful idioms (the famous "one legged man in an ass kicking contest" makes multiple appearances).
+
+Munger brings a kind of cranky 'old man yells at cloud' energy throughout, happily deriding entire disciplines has no time for, except you listen because he made Berkshire hundreds of billions of dollars and you didn't. Remarkably some of this was written by Munger in his 80s, pulling references from memory — notably Chapter 11, "The Psychology of Human Misjudgement". RIP.
+
+I implore you to <a href='https://www.stripe.press/poor-charlies-almanack'>visit the website</a> that Stripe Press built around this book. I don't know how they do it.
+
+### Thinking In Systems: A Primer
+
+Donella H. Meadows (2008) • &#9733;&#9733;&#9733;&#9734;&#9734; • Nov 23 • [Link to book ↗](https://www.goodreads.com/book/show/3828902)
+
+This book had a mystique to it — people keep mentioning it in glowing terms but neither the blurb nor the slinky on the cover are good clues to what it's about.
+
+In fact the big ideas are more familiar today: that complex systems are hard to control and sometimes anti-inductive, dooming many high modernist attempts to “<a href='https://www.nytimes.com/1992/11/13/opinion/IHT-planting-watering-and-waiting.html'>to make history move ahead</a> in the same way that a child pulls on a plant to make it grow more quickly”; that failures can be systematic and without purportrator, that through commons problems and prisoners dillemas and coordination traps we together freely choose what <a href='https://slatestarcodex.com/2014/07/30/meditations-on-moloch/'>none of us wanted</a>; that games need rules but rules get gamed. That these ideas are now largely familiar might be thanks to Meadows in some part, but it's less full of surprises as it might have once been.
+
+Also: I haven't read it but Meadows was involved with the 1972 Limits to Growth report, which drew on the methods described in the book to build a big ecological + economic model of the world and (as I understand it) recommended severe constraints on economic and population growth in order to avoid resource and economic collapse. You might think history showed that model to have failed to anticipate <a href='https://www.goodreads.com/book/show/101235.The_Ultimate_Resource_2'>important kinds of human ingenuity</a>. If so, it is notable that Meadows knew and warned about the limits of such models:
+
+<blockquote>Working with systems, on the computer, in nature, among people, in organizations, constantly reminds me of how incomplete my mental models are, how complex the world is, and how much I don’t know.</blockquote>
+
+### Radical Acceptance: Embracing Your Life With the Heart of a Buddha
+
+Tara Brach (2004) • &#9733;&#9733;&#9733;&#9734;&#9734; • Nov 23 • [Link to book ↗](https://www.goodreads.com/book/show/173666)
+
+The tenor here overlaps significantly with [Radical Compassion: Learning to Love Yourself and Your World with the Practice of RAIN](https://www.goodreads.com/book/show/45358321) (written nearly two decades later). The later book felt more focused; more structured.
+
+Still I like the message, which is partly captured by this quotation in the book from Anthony de Mello:
+<blockquote>
+Everyone kept telling me to change. I resented them and I agreed with them, and I wanted to change, but simply couldn't, no matter how hard I tried. Then one day someone said to me, Don't change. I love you just as you are. Those words were music to my ears: Don't change, Don't change. Don't change . . . I love you as you are. I relaxed. I came alive. And suddenly I changed!
+</blockquote>
+
+### Radical Compassion: Learning to Love Yourself and Your World with the Practice of RAIN
+
+Tara Brach (2019) • &#9733;&#9733;&#9733;&#9733;&#9734; • Nov 23 • [Link to book ↗](https://www.goodreads.com/book/show/45358321)
+
+Sceptically reading a book like this by the cover, I would have expected something maybe aimed at <i>soothing</i> the reader: perhaps a bit fluffy or platitidinous, and resonant mostly with the kind of person who talks unironically about "self-compassion" in their instagram captions. And certainly Tara Brach, with her impeccably avuncular voice in writing and speech, is no drill sargeant.
+
+But don't be fooled: the central teaching of this book is just undeniable; plainly and sometimes almost painfully so.
+
+I see this book as saying: we reflexively find ways to distract, resist, drown out, or otherwise look away from difficult circumstances. But the first trick is to see and own them. To — in the kindest way possible — <i>get real</i>.
+
 ### Elon Musk
 
 Walter Isaacson (2023) • &#9733;&#9733;&#9733;&#9733;&#9734; • Sep 23 • [Link to book ↗](https://www.goodreads.com/book/show/122765395)
@@ -22,7 +67,7 @@ I found this absolutely compelling and viscerally stressful.
 
 Musk is like the rockets he is known for: immensely powerful, propelling the ideas he latches onto, and prone to lurch dramatically off-course. Extreme propulsion in erratic directions. Often it's skywards, in the case of Tesla and SpaceX. Nail-biting ascents; something for tech optimists to be dazzled by.
 
-And sometimes the rocket veers in inexplicable directions. The Twitter saga consumed most of Musk's energy and some $40 billion dollars in pursuit of a mission we get little evidence he <i>fully</i> understood or endorsed on reflection, at least not as a top priority. Indeed there appear to be moments where he expressed regret that his hand was forced in the acquisition, and that he would otherwise have called off the deal. And then there's the bizarrely self-desctructive tweeting habit*, some tweets so obviously terible ideas ex ante as to defy explanation. SpaceX have this tongue-in-cheek term for when a test flight explodes: “rapid unscheduled disassembly”. Apt.
+And sometimes the rocket veers in inexplicable directions. The Twitter saga consumed most of Musk's energy and some $40 billion dollars in pursuit of a mission we get little evidence he <i>fully</i> understood or endorsed on reflection, at least not as a top priority. Indeed there appear to be moments where he expressed regret that his hand was forced in the acquisition, and that he would otherwise have called off the deal. And then there's the bizarrely self-destructive tweeting habit*, some tweets so obviously terible ideas ex ante as to defy explanation. SpaceX have this tongue-in-cheek term for when a test flight explodes: “rapid unscheduled disassembly”. Apt.
 
 I felt slightly sick reading the Twitter story, like being strapped into a ride I wanted to get off. Partly that might have been just how recent this story was — we are talking less than a <i>year</i> old — and much of it still unfolding. And partly it is some awareness, given what else of the picture we get of Musk, that all this money and energy might have been diverted to something truly great.
 
@@ -147,7 +192,7 @@ I found the whole thing persuasive but I'm aware I'm sympathetic to Tim's style 
 
 There's also a ladder metaphor which the book makes a big deal of; here's a picture:
 
-<img src='https://waitbutwhy.com/wp-content/uploads/2023/02/Audiobook-5.png'/ width='400'>
+<img src='https://waitbutwhy.com/wp-content/uploads/2023/02/Audiobook-5.png' width='400'>
 
 Edit: Robin Hanson's <a href='https://www.overcomingbias.com/p/tim-urbans-whats-our-problem'>review of this book</a> is excellent.
 
@@ -589,6 +634,18 @@ Overall, you get the impression that MacAskill, Ord, and Bykvist have spend a hu
 
 You can access the free PDF version of this book <a href="https://www.moraluncertainty.com/">here</a>.
 
+### Bach and the High Baroque
+
+Robert Greenberg (2013) • &#9733;&#9733;&#9733;&#9733;&#9733; • Jul 20 • [Link to book ↗](https://www.goodreads.com/book/show/51976443)
+
+Tyler Cowen makes the case (<a href='https://www.econtalk.org/tyler-cowen-on-the-goat-of-economics/#audio-highlights'>here</a> and <a href='https://marginalrevolution.com/marginalrevolution/2023/09/is-bach-the-greatest-achiever-of-all-time.html'>here</a>) for Bach as strong contender for 'greatest achiever of all time' across any discipline, in terms of something like quality × quantity of output.
+
+Bach's productivity borders on the incomprehensible. More than a thousand works survive, though hundreds more were lost. Week in and week out he would turn around a cantata for the weekend's church service in the space of 2 or 3 days, to give enough time for rehearsals. And for most his working life he was actively raising 20 children.
+
+The most celebrated stuff — Goldberg Variations, Mass in B Minor, St Matthew Passion, Well-Tempered Clavier — just have absolutely no contemporary competition; sometimes technically complex enough to impress on almost mathematical grounds. It isn't <i>Gödel, Escher, Mozart</i> for a reason!
+
+Greenberg is an excellent guide through all of this of course.
+
 ### The Visual Display of Quantitative Information, 2nd Ed.
 
 Edward R. Tufte (2001) • &#9733;&#9733;&#9733;&#9733;&#9733; • Jun 20 • [Link to book ↗](https://www.goodreads.com/book/show/17744)
@@ -702,6 +759,18 @@ Overall, this is a c. 800 page <i>firehose</i> of information and the facts-per-
 
 
 ## 2016
+
+### The Grasshopper: Games, Life and Utopia
+
+Bernard Suits (2005) • &#9733;&#9733;&#9733;&#9733;&#9734; • Jul 16 • [Link to book ↗](https://www.goodreads.com/book/show/803547)
+
+The book [Finite and Infinite Games](https://www.goodreads.com/book/show/189989) wishes it was. Quite relevant if you are in the business of imagining [u]/[pro]topian futures that aren't disqualifyingly dull:
+
+<blockquote>
+What I envisage is a culture quite different from our own in terms of its basis. Whereas our own culture is based on various kinds of scarcity — economic, moral, scientific, erotic — the culture of Utopia will be based on plenitude. The notable institutions of Utopia, accordingly, will [be] institutions which foster sport and other games. But sports and games unthought of today; sports and games that will require for their exploitation — that is, for their mastery and enjoyment — as much energy as is expended today in serving the institutions of scarcity.
+</blockquote>
+
+Pairs well with [The Player of Games](https://www.goodreads.com/book/show/18630), as such.
 
 ### The Physics of Theism: God, Physics, and the Philosophy of Science
 
