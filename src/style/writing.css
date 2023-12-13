@@ -117,7 +117,7 @@
   background: orange;
   display: block;
   position: sticky;
-  top: 2rem;
+  top: 0; /*2rem;*/
   width: 18rem;
   height: 0;
 }
@@ -125,13 +125,26 @@
   position: relative;
   right: 22rem;
   overflow-y: auto;
-  max-height: calc(100vh - 2rem);
+  max-height: 100vh; /*calc(100vh - 2rem); */
   padding-bottom: 1rem;
 }
-.toc a{
+.toc a {
   text-decoration: none;
 }
-.toc a:hover{
+.toc a:hover {
   text-decoration: underline;
   text-decoration-style: dotted;
 }
+.hide-scrollbar {
+  /* For Webkit browsers like Chrome/Safari */
+  &::-webkit-scrollbar {
+    display: none;
+    width: 0;
+  }
+  /* For IE and Edge */
+  -ms-overflow-style: none;
+  /* For Firefox */
+  scrollbar-width: none;
+}
+
+
