@@ -63,10 +63,10 @@ module.exports = function (config) {
         >(sidenote: </span>${content}<span class="sidenote__content-parenthesis">)</span></small></span>`;
   });
   config.addShortcode("backLink", function (link, title) {
-    return `<div class="mb-6">
+    return `
     <a
       href="/${link}"
-      class="flex items-center gap-1.5 bg-slate-600 text-sm font-semibold text-white px-2.5 py-0.5 rounded-full max-w-max no-underline font-medium font-sans"
+      class="inline-flex items-center gap-1.5 bg-slate-600 text-sm font-semibold text-white px-2.5 py-0.5 rounded-full max-w-max no-underline font-medium font-sans"
     >
       <svg
         xmlns="http://www.w3.org/2000/svg"
@@ -74,6 +74,7 @@ module.exports = function (config) {
         height="1em"
         fill="white"
         viewBox="0 0 256 256"
+        class="inline"
       >
         <rect width="256" height="256" fill="none"></rect>
         <polyline
@@ -87,7 +88,7 @@ module.exports = function (config) {
       </svg>
       <span>Back to ${title}</span>
     </a>
-  </div>`;
+`;
   });
   config.addShortcode("year", function (date) {
     return date.toLocaleDateString("en-GB", {

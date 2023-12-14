@@ -4,22 +4,36 @@ extraStyle:
   ["/style/writing.css", "https://unpkg.com/katex@latest/dist/katex.min.css"]
 ---
 
-<h1 class="mb-4">{{ title }}</h1>
+<h1 class="!mb-2">{{ title }}</h1>
 {% if page.date %}
-<p class="font-sans text-base">
-  {{ page.date.toLocaleDateString("en-GB", {year: 'numeric', month: 'long'}) }}
-  {% if links %} ⋅ Also on {% for platform, url in links %}
-  <a href="{{ url }}" target="_blank">{{ platform | capitalize }}</a>{{ ',' if not loop.last }}
-  {% endfor %} {% endif %}
-</p>
-{% endif %} {% backLink "writing", "writing" %} {% if content | toc %}
+<div class="font-sans text-base pb-6 mb-4">
+  <p class="font-sans text-base">
+    <span class="opacity-60">Published </span>{{
+    page.date.toLocaleDateString("en-GB", {year: 'numeric', month: 'long', day:
+    'numeric'}) }} {% if updated %}<span class="opacity-60"> ⋅ Updated </span>{{
+    updated.toLocaleDateString("en-GB", {year: 'numeric', month: 'long', day:
+    'numeric'}) }} {% endif %} {% if links %} ⋅ Comment on {% for platform, url
+    in links %}
+    <a href="{{ url }}" target="_blank" class="no-underline hover:underline decoration-dotted">{{ platform }}</a>{{ ',' if
+    not loop.last }} {% endfor %} {% endif %}
+  </p>
+  {% endif %} {% backLink "writing", "writing" %} {% if content | toc %}
+  <!-- {% if
+  links %} ⋅ Comment on {% for platform, url in links %}
+  <a
+    href="/${link}"
+    class="items-center gap-1.5 bg-slate-600 hover:bg-slate-500 transition-colors text-sm text-white px-2.5 py-0.5 rounded-full max-w-max no-underline font-medium inline-flex font-sans"
+    >{{ platform | capitalize }} ↗</a
+  >{{ ',' if not loop.last }} {% endfor %} {% endif %} -->
+  <div class="border-b max-w-xs mt-6 border-slate-600"></div>
+</div>
 
 <details
   class="block desktop:hidden text-sm bg-flint-400 rounded-md px-8 py-4 font-sans mb-4 ring-slate-600 hover:ring-1"
 >
   <summary class="text-md cursor-pointer font-medium">
     Contents
-    <span class="hidde sm:inline opacity-70 serif"> (click to toggle)</span>
+    <span class="hidde sm:inline opacity-60 serif"> (click to toggle)</span>
   </summary>
   {{ content | toc | safe}}
 </details>
