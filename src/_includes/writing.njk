@@ -14,19 +14,18 @@ extraStyle:
     updated.toLocaleDateString("en-GB", {year: 'numeric', month: 'long', day:
     'numeric'}) }} {% endif %} {% if links %} ⋅ Comment on {% for platform, url
     in links %}
-    <a href="{{ url }}" target="_blank" class="no-underline hover:underline decoration-dotted">{{ platform }}</a>{{ ',' if
-    not loop.last }} {% endfor %} {% endif %}
+    <a
+      href="{{ url }}"
+      target="_blank"
+      class="no-underline hover:underline decoration-dotted"
+      >{{ platform }}</a
+    >{{ ',' if not loop.last }} {% endfor %} {% endif %}
   </p>
-  {% endif %} {% backLink "writing", "writing" %} {% if content | toc %}
-  <!-- {% if
-  links %} ⋅ Comment on {% for platform, url in links %}
-  <a
-    href="/${link}"
-    class="items-center gap-1.5 bg-slate-600 hover:bg-slate-500 transition-colors text-sm text-white px-2.5 py-0.5 rounded-full max-w-max no-underline font-medium inline-flex font-sans"
-    >{{ platform | capitalize }} ↗</a
-  >{{ ',' if not loop.last }} {% endfor %} {% endif %} -->
+  {% endif %} {% backLink "writing", "writing" %}
   <div class="border-b max-w-xs mt-6 border-slate-600"></div>
 </div>
+
+{% if content | toc %}
 
 <details
   class="block desktop:hidden text-sm bg-flint-400 rounded-md px-8 py-4 font-sans mb-4 ring-slate-600 hover:ring-1"
@@ -55,6 +54,7 @@ extraStyle:
   </div>
 </div>
 {% endif %} {{ content | safe}}
+
 <br />
 {% aside %} You can
 <a href="https://www.admonymous.co/fin" target="_blank"
