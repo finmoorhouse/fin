@@ -3,6 +3,7 @@ title: Book reviews
 description: My written book reviews
 tags: [writing]
 date: 2023-11-05
+updated: 2023-12-12
 permalink: /writing/book-reviews/
 shareImage: https://images.finmoorhouse.com/writing/book-reviews/van-gogh-books.jpg
 ---

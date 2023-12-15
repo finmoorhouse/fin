@@ -3,11 +3,14 @@ title: Advice for Starting a Podcast
 permalink: /writing/podcast-advice/
 tags: [writing]
 date: 2022-11-05
+updated: 2023-12-01
 featuredImage: './podcast-advice-share-image.png'
 ---
 People sometimes ask me for advice about starting their own podcast.
 
 In this page, I discuss the process behind [the podcast I co-host](https://hearthisidea.com/). I'll give some general advice, offer some technical details, and talk about a few of our mistakes.
+
+This is a living guide — I sometimes update it.
 
 ## Our process, in brief
 

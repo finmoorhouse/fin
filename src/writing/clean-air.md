@@ -3,6 +3,8 @@ title: First clean water, now clean air
 permalink: /writing/clean-air/
 tags: [writing]
 date: 2023-04-30
+links:
+  "EA Forum": https://forum.effectivealtruism.org/posts/WLok4YuJ4kfFpDRTi/first-clean-water-now-clean-air
 shareImage: https://images.finmoorhouse.com/writing/clean-air/pollution.jpg
 
 ---

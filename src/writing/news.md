@@ -4,6 +4,8 @@ description: A quick PSA
 tags: [writing]
 date: 2023-04-09
 permalink: /writing/news/
+links:
+  "Substack": https://finmoorhouse.substack.com/p/you-dont-need-to-read-the-news
 shareImage: https://images.finmoorhouse.com/writing/news/newspaper.jpg
 ---
 

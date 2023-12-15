@@ -3,11 +3,11 @@ title: Chuck Feeney (1931–2023)
 permalink: /writing/chuck-feeney/
 tags: [writing]
 date: 2023-10-11
+links:
+  "EA Forum": https://forum.effectivealtruism.org/posts/yS3qRbHzzWxjR2Ehp/chuck-feeney-1931-2023
 shareImage: https://images.finmoorhouse.com/writing/chuck-feeney/chuck-feeney.png
 
 ---
-
-*(Also [on the EA Forum](https://finmoorhouse.com/writing/chuck-feeney/))*
 
 {% image "https://images.finmoorhouse.com/writing/chuck-feeney/chuck-feeney.png" "Chuck Feeney" %}
 
