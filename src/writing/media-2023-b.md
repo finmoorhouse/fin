@@ -4,7 +4,7 @@ permalink: /writing/media-2023-b/
 tags:
   - writing
 date: 2023-12-22
-shareImage: https://images.finmoorhouse.com/writing/media-2023-a/grasshopper-2.jpg
+shareImage: https://images.finmoorhouse.com/writing/media-2023-b/grasshopper-2.jpg
 ---
 
 Media I enjoyed from the second half of 2023. Previous lists:
