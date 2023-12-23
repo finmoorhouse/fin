@@ -175,8 +175,6 @@ Special mention to [Letterboxd](https://letterboxd.com), the website Goodreads c
 
 ### Videos
 
-Tk replace links with descriptions?
-
 - [Simulating a working film camera inside of Blender](https://www.youtube.com/watch?v=YE9rEQAGpLw) (!)
 - [Anti twisting mechanism with fischertechnik](https://www.youtube.com/watch?v=gZvimEf6DFw) and this mesmerising multi-fiber [anti-twister visualisation](https://www.youtube.com/watch?v=LLw3BaliDUQ)
 - Universe timelapse: [4.5 Billion Years in 1 Hour](https://www.youtube.com/watch?v=S7TUe5w6RHo)
