@@ -98,7 +98,7 @@ Albums I most recommend from the last year:
 
 - [Amanda Whiting](https://rateyourmusic.com/artist/amanda-whiting) - *[Lost in Abstraction](https://rateyourmusic.com/release/album/amanda-whiting/lost-in-abstraction/)* (2022)
 - [Le Mystère des Voix Bulgares](https://rateyourmusic.com/artist/le-mystere-des-voix-bulgares) - *[Le mystère des voix bulgares : volume 1](https://rateyourmusic.com/release/album/le-mystere-des-voix-bulgares/le-mystere-des-voix-bulgares-volume-1/)* (1975)
-- [Robert Ashley](https://rateyourmusic.com/artist/robert-ashley-2) - *[Automatic Writing](https://rateyourmusic.com/release/album/robert-ashley/automatic-writing/)* (1979), tk add perfect lives
+- [Robert Ashley](https://rateyourmusic.com/artist/robert-ashley-2) - *[Automatic Writing](https://rateyourmusic.com/release/album/robert-ashley/automatic-writing/)* (1979), *[Perfect Lives](https://rateyourmusic.com/release/album/robert-ashley-blue-gene-tyranny-jill-kroesen-david-van-tieghem/perfect-lives-an-opera-for-television-by-robert-ashley/)* (1992)
 - [Nils Frahm](https://rateyourmusic.com/artist/nils-frahm) - *[All Melody](https://rateyourmusic.com/release/album/nils-frahm/all-melody/)* (2018)
 - {% note '[The Moody Blues With The London Festival Orchestra](https://rateyourmusic.com/artist/the-moody-blues) - *[Days of Future Passed](https://rateyourmusic.com/release/album/the-moody-blues-with-the-london-festival-orchestra/days-of-future-passed-16/)* (1967)' %}Baroque proto prog, reminds me of [Yes](https://rateyourmusic.com/release/album/yes/close-to-the-edge/).{% image "https://images.finmoorhouse.com/writing/media-2023-b/days-of-future-passed.jpg", "Days of Future Passed" %}{% endnote %}
 - {% note "Glenn Gould's 1981 [Goldberg Variations](https://rateyourmusic.com/release/album/glenn-gould/the-goldberg-variations-9/)" %}Tyler Cowen makes the case ([here](https://www.econtalk.org/tyler-cowen-on-the-goat-of-economics/#audio-highlights) and [here](https://marginalrevolution.com/marginalrevolution/2023/09/is-bach-the-greatest-achiever-of-all-time.html)) for Bach as strong contender for 'greatest achiever of all time'.{% endnote %}
@@ -187,7 +187,7 @@ Tk replace links with descriptions?
 - [Nicer Trees Spend Fewer Bytes: compressing 12947 Wordle words into 12155 bytes](https://www.youtube.com/watch?v=JYN25TeM5kI)
 - On chess: [mate-in-omega](https://www.youtube.com/watch?v=CQ4Ap5itTX4) and [hexagonal chess](https://www.youtube.com/watch?v=bgR3yESAEVE)
 - [In memory of John H Conway, who could do impossible things](https://www.youtube.com/watch?v=idvHnV422_4)
-- On ['not knots'](https://www.youtube.com/watch?v=QcLfb0PhfO0) (knots and their complements) ([supplement PDF](https://www.cs.ubc.ca/~tmm/gc/supplements/NotKnotSupplement.pdf)) tk take screenshots from this supplement
+- On ['not knots'](https://www.youtube.com/watch?v=QcLfb0PhfO0) (knots and their complements) ([supplement PDF](https://www.cs.ubc.ca/~tmm/gc/supplements/NotKnotSupplement.pdf))
 - [Hofstadter on AI](https://www.youtube.com/watch?v=lfXxzAVtdpU) 
 
 ## Words on the internet
