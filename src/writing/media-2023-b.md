@@ -38,7 +38,7 @@ I [log](https://rateyourmusic.com/collection/finm/r0.5-5.0,ss.dd) most things on
 
 Albums I most recommend from the last year:
 
-- {% note '[Jorge Ben](https://rateyourmusic.com/artist/jorge-ben) - *[A Tábua de Esmeralda](https://rateyourmusic.com/release/album/jorge-ben/a-tabua-de-esmeralda/)* (1974)' %}Sgt Pimenta{% image 'https://e.snmc.io/i/fullres/w/f8a7ebf6fa0957fc6924abc95d97e29e/3472279' 'Jorge Ben' %}{% endnote %}
+- {% note '[Jorge Ben](https://rateyourmusic.com/artist/jorge-ben) - *[A Tábua de Esmeralda](https://rateyourmusic.com/release/album/jorge-ben/a-tabua-de-esmeralda/)* (1974)' %}{% image 'https://e.snmc.io/i/fullres/w/f8a7ebf6fa0957fc6924abc95d97e29e/3472279' 'Jorge Ben' %}{% endnote %}
 - {% note '[Le Mystère des Voix Bulgares](https://rateyourmusic.com/artist/le-mystere-des-voix-bulgares) - *[Le mystère des voix bulgares : volume 1](https://rateyourmusic.com/release/album/le-mystere-des-voix-bulgares/le-mystere-des-voix-bulgares-volume-1/)* (1975)' %}Bulgarian choral music: unexpectedly captivating!{% endnote %}
 - [Nicolas Jaar NYC boiler room](https://www.youtube.com/watch?v=IUjWumGIqe8) and another [in CDMX](https://www.youtube.com/watch?v=RgbgOxkeP1Q)
 - [Freddie Hubbard](https://rateyourmusic.com/artist/freddie-hubbard) - *[Red Clay](https://rateyourmusic.com/release/album/freddie-hubbard/red-clay-4/)* (1970)
@@ -84,7 +84,7 @@ Albums I most recommend from the last year:
 
 ### Electronic and ambient
 
-- {% note "[Terry Riley](https://rateyourmusic.com/artist/terry-riley) - *[In C](https://rateyourmusic.com/release/album/terry-riley/in-c/)* (1968)"%}Premise: "53 musical snippets are to be played in order with each snippet being repeated as many times as each musician sees fit for his or her instrument and, at least in theory, without regard to what any other musician in the ensemble is doing."{% image 'https://images.finmoorhouse.com/writing/media-2023-b/riley.jpg' 'Building a Better World' %}{% endnote %} and {% note "*[You're Nogood](https://rateyourmusic.com/release/album/terry-riley/youre-nogood/)* (2000)" %}Mind-bending 'plunderphonics' forerunner, a year before Disintegration Loops.{% endnote %}
+- {% note "[Terry Riley](https://rateyourmusic.com/artist/terry-riley) - *[In C](https://rateyourmusic.com/release/album/terry-riley/in-c/)* (1968)"%}Premise: "53 musical snippets are to be played in order with each snippet being repeated as many times as each musician sees fit for his or her instrument and, at least in theory, without regard to what any other musician in the ensemble is doing."{% image 'https://images.finmoorhouse.com/writing/media-2023-b/riley.jpg' 'Building a Better World' %}{% endnote %} and {% note "*[You're Nogood](https://rateyourmusic.com/release/album/terry-riley/youre-nogood/)* (2000)" %}Mind-bending 'plunderphonics' forerunner, a year before [Disintegration Loops](https://rateyourmusic.com/release/album/william-basinski/the-disintegration-loops/).{% endnote %}
 - [British Sea Power](https://rateyourmusic.com/artist/sea-power) - *[Disco Elysium](https://rateyourmusic.com/release/album/british-sea-power/disco-elysium/)* (2019)
 - [Vangelis](https://rateyourmusic.com/artist/vangelis) - *[Blade Runner](https://rateyourmusic.com/release/album/vangelis/blade-runner/)* (1994)
 - [Space](https://rateyourmusic.com/artist/space-3) - *[The Best Of](https://rateyourmusic.com/release/comp/space/the-best-of/)* (2009)
@@ -180,7 +180,7 @@ Special mention to [Letterboxd](https://letterboxd.com), the website Goodreads c
 - Universe timelapse: [4.5 Billion Years in 1 Hour](https://www.youtube.com/watch?v=S7TUe5w6RHo)
 - [Rethinking the reals](https://www.youtube.com/watch?v=uFWJuZQLKJs) [#SoME3](https://www.youtube.com/hashtag/some3) 
 - [Why all solar panels are secretly LEDs (and all LEDs are secretly solar panels)](https://www.youtube.com/watch?v=6WGKz2sUa0w)
-- {% note '[Computers are fast](https://www.youtube.com/watch?v=MbIiAr5dt24)' %}[Wirth's Law](https://en.wikipedia.org/wiki/Wirth%27s_law) means the fearsome speed of modern computing hides behind layers of software abstraction ("my computer can't be that fast, it's taking five seconds to figure out how to move a window across the screen"). So it pays to sometimes open the top and watch the engine roar. It is very loud.{% endnote %}
+- {% note '[Computers are fast](https://www.youtube.com/watch?v=MbIiAr5dt24)' %}[Wirth's Law](https://en.wikipedia.org/wiki/Wirth%27s_law) means the fearsome speed of modern computing hides behind layers of software abstraction ("my computer can't be that fast, it's taking five seconds to figure out how to move a window across the screen"). So it pays to sometimes open the top and watch the engine roar.{% endnote %}
 - [The best country song on the US central banking system](https://www.youtube.com/watch?v=WTGok1W_mNI)
 - [Nicer Trees Spend Fewer Bytes: compressing 12947 Wordle words into 12155 bytes](https://www.youtube.com/watch?v=JYN25TeM5kI)
 - On chess: [mate-in-omega](https://www.youtube.com/watch?v=CQ4Ap5itTX4) and [hexagonal chess](https://www.youtube.com/watch?v=bgR3yESAEVE)
@@ -202,7 +202,7 @@ Special mention to [Letterboxd](https://letterboxd.com), the website Goodreads c
 ### Writing and speaking
 
 - [Samir secret sharing](https://web.mit.edu/6.857/OldStuff/Fall03/ref/Shamir-HowToShareASecret.pdf)
-- {% note '[Music podcast of Tyler Cowen DJing for Rick Rubin](https://marginalrevolution.com/marginalrevolution/2023/10/music-podcast-of-me-djing-for-rick-rubin.html)' %}Mine and I expect many others' podcast listening highlight of the year. Rights permissions aside, I want to listen to so much more in this format.{% endnote %}
+- {% note '[Music podcast of Tyler Cowen DJing for Rick Rubin](https://marginalrevolution.com/marginalrevolution/2023/10/music-podcast-of-me-djing-for-rick-rubin.html)' %}Mine and I expect many others' podcast listening highlight of the year. Rights and permissions aside, I want to listen to so much more in this format.{% endnote %}
 - [The fascist state of Paw Patrol](https://thecritic.co.uk/the-fascist-state-of-paw-patrol/) — Matthew Walther
 - [Strong evidence is common](https://markxu.com/strong-evidence) — Mark Xu
 - Slime Mold Time Old [on 'Charter Houses'](https://slimemoldtimemold.com/2022/02/17/charter-houses/)
