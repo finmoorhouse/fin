@@ -4,6 +4,8 @@ permalink: /writing/media-2023-b/
 tags:
   - writing
 date: 2023-12-22
+links:
+  "Substack": https://finmoorhouse.substack.com/p/media-highlights-2023-july-to-december
 shareImage: https://images.finmoorhouse.com/writing/media-2023-b/grasshopper-2.jpg
 ---
 
