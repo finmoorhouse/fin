@@ -49,7 +49,7 @@ Albums I most recommend from the last year:
 
 - Mammal Hands - [Nightingale](https://www.youtube.com/watch?v=S8VyiKZi6pE)
 - Solange - [Losing You](https://open.spotify.com/track/5hR0wTnydz6lmErOV4c0sp?si=92561f74eb4f439e)
-- {% note 'RXKNephew - [American tterroristt](https://open.spotify.com/track/3mIBymy54VfnjpFMd0GRk5?si=16ac1d243523430b)' %}Job lost his whole fuckin' family / And they said God gave him a hundred cows / Like two hundred horses or somethin' / How the fuck is that worth my kids?{% endnote %}
+- RXKNephew - [American tterroristt](https://open.spotify.com/track/3mIBymy54VfnjpFMd0GRk5?si=16ac1d243523430b)
 - Yule - [Apex twin flame](https://open.spotify.com/track/55iztv7QuxLx1Twb8iXA00?si=2a81aa4bfd5348a4)
 - Bill Callahan - [Riding for the feeling](https://open.spotify.com/track/6qo9HElLHUptcwpVprsS4C?si=771021da33014c56) and [Jim Cain](https://open.spotify.com/track/3KZRkM7Uv0F2oCTUHAvv0a?si=de65958ed1b54cef)
 - Jorge Ben Jor - [Menina Mulher Da Pele Preta](https://open.spotify.com/track/5HpURubJUz2gysQiAkle9I?si=4e6c6de2e09448d3)
