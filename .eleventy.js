@@ -6,15 +6,15 @@ const eleventyFetch = require("@11ty/eleventy-fetch");
 
 const Image = require("@11ty/eleventy-img");
 
-const { DateTime } = require('luxon');
+const { DateTime } = require("luxon");
 
 const wordStats = require("@photogabble/eleventy-plugin-word-stats");
 
-async function imageShortcode(src, alt) {
+async function imageShortcode(src, alt, caption) {
   let sizes = "100vw";
 
   let metadata = await Image(src, {
-    widths: [300, 600],
+    widths: [800, 1600, 2000],
     formats: ["avif", "jpeg"],
     outputDir: "build/img/",
     cacheOptions: {
@@ -34,9 +34,16 @@ async function imageShortcode(src, alt) {
   };
 
   // You bet we throw an error on missing alt in `imageAttributes` (alt="" works okay)
-  return Image.generateHTML(metadata, imageAttributes, {
+
+  let imageHtml = Image.generateHTML(metadata, imageAttributes, {
     whitespaceMode: "inline",
   });
+
+  if (caption) {
+    return `<figure class="!p-0 !m-0">${imageHtml}${`<figcaption class="!pt-0 !my-2 !pb-4 font-sans">${caption}</figcaption>`}</figure>`;
+  } else {
+    return imageHtml;
+  }
 }
 
 module.exports = function (config) {
@@ -90,6 +97,7 @@ module.exports = function (config) {
     </a>
 `;
   });
+
   config.addShortcode("year", function (date) {
     return date.toLocaleDateString("en-GB", {
       year: "numeric",
@@ -101,6 +109,20 @@ module.exports = function (config) {
   let markdownItFootnote = require("markdown-it-footnote");
   const markdownItAnchor = require("markdown-it-anchor");
   const markdownItAttrs = require("markdown-it-attrs");
+
+  // Add within your config module
+  const md = new markdownIt({
+    html: true,
+  });
+
+
+
+  config.addPairedShortcode("toggle", function (content, summary) {
+    return `
+    <details class="toggle bg-flint-400 pt-2 pb-2 open:pb-4 px-4 rounded-md font-sans mb-4 ring-slate-600 hover:ring-1 open:ring-1 border-white font-normal"
+    ><summary class="cursor-pointer open:border-b border-white">${summary}</summary><hr class="!my-4 !mx-4"/>${content}</details>
+`;
+  });
 
   let options = {
     html: true,
