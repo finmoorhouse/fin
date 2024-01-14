@@ -146,5 +146,17 @@
   /* For Firefox */
   scrollbar-width: none;
 }
-
-
+.toggle > :last-child{
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+.toggle > :last-child *{
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+figure > picture {
+  margin-bottom: 0 !important;
+}
+figure > picture > img {
+  margin-bottom: 0 !important;
+}
