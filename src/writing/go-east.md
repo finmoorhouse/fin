@@ -4,7 +4,9 @@ permalink: /writing/go-east/
 tags:
   - writing
 date: 2024-01-14
-featuredImage: https://images.finmoorhouse.com/writing/go-east/seattle-map.jpg
+shareImage: https://images.finmoorhouse.com/writing/go-east/seattle-map.jpg
+links:
+  Substack: https://finmoorhouse.substack.com/p/go-east-from-seattle
 ---
 
 Here's a [puzzle](https://twitter.com/finmoorhouse/status/1744059290120245347):
