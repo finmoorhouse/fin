@@ -215,6 +215,8 @@ Here's a list of advice I wrote for podcast guests, on the theme of "what seems 
 
 - **Concrete examples.** Especially when explaining abstract or technical ideas, give multiple examples. Especially numbers and stories with named people. I can't think of a particular interview where this is done exceptionally well, so you'll have to guess why this is useful.
 
+[This post](https://stanpinsent.wordpress.com/2022/12/05/how-to-be-a-more-effective-podcast-guest/) gives even more advice on how to do a great podcast interview as a guest.
+
 ### Building a website and social media presence
 
 A solid online presence is very useful, maybe necessary, for getting traction early on (without relying on luck). You might aim to be meaningfully active on social media, spin up an attractive website, design a simple and recognisable logo, and put enough relevant text and info on your website to feed the SEO spirit animals. Getting the basics right doesn’t need to take a lot of time or demand technical know-how.
