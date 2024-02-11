@@ -18,7 +18,7 @@ to be notified of future posts. There's also an
   {% for post in collections.writing | reverse %}
 
   <li class="[&>*]:inline py-2 group">
-    <a href="{{ post.url }}" class="decoration-solid">{{ post.data.title }}</a>
+    <a href="{{ post.url }}" class="decoration-solid decoration-[rgba(255,255,255,0.3)] group-hover:decoration-[rgba(255,255,255,0.8)] transition-colors">{{ post.data.title }}</a>
     <span class="opacity-60 group-hover:opacity-100 transition-opacity">{% if post.data.date %} ({% year post.data.date %}) {% endif %}</span>
   </li>
   {% endfor %}
