@@ -3,7 +3,6 @@ title: Book reviews
 description: My written book reviews
 tags: [writing]
 date: 2023-11-05
-updated: 2023-12-12
 permalink: /writing/book-reviews/
 shareImage: https://images.finmoorhouse.com/writing/book-reviews/van-gogh-books.jpg
 ---
@@ -12,7 +11,102 @@ This is a mirror of my *written* [book reviews on Goodreads](https://www.goodrea
 
 They are generated using the .csv file of reviews which [Goodreads lets your export](https://www.goodreads.com/review/import). [Here's the code I used](https://gist.github.com/finmoorhouse/4fd8ddb50a6b9a7d9690f049992f89c9) if you're interested.
 
-{% image 'https://images.finmoorhouse.com/writing/book-reviews/jan-davidsz-de-heem.jpg' 'A pile of books' %}
+## 2024
+
+### Infrastructure: The Book of Everything for the Industrial Landscape
+
+Brian Hayes (2006) • &#9733;&#9733;&#9733;&#9733;&#9733; • Mar 24 • [Link to book ↗](https://www.goodreads.com/book/show/236866)
+
+Jason Crawford <a href='https://rootsofprogress.org/progress-studies-a-civic-duty'>writes</a>:
+
+<blockquote>
+If you didn’t know what an atom was, or a cell, or if you weren’t familiar with the concept of gravity; or if you had never heard of the Roman Empire, or the American Revolution; or if you had never read a novel—your education would be considered lacking.
+
+But how many people know: What cement is, and where its key ingredient comes from? What fertilizer consists of, and how it is made? The difference between crude and refined oil? What type of electric current is used for long-distance power transmission, and why? Whether more goods are transported over land, sea, or air, and why?
+
+[...]
+
+How did we let ourselves become this detached from the system that keeps us all alive and gives us the world we know?
+</blockquote>
+
+And <a href='https://rootsofprogress.org/industrial-literacy'>elsewhere</a>:
+
+<blockquote>
+[U]nderstanding where our modern standard of living comes from, at a basic level, is a responsibility of every citizen in an industrial civilization.
+</blockquote>
+
+I feel the pull of that argument. It is strangely <i>unembarrassing</i> not to understand very fundamental things about how the modern world keeps turning — where the materials for our physical things come from, how they get assembled and brought to us, where they go when we dispose of them, where power and water and gas come from and how they reach our homes, the machines we use to get around from building to building, and how those buildings are made.
+
+Brian Hayes has a story about why that is, and it's because infrastructure got too good. Machines have replaced human labour so effectively, and industrial sights so neatly hidden from view for the most part, that so few of us ever need to feel like we're part of an industrial system: "just how lonely a place the industrial landscape has become". For my part I realised I have never seen the inside of an operational mine, mill, power plant, factory (bar a few derelect ones).
+
+There's an <i>understanding</i> angle on industrial literacy that Crawford (and Hayes) argue for: that it matters to form accurate beliefs about infrastructure works; that it would help, for example, if more of us really knew how power sources compare before voting on which power plants to build or close. 
+
+But more basically there's also an <i>appreciation</i> angle. Hayes writes:
+
+<blockquote>
+An unwritten rule of development says: Always celebrate what's no longer there. [...] Having lost contact with industry on a day-to-day basis, one common response is to romanticize or sentimentalize what we have left behind.
+</blockquote>
+
+The steamships, steam trains, trams, mills, mines, and smokestacks are all somehow charming to us now. We like how they seem to wear their functions so outwardly.
+
+Yet: today's cargo ships, logistics centres, water treatment centres, power plants, airports, and pretty much everything else industrial, are by wide consensus, ugly. It would be nice if it could disappear. They interrupt your otherwise pleasant view of the countryside from the train window. Maybe we should call off the whole industrial super-duper-capitalism things and live on little farmsteads.
+
+Of course modern industry <i>does</i> cause actual harm (for example it pollutes and pollution kills people and living things). But I wonder if much of that "aversion to industry" attitude is really an <i>aesthetic</i> one. And that might be good news if so, for eye-of-beholder reasons: as Hayes explains how all these sights of the "industrial landscape" work — why they exist, how they (often ingeniously) work, why they look the way they do — sights of industry began feeling less ugly to me. I am very happy this book exists.
+
+### The Rise of Modern Japan
+
+Mark J. Ravina (2021) • &#9733;&#9733;&#9733;&#9733;&#9734; • Feb 24 • [Link to book ↗](https://www.goodreads.com/book/show/59604052)
+
+Not 5✭ because it's only a short lecture series, but these Great Courses series are so well executed. Info-dense but more natural and so easier to follow than a book read aloud.
+
+### The Coming Wave: Technology, Power, and the Twenty-first Century's Greatest Dilemma
+
+Mustafa Suleyman (2023) • &#9733;&#9733;&#9733;&#9733;&#9734; • Feb 24 • [Link to book ↗](https://www.goodreads.com/book/show/90590134)
+
+You are not going to write a synoptic general audience book about the most important and uncertain forces shaping the future of humanity without going thin on some details and rigour, but I'm really glad this book exists.
+
+One issue with talking about AI and synbio is that the elevator pitch for its transformativeness sounds similarly hype-y and insubstantial as the elavator pitches for the transformativeness of, say, <i>cryptocurrency</i> or <i>virtual reality</i> or some other clearly not yet transformative techology. I'm unsure the book does enough to drive home why <i>this time it's different</i>, though it does try plenty.
+
+I wonder: how this kind of wide-ranging futurism nonfic books handle quantum computing might be a nice test of their calibration on differentiating hype vs substance, since I think a sober look at quantum computing shows that it's actually very unclear how it'll practically change the world beyond e.g. causing some logistical annoyance in updating cryptographic schemes. This book gets maybe a B- on that test; it's about as hand-wavingly excited and vague as most treatments.
+
+I was also a little disappointed by how dismissive the authors were of arguments for existential risk from AGI. They rolled out a sentence-long version of the Yudkowskian paperclipper scenario as a representative argument, and went for for the line that there are <i>so many other imminent issues that we can surely afford to put the science fiction stuff to one side</i>. But that's somewhat fair: (i) the x-risk arguments have shifted since the paperclipper days in a way I think is confusing and often poorly communicated; and (ii) there are in fact so many other imminent issues and they are all so important.
+
+You could tell the whole thing was written quickly, but that is also fine: to write about AI any slower is for chapter 1 to become irrelevant before the ink dries on the coda.
+
+The last section, on solutions, was impressively broad and nuanced and took international governance seriously; not in the tech-bro-meets-world-politics mold of "let's make a new UN for AI!" but in a way that really respected the messiness of it all.
+
+I learned a lot and think this is a nice introduction to the worldview on which advanced AI and everything it enables may be something like the central plotline of the next couple decades of history.
+
+
+### Great Mambo Chicken And The Transhuman Condition: Science Slightly Over The Edge
+
+Ed Regis (1991) • &#9733;&#9733;&#9733;&#9733;&#9733; • Jan 24 • [Link to book ↗](https://www.goodreads.com/book/show/665412)
+
+Gonzo history of the first half or so of the history of transhumanism. The major threads being cryonics (Alcor), nanotech (Drexler), digital minds (Moravec), space travel and engineering (Freeman Dyson and many others).
+
+The tone is half bemusment and half amusement; tongue lodged in cheek. That leaves Regis' own attitudes to the transhumanist project sneakily ambiguous. I read him as a true believer, just milquetoast enough to assume the role of journalist.
+
+Though you couldn't write a serious, or preachy, version of this book if you tried. Too many details are too <i>preposterous</i> to play straight.
+
+Two more things I have reason to believe: (1) that at least one character in GMC regrets the effect of the book on their work and on the transhumanist project; and (2) if there were a book about the next and most recent chapter in the history of transhumanism, at least one character would feature <i>because</i> they read GMC.
+
+### Elements of Jazz: From Cakewalks to Fusion
+
+Bill Messenger (1995) • &#9733;&#9733;&#9733;&#9733;&#9734; • Jan 24 • [Link to book ↗](https://www.goodreads.com/book/show/4802475)
+
+Some nice etymology scattered through these lectures:
+
+<b>Cakewalk</b>: dance developed from the "prize walks" (dance contests with a cake awarded as the prize) held in the mid-19th century, generally at get-togethers on Black slave plantations before and after emancipation in the Southern United States (from <a href='https://en.wikipedia.org/wiki/Cakewalk'>wiki</a>). Gives us <i>a cakewalk</i> as in "easy" and also <i>takes the cake</i>.
+
+The origins of <b>boogie</b> (originally <b>boogie-woogie</b>) seem especially mysterious but the Hausa word "Boog", and the Mandingo word "Booga" both mean "the beat" as in a drum, and another West African word "bogi" means "to dance".
+
+I've heard conflicting stories about <b>ragtime</b>. <a href='https://scholarsmine.mst.edu/artlan_phil_facwork/155/'>One goes</a> that "rag" came to refer to a social underclass from "rag, tag, and bobtail" meaning "the rabble". When ragtime music was associated with the "rabble", it was dubbed "rag time" as a play on e.g. "march time". Alternatively, "ragged time" (referring to its syncopated rythms) becomes simply "rag time" then "ragtime".
+
+What about <b>jazz</b> itself? That is "one of the most <a href='https://www.jstor.org/stable/850032'>sought-after</a> word origins in <a href='https://en.wikipedia.org/wiki/Jazz_(word)'>modern American English</a>". "Jism", "gism", later "jasm" was a piece of mid-19th c. slang for "verve, energy". When the French brought perfumery to New Orleans, they brought oil of jasmine, where to where a perfume would be to "jass it up". Or did it come from baseball journalism, where it meant “enthusiasm, “fighting spirit”? The most difficult to guess musical genre in hangman, in any case.
+
+
+
+
 ## 2023
 
 ### Poor Charlie’s Almanack: The Essential Wit and Wisdom of Charles T. Munger
@@ -26,6 +120,30 @@ Salient features: a midwestern straightforwardness, a love for the hard sciences
 Munger brings a kind of cranky 'old man yells at cloud' energy throughout, happily deriding entire disciplines has no time for, except you listen because he made Berkshire hundreds of billions of dollars and you didn't. Remarkably some of this was written by Munger in his 80s, pulling references from memory — notably Chapter 11, "The Psychology of Human Misjudgement". RIP.
 
 I implore you to <a href='https://www.stripe.press/poor-charlies-almanack'>visit the website</a> that Stripe Press built around this book. I don't know how they do it.
+
+### Bach and the High Baroque
+
+Robert Greenberg (2013) • &#9733;&#9733;&#9733;&#9733;&#9733; • Dec 23 • [Link to book ↗](https://www.goodreads.com/book/show/51976443)
+
+Tyler Cowen makes the case (<a href='https://www.econtalk.org/tyler-cowen-on-the-goat-of-economics/#audio-highlights'>here</a> and <a href='https://marginalrevolution.com/marginalrevolution/2023/09/is-bach-the-greatest-achiever-of-all-time.html'>here</a>) for Bach as strong contender for 'greatest achiever of all time' across any discipline, in terms of something like quality × quantity of output.
+
+Bach's productivity borders on the incomprehensible. More than a thousand works survive, though hundreds more were lost. Week in and week out he would turn around a cantata for the weekend's church service in the space of 2 or 3 days, to give enough time for rehearsals. And for most his working life he was actively raising 20 children.
+
+The most celebrated stuff — Goldberg Variations, Mass in B Minor, St Matthew Passion, Well-Tempered Clavier — just have absolutely no contemporary competition; sometimes technically complex enough to impress on almost mathematical grounds. It isn't <i>Gödel, Escher, Mozart</i> for a reason!
+
+Greenberg is an excellent guide through all of this of course.
+
+### The Grasshopper: Games, Life and Utopia
+
+Bernard Suits (2005) • &#9733;&#9733;&#9733;&#9733;&#9734; • Nov 23 • [Link to book ↗](https://www.goodreads.com/book/show/803547)
+
+The book [Finite and Infinite Games](https://www.goodreads.com/book/show/189989) wishes it was. Quite relevant if you are in the business of imagining [u]/[pro]topian futures that aren't disqualifyingly dull:
+
+<blockquote>
+What I envisage is a culture quite different from our own in terms of its basis. Whereas our own culture is based on various kinds of scarcity — economic, moral, scientific, erotic — the culture of Utopia will be based on plenitude. The notable institutions of Utopia, accordingly, will [be] institutions which foster sport and other games. But sports and games unthought of today; sports and games that will require for their exploitation — that is, for their mastery and enjoyment — as much energy as is expended today in serving the institutions of scarcity.
+</blockquote>
+
+Pairs well with [The Player of Games](https://www.goodreads.com/book/show/18630), as such.
 
 ### Thinking In Systems: A Primer
 
@@ -60,6 +178,25 @@ But don't be fooled: the central teaching of this book is just undeniable; plain
 
 I see this book as saying: we reflexively find ways to distract, resist, drown out, or otherwise look away from difficult circumstances. But the first trick is to see and own them. To — in the kindest way possible — <i>get real</i>.
 
+### The Son Also Rises: Surnames and the History of Social Mobility (The Princeton Economic History of the Western World, 49)
+
+Gregory Clark (2014) • &#9733;&#9733;&#9733;&#9733;&#9734; • Oct 23 • [Link to book ↗](https://www.goodreads.com/book/show/18730716)
+
+Clark investigates social mobility, roughly construed as "how predictive is your parents' and grandparents' status of your own?". All his new results come from tracking the social status of (rare) surnames over time (a method which somehow hadn't been seriously attempted before). They yield a starker picture then accepted measures of social mobility, notably parent-child income correlations.
+
+That picture is one on which social mobility is slower than thought across time, and is strongly inherited within families. Much more so than a "random walk in wealth, plus inheritance" model would suggest.
+
+A <a href='https://www.economist.com/graphic-detail/2022/06/09/the-grandchildren-of-chinas-pre-revolutionary-elite-are-unusually-rich'>good illustration</a> which is not (IIRC) discussed in the book: Mao severely persecuted China's pre-revolutionary "landlord class" elite; their land was siezed, many were killed, and their children were stigmatised and poorer than average. But at the turn of the 21st century, their grandchildren are again wealthier than average. From all that was destroyed, <i>something</i> survived.
+
+ <img src="https://pbs.twimg.com/media/FU2h8R1WIBsNdgH?format=jpg&name=medium" width="400" alt="Economist graph"/>
+
+Clark also finds little evidence of our ability to increase social mobility through feasible social policies. One indication comes from the US government's 'Head Start' program — ~$8 billion / year of federal spending on preschool and childcare for low-income kids (about $8,000 per child per year). A major government-led <a href='https://www.acf.hhs.gov/opre/report/head-start-impact-study-final-report-executive-summary'>study</a> on the effects of the program found some short-term effect, but <a href='https://www.brookings.edu/articles/can-we-be-hard-headed-about-preschool-a-look-at-head-start/'>no evidence</a> for lasting benefits beyond a couple years. (Neither Clark nor this review take such results to undermine the need for welfare programs like Head Start — it's just that they help the worst-off at a time, but appear to do little to accelerate social mobility).
+
+
+I feel like this book falls in the same category as [The Elephant in the Brain](https://www.goodreads.com/book/show/28820444): it mounts a lengthy empirical case against some assumptions that if false would raise a whole lot of questions, and then simply ends.
+
+See also: Scott Alexander on '<a href='https://www.astralcodexten.com/p/secrets-of-the-great-families'>Secrets Of The Great Families</a>'
+
 ### Elon Musk
 
 Walter Isaacson (2023) • &#9733;&#9733;&#9733;&#9733;&#9734; • Sep 23 • [Link to book ↗](https://www.goodreads.com/book/show/122765395)
@@ -89,7 +226,7 @@ In most hands this colourful Hemingway-meets-Zola stuff would come off affected,
 
 ### The Imagineers of War: The Untold Story of DARPA, the Pentagon Agency That Changed the World
 
-Sharon Weinberger (2017) • &#9733;&#9733;&#9733;&#9733;&#9734; • Aug 23 • [Link to book ↗](https://www.goodreads.com/book/show/30780220)
+Sharon Weinberger (2017) • &#9733;&#9733;&#9733;&#9733;&#9734; • Sep 23 • [Link to book ↗](https://www.goodreads.com/book/show/30780220)
 
 Tales of US military R&D from the Cold War to Afghanistan; mind control, the ARPANET, and self-driving cars to be sure, also drones and defoliants.
 
@@ -147,12 +284,6 @@ J.D. Roth (2021) • &#9733;&#9733;&#9733;&#9734;&#9734; • Apr 23 • [Link to
 
 2.5 stars. Not very info-dense, even given the short length. Made me wonder what such a book would say if it were grounded in an expectation of transformative AI within the next decade or two.
 
-### Life 3.0: Being Human in the Age of Artificial Intelligence
-
-Max Tegmark (2017) • &#9733;&#9733;&#9733;&#9734;&#9734; • Apr 23 • [Link to book ↗](https://www.goodreads.com/book/show/34272565)
-
-It is going to be tricky to write a general audience book about AI, cosmology, consciousness, ethics, and the longterm future of humanity without going thin on a few details
-
 ### Moral Mazes: The World of Corporate Managers
 
 Robert Jackall (1989) • &#9733;&#9733;&#9733;&#9733;&#9734; • Apr 23 • [Link to book ↗](https://www.goodreads.com/book/show/279812)
@@ -160,6 +291,12 @@ Robert Jackall (1989) • &#9733;&#9733;&#9733;&#9733;&#9734; • Apr 23 • [Li
 <a href='https://www.ocf.berkeley.edu/~ngkolodny/S07Phil104H16(Parfit).pdf'>Parfit pointed out</a> that there can be cases where collectives do harm, but no individual is causally responsible for it. His example was a firing squad: if everyone fires at once, no member of the firing squad made a difference to whether the condemned person was killed.
 
 For Jackall, corporate bureaucracies are like firing squads: vast systems of "organised irresponsibility".
+
+### Life 3.0: Being Human in the Age of Artificial Intelligence
+
+Max Tegmark (2017) • &#9733;&#9733;&#9733;&#9734;&#9734; • Apr 23 • [Link to book ↗](https://www.goodreads.com/book/show/34272565)
+
+It is going to be tricky to write a general audience book about AI, cosmology, consciousness, ethics, and the longterm future of humanity without going thin on a few details
 
 ### Don't Be a Feminist: Essays on Genuine Justice
 
@@ -179,6 +316,12 @@ The book itself is a collection of Caplan's essays themed loosely around labor e
 
 In general I am a big fan of collecting together writing which is already free to read on the internet, and charging people to read the collection. By revealed preference this somehow makes me considerably more likely to read the writing, maybe because I like logging things in Goodreads. Someone should do this for Robin Hanson's best writing.
 
+### The Pattern on the Stone: The Simple Ideas that Make Computers Work
+
+William Daniel Hillis (1999) • &#9733;&#9733;&#9733;&#9733;&#9734; • Mar 23 • [Link to book ↗](https://www.goodreads.com/book/show/277658)
+
+Neat attempt to demystify how logic gates add up to web browsers and computer games. Plus some shallow overviews of quantum computing, cryptography, and parallel computing. More cursory than [Code: The Hidden Language of Computer Hardware and Software](https://www.goodreads.com/book/show/44882), which I enjoyed more.
+
 ### What's Our Problem?: A Self-Help Book for Societies
 
 Tim Urban (2023) • &#9733;&#9733;&#9733;&#9733;&#9734; • Feb 23 • [Link to book ↗](https://www.goodreads.com/book/show/102146148)
@@ -196,6 +339,24 @@ There's also a ladder metaphor which the book makes a big deal of; here's a pict
 <img src='https://waitbutwhy.com/wp-content/uploads/2023/02/Audiobook-5.png' width='400'>
 
 Edit: Robin Hanson's <a href='https://www.overcomingbias.com/p/tim-urbans-whats-our-problem'>review of this book</a> is excellent.
+
+### The Visual Display of Quantitative Information, 2nd Ed.
+
+Edward R. Tufte (2001) • &#9733;&#9733;&#9733;&#9733;&#9733; • Jan 23 • [Link to book ↗](https://www.goodreads.com/book/show/17744)
+
+An art book made out of graphs. A reference book to be savored.
+
+<img src="https://badriadhikari.github.io/data-viz-workshop-2021/minards/marey-train-schedule.png" width="800"/>
+
+### The Hacker and the State: Cyber Attacks and the New Normal of Geopolitics
+
+Ben  Buchanan (2020) • &#9733;&#9733;&#9733;&#9733;&#9733; • Jan 23 • [Link to book ↗](https://www.goodreads.com/book/show/51589806)
+
+A breathless recent history of cyberwar and geopolitical upshots. Covers Stuxnet, Petya and NotPetya, the Sony Pictures hack, the Shadow Brokers, EternalBlue, WannaCry, and more. Other books cover some of these episodes in more narrative detail; like [This Is How They Tell Me the World Ends: The Cyberweapons Arms Race](https://www.goodreads.com/book/show/49247043) and [Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hackers](https://www.goodreads.com/book/show/41436213). This one covers more ground, and has a tighter, briefing-like ryhthm. Less journalistic.
+
+If nothing else, it is useful to remember just how <i>wild</i> the recent history of nation state hacking is (and ∴ probably its future). There are nations spying on allies in order to spy on other nations. The <a href='https://en.wikipedia.org/wiki/Petya_and_NotPetya'>most costly cyberattack in history</a> enabled by an exploit developed by the NSA and stolen for reasons and by means which remain unclear. The world's biggest shipping firm being hit by such fast-spreading malware that only a single hard drive in an <a href='https://www.wired.com/story/notpetya-cyberattack-ukraine-russia-code-crashed-the-world/'>it's Ghanaian office</a> was spared by a power cut, from which the rest of the company's operations were recovered. And remember <a href='https://en.wikipedia.org/wiki/Sony_Pictures_hack'>that time</a> North Korea held a major film studio to ransom over a Seth Rogen film?
+
+I totally missed that Buchanan also wrote [The New Fire: War, Peace, and Democracy in the Age of AI](https://www.goodreads.com/book/show/58329461), which I <a href='https://www.goodreads.com/review/show/4545418968'>also enjoyed</a>.
 
 ### Functional Training and Beyond: Building the Ultimate Superfunctional Body and Mind (Building Muscle and Performance, Weight Training, Men's Health)
 
@@ -221,15 +382,9 @@ This works so well as a sequel to [American Kingpin: The Epic Hunt for the Crimi
 
 ## 2022
 
-### The Pattern on the Stone: The Simple Ideas that Make Computers Work
-
-William Daniel Hillis (1999) • &#9733;&#9733;&#9733;&#9733;&#9734; • Dec 22 • [Link to book ↗](https://www.goodreads.com/book/show/277658)
-
-Neat attempt to demystify how logic gates add up to web browsers and computer games. Plus some shallow overviews of quantum computing, cryptography, and parallel computing. More cursory than [Code: The Hidden Language of Computer Hardware and Software](https://www.goodreads.com/book/show/44882), which I enjoyed more.
-
 ### Avoiding the Worst: How to Prevent a Moral Catastrophe
 
-Tobias  Baumann (2022) • &#9733;&#9733;&#9733;&#9733;&#9733; • Nov 22 • [Link to book ↗](https://www.goodreads.com/book/show/63105075)
+Tobias  Baumann (2022) • &#9733;&#9733;&#9733;&#9733;&#9733; • Dec 22 • [Link to book ↗](https://www.goodreads.com/book/show/63105075)
 
 A brief, no-frills introduction to a suffering-focused (and broadly longtermist) worldview. Lacking in some concrete details because of the length, but just very resoundingly sensible in what it does say — commendable given the gravity of the subject matter.
 
@@ -265,102 +420,33 @@ Nick Bilton (2017) • &#9733;&#9733;&#9733;&#9733;&#9734; • Aug 22 • [Link 
 
 So much fun. The soul of a top-tier Netflix true crime drama. Especially unsettling to experience Ulbricht's gradual slide from scruffy directionless libertarian ideologue to fearsome remote-work-era crime lord.
 
-### Big History: The Big Bang, Life On Earth, And The Rise Of Humanity
+### What We Owe the Future
 
-David Christian (2008) • &#9733;&#9733;&#9733;&#9733;&#9733; • Jul 22 • [Link to book ↗](https://www.goodreads.com/book/show/7956320)
+William MacAskill (2022) • &#9733;&#9733;&#9733;&#9733;&#9733; • Aug 22 • [Link to book ↗](https://www.goodreads.com/book/show/59802037)
 
-The final chapters, looking to the future, were surprisingly thoughtful and raise a bunch of longtermist ideas over which much ink has subsequently been spilled.
+Extremely ambitious, and extremely persuasive.
 
-One intriguing thread running through the book was viewing big history in terms of (increasing) complexity, and getting some mileage out of anolgies between different 'complex systems' at different scales. I vaccilate between thinking all this 'complexity science' stuff is a wonderfully promising proto-field that's still too hot for the mainstream, and thinking there's no real there there.
+Future people count, there could be a lot of them, and we can make their lives better. What We Owe the Future is a book about these three ideas, which come together in <i>longtermism</i>: the view that we as society should be doing far more to protect future generations.
 
-### The Son Also Rises: Surnames and the History of Social Mobility (The Princeton Economic History of the Western World, 49)
+When we take a million-year view on our place in history, what issues come most into focus? What matters most from this vantage point? And what can we do about it? MacAskill (plus a small army of researchers and fact-checkers) sets out to find answers, and the result is my favourite kind of book: sweeping, meticulous, sometimes delightfully counterintuitive.
 
-Gregory Clark (2014) • &#9733;&#9733;&#9733;&#9733;&#9734; • Jun 22 • [Link to book ↗](https://www.goodreads.com/book/show/18730716)
+One answer is that we should avoid completely destroying ourselves to keep what potential humanity has intact. MacAskill suggests, in this way, humanity is like an imprudent teenager:
 
-Clark investigates social mobility, roughly construed as "how predictive is your parents' and grandparents' status of your own?". All his new results come from tracking the social status of (rare) surnames over time (a method which somehow hadn't been seriously attempted before). They yield a starker picture then accepted measures of social mobility, notably parent-child income correlations.
+<blockquote>Most of a teenager’s life is still ahead of them, and their decisions can have lifelong impacts. In choosing how much to study, what career to pursue, or which risks are too risky, they should think not just about short-term thrills but also about the whole course of the life ahead of them.</blockquote>
+Existential risk is the subject of [The Precipice: Existential Risk and the Future of Humanity](https://www.goodreads.com/book/show/50485582). But in considering what priorities longtermism suggests, <i>What We Owe the Future</i> goes beyond just focusing on mitigating existential risks. It also introduces the possibility of <i>lock-in</i>: the thought that entire value systems could become entrenched for indefinitely long into the future. We know it's possible because it's already kind of <a href='https://en.wikipedia.org/wiki/Confucianism'>happened</a> — but there are also special reasons to worry about lock-in soon, since advanced AI could be used to <a href='https://www.cold-takes.com/ai-could-defeat-all-of-us-combined/'>very strongly</a> enforce even values that nobody wants. Plus, the values that shape the future could be <i>contingent</i>: sensitive to choices we make right now, rather than just guaranteed and unchangeable — illustrated with the extraordinary story of how the Atlantic slave trade was finally abolished.
 
-That picture is one on which social mobility is slower than thought across time, and is strongly inherited within families. Much more so than a "random walk in wealth, plus inheritance" model would suggest.
+That all suggests another memorable analogy, which captures much of this book's message:
 
-A <a href='https://www.economist.com/graphic-detail/2022/06/09/the-grandchildren-of-chinas-pre-revolutionary-elite-are-unusually-rich'>good illustration</a> which is not (IIRC) discussed in the book: Mao severely persecuted China's pre-revolutionary "landlord class" elite; their land was siezed, many were killed, and their children were stigmatised and poorer than average. But at the turn of the 21st century, their grandchildren are again wealthier than average. From all that was destroyed, <i>something</i> survived.
+<blockquote>At present, society is still malleable and can be blown into many shapes. But at some point, the glass might cool, set, and become much harder to change. The resulting shape could be beautiful or deformed, or the glass could shatter altogether, depending on what happens while the glass is still hot.</blockquote>
+Other highlights: the most readable intro to population ethics I've come across, an in-depth look at whether civilisation could recover from catastrophe (and why keeping coal in the ground could help), a defense of 'moral entrepreneurship', and facts about <a href='https://en.wikipedia.org/wiki/Glyptodon'>Glyptodons</a>.
 
- <img src="https://pbs.twimg.com/media/FU2h8R1WIBsNdgH?format=jpg&name=medium" width="400" alt="Economist graph"/>
+ <img src="https://cdn.britannica.com/59/172359-050-F6FB0635/Glyptodon-Pliocene-epochs-Americas-Pleistocene.jpg" height="200" alt="Glyptodon"/>
 
-Clark also finds little evidence of our ability to increase social mobility through feasible social policies. One indication comes from the US government's 'Head Start' program — ~$8 billion / year of federal spending on preschool and childcare for low-income kids (about $8,000 per child per year). A major government-led <a href='https://www.acf.hhs.gov/opre/report/head-start-impact-study-final-report-executive-summary'>study</a> on the effects of the program found some short-term effect, but <a href='https://www.brookings.edu/articles/can-we-be-hard-headed-about-preschool-a-look-at-head-start/'>no evidence</a> for lasting benefits beyond a couple years. (Neither Clark nor this review take such results to undermine the need for welfare programs like Head Start — it's just that they help the worst-off at a time, but appear to do little to accelerate social mobility).
-
-
-I feel like this book falls in the same category as [The Elephant in the Brain](https://www.goodreads.com/book/show/28820444): it mounts a lengthy empirical case against some assumptions that if false would raise a whole lot of questions, and then simply ends.
-
-See also: Scott Alexander on '<a href='https://www.astralcodexten.com/p/secrets-of-the-great-families'>Secrets Of The Great Families</a>'
-
-### Talent: How to Identify Energizers, Creatives, and Winners Around the World
-
-Tyler Cowen (2022) • &#9733;&#9733;&#9733;&#9733;&#9734; • May 22 • [Link to book ↗](https://www.goodreads.com/book/show/56269174)
-
-The thesis of this book is that the world can and should do better to find talent, and failing to identify talent has large but mostly silent costs (analogous to restrictions on immigration, or some kinds of discrimination). I found that really compelling.
-
-I enjoyed the unusual interview question ideas. Paraphrasing some:
-
-<i>What is it you do to train that is comparable to a pianist practicing scales?
-
-What browser tabs do you currently have open?
-
-How hard do you work?
-
-What mainstream belief do you think is correct?
-
-How ambitious are you?
-
-What's a conspiracy theory you're into?
-
-What is your most irrational belief?</i>
-
-### Cosmos
-
-Carl Sagan (2002) • &#9733;&#9733;&#9733;&#9733;&#9733; • Apr 22 • [Link to book ↗](https://www.goodreads.com/book/show/55030)
-
-<blockquote>The Cosmos is all that is or ever was or ever will be. Our feeblest contemplations of the Cosmos stir us—there is a tingling in the spine, a catch in the voice, a faint sensation, as if a distant memory, of falling from a height. We know we are approaching the greatest of mysteries.
-
-The size and age of the Cosmos are beyond ordinary human understanding. Lost somewhere between immensity and eternity is our tiny planetary home. In a cosmic perspective, most human concerns seem insignificant, even petty. And yet our species is young and curious and brave and shows much promise. In the last few millennia we have made the most astonishing and unexpected discoveries about the Cosmos and our place within it, explorations that are exhilarating to consider. They remind us that humans have evolved to wonder, that understanding is a joy, that knowledge is prerequisite to survival. I believe our future depends on how well we know this Cosmos in which we float like a mote of dust in the morning sky.</blockquote>
-
-Hooked from that first, biblical, line. Poetic, extraordinarily grand in scope, still authentic and unpretentious. Imitators so often shoot and miss at this stuff, but Sagan did it first and did it best!
-
-The lines about nuclear war in particular prefigure and inspired [The Precipice](https://www.goodreads.com/book/show/50485582).
-
-### How to Live: 27 conflicting answers and one weird conclusion
-
-Derek Sivers (2021) • &#9733;&#9733;&#9733;&#9734;&#9734; • Apr 22 • [Link to book ↗](https://www.goodreads.com/book/show/58188742)
-
-An all-you-can-eat buffet of Siversisms. Endless morsels of wisdom, or a platitudinous overload, depending on appetite.
-
-### History of the Ancient World: A Global Perspective (The Great Courses)
-
-Gregory S. Aldrete (2013) • &#9733;&#9733;&#9733;&#9733;&#9733; • Apr 22 • [Link to book ↗](https://www.goodreads.com/book/show/25692796)
-
-I finished this series while having breakfast, and in the penultimate lecture I learned how one of the great luxuries afforded to Charlemagne was to hear histories read aloud during his meals, from tutors versed in stories from antiquity.
-
-### The Doomsday Machine: Confessions of a Nuclear War Planner
-
-Daniel Ellsberg (2017) • &#9733;&#9733;&#9733;&#9733;&#9734; • Mar 22 • [Link to book ↗](https://www.goodreads.com/book/show/25663779)
-
-Still relevant, alas. Full of eye-widening "wait, really?" revelations.
-
-Without meaning to undermine this book's moral seriousness, one especially bizarre detail was a plan codenamed 'Project Retro':
-<blockquote>
-It was a classified proposal to deal with the possibility that a Soviet attack with ICBMs could eliminate our capability to retaliate with land-based missiles, primarily Minuteman ICBMs. 
-
-[...] This scheme proposed in some detail to assemble a huge rectangular array of one thousand first-stage Atlas engines—our largest rocket propulsion engines, except for Titans, of which we had only a few—to be fastened securely to the earth in a horizontal position, facing in a direction opposite to the rotation of the earth.
-
-The officer originating this proposal envisioned that if our Ballistic Missile Early Warning System (BMEWS) radars detected and reported on the huge viewing screens at NORAD a large flight of missile warheads coming across the North Pole from the Soviet Union—aimed at our missile fields in North and South Dakota, Wyoming, Montana, and Missouri—the array of Atlas engines would be fired, as near simultaneously as possible, to stop the earth’s rotation momentarily.
-
-The Soviet missiles, on their inertial path, would thus bypass or overfly their intended targets.
-
-[...] You didn’t have to be a geophysicist, which I wasn’t, to see some defects with this scheme.
-</blockquote>
-Wait, really?
+What makes this book so special is that it amounts to a call to action. We face future-defining problems, yes — but we can do things about them. I am so excited about the prospect that some people could start with a kind of vague feeling of doom about the future, read this book, and take it as inspiration to start working on an effort to put the entire future on a better course.
 
 ### Whole Earth: The Many Lives of Stewart Brand
 
-John Markoff (2022) • &#9733;&#9733;&#9733;&#9733;&#9733; • Mar 22 • [Link to book ↗](https://www.goodreads.com/book/show/58503523)
+John Markoff (2022) • &#9733;&#9733;&#9733;&#9733;&#9733; • Jul 22 • [Link to book ↗](https://www.goodreads.com/book/show/58503523)
 
 Ace! Some favourite 'Brandisms' from the epilogue —
 
@@ -407,39 +493,71 @@ Ace! Some favourite 'Brandisms' from the epilogue —
 
 
 
-### Energy and Civilization: A History
+### Big History: The Big Bang, Life On Earth, And The Rise Of Humanity
 
-Vaclav Smil (2017) • &#9733;&#9733;&#9733;&#9733;&#9734; • Mar 22 • [Link to book ↗](https://www.goodreads.com/book/show/31850765)
+David Christian (2008) • &#9733;&#9733;&#9733;&#9733;&#9733; • Jul 22 • [Link to book ↗](https://www.goodreads.com/book/show/7956320)
 
-File under 'information dense'! Did you know that a normal <a href='https://en.wikipedia.org/wiki/Human_power'>human metabolic rate</a> is about 80W, and the average person <a href='https://hypertextbook.com/facts/2003/WeiLiangMok.shtml'>generates around 100W</a> over a normal working day? That this is roughly the power required for an <a href='https://en.wikipedia.org/wiki/Incandescent_light_bulb#Efficacy_and_efficiency'>incandescent lightbulb</a>? That per capita energy use in the US — the amount of energy each person relies on — is on the order of <a href='https://en.wikipedia.org/wiki/List_of_countries_by_electricity_consumption'>10,000 kWh per year</a>, which is equivalent to around 10 humans working 24/7? That per capita energy use lines up <a href='https://vaclavsmil.com/wp-content/uploads/docs/smil-articles-science-energy-ethics-civilization.pdf'>pretty well</a> with the human development index, infant mortality, and indices of political freedom? And that the world is becoming steadily <a href='https://www.eia.gov/todayinenergy/detail.php?id=27032'>less energy intensive</a>, measured by energy consumption per unit of GDP?
+The final chapters, looking to the future, were surprisingly thoughtful and raise a bunch of longtermist ideas over which much ink has subsequently been spilled.
 
-### What We Owe the Future
+One intriguing thread running through the book was viewing big history in terms of (increasing) complexity, and getting some mileage out of anolgies between different 'complex systems' at different scales. I vaccilate between thinking all this 'complexity science' stuff is a wonderfully promising proto-field that's still too hot for the mainstream, and thinking there's no real there there.
 
-William MacAskill (2022) • &#9733;&#9733;&#9733;&#9733;&#9733; • Mar 22 • [Link to book ↗](https://www.goodreads.com/book/show/59802037)
+### How to Prevent the Next Pandemic
 
-Extremely ambitious, and extremely persuasive.
+Bill  Gates (2022) • &#9733;&#9733;&#9733;&#9733;&#9734; • May 22 • [Link to book ↗](https://www.goodreads.com/book/show/59900689)
 
-Future people count, there could be a lot of them, and we can make their lives better. What We Owe the Future is a book about these three ideas, which come together in <i>longtermism</i>: the view that we as society should be doing far more to protect future generations.
+Sane, comprehensive, charmingly wonkish overview of what we should learn from Covid. Nice to get a straightforward postmortem of the worst of the pandemic, and also to learn a bit more about how vaccines actually get developed and approved, different kinds of vaccines, plus hopes for cool future pharmaceutical interventions (e.g. pills instead of injections). Some sensible sounding suggestions: leaning into <a href='https://www.gatesnotes.com/Health/Vaccinate-the-world-in-six-months'>'second-source deals'</a>, mechanisms for getting more vaccines to LIMCs, massively ramping up response training exercises. Biggest and most intriguingly of all is proposal for an <a href-'https://www.gatesnotes.com/Health/Meet-the-GERM-team'>international team</a> to monitor for outbreaks and coordinate a much more confident response.
 
-When we take a million-year view on our place in history, what issues come most into focus? What matters most from this vantage point? And what can we do about it? MacAskill (plus a small army of researchers and fact-checkers) sets out to find answers, and the result is my favourite kind of book: sweeping, meticulous, sometimes delightfully counterintuitive.
+This book focused on preventing natural pandemics, and as such there was fairly little material on the risks from engineered pandemics. For what it's worth, these risks strikes me as potentially greater than the risks from natural pandemics over the next couple decades, <i>and</i> currently more neglected than risks from natural pandemics. Crossing my fingers for more books of this quality focused more squarely on engineered pandemics!
 
-One answer is that we should avoid completely destroying ourselves to keep what potential humanity has intact. MacAskill suggests, in this way, humanity is like an imprudent teenager:
+### Talent: How to Identify Energizers, Creatives, and Winners Around the World
 
-<blockquote>Most of a teenager’s life is still ahead of them, and their decisions can have lifelong impacts. In choosing how much to study, what career to pursue, or which risks are too risky, they should think not just about short-term thrills but also about the whole course of the life ahead of them.</blockquote>
-Existential risk is the subject of [The Precipice: Existential Risk and the Future of Humanity](https://www.goodreads.com/book/show/50485582). But in considering what priorities longtermism suggests, <i>What We Owe the Future</i> goes beyond just focusing on mitigating existential risks. It also introduces the possibility of <i>lock-in</i>: the thought that entire value systems could become entrenched for indefinitely long into the future. We know it's possible because it's already kind of <a href='https://en.wikipedia.org/wiki/Confucianism'>happened</a> — but there are also special reasons to worry about lock-in soon, since advanced AI could be used to <a href='https://www.cold-takes.com/ai-could-defeat-all-of-us-combined/'>very strongly</a> enforce even values that nobody wants. Plus, the values that shape the future could be <i>contingent</i>: sensitive to choices we make right now, rather than just guaranteed and unchangeable — illustrated with the extraordinary story of how the Atlantic slave trade was finally abolished.
+Tyler Cowen (2022) • &#9733;&#9733;&#9733;&#9733;&#9734; • May 22 • [Link to book ↗](https://www.goodreads.com/book/show/56269174)
 
-That all suggests another memorable analogy, which captures much of this book's message:
+The thesis of this book is that the world can and should do better to find talent, and failing to identify talent has large but mostly silent costs (analogous to restrictions on immigration, or some kinds of discrimination). I found that really compelling.
 
-<blockquote>At present, society is still malleable and can be blown into many shapes. But at some point, the glass might cool, set, and become much harder to change. The resulting shape could be beautiful or deformed, or the glass could shatter altogether, depending on what happens while the glass is still hot.</blockquote>
-Other highlights: the most readable intro to population ethics I've come across, an in-depth look at whether civilisation could recover from catastrophe (and why keeping coal in the ground could help), a defense of 'moral entrepreneurship', and facts about <a href='https://en.wikipedia.org/wiki/Glyptodon'>Glyptodons</a>.
+I enjoyed the unusual interview question ideas. Paraphrasing some:
 
- <img src="https://cdn.britannica.com/59/172359-050-F6FB0635/Glyptodon-Pliocene-epochs-Americas-Pleistocene.jpg" height="200" alt="Glyptodon"/>
+<i>What is it you do to train that is comparable to a pianist practicing scales?
 
-What makes this book so special is that it amounts to a call to action. We face future-defining problems, yes — but we can do things about them. I am so excited about the prospect that some people could start with a kind of vague feeling of doom about the future, read this book, and take it as inspiration to start working on an effort to put the entire future on a better course.
+What browser tabs do you currently have open?
+
+How hard do you work?
+
+What mainstream belief do you think is correct?
+
+How ambitious are you?
+
+What's a conspiracy theory you're into?
+
+What is your most irrational belief?</i>
+
+### Who We Are and How We Got Here: Ancient DNA and the New Science of the Human Past
+
+David  Reich (2018) • &#9733;&#9733;&#9733;&#9733;&#9734; • May 22 • [Link to book ↗](https://www.goodreads.com/book/show/35749414)
+
+Genomics has recently given us a new lens on ancient human history, and this is a big deal. It is a noisy process making inferences about a complex and still highly uncertain story, of groups of early humans swirling around the planet, bifurcating and remixing — like piecing together cosmological history with the earliest telescopes.
+
+<blockquote>Instead of a tree, a better metaphor may be a trellis, branching and remixing far back into the past.</blockquote>
+
+I struggled to follow many of the details, because the writing requires forensic attention and I didn't give it that. Also this wasn't one to listen to in retrospect.
+
+The last few chapters, considering social implications / questions, seemed sensitive and illuminating to me.
+
+### Cosmos
+
+Carl Sagan (2002) • &#9733;&#9733;&#9733;&#9733;&#9733; • May 22 • [Link to book ↗](https://www.goodreads.com/book/show/55030)
+
+<blockquote>The Cosmos is all that is or ever was or ever will be. Our feeblest contemplations of the Cosmos stir us—there is a tingling in the spine, a catch in the voice, a faint sensation, as if a distant memory, of falling from a height. We know we are approaching the greatest of mysteries.
+
+The size and age of the Cosmos are beyond ordinary human understanding. Lost somewhere between immensity and eternity is our tiny planetary home. In a cosmic perspective, most human concerns seem insignificant, even petty. And yet our species is young and curious and brave and shows much promise. In the last few millennia we have made the most astonishing and unexpected discoveries about the Cosmos and our place within it, explorations that are exhilarating to consider. They remind us that humans have evolved to wonder, that understanding is a joy, that knowledge is prerequisite to survival. I believe our future depends on how well we know this Cosmos in which we float like a mote of dust in the morning sky.</blockquote>
+
+Hooked from that first, biblical, line. Poetic, extraordinarily grand in scope, still authentic and unpretentious. Imitators so often shoot and miss at this stuff, but Sagan did it first and did it best!
+
+The lines about nuclear war in particular prefigure and inspired [The Precipice](https://www.goodreads.com/book/show/50485582).
 
 ### The New Fire: War, Peace, and Democracy in the Age of AI
 
-Ben Buchanan (2022) • &#9733;&#9733;&#9733;&#9733;&#9734; • Feb 22 • [Link to book ↗](https://www.goodreads.com/book/show/58329461)
+Ben Buchanan (2022) • &#9733;&#9733;&#9733;&#9733;&#9734; • May 22 • [Link to book ↗](https://www.goodreads.com/book/show/58329461)
 
 3.5 stars. A clear and accessible overview of developments in AI as a transformative technology. Many interesting details about automated hacking, semiconductor supply chains, great power dynamics, and regulatory scleroticism. And the final chapter contains an impressive list of concrete policy recommendations for democracies.
 
@@ -451,13 +569,43 @@ Incidentally I really like that central analogy. Fire is powerful, but by defaul
 
 Imagine you are an early human living on a small forested island, unaware of life beyond your island. You have discovered fire, and so far managed small and short-lived demonstrations. As you learn to use it to cook and stay warm, you begin to worry about who should be able to create fire, and how to distribute the cooked food it produces. Then the weather turns hot and dry, and you notice the possibility of a <i>forest fire</i>: destroying the island that sustains you. This prospect seems worth worrying about at least as much, even though you've not witnessed anything really like it before. So you might consider setting rules for only lighting fires on the beach, or building firebreaks, and otherwise learning how to control fire before it burns down your home.
 
-### How to Prevent the Next Pandemic
+### How to Live: 27 conflicting answers and one weird conclusion
 
-Bill  Gates (2022) • &#9733;&#9733;&#9733;&#9733;&#9734; • Feb 22 • [Link to book ↗](https://www.goodreads.com/book/show/59900689)
+Derek Sivers (2021) • &#9733;&#9733;&#9733;&#9734;&#9734; • Apr 22 • [Link to book ↗](https://www.goodreads.com/book/show/58188742)
 
-Sane, comprehensive, charmingly wonkish overview of what we should learn from Covid. Nice to get a straightforward postmortem of the worst of the pandemic, and also to learn a bit more about how vaccines actually get developed and approved, different kinds of vaccines, plus hopes for cool future pharmaceutical interventions (e.g. pills instead of injections). Some sensible sounding suggestions: leaning into <a href='https://www.gatesnotes.com/Health/Vaccinate-the-world-in-six-months'>'second-source deals'</a>, mechanisms for getting more vaccines to LIMCs, massively ramping up response training exercises. Biggest and most intriguingly of all is proposal for an <a href-'https://www.gatesnotes.com/Health/Meet-the-GERM-team'>international team</a> to monitor for outbreaks and coordinate a much more confident response.
+An all-you-can-eat buffet of Siversisms. Endless morsels of wisdom, or a platitudinous overload, depending on appetite.
 
-This book focused on preventing natural pandemics, and as such there was fairly little material on the risks from engineered pandemics. For what it's worth, these risks strikes me as potentially greater than the risks from natural pandemics over the next couple decades, <i>and</i> currently more neglected than risks from natural pandemics. Crossing my fingers for more books of this quality focused more squarely on engineered pandemics!
+### History of the Ancient World: A Global Perspective (The Great Courses)
+
+Gregory S. Aldrete (2013) • &#9733;&#9733;&#9733;&#9733;&#9733; • Apr 22 • [Link to book ↗](https://www.goodreads.com/book/show/25692796)
+
+I finished this series while having breakfast, and in the penultimate lecture I learned how one of the great luxuries afforded to Charlemagne was to hear histories read aloud during his meals, from tutors versed in stories from antiquity.
+
+### The Doomsday Machine: Confessions of a Nuclear War Planner
+
+Daniel Ellsberg (2017) • &#9733;&#9733;&#9733;&#9733;&#9734; • Mar 22 • [Link to book ↗](https://www.goodreads.com/book/show/25663779)
+
+Still relevant, alas. Full of eye-widening "wait, really?" revelations.
+
+Without meaning to undermine this book's moral seriousness, one especially bizarre detail was a plan codenamed 'Project Retro':
+<blockquote>
+It was a classified proposal to deal with the possibility that a Soviet attack with ICBMs could eliminate our capability to retaliate with land-based missiles, primarily Minuteman ICBMs. 
+
+[...] This scheme proposed in some detail to assemble a huge rectangular array of one thousand first-stage Atlas engines—our largest rocket propulsion engines, except for Titans, of which we had only a few—to be fastened securely to the earth in a horizontal position, facing in a direction opposite to the rotation of the earth.
+
+The officer originating this proposal envisioned that if our Ballistic Missile Early Warning System (BMEWS) radars detected and reported on the huge viewing screens at NORAD a large flight of missile warheads coming across the North Pole from the Soviet Union—aimed at our missile fields in North and South Dakota, Wyoming, Montana, and Missouri—the array of Atlas engines would be fired, as near simultaneously as possible, to stop the earth’s rotation momentarily.
+
+The Soviet missiles, on their inertial path, would thus bypass or overfly their intended targets.
+
+[...] You didn’t have to be a geophysicist, which I wasn’t, to see some defects with this scheme.
+</blockquote>
+Wait, really?
+
+### Energy and Civilization: A History
+
+Vaclav Smil (2017) • &#9733;&#9733;&#9733;&#9733;&#9734; • Mar 22 • [Link to book ↗](https://www.goodreads.com/book/show/31850765)
+
+File under 'information dense'! Did you know that a normal <a href='https://en.wikipedia.org/wiki/Human_power'>human metabolic rate</a> is about 80W, and the average person <a href='https://hypertextbook.com/facts/2003/WeiLiangMok.shtml'>generates around 100W</a> over a normal working day? That this is roughly the power required for an <a href='https://en.wikipedia.org/wiki/Incandescent_light_bulb#Efficacy_and_efficiency'>incandescent lightbulb</a>? That per capita energy use in the US — the amount of energy each person relies on — is on the order of <a href='https://en.wikipedia.org/wiki/List_of_countries_by_electricity_consumption'>10,000 kWh per year</a>, which is equivalent to around 10 humans working 24/7? That per capita energy use lines up <a href='https://vaclavsmil.com/wp-content/uploads/docs/smil-articles-science-energy-ethics-civilization.pdf'>pretty well</a> with the human development index, infant mortality, and indices of political freedom? And that the world is becoming steadily <a href='https://www.eia.gov/todayinenergy/detail.php?id=27032'>less energy intensive</a>, measured by energy consumption per unit of GDP?
 
 ### Valley of Genius: The Uncensored History of Silicon Valley (As Told by the Hackers, Founders, and Freaks Who Made It Boom)
 
@@ -492,16 +640,6 @@ Tore through this. Perfect balance between details on JvN's life and thinking, a
 I especially liked the epigraph quoting <a href='https://en.wikipedia.org/wiki/Edward_Teller'>Edward Teller</a> —
 <q><i>"Von Neumann would carry on a conversation with my 3-year-old son, and the two of them would talk as equals, and I sometimes wondered if he used the same principle when he talked to the rest of us."</i></q>
 
-### The Hacker and the State: Cyber Attacks and the New Normal of Geopolitics
-
-Ben  Buchanan (2020) • &#9733;&#9733;&#9733;&#9733;&#9733; • Sep 21 • [Link to book ↗](https://www.goodreads.com/book/show/51589806)
-
-A breathless recent history of cyberwar and geopolitical upshots. Covers Stuxnet, Petya and NotPetya, the Sony Pictures hack, the Shadow Brokers, EternalBlue, WannaCry, and more. Other books cover some of these episodes in more narrative detail; like [This Is How They Tell Me the World Ends: The Cyberweapons Arms Race](https://www.goodreads.com/book/show/49247043) and [Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hackers](https://www.goodreads.com/book/show/41436213). This one covers more ground, and has a tighter, briefing-like ryhthm. Less journalistic.
-
-If nothing else, it is useful to remember just how <i>wild</i> the recent history of nation state hacking is (and ∴ probably its future). There are nations spying on allies in order to spy on other nations. The <a href='https://en.wikipedia.org/wiki/Petya_and_NotPetya'>most costly cyberattack in history</a> enabled by an exploit developed by the NSA and stolen for reasons and by means which remain unclear. The world's biggest shipping firm being hit by such fast-spreading malware that only a single hard drive in an <a href='https://www.wired.com/story/notpetya-cyberattack-ukraine-russia-code-crashed-the-world/'>it's Ghanaian office</a> was spared by a power cut, from which the rest of the company's operations were recovered. And remember <a href='https://en.wikipedia.org/wiki/Sony_Pictures_hack'>that time</a> North Korea held a major film studio to ransom over a Seth Rogen film?
-
-I totally missed that Buchanan also wrote [The New Fire: War, Peace, and Democracy in the Age of AI](https://www.goodreads.com/book/show/58329461), which I <a href='https://www.goodreads.com/review/show/4545418968'>also enjoyed</a>.
-
 ### Human Frontiers: The Future of Big Ideas in an Age of Small Thinking
 
 Michael Bhaskar (2021) • &#9733;&#9733;&#9733;&#9733;&#9733; • Sep 21 • [Link to book ↗](https://www.goodreads.com/book/show/56903763)
@@ -509,18 +647,6 @@ Michael Bhaskar (2021) • &#9733;&#9733;&#9733;&#9733;&#9733; • Sep 21 • [L
 So much fun. Where did all the big ideas go? Are they becoming irreversibly <a href='https://www.aeaweb.org/articles?id=10.1257/aer.20180338'>harder to find</a>? Are we witnessing a '[great stagnation](https://www.goodreads.com/book/show/10276354)', and how might we get out of it?
 
 Facts and stats at firehose rate of delivery. Lighter on overarching theses / arguments — I would have appreciated more careful thinking about how and why working on speeding up 'big idea' generation could actually be a pressing priority, and also about the feasibility of especially long or irrecoverable stagnation. But this was hugely enjoyable; breathless and discursive enough never to drag. More ideas about ideas!
-
-### Who We Are and How We Got Here: Ancient DNA and the New Science of the Human Past
-
-David  Reich (2018) • &#9733;&#9733;&#9733;&#9733;&#9734; • Aug 21 • [Link to book ↗](https://www.goodreads.com/book/show/35749414)
-
-Genomics has recently given us a new lens on ancient human history, and this is a big deal. It is a noisy process making inferences about a complex and still highly uncertain story, of groups of early humans swirling around the planet, bifurcating and remixing — like piecing together cosmological history with the earliest telescopes.
-
-<blockquote>Instead of a tree, a better metaphor may be a trellis, branching and remixing far back into the past.</blockquote>
-
-I struggled to follow many of the details, because the writing requires forensic attention and I didn't give it that. Also this wasn't one to listen to in retrospect.
-
-The last few chapters, considering social implications / questions, seemed sensitive and illuminating to me.
 
 ### Influence: The Psychology of Persuasion
 
@@ -635,26 +761,6 @@ Overall, you get the impression that MacAskill, Ord, and Bykvist have spend a hu
 
 You can access the free PDF version of this book <a href="https://www.moraluncertainty.com/">here</a>.
 
-### Bach and the High Baroque
-
-Robert Greenberg (2013) • &#9733;&#9733;&#9733;&#9733;&#9733; • Jul 20 • [Link to book ↗](https://www.goodreads.com/book/show/51976443)
-
-Tyler Cowen makes the case (<a href='https://www.econtalk.org/tyler-cowen-on-the-goat-of-economics/#audio-highlights'>here</a> and <a href='https://marginalrevolution.com/marginalrevolution/2023/09/is-bach-the-greatest-achiever-of-all-time.html'>here</a>) for Bach as strong contender for 'greatest achiever of all time' across any discipline, in terms of something like quality × quantity of output.
-
-Bach's productivity borders on the incomprehensible. More than a thousand works survive, though hundreds more were lost. Week in and week out he would turn around a cantata for the weekend's church service in the space of 2 or 3 days, to give enough time for rehearsals. And for most his working life he was actively raising 20 children.
-
-The most celebrated stuff — Goldberg Variations, Mass in B Minor, St Matthew Passion, Well-Tempered Clavier — just have absolutely no contemporary competition; sometimes technically complex enough to impress on almost mathematical grounds. It isn't <i>Gödel, Escher, Mozart</i> for a reason!
-
-Greenberg is an excellent guide through all of this of course.
-
-### The Visual Display of Quantitative Information, 2nd Ed.
-
-Edward R. Tufte (2001) • &#9733;&#9733;&#9733;&#9733;&#9733; • Jun 20 • [Link to book ↗](https://www.goodreads.com/book/show/17744)
-
-An art book made out of graphs. A reference book to be savored.
-
-<img src="https://badriadhikari.github.io/data-viz-workshop-2021/minards/marey-train-schedule.png" width="800"/>
-
 ### Effective Altruism. Philosophical Issues
 
 Hilary Greaves (2019) • &#9733;&#9733;&#9733;&#9733;&#9733; • Jun 20 • [Link to book ↗](https://www.goodreads.com/book/show/52963764)
@@ -760,18 +866,6 @@ Overall, this is a c. 800 page <i>firehose</i> of information and the facts-per-
 
 
 ## 2016
-
-### The Grasshopper: Games, Life and Utopia
-
-Bernard Suits (2005) • &#9733;&#9733;&#9733;&#9733;&#9734; • Jul 16 • [Link to book ↗](https://www.goodreads.com/book/show/803547)
-
-The book [Finite and Infinite Games](https://www.goodreads.com/book/show/189989) wishes it was. Quite relevant if you are in the business of imagining [u]/[pro]topian futures that aren't disqualifyingly dull:
-
-<blockquote>
-What I envisage is a culture quite different from our own in terms of its basis. Whereas our own culture is based on various kinds of scarcity — economic, moral, scientific, erotic — the culture of Utopia will be based on plenitude. The notable institutions of Utopia, accordingly, will [be] institutions which foster sport and other games. But sports and games unthought of today; sports and games that will require for their exploitation — that is, for their mastery and enjoyment — as much energy as is expended today in serving the institutions of scarcity.
-</blockquote>
-
-Pairs well with [The Player of Games](https://www.goodreads.com/book/show/18630), as such.
 
 ### The Physics of Theism: God, Physics, and the Philosophy of Science
 
