@@ -154,7 +154,14 @@ module.exports = function (config) {
 
   config.addPlugin(pluginTOC);
 
-  config.addPlugin(wordStats);
+  const wordStatsOptions = {
+    output: (stats) => {
+      return `${stats.words.toLocaleString()} words • ${stats.text}`;
+    },
+    wordsPerMinute: 200,
+  };
+
+  config.addPlugin(wordStats, wordStatsOptions);
 
   config.addPlugin(pluginRss);
 
