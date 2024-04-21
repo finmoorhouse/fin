@@ -3,7 +3,7 @@ title: Goodbye to FHI
 permalink: /writing/fhi/
 tags:
   - writing
-date: 2024-04-20
+date: 2024-04-21
 shareImage: https://images.finmoorhouse.com/writing/goodbye-fhi/dandelion-5.webp
 ---
 
