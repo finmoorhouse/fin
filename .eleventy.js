@@ -10,7 +10,7 @@ const { DateTime } = require("luxon");
 
 const wordStats = require("@photogabble/eleventy-plugin-word-stats");
 
-async function imageShortcode(src, alt, caption) {
+async function imageShortcode(src, alt, caption, source) {
   let sizes = "100vw";
 
   let metadata = await Image(src, {
@@ -33,14 +33,16 @@ async function imageShortcode(src, alt, caption) {
     decoding: "async",
   };
 
-  // You bet we throw an error on missing alt in `imageAttributes` (alt="" works okay)
-
   let imageHtml = Image.generateHTML(metadata, imageAttributes, {
     whitespaceMode: "inline",
   });
 
   if (caption) {
-    return `<figure class="!p-0 !m-0">${imageHtml}${`<figcaption class="!pt-0 !my-2 !pb-4 font-sans">${caption}</figcaption>`}</figure>`;
+    if (source) {
+      return `<figure class="!p-0 !m-0 group">${imageHtml}${`<figcaption class="!pt-0 !my-2 !pb-4 font-sans opacity-60 group-hover:opacity-100 transition-opacity">${caption} • <a target="_blank" href="${source}">Source</a></figcaption>`}</figure>`;
+    } else {
+      return `<figure class="!p-0 !m-0 group">${imageHtml}${`<figcaption class="!pt-0 !my-2 !pb-4 font-sans opacity-60 group-hover:opacity-100 transition-opacity">${caption}</figcaption>`}</figure>`;
+    }
   } else {
     return imageHtml;
   }
@@ -114,8 +116,6 @@ module.exports = function (config) {
   const md = new markdownIt({
     html: true,
   });
-
-
 
   config.addPairedShortcode("toggle", function (content, summary) {
     return `
