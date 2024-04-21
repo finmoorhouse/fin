@@ -4,16 +4,16 @@ layout: page.njk
 description: What I'm doing, and how to contact me.
 ---
 
-Currently I'm a researcher at [Longview Philanthropy](https://www.longview.org/). Before that, I was a Research Scholar and assistant to [Toby Ord](https://en.wikipedia.org/wiki/Toby_Ord) at Oxford University's [Future of Humanity Institute](https://www.fhi.ox.ac.uk/).
+Currently I'm a researcher at [Longview Philanthropy](https://www.longview.org/). Before that, I was a Research Scholar and assistant to [Toby Ord](https://en.wikipedia.org/wiki/Toby_Ord) at Oxford University's [Future of Humanity Institute](https://en.wikipedia.org/wiki/Future_of_Humanity_Institute).
 
-I'm interested in [effective altruism](https://www.effectivealtruism.org/), [existential risk](https://www.theprecipice.com), and ways to improve the [(longterm) future](https://www.longtermism.com). I write about this kind of thing on my [writing](/writing) page.
+I'm interested in finding ways to help the future go well, including ideas around [effective altruism](https://www.effectivealtruism.org/). I [sometimes write](/writing) about this kind of thing.
 
 Also:
 
 - I co-host a podcast called [Hear This Idea](https://www.hearthisidea.com), about about ideas for solving important problems, and the people working on them
-- I'm a fellow on this '[Roots of Progress](https://fellowship.rootsofprogress.org/fellows/)' writing fellowship
+- I was a fellow on the inaugural '[Roots of Progress](https://fellowship.rootsofprogress.org/fellows/)' writing fellowship
 - I continue to informally work with (and learn from) [Toby Ord](https://en.wikipedia.org/wiki/Toby_Ord)
-- I'm thinking about [some EA project ideas](https://www.finmoorhouse.com/writing/ea-projects) I'd like to help make happen
+- I've thought about [some EA project ideas](https://www.finmoorhouse.com/writing/ea-projects) I'd like to help make happen
 - I researched [space governance](https://80000hours.org/problem-profiles/space-governance/) as an EA cause area (and now advise a [couple](https://spacefuturesinitiative.org/) [groups](https://governance.space/) which were since established)
 - I worked on a policy brief about a [UN Declaration on Future Generations](https://www.bsg.ox.ac.uk/research/publications/toward-declaration-future-generations)
 - I helped [set up a contest](https://forum.effectivealtruism.org/posts/8hvmvrgcxJJ2pYR4X/announcing-a-contest-ea-criticism-and-red-teaming) to support EA criticism
