@@ -160,3 +160,7 @@ figure > picture {
 figure > picture > img {
   margin-bottom: 0 !important;
 }
+blockquote{
+  quotes: none !important;
+  font-weight: light !important;
+}
