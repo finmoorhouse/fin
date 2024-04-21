@@ -4,7 +4,7 @@ permalink: /writing/fhi/
 tags:
   - writing
 date: 2024-04-20
-shareImage: https://images.finmoorhouse.com/writing/go-east/seattle-map.jpg
+shareImage: https://images.finmoorhouse.com/writing/goodbye-fhi/dandelion-5.webp
 ---
 
 The lights are out at the Future of Humanity Institute. Anders Sandberg has put together a ['final report' on FHI](https://ora.ox.ac.uk/objects/uuid:8c1ab46a-061c-479d-b587-8909989e4f51), some oral history on how FHI grew up and what it was like to be there. There is also [a tombstone website](https://www.futureofhumanityinstitute.org/) with a short history and some greatest hits, publication-wise. {% note 'Do read those if you have the time' %}I'm largely stealing from them here anyway.{% endnote %}. But since I was fortunate enough to spend a couple years there, and to get to know many FHI people, I thought to add to the pile of commentary.
