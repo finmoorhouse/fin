@@ -7,15 +7,15 @@ date: 2024-04-28
 shareImage: https://images.finmoorhouse.com/writing/digital-dilemma/computers.webp
 ---
 
-Here's a natural, if not entirely coherent, thought. Suppose it is soon possible to cheaply create digital minds, perhaps with experiences like our own. Then in the fullness of time, digital minds would greatly outnumber human minds. But if so, _how come you're not one of them_? And shouldn't that confusion make the assumption feel less likely somehow?
+Here's a natural, if not entirely coherent, thought. Suppose it is soon possible to cheaply create digital minds, perhaps with experiences like our own. Then in the fullness of time, digital minds would greatly outnumber human minds. But if so, _how come you're not one of them_? And shouldn't that sense of surprise make the assumption feel less likely somehow?
 
-This feels confused, but it does suggest some questions I find interesting.
+This feels confused, but suggestive.
 
-First: to the extent you are concerned about the possibility of 'simulating' large numbers of humans, you might wonder about the grounds on which you can safely assume *you* are not simulated. But then you might think that most simulated humans can't run their own simulations inside their simulated worlds. So either there are very few simulated humans, or otherwise worlds in which simulated humans are hard to instantiate outnumber worlds in which they are easy to instantiate, and in either case you might feel compelled in the end to think that you are not in a world that readily admits of creating simulated humans.
+First: to the extent you are concerned about the possibility of 'simulating' large numbers of humans, you might wonder about the grounds on which you can assume *you* are not simulated. But then you might think that most simulated humans can't run their own simulations inside their simulated worlds. So either there are very few simulated humans, or otherwise worlds in which simulated humans are hard to instantiate outnumber worlds in which they are easy to instantiate, and in either case you might feel compelled in the end to think that you are not in a world that readily admits of creating simulated humans.
 
 Or, second: even if many of the digital minds we could create wouldn't be simulated humans, and would recognise themselves as digital minds; wouldn't that still make it pretty weird that we then find ourselves in the tiny minority of non-digital minds? Aren't we supposed to assume that we're [*not* special](https://en.wikipedia.org/wiki/Copernican_principle) like that?
 
-{% note "Let's see if these thoughts lead anywhere." %}Fair warning: variants on the word ‘simulation’ are used 239 times.{% endnote %}
+Let's see if these thoughts lead anywhere.
 
 ## The simulation argument
 
@@ -226,6 +226,8 @@ Here's what I see as the back-and-forth so far:
 - But even if the simulation argument is correct, it doesn't say whether simulated human-like observers themselves are in a position to create digital (simulated) minds. That invites a question about what fraction of observers that are simulated at all are in a position to create their own simulations.
 - And in fact we *can* come up with setups where most human-like observers can expect, in the fullness of time, to be {% note 'outnumbered by simulated human-like observers' %}And therefore by simulated minds in general, since simulated human-like observers are just a kind of simulated mind.{% endnote %} from the perspective of their 'level' or 'world' of simulation. But the assumptions seem a bit fragile.
 - Finally, we can notice that, in terms of guiding action, the 'raised stakes' of having more influence over simulated minds might compensate for the diminished likelihood of have influence over simulated minds, such that the two factors sort-of cancel out.
+
+Finally, I'll note that I now think the simulation argument is a little confused, at least on Bostrom's original framing. The core of the confusion is in the choice of 'reference class' from which we assume we've been sampled. We can't just say "these exact experiences" because probably you are the only person with your exact experiences, so there's no statistical argument about how most of your experiences are simulated. But then can't I just say, “Sure, sims will have 'human-like' experiences, whatever that means. But they won't be exactly *these* experiences. So why is it relevant that most 'human-like' experiences are simulated? Why am I supposed to feel forced into being uncertain whether I'm a sim or not?”. It is surprisingly unclear how to resolve this wrinkle, although ultimately much of the core intuition survives. If you're interested, there's a very good discussion in [Joe Carlsmith's article on simulation arguments](https://joecarlsmith.com/2022/02/18/simulation-arguments#v-will-our-descendants-ever-simulate-my-bookshelf).
 
 ## Is it surprising to be outnumbered?
 
