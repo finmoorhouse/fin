@@ -211,7 +211,7 @@ Here's a list of advice I wrote for podcast guests, on the theme of "what seems 
 
 - **Using notes as reminders, not scripts.** It's usually *not* a good idea to memorize what you want to say, but if you do want to  spend some time preparing, it is often useful to have a few bullet  points of the things you want to try to remember to say about each topic (in front of you during the taping). The best way to use notes is to  glance at them to remember key points to cover, *not* to read off them directly.
 
-- **Veering off on fun tangents.** Some of the best moments in previous episodes have come from guests 
+- **Veering off on fun tangents.** Some of the best moments in previous episodes have come from guests veering off the original question to tell an anecdote or a fact that truly interests them. Do not interrupt this!
 
 - **Concrete examples.** Especially when explaining abstract or technical ideas, give multiple examples. Especially numbers and stories with named people. I can't think of a particular interview where this is done exceptionally well, so you'll have to guess why this is useful.
 
