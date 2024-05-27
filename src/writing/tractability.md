@@ -7,7 +7,7 @@ date: 2024-05-27
 shareImage: https://images.finmoorhouse.com/writing/tractability/jungle-2.jpg
 ---
 
-**Summary:** for some problems in the world, efforts towards those problems pay off in a big way only once progress on the problem passes some threshold — once the problem is ‘solved’. We can estimate how much effort is required to solve a given problem, and notice that adding our own effort (or resources) to the status quo would make the difference from “unlikely to solve the problem (in time)” to “likely to solve the problem (in time)”, given that estimate. But often we are very uncertain how much effort is really required to solve the problem, and this matters a lot. The more uncertain we are, the less likely we should think it is that our marginal effort will make the difference between solving and not solving the problem. So in these cases, assuming certainty about the difficulty of a problem would significantly overstate the expected value of working on it, holding other factors fixed. This is a slightly different way of thinking than the ‘ITN’ framework, but it could be relevant for important causes like AI alignment.
+**Summary:** for some problems in the world, efforts towards those problems pay off in a big way only once progress on the problem passes some threshold — once the problem is ‘solved’. We can estimate how much effort is required to solve a given problem, and notice that adding our own effort (or resources) to the status quo would make the difference from “unlikely to solve the problem (in time)” to “likely to solve the problem (in time)”, given that estimate. But often we are very uncertain how much effort is really required to solve the problem, and this matters a lot. The more uncertain we are, the less likely we should think it is that our marginal effort will make the difference between solving and not solving the problem. So in these cases, assuming certainty about the difficulty of a problem would significantly overstate the expected value of working on it, holding other factors fixed. This is a slightly different way of thinking than the [‘ITN’ framework](https://forum.effectivealtruism.org/topics/itn-framework), or at least a way in which ITN is applicable but misleading. This framing could be applicable to problems like open questions in AI alignment, or enacting certain policy change.
 
 ## The ITN framework
 
@@ -29,13 +29,13 @@ In his [‘Prospecting for Gold’](https://www.effectivealtruism.org/articles/p
 
 $$
 
-\text{Total impact}=I\cdot T\cdot\ln(\text{Resources spent})\propto\ln(\text{Resources spent})
+\text{Total impact}=I\cdot T\cdot\log(\text{Resources spent})\propto\log(\text{Resources spent})
 
 $$
 
 Since, when $I$ and $T$ are constants, only logarithmic progress with resources derives to get ${\delta(\text{Impact})}/{\delta(\text{Resources})}= I\cdot T\cdot N$  —
 
-- $\text{Total impact}=I\cdot T\cdot\ln(\text{Resources spent})$
+- $\text{Total impact}=I\cdot T\cdot\log(\text{Resources spent})$
 - ${\delta(\text{Impact})}/{\delta(\text{Resources})}=I\cdot T\cdot (\text{Resources})^{-1}$
 - $N\coloneqq (\text{Resources})^{-1}$
 - $\therefore {\delta(\text{Impact})}/{\delta(\text{Resources})}= I\cdot T\cdot N$
@@ -52,13 +52,13 @@ I think this is technically correct but quite misleading, as I'll try to explain
 
 Some problems are like transferring cash to people in extreme poverty: as long as there are very many people living in extreme poverty, the next 1% of progress toward solving the problem is always roughly as valuable as the previous 1%, *even if you knew progress would stop* after that next 1%. This is (I think) a natural way to interpret an assumption of constant importance in the ITN framework.
 
-Other problems are more like *laying a railway* or *building a cruiseliner* or *making a documentary film*. If you know that progress will stop sometime before completion, then the next 1% of progress toward completion just isn't valuable. But you know roughly — say, within a factor of 2 or 3 — how to estimate the amount of {% note 'resources or effort' %}I'll mostly use ‘effort’ to refer to ‘generic inputs like effort or resources or money’.{% endnote %} required to complete the project.
+Other problems are more like *laying a railway* or *building a cruiseliner* or *making a documentary film*. If you know that progress will stop sometime before completion, then the next 1% of progress toward completion just isn't valuable. But you know roughly — say, within a factor of 2 or 3 — the amount of {% note 'resources or effort' %}I'll mostly use ‘effort’ to refer to ‘generic inputs like effort or resources or money’.{% endnote %} required to complete the project.
 
 But some problems are more like how ‘solving Fermat's last theorem’ might have looked to Pierre Fermat. You know ahead of time that completing 99 of 100 steps sufficient to prove a theorem is far less valuable than completing all 100 steps, if nobody else discovers step 100. But you are also *very* uncertain how much effort is required to solve the problem in the first place. Perhaps another 6 months of concerted effort could do it. {% note 'Or perhaps you need to wait more than three centuries before someone finds a solution.' %}[Owen Cotton-Barratt writes](https://www.lesswrong.com/posts/Q6uFdBCQoW9XiAoZ2/how-to-treat-problems-of-unknown-difficulty#comments): "[These are problems] we only need to solve once (answering a question a first time can be Herculean; answering it a second time is trivial), and which may not easily be placed in a reference class with other tasks of similar difficulty. Knowledge problems, as in research, are a central example: they boil down to finding the answer to a question. The category might also include trying to effect some systemic change (for example by political lobbying)."{% endnote %}
 
 The second two kinds of problem have an *all-or-nothing* quality in this way: the final few resources spent unlock almost all the potential value accumulated by all previous resource spending (and additional spending beyond that point is either basically worthless or basically nonsensical). But it's easier to guess how many resources it takes to take some problems or projects to completion, and for others we are stuck with wild uncertainty.
 
-In cases like these, uncertainty matters. Imagine you have a fixed budget totally earmarked for a personal project, and all you care about is completing at least one project. Project A takes a known amount of resources just within your budget, and Project B takes the same *expected* resources, but with much more uncertainty: it could take significantly fewer or more than your budget. {% note 'Here you should choose Project A.' %}A less vague example: suppose you have a super-8 camera with 10 minutes' worth of film, and you want to film something cool. One option would be to film Andy perform a 10-minute magic trick routine, which he performs with a 100% success rate. Another option would be to film Beth friend do a skateboard trick, which takes 1 minute per attempt, and where each attempt has a 10% success rate. A one-minute film of a successful skateboard trick would be just as valuable as a 10-minute film of the magic routine, but 2 skateboard films would be no more valuable. Now, in expectation, both options will require 10 minutes of filming before they pay off. But after 10 minutes, you can be sure to have filmed the magic trick, but you're only about 65% likely to have filmed a successful skateboard trick.{% endnote %}
+In cases like these, uncertainty matters. Imagine you have a fixed budget totally earmarked for a personal project, and all you care about is completing at least one project. Project A takes a known amount of resources just within your budget, and Project B takes the same *expected* resources, but with much more uncertainty: it could take significantly fewer or more than your budget. {% note 'Here you should choose Project A.' %}A less vague example: suppose you have a super-8 camera with 10 minutes' worth of film, and you want to film something cool. One option would be to film Andy perform a 10-minute magic trick routine, which he performs with a 100% success rate. Another option would be to film Beth do a skateboard trick, which takes 1 minute per attempt, and where each attempt has a 10% success rate. A one-minute film of a successful skateboard trick would be just as valuable as a 10-minute film of the magic routine, but 2 skateboard films would be no more valuable. Now, in expectation, both options will require 10 minutes of filming before they pay off. But after 10 minutes, you can be sure to have filmed the magic trick, but you're only about 65% likely to have filmed a successful skateboard trick.{% endnote %}
 
 But now consider that for big problems in the world — the kind you care about if you care about having lots of impartial impact — you are very rarely the only actor working on the problem. And when you're one among many actors working on such an ‘all-or-nothing’ problem, you should only expect to be *marginally* increasing the chance of solving it.
 
@@ -68,7 +68,7 @@ Here's a super simple model of what's going on when you're estimating the value 
 
 Assume you know how much effort will be spent by the rest of the world on solving the problem, and you also know the value of solving the problem, which is constant. Assume all of the value of working on the problem comes from the moment of fully solving it — stopping short delivers no value, and working beyond the solution delivers no value.
 
-But let's say you're uncertain about *how much total effort* it's going to require to solve the problem over a few orders of magnitude. In particular, let's imagine your uncertainty distribution (PDF) over the effort required {% note 'is log-uniform between two bounds' %}Why log-uniform? Not because it's at likely to be the true distribution, but because it locally approximates the kind of distribution you're going to have for problems of wildly unknown difficulty, that is “[cases](https://www.lesswrong.com/posts/Q6uFdBCQoW9XiAoZ2/how-to-treat-problems-of-unknown-difficulty#comments) where we do not have a good idea of the order of magnitude of the difficulty of a task”.
+But let's say you're uncertain about *how much total effort* it's going to require to solve the problem over a few orders of magnitude. In particular, let's imagine your uncertainty distribution (PDF) over the effort required {% note 'is log-uniform between two bounds' %}Why log-uniform? Not because it's at likely to be the true distribution, but because it locally approximates (around the point of interest, which is on the margin adding to all status quo effort) the kind of distribution you're going to have for problems of wildly unknown difficulty, that is “[cases](https://www.lesswrong.com/posts/Q6uFdBCQoW9XiAoZ2/how-to-treat-problems-of-unknown-difficulty#comments) where we do not have a good idea of the order of magnitude of the difficulty of a task”.
 {% image 'https://images.finmoorhouse.com/writing/tractability/tractability-diagram-5.png' 'Tractability diagram 1' %}{% endnote %} —
 
 {% image 'https://images.finmoorhouse.com/writing/tractability/tractability-diagram-1.png' 'Tractability diagram 1' %}
@@ -92,6 +92,8 @@ $$
 
 Visually, this is just the size of the gap between $z_0$ and $z_1$ as a fraction of the gap between $x$ and $y$, viewed on a log scale.
 
+{% image 'https://images.finmoorhouse.com/writing/tractability/tractability-diagram-4.png' 'Tractability diagram 4' %}
+
 Similarly, the additional chance of success from a marginal unit of additional effort would be, where $E$ is the effort spent so far —
 
 $$
@@ -100,19 +102,17 @@ $$
 
 Therefore, fixing the amount of status-quo work, the difference your extra work makes is inversely proportional to how wide your uncertainty is over the true difficulty of the problem in log space. This is a very over-simplified but clear model of how uncertainty over the difficulty of an all-or-nothing problem decreases the expected value of contributing to solving it.
 
-{% image 'https://images.finmoorhouse.com/writing/tractability/tractability-diagram-4.png' 'Tractability diagram 4' %}
-
-In particular, when it is appropriate to be uncertain about the difficulty of a problem in cases like this, it is not safe just to use a point estimate. Then, on this model, the expected value of your additional work would be the value of solving the problem just in case your additional work makes the difference on solving it, and zero otherwise. Even if your mean estimate for the difficulty of a problem does fall above the status-quo effort but below the total effort after your contribution, it could be inappropriate to *expect* to make the difference.
+In particular, when it is appropriate to be uncertain about the difficulty of a problem in cases like this, it is not safe just to use a point estimate. If you made that mistake, on this model, the expected value of your additional work would be the value of solving the problem just in case your additional work makes the difference on solving it, and zero otherwise. But even if your mean estimate for the difficulty of a problem does fall above the status-quo effort but below the total effort after your contribution, it could easily be inappropriate to *expect* to make the difference.
 
 ## Moderate fatalism?
 
-I sometimes hear someone make a case for working on Problem P which sounds *something* like:
+I sometimes hear a case for working on Problem P which sounds like:
 
-> It would be a huge deal to solve Problem P in time (great if we succeeded, and/or terrible if failed). But it looks, on our best guess, like the world is currently not on track to solve P; although we're hopeful a really focused *extra* push would solve it. So join the push to solve P — all the value of solving P is at stake!
+> It would be a huge deal to solve Problem P in time (great if we succeeded, and/or terrible if failed). But it looks, on our best guess, like the world is currently not on track to solve P; although we're hopeful a really focused *extra* push would solve it. So join the push to solve P — basically all the value of solving P is at stake!
 
 In particular, problems around AI alignment can fit this pattern, since they are {% note 'often framed as all-or-nothing problems' %}Either because there are research problems which are clearly either not-solved or solved, or because they are policy or systemic change efforts which clearly either fail or succeed in being enacted.{% endnote %}.
 
-I do *not* think people are basically ever this explicit in making this ‘point estimate of difficulty’ mistake. For most globally important all-or-nothing-y problems, presumably everyone agrees there is either (i) some chance that the problem gets solved without their help, or (ii) that their help fails to make the difference in solving the problem. So I'm not making a groundbreaking point.
+I do *not* think people are basically ever this explicit in making this ‘point estimate of difficulty’ mistake. For most globally important all-or-nothing problems, presumably everyone agrees there is either (i) some chance that the problem gets solved without their help, or (ii) that their help fails to make the difference in solving the problem. So I'm not making a groundbreaking point.
 
 Still, I do think the point sometimes gets a little lost or under-appreciated. That is, I worry that some people overestimate the chance that they, or the ‘additional effort’ they are part of (like the community they are part of), will make the difference in solving the problem, in particular for big challenges around AI of unknown difficulty.
 
@@ -140,7 +140,7 @@ In both cases, it would be a mistake to only use marginal impact as a guide to a
 
 Now consider what happens when you are uncertain ahead of time about how much effort is required to solve an all-or-nothing problem.
 
-Using effort as the measure of progress, this would mean that any expected value of marginal effort would come from the small chance that the next bit of effort solves the problem: the importance of marginal effort is very likely zero, with some chance of being the entire value of {% note "You'd *also* become uncertain about the (constant) value of tractability, but it required zooming out to see how this also influences marginal expected importance." %}{% endnote %}.
+Using effort as the measure of progress, this would mean that any expected value of marginal effort would come from the small chance that the next bit of effort solves the problem: the importance of marginal effort is very likely zero, with some chance of being the entire value of {% note "solving the problem" %}You'd *also* become uncertain about the (constant) value of tractability, but it required zooming out to see how this also influences marginal expected importance.{% endnote %}.
 
 Using ‘% of achievable impact achieved’ as the measure of progress, you'd know the importance of progress, but any expected value of marginal effort would come from the small chance that the problem is at all tractable: the tractability of marginal effort is very likely zero, with some chance of being very high at the point where the problem gets solved.
 
