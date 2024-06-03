@@ -17,11 +17,15 @@ You will travel across North America, and onto the Atlantic Ocean. Eventually, y
 
 The question is: *what is the first country you hit?*
 
-The image below shows your starting direction. The rest of this post discusses the answer, so here's your opportunity to make a guess of your own.
+The image below shows your starting point, and the white arrow shows your starting direction immediately after leaving Seattle.
+
+The rest of this post discusses the answer, so here's your opportunity to make a guess of your own.
 
 {% image 'https://images.finmoorhouse.com/writing/go-east/mercator-start.png' 'The starting point' 'Your starting point and direction.' %}
 
 ---
+
+Full transparency: to some extent this is a ‘trick’ question. Make sure you've read the wording carefully, and see if you can understand the trick before revealing the answer.
 
 {% toggle 'Click me to **reveal the answer**' %}**Australia**. After pointing due east, and traveling continually forward in a straight line across the Earth's surface, the next country you hit after you leave North America is Australia.
 
