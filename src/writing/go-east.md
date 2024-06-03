@@ -17,11 +17,11 @@ You will travel across North America, and onto the Atlantic Ocean. Eventually, y
 
 The question is: *what is the first country you hit?*
 
-The image below shows your starting point, and the white arrow shows your starting direction immediately after leaving Seattle.
+The image below shows your starting point, and the white arrow shows your starting direction (not path) **immediately** after leaving Seattle.
 
 The rest of this post discusses the answer, so here's your opportunity to make a guess of your own.
 
-{% image 'https://images.finmoorhouse.com/writing/go-east/mercator-start.png' 'The starting point' 'Your starting point and direction.' %}
+{% image 'https://images.finmoorhouse.com/writing/go-east/mercator-start.png' 'The starting point' 'Your starting point and initial direction.' %}
 
 ---
 
