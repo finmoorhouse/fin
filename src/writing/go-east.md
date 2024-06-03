@@ -1,5 +1,5 @@
 ---
-title: Go east from Seattle
+title: A path from Seattle
 permalink: /writing/go-east/
 tags:
   - writing
