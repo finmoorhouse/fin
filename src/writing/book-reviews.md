@@ -13,6 +13,24 @@ They are generated using the .csv file of reviews which [Goodreads lets your exp
 
 ## 2024
 
+### Modern Principles of Economics
+
+Tyler Cowen (2009) • &#9733;&#9733;&#9733;&#9733;&#9733; • Jun 24 • [Link to book ↗](https://www.goodreads.com/book/show/6659172)
+
+I remember a classic mid-teen putdown during arguments about politics: “<i>Dude, just read an economics textbook</i>”
+
+Funnily enough that wasn't normally followed up with a recommendation for an excellent intro-level textbook.
+
+I certainly hadn't read one: I remember reading lots of books <i>about</i> economics, about why we need new heterodox methods, why ‘neoclassical’ assumptions are wrong, or whatever. But they were more like commentaries on the field of economics, rather than serious introductions to the central ideas. So I remember feeling faintly embarrassed that I still didn't <i>exactly</i> know how to read a supply-demand graph, or what exactly is the difference between fiscal and monetary policy, and so on. I still figured that learning the econ basics would be like learning computer science for software engineering: either you pick it up through experience, or it's too academic to practically matter.
+
+This was wrong and I should have read this book earlier. It is very clearly written, and written so that you could find it halfway enjoyable to read cover-to-cover, not just as reference material for a class.
+
+### World Within a Song: Music That Changed My Life and Life That Changed My Music
+
+Jeff Tweedy (2023) • &#9733;&#9733;&#9733;&#9733;&#9734; • Jun 24 • [Link to book ↗](https://www.goodreads.com/book/show/112976332)
+
+Fond, meandering reminiscences from music and life. Somehow reminds me of George Saunders. A warm hug.
+
 ### Infrastructure: The Book of Everything for the Industrial Landscape
 
 Brian Hayes (2006) • &#9733;&#9733;&#9733;&#9733;&#9733; • Mar 24 • [Link to book ↗](https://www.goodreads.com/book/show/236866)
@@ -358,7 +376,7 @@ If nothing else, it is useful to remember just how <i>wild</i> the recent histor
 
 I totally missed that Buchanan also wrote [The New Fire: War, Peace, and Democracy in the Age of AI](https://www.goodreads.com/book/show/58329461), which I <a href='https://www.goodreads.com/review/show/4545418968'>also enjoyed</a>.
 
-### Functional Training and Beyond: Building the Ultimate Superfunctional Body and Mind (Building Muscle and Performance, Weight Training, Men's Health)
+### Functional Training and Beyond: Building the Ultimate Superfunctional Body and Mind
 
 Adam  Sinicki (2021) • &#9733;&#9733;&#9734;&#9734;&#9734; • Jan 23 • [Link to book ↗](https://www.goodreads.com/book/show/56738129)
 
@@ -601,6 +619,24 @@ The Soviet missiles, on their inertial path, would thus bypass or overfly their 
 </blockquote>
 Wait, really?
 
+### Less Is More: How Degrowth Will Save the World
+
+Jason Hickel (2021) • &#9733;&#9733;&#9734;&#9734;&#9734; • Mar 22 • [Link to book ↗](https://www.goodreads.com/book/show/53328332)
+
+The positives: the writing is compelling, the subject matter is important, and the overall picture has an appealing internal coherence.
+
+I think these are also reasons why I disliked this book. I can vividly picture 15-year-old me reading it and being totally sold. And that makes me uncomfortable because I'm not sure what I'd say to him. I do now think many aspects of this degrowth view are misguided — apt to do harm — but I don't have a pithy knockdown argument for it all.
+
+What <i>would</i> I say to 15-year-old me? The antagonists of the book — 'capitalism', the profit motive, 'growthism' — have a kind of spectral, floaty quality: their worldy causes are unclear but their effects pervasive (like jazz to an apocryphal Louis Armstrong: "if you gotta ask, you'll never get to know"). So maybe I'd start by poking at those words, and try to get specific about what mechanisms cause which outcomes. That might be a start.
+
+Noah Smith <a href='https://www.noahpinion.blog/p/against-hickelism'>has a post</a> contra Hickel on some aspects of poverty reduction, for what it's worth.
+
+<blockquote>
+It seems to envision a world that is zero-sum, or close to it, with rich countries hoovering up the riches that should be flowing to the Global South. At the same time, it envisions the countries of the Global South as being held down and held back by the Western ideology of capitalism.
+
+This worldview simply gives the countries of the Global South far too little credit. Rather than being drained dry, they are advancing, growing their share of the global pie even as they deliver better lives to their own poorest citizens. And they’re doing it not by imbibing neoliberal nostrums from the West, but by experimenting pragmatically with a variety of different government-based and market-based policies — in Deng Xiaoping’s famous words, “crossing the river by feeling the stones”. 
+</blockquote>
+
 ### Energy and Civilization: A History
 
 Vaclav Smil (2017) • &#9733;&#9733;&#9733;&#9733;&#9734; • Mar 22 • [Link to book ↗](https://www.goodreads.com/book/show/31850765)
@@ -688,7 +724,7 @@ Eric Carle (1994) • &#9733;&#9733;&#9733;&#9733;&#9733; • Dec 20 • [Link t
 
 I just can't let <a href='https://www.goodreads.com/user/show/101175167-luca'>Luca</a> beat my 2020 reading challenge by <i>one</i> book
 
-### Science Fictions: The Epidemic of Fraud, Bias, Negligence and Hype in Science
+### Science Fictions
 
 Stuart Ritchie (2020) • &#9733;&#9733;&#9733;&#9733;&#9734; • Dec 20 • [Link to book ↗](https://www.goodreads.com/book/show/52199285)
 
