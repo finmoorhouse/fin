@@ -5,6 +5,8 @@ tags:
   - writing
 date: 2024-05-27
 shareImage: https://images.finmoorhouse.com/writing/tractability/jungle-2.jpg
+links:
+  "EA Forum": https://forum.effectivealtruism.org/posts/hhivmG7KJZrCJ3qyF/beware-point-estimates-of-problem-difficulty
 ---
 
 **Summary:** for some problems in the world, efforts towards those problems pay off in a big way only once progress on the problem passes some threshold — once the problem is ‘solved’. We can estimate how much effort is required to solve a given problem, and notice that adding our own effort (or resources) to the status quo would make the difference from “unlikely to solve the problem (in time)” to “likely to solve the problem (in time)”, given that estimate. But often we are very uncertain how much effort is really required to solve the problem, and this matters a lot. The more uncertain we are, the less likely we should think it is that our marginal effort will make the difference between solving and not solving the problem. So in these cases, assuming certainty about the difficulty of a problem would significantly overstate the expected value of working on it, holding other factors fixed. This is a slightly different way of thinking than the [‘ITN’ framework](https://forum.effectivealtruism.org/topics/itn-framework), or at least a way in which ITN is applicable but misleading. This framing could be applicable to problems like open questions in AI alignment, or enacting certain policy change.
@@ -14,8 +16,8 @@ shareImage: https://images.finmoorhouse.com/writing/tractability/jungle-2.jpg
 When estimating the usefulness of additional work on a given problem, you can use the [‘importance, neglectedness, tractability’ (ITN) framework.](https://80000hours.org/articles/problem-framework/) On this framework, the marginal impact of more resources or effort applied to a given problem is the product of those three factors, where:
 
 - **Importance** = $\tfrac{\delta(\text{Impact gained})}{\delta(\% \text{ of problem solved})}$
-- **Tractability** = $\tfrac{\delta(\% \text{ of problem solved})}{\delta(\% \text{ increase in resources})}$
-- **Neglectedness** = $\tfrac{\delta(\% \text{ increase in resources})}{\delta(\text{Resources spent on problem})}\propto (\text{Total resources spent})^{-1}$
+- **Tractability** = $\tfrac{\delta(\% \text{ of problem solved})}{\%\delta(\text{Resources spent on problem})}$
+- **Neglectedness** = $\tfrac{\%\delta(\text{Resources spent on problem})}{\delta(\text{Resources spent on problem})}\propto (\text{Total resources spent})^{-1}$
 
 So, knowing the I, T, and N of a problem gives us a way to find the marginal impact per marginal resource spent on the problem:
 
@@ -28,9 +30,7 @@ This is true whatever the function of total impact with total resources spent so
 In his [‘Prospecting for Gold’](https://www.effectivealtruism.org/articles/prospecting-for-gold-owen-cotton-barratt) talk, Owen Cotton-Barratt suggests a further assumption that the tractability and importance of a problem do not change with total resources spent. This means that the absolute (not marginal) progress on 'solving' a problem scales logarithmically with total resources invested:
 
 $$
-
 \text{Total impact}=I\cdot T\cdot\log(\text{Resources spent})\propto\log(\text{Resources spent})
-
 $$
 
 Since, when $I$ and $T$ are constants, only logarithmic progress with resources derives to get ${\delta(\text{Impact})}/{\delta(\text{Resources})}= I\cdot T\cdot N$  —
@@ -114,13 +114,11 @@ In particular, problems around AI alignment can fit this pattern, since they are
 
 I do *not* think people are basically ever this explicit in making this ‘point estimate of difficulty’ mistake. For most globally important all-or-nothing problems, presumably everyone agrees there is either (i) some chance that the problem gets solved without their help, or (ii) that their help fails to make the difference in solving the problem. So I'm not making a groundbreaking point.
 
-Still, I do think the point sometimes gets a little lost or under-appreciated. That is, I worry that some people overestimate the chance that they, or the ‘additional effort’ they are part of (like the community they are part of), will make the difference in solving the problem, in particular for big challenges around AI of unknown difficulty.
+Still, I do think the point sometimes gets a little lost or under-appreciated. That is, {% note 'I worry that some people overestimate the chance' %}The opposite error is also possible, as Owen Cotton-Barratt points out: “if your point estimate is that things will fail even with your extra effort, then things look less bleak if you account for the possible worlds where things are easier than you think and you could actually make the difference.” Therefore, “it's not always right that point estimates cause people to overstate the value of working on things”.{% endnote %} that they, or the ‘additional effort’ they are part of (like the community they are part of), will make the difference in solving the problem, in particular for big challenges around AI of unknown difficulty.
 
 Often, I think, an appropriate stance to take on such problems is a kind of {% note '*moderate fatalism*' %}I might have heard Nick Bostrom use this phrase, but I can't remember where.{% endnote %}, where you think it is (perhaps very) unlikely you will make the difference on solving it in time, but the (perhaps small) contribution you can make to the chance it gets solved still totally justifies your effort.
 
-## Appendix
-
-### So is NTI wrong?
+## So is NTI wrong?
 
 The assumption-free version of NTI I outlined at the top can't be incorrect on its own, because it's just suggesting a way to decompose marginal impact into factors which are defined so as to multiply up to marginal impact.
 
@@ -150,9 +148,35 @@ In fact, I think in all of the cases above, what ITN is calling either ‘tracta
 
 I'd suggest also just making direct estimates of the value of solving a given all-or-nothing problem, and the chance that some extra efforts make the difference on solving it, where intuitive notions of tractability and neglectedness inform your guess on that chance. In particular, if you can imagine angles of attack on the problem, but you have a story for why those angles of attack would be ignored by default, then things look good.
 
+
+
+### A general limitation of ITN
+
+I think the example I've given — where point estimates of problem difficulty fit awkwardly with natural ways of using NTI — point to a more generic limitation of ITN as a method for estimating marginal impact under uncertainty.
+
+The problem is this: suppose you are uncertain about the importance, neglectedness, and tractability of a problem. So for each of I, T, and N, you have a *distribution* over what value it takes — how much credence you put in any given range for the value it takes. Now, if these distributions were independent, then you could indeed just multiply the expected values of each factor to get a result for the expected marginal impact of working on the problem —
+$$
+\mathbb{E}\Bigg[\frac{\delta(\text{Impact})}{\delta(\text{Resources})}\Bigg]=\mathbb{E}[I \cdot T \cdot N] = \mathbb{E}[I] \cdot \mathbb{E}[T] \cdot \mathbb{E}[N]
+$$
+But, crucially, your distributions over each of the factors might easily *not* be independent, given how the factors are defined.
+
+For example, you might think that a problem's importance is nonzero only if its tractability is zero, and its tractability is nonzero only if its importance is zero.
+
+To illustrate the general point here, consider a non-marginal example. Suppose a mastermind devises two puzzles: one which is practically impossible (<0.1% likely) to solve in an hour, but whose reward is $1,000; and another which is trivially easy (>99% likely) to solve, but which pays out $1. The mastermind flips a coin to choose a puzzle and places it in a box, so you don't know which of the two was chosen. You are choosing whether to commit an hour of your time to solving the puzzle in the box, based on the expected reward. What is the expected reward for fully completing the puzzle? \$5000.5. What is the expected chance you solve the puzzle? Around evens. Is the expected reward for spending the hour trying to solve the puzzle roughly $2500? Certainly not! In fact, the expected reward is less than $1.
+
+Of course, you can try to think through your *joint* distribution across I, T, and N —
+$$
+\mathbb{E}\big[I \cdot T \cdot N\big] = \iiint (i \cdot t \cdot n) \cdot f_{I,T,N}(i,t,n) \, di \, dt \, dn
+$$
+But two comments here. First, ITN is supposed to be a useful heuristic way to break down the problem of estimating impact. But in these cases where you cannot safely consider the three factors independently from one another, ITN either (i) requires more cumbersome calculation than you'd hope from a heuristic guide (see above); or otherwise (ii) ITN cannot be trusted to deliver the wrong answer (when assuming independence between the factors).
+
+Second, in these cases, the meanings of I, T, and N implied by the framework diverge from common-sense meanings. It doesn't seem very natural to talk about a problem being *conditionally* neglected, important, or tractable — as in, “I think this problem is important just in case it is not tractable and vice-versa”.
+
+## Appendix
+
 ### What does the simple model miss?
 
-- The problem you are working on is probably not be entirely all-or-nothing: there might be some value to partially solving it, and/or making more progress beyond the most obvious “this problem is now solved” point
+- The problem you are working on is probably not entirely all-or-nothing: there might be some value to partially solving it, and/or making more progress beyond the most obvious “this problem is now solved” point
 - You might not be certain how much effort the rest of the world is going to contribute, ahead of time
 - Your uncertainty distribution over the difficulty of the problem (how much effort or resources are required to solve it) might not be log-uniform between bounds (indeed it almost certainly isn't — this was a convenient simplification)
 
