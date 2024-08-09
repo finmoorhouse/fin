@@ -22,7 +22,6 @@
   "dependencies": {
     "@11ty/eleventy-fetch": "^4.0.0",
     "@iktakahiro/markdown-it-katex": "^4.0.1",
-    "@photogabble/eleventy-plugin-word-stats": "^1.0.0",
     "@tailwindcss/typography": "^0.5.8",
     "autoprefixer": "^10.4.13",
     "concurrently": "^7.5.0",
