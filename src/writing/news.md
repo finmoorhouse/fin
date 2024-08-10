@@ -25,7 +25,7 @@ The first reason is that the news can misleadingly suggest that trends are point
 
 [This 2023 study](https://www.nature.com/articles/s41562-023-01538-4) ([PDF](https://www.nature.com/articles/s41562-023-01538-4.pdf)) looked at a bunch of fairly high-powered RCTs (n ≈ 22k) run by the news site [Upworthy](https://www.upworthy.com/), to figure out the causal effect of negative words on how likely people are to click through and read the article. The headline finding was that — stop press — negativity drives online news consumption. Concretely, each additional negative word in a typical headline increased the click-through rate by just over 2%. A reasonable inference is that where the headlines lead, the content follows.
 
-![Click-through rate](https://images.finmoorhouse.com/writing/news/ctr.webp)
+{% image 'writing/news/ctr.webp' 'Click through rate' %}
 
 *A hot new study with a depressing conclusion? I cannot help but read this!*
 
@@ -41,7 +41,8 @@ Sometimes, stories get picked up through plain luck, and then [news begets news]
 
 Other times, the reason is parochialism: some stories are big in absolute terms, but they’re just about things which are mostly very far away. Think: [progress against malaria](https://www.nature.com/articles/d41586-022-04343-7) and other tropical diseases. And [this bit](https://www.goodreads.com/quotes/7267664-let-us-suppose-that-the-great-empire-of-china-with) from Adam Smith's *Theory of Moral Sentiments*.
 
-![The view from 9th Avenue](https://images.finmoorhouse.com/writing/news/ny.jpg)
+
+{% image 'writing/news/ny.jpg' 'View from 9th Avenue' %}
 
 ↑ *['View of the World from 9th Avenue'](https://en.wikipedia.org/wiki/View_of_the_World_from_9th_Avenue)*
 
@@ -91,6 +92,7 @@ Here's another response: yes, the news gives a warped and incomplete picture of 
 
 I think this is reasonable. But the main feeling I wanted to convey was less about exhorting people to expand their reading beyond the news, and was more about just *relieving* the sense of obligation to read the news. The news can be entertaining, but it is also very often entirely depressing. I think it is important to be informed about the world, in the sense of getting the big picture broadly right. But that doesn’t mean subjecting yourself to fresh reminders of small catastrophes as they unfold, and it could be an act of kindness to yourself to just drop the game of keeping up with them.
 
-![[Albert Engström — The Artist’s Father, Reading a Newspaper (1892)](https://artvee.com/dl/the-artists-father-reading-a-newspaper/)](https://images.finmoorhouse.com/writing/news/newspaper.jpg)
+
+{% image 'writing/news/newspaper.jpg' 'Albert Engström — The Artist’s Father, Reading a Newspaper (1892)' %}
 
 You could also read Bryan Caplan post: [‘Mainstream Media is Worse Than Silence’](https://betonit.substack.com/p/mainstream-media-is-worse-than-silence). It’s more strongly worded than mine.

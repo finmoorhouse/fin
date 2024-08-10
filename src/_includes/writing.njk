@@ -35,7 +35,9 @@ extraStyle:
     <span class="hidde sm:inline opacity-60 serif"> (click to toggle)</span>
   </summary>
   {{ content | toc | safe}}
-  <p class="!mb-2 !mt-0 pt-4 border-t border-slate-600 inline-block">{{ content | wordStats }}</p>
+  <p class="!mb-2 !mt-0 pt-4 border-t border-slate-600 inline-block">
+    {{ content | wordStats }}
+  </p>
 </details>
 
 <div
@@ -57,10 +59,13 @@ extraStyle:
 {% endif %} {{ content | safe}}
 
 <br />
-{% aside %} You can
-<a href="https://www.admonymous.co/fin" target="_blank"
-  >leave (anonymous) feedback</a
->
-on this post, or any other aspect of this website. {% endaside %}
+
+<aside class="bg-flint-400 rounded-md px-5 py-2 border border-slate-600">
+  You can
+  <a href="https://www.admonymous.co/fin" target="_blank"
+    >leave (anonymous) feedback</a
+  >
+  on this post, or any other aspect of this website.
+</aside>
 <br />
 {% backLink "writing", "writing" %}

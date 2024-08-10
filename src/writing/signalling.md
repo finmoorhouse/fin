@@ -13,11 +13,11 @@ I recently interviewed [Dan Williams](https://danwilliamsphilosophy.com/) about 
 
 Why do peacocks have such elaborate tails? They are heavy, easy spotted by predators, and require lots of energy to grow - so how could they confer a survival advantage? According to one explanation, that’s exactly the point. Peacock tails *signal* to potential mates that ‘this peacock can survive *in spite* of this inconveniently extravagent tail; so it must be a strong and healthy!’. This is a kind of *signalling hypothesis* about peacock tails, and similar explanations abound in evolutionary biology. A signal is just something with the function of conveying information. Contrast signals with *cues*, which just incidentally convey information. Peacock tails have the function of conveying information about mate-value because they incur a cost which only comparatively strong and healthy peacocks could incur; but signals aren’t always costly. Consider lion’s roars: having a loud roar doesn’t involve a cost, but the loudness of a roar does stand in a *lawful relation* to the size and strength of the lion, and so to mate value. Weak or small lions just have no way of faking a loud roar, so big roars signal mate value.
 
-{% image "https://images.finmoorhouse.com/writing/signalling/peacock1.jpg", "Photo of a peacock" %}
+{% image "writing/signalling/peacock1.jpg", "Photo of a peacock" %}
 
 A final example is the strange proclivity for gazelles and deer to jump high into the air while keeping all their legs straight; called ‘stotting’, ‘pronking’ or ‘pronging’. On its face, stotting just makes the animal more vulnerable to predation: it makes it more visible and uses up time and energy which could just be spent escaping. But signaling explanations make the behaviour less puzzling, and it is likely that stotting has more than one signaling function. It may work as a kind of alarm signal to other members of the herd that a predator is nearby, or as an honest signal of the animal’s fitness to the predator (‘don’t waste your time on a prey that can afford to bounce around when it know’s a predator’s nearby!’ (the [handicap principle](https://en.wikipedia.org/wiki/Handicap_principle)) or ‘look how high I can jump! Don’t bother hunting me!).  It might also work as a signal to potential mates for similar reasons.
 
-{% image "https://images.finmoorhouse.com/writing/signalling/stotting.jpg", "Stotting" %}
+{% image "writing/signalling/stotting.jpg", "Stotting" %}
 
 That’s roughly how signaling works in biology, but signaling explanations extend to [economics](https://en.wikipedia.org/wiki/Signalling_(economics)), [philosophy](https://plato.stanford.edu/entries/convention/#ConTheMea), and a surprising array of social behaviour. Here’s another provocative example: what is the value of education? The standard answer is that the value we get from education, and the reason people sign on to higher education, consists in the skills we develop and the things we learn. Another explanation says that most of the benefits of education come from signalling. That is, we don’t go to university or even school primarily to learn things; but to signal to potential employers that you have desirable characteristics: that you’re intelligent, industrious, conscientious, maybe even conformist. Educational achievements function as signals of those characteristics precisely because much of schooling and higher education is boring and hard, and often requires long periods of diligent work to prepare for tests about topics that we often don’t find interesting or important. Success in such an environment ought to be a good indicator of success in the world of work! It might seem strange why exams are quite as boring and as obviously useless as they sometimes seem, but the signalling hypothesis explains that this is exactly the point: boring exams filter out conscientious, employer-friendly personality types and accredit them with grades and certificates which therefore work as credible signals of employability. Bryan Caplan’s [The Case Against Education](https://www.goodreads.com/book/show/36319077-the-case-against-education) defends this idea at length.
 
@@ -36,7 +36,7 @@ A second potential problem is that while classic examples of signaling work beca
 
 Responses preferred the meteor by a serious margin: 62% to 38%. Clearly, almost no respondent actually believed that outcome would be better. But that question might be seen as an opportunity to signal political affiliation in a really hyperbolised way, independently of actual beliefs. But conscious deception (maintaining a distinction between my actual and my professed beliefs) involves costs: keeping track of what lies I have told, what other people believe I believe, and likely an uncomfortable sense of inauthenticity. Moreover, in the political domain it is rarely in your own practical interests to form true beliefs. For instance, although climate change is a severe threat, forming a belief to that effect is unlikely to change the outcome of any relevant policy decisions or collective behaviours unless you’re extremely lucky or powerful. So the practical incentives to form true beliefs in politics are likely to be dwarved by the incentives to form beliefs that help me get on with my group. And as the case may be, my group might prefer to deny the severity of climate change.
 
-{% image "https://images.finmoorhouse.com/writing/signalling/climate1.jpg", "Industry" %}
+{% image "writing/signalling/climate1.jpg", "Industry" %}
 
 
 ## Self-delusion and motivated reasoning
@@ -118,7 +118,7 @@ It is interesting to consider how the demand for reasons for beliefs we already 
 - [The Elephant in the Brain](https://www.goodreads.com/book/show/28820444-the-elephant-in-the-brain?from_search=true&qid=ly841mUDHt&rank=1) by Kevin Simler and Robin Hanson
 - Bonus: [Dan Kahan](http://www.culturalcognition.net/dan-kahans-publications/)
 
-{% image "https://images.finmoorhouse.com/writing/signalling/book-choices.jpg", "Dan's book choices" %}
+{% image "writing/signalling/book-choices.jpg", "Dan's book choices" %}
 
 
 ## More links

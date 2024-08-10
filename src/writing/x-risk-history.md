@@ -3,7 +3,7 @@ title: Discovering Existential Risk
 permalink: /writing/x-risk-history/
 tags: [writing]
 date: 2021-03-18
-featuredImage: './x-risk-history.png'
+featuredImage: 'https://images.finmoorhouse.com/x-risk-history.png'
 ---
 
 {% aside %}
@@ -45,7 +45,7 @@ In the Middle Ages, religious and secular figures alike tended to imagine the un
 
 The etchings below are taken from a book called *[Conversations on the Plurality of Worlds](https://en.wikipedia.org/wiki/Conversations_on_the_Plurality_of_Worlds)*, in which its author [Bernard Le Bovier de Fontenelle](https://en.wikipedia.org/wiki/Bernard_Le_Bovier_de_Fontenelle) depicted a stellar neighbourhood replete with Earth-like worlds harbouring human-like intelligences.
 
-{% image "https://images.finmoorhouse.com/writing/x-risk-history/images/fontenelle.jpg", "Fontanelle" %}
+{% image "writing/x-risk-history/images/fontenelle.jpg", "Fontanelle" %}
 
 *Source: [Arts and Culture](https://artsandculture.google.com/asset/illustration-from-fontenelle-s-conversations-on-the-plurality-of-worlds/zQFodaE3532KQA)*
 
@@ -63,7 +63,7 @@ Tom continues —
 
 This reckless projection of value and purpose also manifested in depictions of our planet. For illustration, the Jesuit scholar [Athanasius Kircher](https://en.wikipedia.org/wiki/Athanasius_Kircher) compiled a [scientific textbook](https://en.wikipedia.org/wiki/Mundus_Subterraneus_(book)) in which he imagined the Earth itself as a kind of living, breathing organism. His vision is depicted beautifully in the drawing below —
 
-{% image "https://images.finmoorhouse.com/writing/x-risk-history/images/kircher.jpg", "Kircher" %}
+{% image "writing/x-risk-history/images/kircher.jpg", "Kircher" %}
 
 This 'everything in its right [place](https://www.youtube.com/watch?v=NUnXxh5U25Y)' thesis ruled out parts of the world not existing for some life-like purpose. Accordingly, many even believed that the *interior* of the globe must be either habitable, or indeed *inhabited*, right through to the 19th century. Tom points out that the astronomer Edmond Halley made remarks to this effect in the 1690s, as did "the anonymous German author of an 1828 book whose title translates as *The Underworld, or Reasons for a Habitable and Inhabitable Interior of our Earth.*"
 
@@ -79,7 +79,7 @@ Further, the show would go on without us: the rest of the universe, in a way of 
 
 > Where apocalypse secures a sense of an ending, extinction anticipates the ending of sense.
 
-{% image "https://images.finmoorhouse.com/writing/x-risk-history/images/dante-heaven.jpg", "Etching of Dante's heaven" %}
+{% image "writing/x-risk-history/images/dante-heaven.jpg", "Etching of Dante's heaven" %}
 
 ##### Source: [Digital Dante](https://digitaldante.columbia.edu/image/birk-illustrations/paradiso/), Selected illustrations from Birk’s Comedy — Paradiso. Notice the similarity with the frontpiece for Fontenelle's *[Conversations on the Plurality of Worlds](https://en.wikipedia.org/wiki/Conversations_on_the_Plurality_of_Worlds)*, abov*e.*
 
@@ -187,7 +187,7 @@ Running concurrently to this ethical progress was progress of a more concrete an
 
 The nuclear weapons were of course deployed in WWII on two occasions, over the Japanese cities of Hiroshima and Nagasaki — the only times they have been used in war. Although Japan surrendered shortly after, the consequences were undeniably awful. Despite this, or perhaps because of it, nuclear stockpiles grew rapidly after WWII. By the height of the Cold War, the combined nuclear arsenals of Russia and the United States numbered above *60,000* warheads.
 
-{% image "https://images.finmoorhouse.com/writing/x-risk-history/images/stockpiles.png", "Number of nuclear warheads in the inventory of the nuclear powers, 1945 to 2014" %}
+{% image "writing/x-risk-history/images/stockpiles.png", "Number of nuclear warheads in the inventory of the nuclear powers, 1945 to 2014" %}
 
 *Source: [Our World in Data](https://ourworldindata.org/grapher/number-of-nuclear-warheads-in-the-inventory-of-the-nuclear-powers)*
 
@@ -209,7 +209,7 @@ Yet, forecasting future technologies is notoriously — [necessarily](https://me
 
 In parallel to the story of the discovery of existential risk runs an interweaving story of the discovery of humanity's place in the cosmos, and the cosmic futures it could one day inherit. On one occasion, these two threads met — in the physicist [Enrico Fermi](https://en.wikipedia.org/wiki/Enrico_Fermi). As one of the chief architects of the Manhattan Project, Fermi was there to witness the Trinity test. Almost exactly five years later, Fermi was talking over lunch at the Los Alamos National Laboratory in New Mexico. A co-worker had mentioned a recent New Yorker cartoon, depicting aliens stealing trash cans (as likely a hypothesis as any).
 
-{% image "https://images.finmoorhouse.com/writing/x-risk-history/images/new-yorker-cartoon.jpg", "New Yorker alien cartoon" %}
+{% image "writing/x-risk-history/images/new-yorker-cartoon.jpg", "New Yorker alien cartoon" %}
 
 *New Yorker, May 20th 1950*
 
@@ -229,7 +229,7 @@ Energy from some derivative of a Dyson sphere might be used to supply power to f
 
 It wasn't long before images of such structures began to permeate popular culture and even inspire social movements. Many of the most iconic depictions of O'Neill cylinders were created by the artist [Don Davis](https://en.wikipedia.org/wiki/Don_Davis_(artist)), commissioned by NASA to depict descriptions of life beyond Earth. Later, Davis would work on the visual effects for Carl Sagan's *Cosmos* television series, and create several of his book covers. Here's an example —
 
-{% image "https://images.finmoorhouse.com/writing/x-risk-history/images/don-davis.jpg", "Don Davis" %}
+{% image "writing/x-risk-history/images/don-davis.jpg", "Don Davis" %}
 
 *Source: [Wikipedia](https://en.wikipedia.org/wiki/O%27Neill_cylinder#/media/File:Spacecolony3edit.jpeg)*
 

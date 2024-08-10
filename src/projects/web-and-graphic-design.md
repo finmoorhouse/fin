@@ -10,15 +10,15 @@ Over the years I have done a bunch of graphic and web design.
 
 The Cambridge Union is the oldest continuously running debating society in the world. In 2019, I made banners, posters, and images for social media.
 
-Highlights for me were the [announcement poster](https://images.finmoorhouse.com/projects/union/gates-poster.jpg) for Bill Gates' scheduled appearance, and the full-page ad for the Tab newspaper.
+Highlights for me were the [announcement poster]([projects/union/gates-poster.jpg](https://images.finmoorhouse.com/projects/union/gates-poster.jpg)) for Bill Gates' scheduled appearance, and the full-page ad for the Tab newspaper.
 
-{% image "https://images.finmoorhouse.com/projects/union/gates-poster.jpg" "Poster for Bill Gates event" %}
+{% img "projects/union/gates-poster.jpg" "Poster for Bill Gates event" %}
 
 ### TEDx Cambridge
 
 I made mockup posters for TEDx Cambridge. Using the image we settled on, I also made a short ['theme reveal' video](https://www.facebook.com/watch/?v=676027009561214) with clips from previous speakers and an animated version of the poster.
 
-{% image "https://images.finmoorhouse.com/projects/ted/revolution.jpg" "A mockup poster" %}
+{% img "projects/ted/revolution.jpg" "A mockup poster" %}
 
 ### Alyson Hallett
 
@@ -32,7 +32,7 @@ I built the site in WordPress, making it easy to add books and news. All the boo
 
 Trivia: the header font is [Averia](http://iotic.com/averia/), which is the result of taking the average of every font that comes with most computers.
 
-{% image "https://images.finmoorhouse.com/projects/alyson/stone.jpg" "An image from the website" %}
+{% img "projects/alyson/stone.jpg" "An image from the website" %}
 
 ### Refundraising
 
@@ -46,7 +46,7 @@ I made a [grocery list app](https://fin-shopping-list.herokuapp.com/) for my fam
 
 I used [React](https://reactjs.org/), [Redux](https://redux.js.org/introduction/getting-started), [Webpack](https://webpack.js.org/), React-Router, and [Firebase](https://firebase.google.com/).
 
-{% image "https://images.finmoorhouse.com/projects/shopping-list/mockup.jpg" "A mockup of the shopping list app" %}
+{% img "projects/shopping-list/mockup.jpg" "A mockup of the shopping list app" %}
 
 Making this app taught me [Hofstadter’s Law](https://en.wikipedia.org/wiki/Hofstadter's_law):
 

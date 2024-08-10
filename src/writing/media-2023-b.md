@@ -25,7 +25,7 @@ I keep track of what I read on [Goodreads](https://www.goodreads.com/user/show/3
 - {% note '[Infrastructure: The Book of Everything for the Industrial Landscape](https://www.goodreads.com/book/show/236866.Infrastructure) — Brian Hayes' %}Not quite finished but sure to be my favourite book of the year. It has a [nice website here](http://industrial-landscape.com).{% image 'http://industrial-landscape.com/art/pole-xformers-hydrant-cell-tower-1000-501.jpg' 'Image from Infrastructure' %}{% endnote %}
 - [Bach and the High Baroque](https://www.goodreads.com/book/show/51976443-bach-and-the-high-baroque) — Robert Greenberg
 - [Empire of Pain: The Secret History of the Sackler Dynasty](https://www.goodreads.com/book/show/43868109-empire-of-pain) and [Say Nothing: A True Story of Murder and Memory in Northern Ireland](https://www.goodreads.com/book/show/40163119-say-nothing) — Patrick Radden Keefe
-- {% note '[The Grasshopper: Games, Life and Utopia](https://www.goodreads.com/book/show/803547.The_Grasshopper) — Bernard Suits' %}Philosopher writes on the nature of games in Aesop/Carroll-style dialogues, plus whimsical illustrations:{% image "https://images.finmoorhouse.com/writing/media-2023-b/grasshopper-2.jpg", "Grasshopper" %} {% endnote %}
+- {% note '[The Grasshopper: Games, Life and Utopia](https://www.goodreads.com/book/show/803547.The_Grasshopper) — Bernard Suits' %}Philosopher writes on the nature of games in Aesop/Carroll-style dialogues, plus whimsical illustrations:{% image "writing/media-2023-b/grasshopper-2.jpg", "Grasshopper" %} {% endnote %}
 - [Radical Compassion: Learning to Love Yourself and Your World with the Practice of RAIN](https://www.goodreads.com/book/show/45358321-radical-compassion) — Tara Brach
 - [The Son Also Rises: Surnames and the History of Social Mobility](https://www.goodreads.com/book/show/18730716-the-son-also-rises) — Gregory Clark
 - {% note '[Elon Musk](https://www.goodreads.com/book/show/122765395-elon-musk) — Walter Isaacson' %}I felt slightly sick reading the Twitter story, like being strapped into a ride I wanted to get off. Partly that might have been just how recent this story was — we are talking less than a _year_ old — and much of it still unfolding. And partly it is some awareness, given what else of the picture we get of Musk, that all this money and energy might have been diverted to something great. Bottled mood of [Uncut Gems](https://letterboxd.com/film/uncut-gems/).{% endnote %}
@@ -59,14 +59,14 @@ Albums I most recommend from the last year:
 ### New
 
 - [Weils](https://open.spotify.com/artist/0zrIv1lGwkDejbaXWXTxxw) — [Fugue State](https://open.spotify.com/album/6GcFq98JsNeZdcq0jcUrq7?si=NpbrgbqmRDq_ekjOIOdsoA&nd=1&dlsi=186c806adda74b37) (2022)
-- {% note '[DJ Sabrina the Teenage DJ](https://rateyourmusic.com/artist/dj-sabrina-the-teenage-dj) - *[Destiny](https://rateyourmusic.com/release/album/dj-sabrina-the-teenage-dj/destiny/)* (2023)' %}4 hours of sample-heavy house with a kind of "endless neon-lit 90s pool party" vibe. DJSTTDJ mentioned in some kind of live chat that she took after Phil Spector's '[wall of sound](https://en.wikipedia.org/wiki/Wall_of_Sound)' technique, and 'wall of sound' is apt.{% image "https://images.finmoorhouse.com/writing/media-2023-b/sabrina.jpg", "Sabrina" %}{% endnote %}
+- {% note '[DJ Sabrina the Teenage DJ](https://rateyourmusic.com/artist/dj-sabrina-the-teenage-dj) - *[Destiny](https://rateyourmusic.com/release/album/dj-sabrina-the-teenage-dj/destiny/)* (2023)' %}4 hours of sample-heavy house with a kind of "endless neon-lit 90s pool party" vibe. DJSTTDJ mentioned in some kind of live chat that she took after Phil Spector's '[wall of sound](https://en.wikipedia.org/wiki/Wall_of_Sound)' technique, and 'wall of sound' is apt.{% image "writing/media-2023-b/sabrina.jpg", "Sabrina" %}{% endnote %}
 - [7038634357](https://rateyourmusic.com/artist/7038634357) - *[Neo Seven](https://rateyourmusic.com/release/album/7038634357/neo-seven/)* (2023)
 - [Ki Oni](https://rateyourmusic.com/artist/ki_oni) - *[A Leisurely Swim to Everlasting Life](https://rateyourmusic.com/release/album/ki-oni/a-leisurely-swim-to-everlasting-life/)* (2023)
 - Sissoko, Ségal, Parisien, Peirani - *[Les égarés](https://rateyourmusic.com/release/album/sissoko-segal-parisien-peirani/les-egares/)* (2023)
 - [Patrick Shiroishi](https://rateyourmusic.com/artist/patrick-shiroishi) - *[Evergreen](https://rateyourmusic.com/release/album/patrick-shiroishi/evergreen/)* (2022)
 - [Hayden Pedigo](https://rateyourmusic.com/artist/hayden_pedigo) - *[The Happiest Times I Ever Ignored](https://rateyourmusic.com/release/album/hayden-pedigo/the-happiest-times-i-ever-ignored/)* (2023)
 - [Titanic](https://rateyourmusic.com/artist/titanic-2) - *[Vidrio](https://rateyourmusic.com/release/album/titanic/vidrio/)* (2023)
-- {% note '[André 3000](https://rateyourmusic.com/artist/andre-3000) - *[New Blue Sun](https://rateyourmusic.com/release/album/andre-3000/new-blue-sun/)* (2023)' %}"André 3000 pivoting to new age ambient music wasn't on my 2023 bingo card" etc etc, but this is really nice by its own rights.{% image "https://images.finmoorhouse.com/writing/media-2023-b/andre-3000.jpg", "André" %}{% endnote %}
+- {% note '[André 3000](https://rateyourmusic.com/artist/andre-3000) - *[New Blue Sun](https://rateyourmusic.com/release/album/andre-3000/new-blue-sun/)* (2023)' %}"André 3000 pivoting to new age ambient music wasn't on my 2023 bingo card" etc etc, but this is really nice by its own rights.{% image "writing/media-2023-b/andre-3000.jpg", "André" %}{% endnote %}
 - [Kara Jackson](https://rateyourmusic.com/artist/kara-jackson) - *[Why Does the Earth Give Us People to Love?](https://rateyourmusic.com/release/album/kara-jackson/why-does-the-earth-give-us-people-to-love/)* (2023)
 
 ### Jazz
@@ -86,7 +86,7 @@ Albums I most recommend from the last year:
 
 ### Electronic and ambient
 
-- {% note "[Terry Riley](https://rateyourmusic.com/artist/terry-riley) - *[In C](https://rateyourmusic.com/release/album/terry-riley/in-c/)* (1968)"%}Premise: "53 musical snippets are to be played in order with each snippet being repeated as many times as each musician sees fit for his or her instrument and, at least in theory, without regard to what any other musician in the ensemble is doing."{% image 'https://images.finmoorhouse.com/writing/media-2023-b/riley.jpg' 'Building a Better World' %}{% endnote %} and {% note "*[You're Nogood](https://rateyourmusic.com/release/album/terry-riley/youre-nogood/)* (2000)" %}Mind-bending 'plunderphonics' forerunner, a year before [Disintegration Loops](https://rateyourmusic.com/release/album/william-basinski/the-disintegration-loops/).{% endnote %}
+- {% note "[Terry Riley](https://rateyourmusic.com/artist/terry-riley) - *[In C](https://rateyourmusic.com/release/album/terry-riley/in-c/)* (1968)"%}Premise: "53 musical snippets are to be played in order with each snippet being repeated as many times as each musician sees fit for his or her instrument and, at least in theory, without regard to what any other musician in the ensemble is doing."{% image 'writing/media-2023-b/riley.jpg' 'Building a Better World' %}{% endnote %} and {% note "*[You're Nogood](https://rateyourmusic.com/release/album/terry-riley/youre-nogood/)* (2000)" %}Mind-bending 'plunderphonics' forerunner, a year before [Disintegration Loops](https://rateyourmusic.com/release/album/william-basinski/the-disintegration-loops/).{% endnote %}
 - [British Sea Power](https://rateyourmusic.com/artist/sea-power) - *[Disco Elysium](https://rateyourmusic.com/release/album/british-sea-power/disco-elysium/)* (2019)
 - [Vangelis](https://rateyourmusic.com/artist/vangelis) - *[Blade Runner](https://rateyourmusic.com/release/album/vangelis/blade-runner/)* (1994)
 - [Space](https://rateyourmusic.com/artist/space-3) - *[The Best Of](https://rateyourmusic.com/release/comp/space/the-best-of/)* (2009)
@@ -94,7 +94,7 @@ Albums I most recommend from the last year:
 - [青葉市子 [Ichiko Aoba\]](https://rateyourmusic.com/artist/青葉市子) - *[0](https://rateyourmusic.com/release/album/青葉市子/0/)* (2013)
 - [death's dynamic shroud.wmv](https://rateyourmusic.com/artist/deaths-dynamic-shroud) - *[I'll Try Living Like This](https://rateyourmusic.com/release/album/deaths-dynamic-shroud_wmv/ill-try-living-like-this/)* (2015)
 - [SkyTwoHigh](https://rateyourmusic.com/artist/skytwohigh) - *[歌舞伎町冒険](https://rateyourmusic.com/release/album/skytwohigh/歌舞伎町冒険/)* (2020)
-- {% note '猫 シ Corp. & t e l e p a t h - *[Building a Better World](https://rateyourmusic.com/release/album/猫-シ-corp-and-t-e-l-e-p-a-t-h/building-a-better-world/)* (2019)' %}I like ambient music that is modelled — per and the album art and title — around an imaginary place.{% image 'https://images.finmoorhouse.com/writing/media-2023-b/better-world.jpg' 'Building a Better World' %}{% endnote %}
+- {% note '猫 シ Corp. & t e l e p a t h - *[Building a Better World](https://rateyourmusic.com/release/album/猫-シ-corp-and-t-e-l-e-p-a-t-h/building-a-better-world/)* (2019)' %}I like ambient music that is modelled — per and the album art and title — around an imaginary place.{% image 'writing/media-2023-b/better-world.jpg' 'Building a Better World' %}{% endnote %}
 
 ### Classical / orchestral
 
@@ -102,7 +102,7 @@ Albums I most recommend from the last year:
 - [Le Mystère des Voix Bulgares](https://rateyourmusic.com/artist/le-mystere-des-voix-bulgares) - *[Le mystère des voix bulgares : volume 1](https://rateyourmusic.com/release/album/le-mystere-des-voix-bulgares/le-mystere-des-voix-bulgares-volume-1/)* (1975)
 - [Robert Ashley](https://rateyourmusic.com/artist/robert-ashley-2) - *[Automatic Writing](https://rateyourmusic.com/release/album/robert-ashley/automatic-writing/)* (1979), *[Perfect Lives](https://rateyourmusic.com/release/album/robert-ashley-blue-gene-tyranny-jill-kroesen-david-van-tieghem/perfect-lives-an-opera-for-television-by-robert-ashley/)* (1992)
 - [Nils Frahm](https://rateyourmusic.com/artist/nils-frahm) - *[All Melody](https://rateyourmusic.com/release/album/nils-frahm/all-melody/)* (2018)
-- {% note '[The Moody Blues With The London Festival Orchestra](https://rateyourmusic.com/artist/the-moody-blues) - *[Days of Future Passed](https://rateyourmusic.com/release/album/the-moody-blues-with-the-london-festival-orchestra/days-of-future-passed-16/)* (1967)' %}Baroque proto prog, reminds me of [Yes](https://rateyourmusic.com/release/album/yes/close-to-the-edge/).{% image "https://images.finmoorhouse.com/writing/media-2023-b/days-of-future-passed.jpg", "Days of Future Passed" %}{% endnote %}
+- {% note '[The Moody Blues With The London Festival Orchestra](https://rateyourmusic.com/artist/the-moody-blues) - *[Days of Future Passed](https://rateyourmusic.com/release/album/the-moody-blues-with-the-london-festival-orchestra/days-of-future-passed-16/)* (1967)' %}Baroque proto prog, reminds me of [Yes](https://rateyourmusic.com/release/album/yes/close-to-the-edge/).{% image "writing/media-2023-b/days-of-future-passed.jpg", "Days of Future Passed" %}{% endnote %}
 - {% note "Glenn Gould's 1981 [Goldberg Variations](https://rateyourmusic.com/release/album/glenn-gould/the-goldberg-variations-9/)" %}Tyler Cowen makes the case ([here](https://www.econtalk.org/tyler-cowen-on-the-goat-of-economics/#audio-highlights) and [here](https://marginalrevolution.com/marginalrevolution/2023/09/is-bach-the-greatest-achiever-of-all-time.html)) for Bach as strong contender for 'greatest achiever of all time'.{% endnote %}
 - [Béla Fleck](https://rateyourmusic.com/artist/bela_fleck), [Zakir Hussain](https://rateyourmusic.com/artist/zakir-hussain), [Edgar Meyer](https://rateyourmusic.com/artist/edgar-meyer), [Detroit Symphony Orchestra](https://rateyourmusic.com/artist/detroit-symphony-orchestra) & [Leonard Slatkin](https://rateyourmusic.com/artist/leonard-slatkin) - *[The Melody of Rhythm](https://rateyourmusic.com/release/album/bela-fleck-zakir-hussain-edgar-meyer-detroit-symphony-orchestra-leonard-slatkin/the-melody-of-rhythm/)* (2009)
 
@@ -113,7 +113,7 @@ Albums I most recommend from the last year:
 - [This mix, mostly disco](https://www.youtube.com/watch?v=4nvewes8Inc)
 - [RXKNephew](https://rateyourmusic.com/artist/rxknephew) - *[Crack Therapy 3](https://rateyourmusic.com/release/mixtape/rxknephew/crack-therapy-3/)* (2020)
 - [DJ Rozwell](https://rateyourmusic.com/artist/dj-rozwell) - *[None of This Is Real](https://rateyourmusic.com/release/album/dj-rozwell/none-of-this-is-real/)* (2014)
-- {% note '[Denzel Curry](https://rateyourmusic.com/artist/denzel-curry) - *[Melt My Eyez See Your Future](https://rateyourmusic.com/release/album/denzel-curry/melt-my-eyez-see-your-future/)* (2022)' %}Zuu and TA13OO were both great but I think this is his best.{% image "https://images.finmoorhouse.com/writing/media-2023-b/denzel.jpg", "Denzel" %}{% endnote %}
+- {% note '[Denzel Curry](https://rateyourmusic.com/artist/denzel-curry) - *[Melt My Eyez See Your Future](https://rateyourmusic.com/release/album/denzel-curry/melt-my-eyez-see-your-future/)* (2022)' %}Zuu and TA13OO were both great but I think this is his best.{% image "writing/media-2023-b/denzel.jpg", "Denzel" %}{% endnote %}
 ### Everything else
 
 {% note 'Rock / folk / punk / Latin adjacent / MPB / soul and such.' %}Yes, this is a mess.{% endnote %}
@@ -134,7 +134,7 @@ Albums I most recommend from the last year:
 - [Albert King](https://rateyourmusic.com/artist/albert-king) - *[Born Under a Bad Sign](https://rateyourmusic.com/release/album/albert-king/born-under-a-bad-sign/)* (1967)
 - [Roberta Flack](https://rateyourmusic.com/artist/roberta_flack) - *[Chapter Two](https://rateyourmusic.com/release/album/roberta-flack/chapter-two/)* (1970)
 - [Roberta Flack](https://rateyourmusic.com/artist/roberta_flack) - *[First Take](https://rateyourmusic.com/release/album/roberta-flack/first-take/)* (1969)
-- {% note '[OKI](https://rateyourmusic.com/artist/oki) - *[Tonkori in the Moonlight](https://rateyourmusic.com/release/comp/oki/tonkori-in-the-moonlight/)* (2022)' %}[Ainu folk music](https://en.wikipedia.org/wiki/Ainu_folk_music). I hadn't listened to any before and it's really nice.{% image "https://images.finmoorhouse.com/writing/media-2023-b/tonkori.jpg", "Tonkori" %}{% endnote %}
+- {% note '[OKI](https://rateyourmusic.com/artist/oki) - *[Tonkori in the Moonlight](https://rateyourmusic.com/release/comp/oki/tonkori-in-the-moonlight/)* (2022)' %}[Ainu folk music](https://en.wikipedia.org/wiki/Ainu_folk_music). I hadn't listened to any before and it's really nice.{% image "writing/media-2023-b/tonkori.jpg", "Tonkori" %}{% endnote %}
 
 ### Music on YouTube
 
@@ -221,5 +221,5 @@ Special mention to [Letterboxd](https://letterboxd.com), the website Goodreads c
 
 Please let me know if you picked something up from this list which you enjoyed!
 
-{% image "https://images.finmoorhouse.com/writing/media-2023-b/dalle-books.png" "Books (DALL-E 3)" %}
+{% image "writing/media-2023-b/dalle-books.png" "Books (DALL-E 3)" %}
 

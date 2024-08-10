@@ -44,7 +44,7 @@ function cloudImageShortcode(path="writing/go-east/seattle-map", alt="An image."
   const cloudinaryPrefix =
     "https://res.cloudinary.com/finmoorhouse/image/upload/";
   // Create a link to the original size image
-  const originalSizeUrl = `${cloudinaryPrefix}q_auto:best,c_limit,w_1800/f_auto/${path}`;
+  const originalSizeUrl = `${cloudinaryPrefix}${path}`;
   const widths = [500, 800, 1200];
   const srcset = widths
     .map(
@@ -53,7 +53,7 @@ function cloudImageShortcode(path="writing/go-east/seattle-map", alt="An image."
     )
     .join(", ");
   const sizes = "(max-width: 600px) 100vw, 600px";
-  const style = "max-width: 100%; height: auto; margin-0"; // I need to do something fancy to prevent portrait orient images filling up the screen
+  const style = "max-width: 100%; max-height: 600px; height: auto; margin-left: auto; margin-right: auto;"; // I need to do something fancy to prevent portrait orient images filling up the screen
   const imageHtml = `<a class="!m-0" href="${originalSizeUrl}" target="_blank"><img
   loading="lazy"
   decoding="async"
@@ -61,8 +61,8 @@ function cloudImageShortcode(path="writing/go-east/seattle-map", alt="An image."
   srcset="${srcset}"
   sizes="${sizes}"
   style="${style}" 
-  class="!m-0"
-  alt="${alt}"></a>`;
+  class="!mb-0 !mt-3 font-sans text-sm bg-flint-400"
+  alt="(Image) ${alt}"></a>`;
   if (caption) {
     const sourceElement = source
       ? ` • <a target="_blank" href="${source}">Source</a>`

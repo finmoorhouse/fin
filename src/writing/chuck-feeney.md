@@ -9,7 +9,7 @@ shareImage: https://images.finmoorhouse.com/writing/chuck-feeney/chuck-feeney.pn
 
 ---
 
-{% image "https://images.finmoorhouse.com/writing/chuck-feeney/chuck-feeney.png" "Chuck Feeney" %}
+{% image "writing/chuck-feeney/chuck-feeney.png" "Chuck Feeney" %}
 
 Philanthropist Chuck Feeney died on October 9, at 92. He founded one of the largest private charitable foundations in history, giving away his entire fortune within his lifetime. He was almost obsessively secretive in his giving, and set a standard of seriousness which inspired the Giving Pledge and many of its pledgers.
 
@@ -37,7 +37,7 @@ So he began to give it away in a piecemeal fashion — $10,000 to the current de
 
 [^1]: The [Carnegie Corporation of New York](https://www.carnegie.org/) remains a major grantmaker on [peace and security work](https://www.carnegie.org/programs/international-peace-and-security/), among other areas.
 
-{% image "https://images.finmoorhouse.com/writing/chuck-feeney/andrew-carnegie.jpg" "Andrew Carnegie" %}
+{% image "writing/chuck-feeney/andrew-carnegie.jpg" "Andrew Carnegie" %}
 
 *Andrew Carnegie*
 

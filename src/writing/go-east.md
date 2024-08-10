@@ -7,6 +7,7 @@ date: 2024-01-14
 shareImage: https://images.finmoorhouse.com/writing/go-east/seattle-map.jpg
 links:
   Substack: https://finmoorhouse.substack.com/p/go-east-from-seattle
+  Hacker News: https://news.ycombinator.com/item?id=40564332
 ---
 
 Here's a [puzzle](https://twitter.com/finmoorhouse/status/1744059290120245347):
@@ -21,7 +22,7 @@ The image below shows your starting point, and the white arrow shows your starti
 
 The rest of this post discusses the answer, so here's your opportunity to make a guess of your own.
 
-{% image 'https://images.finmoorhouse.com/writing/go-east/mercator-start.png' 'The starting point' 'Your starting point and initial direction.' %}
+{% image 'writing/go-east/mercator-start.png' 'The starting point' 'Your starting point and initial direction.' %}
 
 ---
 
@@ -31,7 +32,7 @@ Full transparency: to some extent this is a ‘trick’ question. Make sure you'
 
 And here is the path you take ([high res version](https://images.finmoorhouse.com/writing/go-east/mercator-path.png))[^1]:
 
-{% image 'https://images.finmoorhouse.com/writing/go-east/mercator-path.png' 'The path taken, on Mercator projection' %}
+{% image 'writing/go-east/mercator-path.png' 'The path taken, on Mercator projection' %}
 
 {% endtoggle %}
 [^1]: I made these graphics mostly using the `basemap` [Python package](https://matplotlib.org/basemap/stable/). It's nicely put together and documented.
@@ -46,7 +47,7 @@ Point in *any* direction, and begin walking forward along the surface of the sph
 
 Of course, you'll loop round and return to where you started.
 
-{% image 'https://images.finmoorhouse.com/writing/go-east/ortho-geodesic.png' "The most obvious interpretation of 'straight line'" "The most obvious interpretation of 'straight line'" %}
+{% image 'writing/go-east/ortho-geodesic.png' "The most obvious interpretation of 'straight line'" "The most obvious interpretation of 'straight line'" %}
 
 Notice also, just intuitively, how you'll have walked the full circumference of the sphere: a '[great circle](https://en.wikipedia.org/wiki/Great_circle)'.
 
@@ -56,7 +57,7 @@ In the original puzzle, you might have been imagining traveling a line of consta
 
 But that is *not* a great circle, and so not a straight line: you'd need to be constantly turning left to maintain that path. Travelling laterally means changing direction with respect to the Earth's surface.
 
-{% image 'https://images.finmoorhouse.com/writing/go-east/constant-latitude.png' 'A line of constant latitude' 'A line of constant latitude' %}
+{% image 'writing/go-east/constant-latitude.png' 'A line of constant latitude' 'A line of constant latitude' %}
 
 To give an extreme example: imagine driving in a 10 meter radius around the North Pole. In order to always be traveling east — maintaining the same latitude — you'd need to be steering left the whole time.
 
@@ -64,13 +65,13 @@ Here's a better perspective: looking at Seattle centered on a globe, any straigh
 
 So with north pointing directly up, the path you take is a straight line directly to the right.
 
-{% image 'https://images.finmoorhouse.com/writing/go-east/ortho-east.png' 'The starting point' %}
+{% image 'writing/go-east/ortho-east.png' 'The starting point' %}
 
 Being a great circle, exactly half of the path you travel is in the Northern Hemisphere, and half in the Southern Hemisphere. It swoops under Africa to arrive at Australia somewhere near Perth[^2].
 
 [^2]: Does it matter that the Earth is not a perfect sphere? It does not. It turns out the Earth is very roughly an ['oblate spheroid'](https://en.wikipedia.org/wiki/Figure_of_the_Earth#Ellipsoid_of_revolution): the kind of shape you get by rotating an ellipse about its shorter axis. [Here's a coloured view](https://upload.wikimedia.org/wikipedia/commons/6/69/Earth2014shape_SouthAmerica_small.jpg) of Earth's surface height relative to its centre, as opposed to mean sea level. But Earth is only about 0.3% shorter from pole to pole compared to if it where a sphere, which is not enough to change the answer.
 
-{% image 'https://images.finmoorhouse.com/writing/go-east/ortho-australia.png' 'Arriving at Australia' %}
+{% image 'writing/go-east/ortho-australia.png' 'Arriving at Australia' %}
 
 One way to see this would be to pin a string to Seattle on a globe, and stretch it taut over the globe. Every path from Seattle to wherever you stretch the string is a geodesic; being the shortest line on the surface of the globe to that point. Now stretch the string so that it emerges from Seattle going east: you'll see it avoids land until Australia.
 
@@ -78,13 +79,13 @@ Of course, part of the trickiness here is that straight lines on the Earth are n
 
 That's why the shortest flight path between two cities often looks unnecessarily curved on a map, such as the map you see on an airplane.
 
-{% image 'https://images.finmoorhouse.com/writing/go-east/flight-path.png' 'A flight path, orthographic projection' %}
+{% image 'writing/go-east/flight-path.png' 'A flight path, orthographic projection' %}
 
-{% image 'https://images.finmoorhouse.com/writing/go-east/rhumb-line.webp' 'A flight path, Mercator projection' %}
+{% image 'writing/go-east/rhumb-line.webp' 'A flight path, Mercator projection' %}
 
 But there are some exceptions. Any straight line on a '[gnomonic projection](https://en.wikipedia.org/wiki/Gnomonic_projection)' (pictured) is an arc of a great circle (straight line) on a sphere. [Here's a link](https://images.finmoorhouse.com/writing/go-east/gnomonic.png) to a full-res version of the image below.
 
-{% image 'https://images.finmoorhouse.com/writing/go-east/gnomonic.png' 'The starting point' %}
+{% image 'writing/go-east/gnomonic.png' 'The starting point' %}
 
 But how natural to think a straight line on a more familiar map is a straight line on the surface of the Earth! And so, how natural to answer "France" over "Australia".
 

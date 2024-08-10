@@ -16,7 +16,7 @@ Dr SJ Beard is a research associate at the [Centre for the Study of Existential 
 
 In our conversation, we discuss the influence of the late philosopher Derek Parfit, and how his writing motivated the modern existential risk movement. We ask about how research at CSER gets done, how to interpret probability estimates about major one-off events like global catastrophes, and how climate change is most likely to precipitate a global catastrophe. Lastly, SJ reflects on his experience running as a political candidate, how incentives in academia may be fixed, and what COVID has taught us about the fragility of global systems. In this article, we summarise and illustrate these ideas; providing both extra examples and further reading.
 
-{% image "https://images.finmoorhouse.com/writing/existential-risk/images/simon.jpg", "SJ Beard" %}
+{% image "writing/existential-risk/images/simon.jpg", "SJ Beard" %}
 
 *Source: Arts and Humanities Research Council*
 
@@ -65,7 +65,7 @@ SJ's engagement with philosophy began with [Civilisation I](https://en.wikipedia
 
 > One of the things I noticed quite early on was that if you were the first person to research philosophy, you got another tech for free... having had that seminal experience, I decided — whatever this thing was  — that this was something I wanted to do.
 
-{% image "https://images.finmoorhouse.com/writing/existential-risk/images/civ.png", "Civilization I" %}
+{% image "writing/existential-risk/images/civ.png", "Civilization I" %}
 
 At age 11 or 12, SJ learned about the PPE course at Oxford University, and "that sounded to me like the degree you should study if you wanted to be good at Civilisation or to do the grand things that Civilisation talks about and plays with". He earned a place on the course — at which point, "I was no longer thinking about life in terms of a video game... I still really liked to do philosophy... but I would really really like to find a way that philosophy can be useful and worthwhile, because it seemed to me that a huge amount of what philosophers talked about wasn't useful or worthwhile."
 
@@ -87,7 +87,7 @@ And it all started out with a game mechanic in the first Civilisation game!
 
 In the interview, we asked about why Parfit's writing was so influential — on SJ personally, and for the world of moral philosophy in general. Why was Parfit's approach special? To answer this question, SJ suggested, we need to consider his biography.
 
-{% image "https://images.finmoorhouse.com/writing/existential-risk/images/parfit.jpg", "Derek Parfit" %}
+{% image "writing/existential-risk/images/parfit.jpg", "Derek Parfit" %}
 
 *Source: [Steve Pyke](https://www.pyke-eye.com/Published-Books/Philosophers-Volume-I/1/caption)*
 
@@ -97,7 +97,7 @@ Parfit originally intended to study history. He was, "by all accounts, one of th
 
 This, for SJ, explains how Parfit prodigious creative force: "he was able to see a problem and just love it as a problem." So many problems Parfit addressed — from the nature of personal identity, issues in distributive ethics, the search for a 'Theory X' of population ethics, and many more — amounted to a "bottomless pit of doom". But, SJ reflects, that was almost the point: "in exploring this bottomless pit of doom, and its intricate caves, you find many hidden treasures".
 
-{% image "https://images.finmoorhouse.com/writing/existential-risk/images/allsouls.jpg", "All Souls college, Oxford" %}
+{% image "writing/existential-risk/images/allsouls.jpg", "All Souls college, Oxford" %}
 
 When the Victorian utilitarian moral philosopher Henry Sidgwick was asked about his book, Parfit once related, “Sidgwick said that its first word was Ethics, and its last failure. This could have been the last word of my [book]." And yet, SJ adds, "for any young philosopher that is such a wonderful thing to come across". The comparison between Parfit and Sigwick is a surprisingly fruitful one. As SJ relates, it was often said of Sidgwick that
 
@@ -121,7 +121,7 @@ Let's get a sense of how this happens. It seems obvious that between two worlds 
 
 Start with some population A, where everyone in A has a very high quality of life. Now consider a population A+, which includes all the people in A with the exact same quality of life, *plus* an extra group of people of equal size and very slightly lower quality of life — though still worth living. If you could choose to bring about either A or A+, which would you choose? If you agreed to *Mere Addition*, you should think that A+ is better. Now take A+, and consider a population B- of equal size to A+, but where the two distinct groups now have an equal average quality of life. To sweeten the deal , suppose in addition that the average quality of life of the best-off (the initial) group is lowered *less* than the worse-off group's quality of life is raised, such that both the average and total quality of life is higher. If you agreed to *Equality,* you should agree that B- is even better than A+. Finally, let population B just be the population formed where these two groups in B- are merged to form a single group. Nobody's life changes at all here — it's really a difference without a change. So B is equally as good as B-. Now consider the diagram below. The height of each rectangle represents the average quality of life of the group it represents above the point where a life is not worth living. The width represents the number of people — the size of the group. If you agreed to *Equality*, *Mere Addition*, and *Transitivity*, you have agreed that B is strictly better than A.
 
-{% image "https://images.finmoorhouse.com/writing/existential-risk/images/rp.png", "The repugnant conclusion" %}
+{% image "writing/existential-risk/images/rp.png", "The repugnant conclusion" %}
 
 Now, notice that no part of the above argument relied on any details about the precise size of each group, or the precise differences in average quality of life — as long as it is always good enough that every new life is still worth living. What we agreed was that, for any rectangle — any population of people with lives worth living — there is always some wider, shorter rectangle — some population of people with *more* people and a *lower* quality of life — which is better than the original population. Now imagine repeating the argument for B, to yield population C. We can do this indefinitely. Let's call the limiting case Z. Z is a vast population of people all living lives *just barely* worth living. Since we must prefer each new population to the previous one at every step (as long as we agree to *Equality*, *Mere Addition*, and *Transitivity*), then we must prefer Z to A. Does that sound right to you? Probably not — most people are convinced that a world in which lots of people live amazing lives is better than a world in which a staggering number of people all live lives barely worth living — lives characterised by 'muzak and potatoes', in Parfit's memorable expression. This unsettling result is called the [Repugnant Conclusion](https://plato.stanford.edu/entries/repugnant-conclusion/#AccRepCon) for that very reason. You can read more about it in the write-up for our interview with Vasilis Kotsidis on [Rational Choice Theory and the Repugnant Conclusion](https://hearthisidea.com/episodes/vasilis).
 
@@ -187,7 +187,7 @@ As SJ puts it, the challenge for him is that the theories of population ethics h
 
 Despite the relative novelty of bringing modern, rigorous methods to bear on the problems, existential risk research has a rich intellectual heritage. This in contrast to the widely-held perception (according to SJ) that concern for existential risk only emerged at some point in the early 2010s. "That's patently false" he says "people have been worrying about this stuff for centuries".
 
-{% image "https://images.finmoorhouse.com/writing/existential-risk/images/mary-shelley.jpg", "Mary Shelley" %}
+{% image "writing/existential-risk/images/mary-shelley.jpg", "Mary Shelley" %}
 
 *Mary Shelley*
 
@@ -221,7 +221,7 @@ Individuals rely on global systems, but the systems themselves rely on one anoth
 
 > The point we're making with that paper is: if you look at what could go wrong with climate change, the most likely situation is some kind of general systemic collapse of the global order — of complex societies, organised states, global trade... the thing that's going to trigger that isn't one cataclysmic event, this kind of 'Day After Tomorrow' scenario.
 
-{% image "https://images.finmoorhouse.com/writing/existential-risk/images/DAT.webp", "The Day After Tomorrow" %}
+{% image "writing/existential-risk/images/DAT.webp", "The Day After Tomorrow" %}
 
 *The Day After Tomorrow: not likely*
 
@@ -241,7 +241,7 @@ Yet, none of these enormous issues can be tackled by lone researchers, or even g
 
 In order to prioritise work on the most pressing risks, and to understand how various existential risks compare to one another in likelihood, it seems necessary to attribute probabilities to risks. In some cases, this seems harmless enough — for instance, we can narrow the odds of a catastrophic asteroid collision within a given century to within a fairly narrow bound based on records of previous collisions, and the orbits of known '[potentially hazardous asteroids](https://www.jpl.nasa.gov/spaceimages/details.php?id=PIA17041)' (PHAs). We also know something about the effects of such a major collision, because we have good reason to believe that the earth has experienced at least one [previous instance](https://en.wikipedia.org/wiki/Cretaceous%E2%80%93Paleogene_extinction_event), which caused a mass extinction event.
 
-{% image "https://images.finmoorhouse.com/writing/existential-risk/images/orbits.jpg", "Orbits" %}
+{% image "writing/existential-risk/images/orbits.jpg", "Orbits" %}
 
 *Orbits of known PHAs. Source: [NASA](https://www.jpl.nasa.gov/spaceimages/details.php?id=PIA17041)*
 

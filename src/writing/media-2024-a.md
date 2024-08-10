@@ -4,7 +4,7 @@ permalink: /writing/media-2024-a/
 tags:
  - writing
 date: 2024-06-30
-shareImage: https://images.finmoorhouse.com/writing/media-2024-a/abstract-bookshelf.webp
+shareImage: writing/media-2024-a/abstract-bookshelf.webp
 ---
 
 Music, books, and writing I enjoyed from the first half of 2024. Previous lists:
@@ -26,7 +26,7 @@ I keep track of what I read on [Goodreads](https://www.goodreads.com/user/show/3
 - {% note '[Modern Principles of Economics ](https://www.goodreads.com/book/show/6659172-modern-principles-of-economics)' %}I realised recently that all the books about econ I'd read were more like *commentaries on the field of economics*. Actually working through micro 101 was very rewarding and I should have read this book much earlier. The [MRU videos](https://www.youtube.com/@MarginalRevolutionUniversity) are also corny and great.{% endnote %}
 - [Nuclear War: A Scenario ](https://www.goodreads.com/book/show/182733784-nuclear-war) — Annie Jacobsen
 - [Proof and the Art of Mathematics ](https://www.goodreads.com/book/show/51456721-proof-and-the-art-of-mathematics) — Joel David Hamkins
-- {% note '[Pieces of the Action ](https://www.goodreads.com/book/show/14290284-pieces-of-the-action) — Vannevar Bush' %}{% image 'https://pbs.twimg.com/media/FTsoevcX0AMqloL?format=jpg&name=large' 'Alt text' %}{% endnote %}
+- {% note '[Pieces of the Action ](https://www.goodreads.com/book/show/14290284-pieces-of-the-action) — Vannevar Bush' %}{% img 'writing/media-2024-a/apota.jpg' 'Alt text' %}{% endnote %}
 - [The Timeless Way of Building](https://www.goodreads.com/book/show/106728.The_Timeless_Way_of_Building) — Christopher Alexander
 - [Not the End of the World: How We Can Be the First Generation to Build a Sustainable Planet ](https://www.goodreads.com/book/show/145624737-not-the-end-of-the-world) — Hannah Ritchie
 - [Understanding Japan: A Cultural History ](https://www.goodreads.com/book/show/26038087-understanding-japan) and [The Rise of Modern Japan ](https://www.goodreads.com/book/show/59604052-the-rise-of-modern-japan) — Mark Ravina
@@ -81,10 +81,10 @@ I [log](https://rateyourmusic.com/collection/finm/r0.5-5.0,ss.dd) most things on
 
 - [Vladimir Ashkenazy](https://rateyourmusic.com/artist/vladimir_ashkenazy) - _[4 Ballades; 4 Scherzi](https://rateyourmusic.com/release/comp/vladimir-ashkenazy/4-ballades-4-scherzi/)_ (Chopin piano pieces) (2000)
 - [Glenn Gould](https://rateyourmusic.com/artist/glenn_gould) - _[Glenn Gould Plays Bach Vol. 3](https://rateyourmusic.com/release/comp/glenn-gould/glenn-gould-plays-bach-vol-3/)_ (2015)
-- {% note '[Robert Ashley](https://rateyourmusic.com/artist/robert-ashley-2) - *[Perfect Lives](https://rateyourmusic.com/release/album/robert-ashley/perfect-lives-1/)*  (1992)' %}Per Tyler Cowen's recommendation in [this excellent podcast episode](https://marginalrevolution.com/marginalrevolution/2023/10/music-podcast-of-me-djing-for-rick-rubin.html) where he DJs for Rick Rubin.{% image 'https://images.finmoorhouse.com/writing/media-2024-a/perfect-lives.jpg' 'Perfect Lives' %}{% endnote %}
+- {% note '[Robert Ashley](https://rateyourmusic.com/artist/robert-ashley-2) - *[Perfect Lives](https://rateyourmusic.com/release/album/robert-ashley/perfect-lives-1/)*  (1992)' %}Per Tyler Cowen's recommendation in [this excellent podcast episode](https://marginalrevolution.com/marginalrevolution/2023/10/music-podcast-of-me-djing-for-rick-rubin.html) where he DJs for Rick Rubin.{% img 'writing/media-2024-a/perfect-lives.jpg' 'Perfect Lives' %}{% endnote %}
 - [Six Brandenburg Concertos, No. 4 in G Major, BWV 1049](spotify:track:2EXxUH5ORB9v6FChtDd7jK) and [No. 5 in D Major, BWV 1050](spotify:track:6GXfh4dqSqhSyL2BvoACK7) (Rinaldo Alessandrini, Concerto Italiano)
 - [András Schiff](https://rateyourmusic.com/artist/andras_schiff) performs [Mozart's Piano Sonatas](https://rateyourmusic.com/release/album/andras-schiff/the-piano-sonatas/) (1995)
-- {% note "[Africa Express](https://rateyourmusic.com/artist/africa_express) - *[Africa Express Presents... Terry Riley's In C Mali](https://rateyourmusic.com/release/album/africa-express/africa-express-presents-terry-rileys-in-c-mali/)*  (2014)" %}{% image 'https://images.finmoorhouse.com/writing/media-2024-a/in-c.jpg' 'In C' %}{% endnote %} ([Spotify link](spotify:track:4aH7l9vvH7MB4qAJA9LkMV))
+- {% note "[Africa Express](https://rateyourmusic.com/artist/africa_express) - *[Africa Express Presents... Terry Riley's In C Mali](https://rateyourmusic.com/release/album/africa-express/africa-express-presents-terry-rileys-in-c-mali/)*  (2014)" %}{% img 'writing/media-2024-a/in-c.jpg' 'In C' %}{% endnote %} ([Spotify link](spotify:track:4aH7l9vvH7MB4qAJA9LkMV))
 
 ### Hip hop
 
@@ -94,7 +94,7 @@ I [log](https://rateyourmusic.com/collection/finm/r0.5-5.0,ss.dd) most things on
 ### Folk
 
 - [Elizabeth Cotten](https://rateyourmusic.com/artist/elizabeth-cotten) - _[Folksongs and Instrumentals With Guitar](https://rateyourmusic.com/release/album/elizabeth-cotten/folksongs-and-instrumentals-with-guitar/)_ (1958)
-- {% note '[Mississippi John Hurt](https://rateyourmusic.com/artist/mississippi-john-hurt) - _[Today!](https://rateyourmusic.com/release/album/mississippi-john-hurt/today/)_ (1966)' %}Start with [this recording](https://www.youtube.com/watch?v=85BvT5X6WSo) of MJH playing a sweet version of [Lonesome Valley](https://en.wikisource.org/wiki/Lonesome_Valley). His first recordings flopped and he [only saw success](https://en.wikipedia.org/wiki/Mississippi_John_Hurt) when he was found at age 70 by a music writer. All his popular recordings are from age 70 to his death at 73.{% image 'https://images.finmoorhouse.com/writing/media-2024-a/mjh.jpg' 'MJHt' %}{% endnote %}
+- {% note '[Mississippi John Hurt](https://rateyourmusic.com/artist/mississippi-john-hurt) - _[Today!](https://rateyourmusic.com/release/album/mississippi-john-hurt/today/)_ (1966)' %}Start with [this recording](https://www.youtube.com/watch?v=85BvT5X6WSo) of MJH playing a sweet version of [Lonesome Valley](https://en.wikisource.org/wiki/Lonesome_Valley). His first recordings flopped and he [only saw success](https://en.wikipedia.org/wiki/Mississippi_John_Hurt) when he was found at age 70 by a music writer. All his popular recordings are from age 70 to his death at 73.{% img 'writing/media-2024-a/mjh.jpg' 'MJHt' %}{% endnote %}
 - [Tia Blake](https://rateyourmusic.com/artist/tia-blake) - _[Folksongs & Ballads](https://rateyourmusic.com/release/album/tia-blake/folksongs-and-ballads/)_ (1971)
 - [King Creosote](https://rateyourmusic.com/artist/king-creosote) & [Jon Hopkins](https://rateyourmusic.com/artist/jon-hopkins) - *[Diamond Mine](https://rateyourmusic.com/release/album/king-creosote-jon-hopkins/diamond-mine/)*  (2011)
 
@@ -115,7 +115,7 @@ I [log](https://rateyourmusic.com/collection/finm/r0.5-5.0,ss.dd) most things on
 - [Wild Up](https://rateyourmusic.com/artist/wild-up) - *[Julius Eastman Vol. 1: Femenine](https://rateyourmusic.com/release/album/wild-up/julius-eastman-vol-1-femenine/)*  (2021)
 - [Jai Ramachandra](spotify:track:6CCub4IKJBu9N56Zy5uiZr) ([Kirtan: Turiya Sings](spotify:album:4tAK7NuAunKHYEiof5ikyG)) — Alice Coltrane
 - [Daniel Brandt](https://rateyourmusic.com/artist/daniel-brandt) and co - _[Six Pianos / Keyboard Study #1](https://rateyourmusic.com/release/album/daniel-brandt-hauschka-paul-frick-gregor-schwellenbach-lukas-vogel-erol-sarp-john-kameel-farah/six-pianos-keyboard-study-1/)_ (2016) (especially [Keyboard Study #1](spotify:track:1w9GGVy7WJAUvxVQAv47o2))
-- {% note "高田みどり [Midori Takada](https://rateyourmusic.com/artist/高田みどり) - *[Through the Looking Glass](https://rateyourmusic.com/release/album/高田みどり/through-the-looking-glass/)*  (1983)" %} {% image 'https://images.finmoorhouse.com/writing/media-2024-a/looking-glass.webp' 'Alt text' %} {% endnote %}
+- {% note "高田みどり [Midori Takada](https://rateyourmusic.com/artist/高田みどり) - *[Through the Looking Glass](https://rateyourmusic.com/release/album/高田みどり/through-the-looking-glass/)*  (1983)" %} {% img 'writing/media-2024-a/looking-glass.webp' 'Alt text' %} {% endnote %}
 - [Halo Flip](spotify:track:1s1gephZljhEtwZbW8uAN8) ([The Road To Hell Is Paved With Good Intentions](spotify:album:6geXPbIGVA3lSoA9CrQGhR)) — Vegyn, Lauren Auder
 - [So Blue](spotify:track:0oLurbsZupVj0mUCiWJx2Z) ([Three](spotify:album:7mpTSR6E855VhdCeoPgpCF)) — Four Tet
 
@@ -129,7 +129,7 @@ I [log](https://rateyourmusic.com/collection/finm/r0.5-5.0,ss.dd) most things on
 
 ## Films and videos
 
-- {% note '[The Curse](https://letterboxd.com/film/the-curse-2023/) (2023)' %}As far as I can tell this is something entirely new in popular TV — a kind of unrelenting cringe horror for which I have no reference points and which has zero obvious mainstream appeal. Yet more than anything I watched this year, _The Curse_ stayed with me. It got inside my dreams.{% image 'https://images.finmoorhouse.com/writing/media-2024-a/curse.jpg' 'Alt text' %}{% endnote %}
+- {% note '[The Curse](https://letterboxd.com/film/the-curse-2023/) (2023)' %}As far as I can tell this is something entirely new in popular TV — a kind of unrelenting cringe horror for which I have no reference points and which has zero obvious mainstream appeal. Yet more than anything I watched this year, _The Curse_ stayed with me. It got inside my dreams.{% img 'writing/media-2024-a/curse.jpg' 'Alt text' %}{% endnote %}
 - {% note '[The Miracle Sudoku](https://www.youtube.com/watch?v=yKf9aUIxdb4)' %}A gentle-mannered retired investment banker narrates himself solving a sudoku, and it is *completely captivating*.{% endnote %}
 - [Norm Talks Space](https://www.youtube.com/watch?v=pL1bRxGi4dc)
 - [The Search for the Longest Infinite Chess Game](https://www.youtube.com/watch?v=b-Bb_TyhC1A)
@@ -155,4 +155,4 @@ Please [let me know](https://www.admonymous.co/fin) if you picked something up f
 
 
 
-{% image 'https://images.finmoorhouse.com/writing/media-2024-a/abstract-bookshelf.webp' 'Alt text' %}
+{% img 'writing/media-2024-a/abstract-bookshelf.webp' 'Alt text' %}

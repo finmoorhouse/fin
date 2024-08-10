@@ -34,7 +34,7 @@ GFI is working towards that outcome through a number of channels:
 
 GFI conducts this work across six geographic regions: the US, Brazil, India, Israel, Europe, and Asia Pacific.
 
-{% image "https://images.finmoorhouse.com/writing/clean-meat/images/cultivated-meat.jpg", "Cultivated meat (source: Wired)" %}
+{% image "writing/clean-meat/images/cultivated-meat.jpg", "Cultivated meat (source: Wired)" %}
 
 ## Why Replace Animal Agriculture?
 
@@ -80,13 +80,13 @@ This holds globally, as the charts below show.
 
 <iframe src="https://ourworldindata.org/grapher/land-use-protein-poore" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
-{% image "https://images.finmoorhouse.com/writing/clean-meat/images/land-use.png", "Land use (source: Our World in Data)" %}
+{% image "writing/clean-meat/images/land-use.png", "Land use (source: Our World in Data)" %}
 
 > You are literally talking about 9 times as much land, 9 times as much water, 9 times as many pesticides and herbicides.
 
 The numbers pertaining to water use are similarly stark. A [2013 study](https://www.sciencedirect.com/science/article/pii/S2212371713000024) found that all forms of agriculture combined use up to 92% of the world's freshwater. While [growing vegetables](https://waterfootprint.org/en/water-footprint/product-water-footprint/water-footprint-crop-and-animal-products/) requires around 400 litres of water per kilogram of edible output, beef (for instance) requires 15,000 litres.
 
-{% image "https://images.finmoorhouse.com/writing/clean-meat/images/forests-and-fields.jpg", "Farms and pastureland carve their way into tropical forestland in the Western Brazilian State of Rondônia." %}
+{% image "writing/clean-meat/images/forests-and-fields.jpg", "Farms and pastureland carve their way into tropical forestland in the Western Brazilian State of Rondônia." %}
 
 *[Forest and Fields](https://commons.wikimedia.org/wiki/File:Forest_and_Fields,_Rond%C3%B4nia,_Brazil_by_Planet_Labs.jpg), Rondônia, Brazil*
 
@@ -116,7 +116,7 @@ But the subsequent year's FAO [report](http://www.fao.org/publications/sofa/2009
 
 In large part because of the inefficiencies described above, turning animals into food tends to cause a disproportionate amount of environmental damage relative to growing plant foods. The UN's Food and Agriculture Organization [has therefore described](http://www.fao.org/newsroom/en/news/2006/1000448/index.html) animal agriculture as "one of the major causes of the world's most pressing environmental problems, including global warming, land degradation, air and water pollution, and loss of biodiversity".
 
-{% image "https://images.finmoorhouse.com/writing/clean-meat/images/carbon-footprint.png", "Carbon footprint of protein-rich foods (source: Our World in Data)" %}
+{% image "writing/clean-meat/images/carbon-footprint.png", "Carbon footprint of protein-rich foods (source: Our World in Data)" %}
 
 <iframe src="https://ourworldindata.org/grapher/ghg-per-protein-poore" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 

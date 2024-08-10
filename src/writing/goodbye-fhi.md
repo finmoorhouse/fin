@@ -111,7 +111,7 @@ Anders [puts it like this](http://aleph.se/andart2/personal/thoughts-at-the-end-
 >I often described Oxford like a coral reef of calcified institutions built on top of each other, a hard structure that had emerged organically and haphazardly and hence had many little nooks and crannies where colorful fish could hide and thrive. FHI was one such fish but grew too big for its hole.
 
 <div style='max-width:220px; margin:auto'>
-{% image 'https://images.finmoorhouse.com/writing/precipice/precipice.jpg' 'The Precipice and the Land Beyond' "A woodcut by Hilary Paynter for The Precipice" "https://www.woodengravers.co.uk/artists/paynter-hilary/#&gid=1&pid=14" %}
+{% image 'writing/precipice/precipice.jpg' 'The Precipice and the Land Beyond' "A woodcut by Hilary Paynter for The Precipice" "https://www.woodengravers.co.uk/artists/paynter-hilary/#&gid=1&pid=14" %}
 </div>
 
 As for lessons, who knows? Something about what progress can be made in a small place in a relatively short span of time by very committed misfits relatively unconcerned about academic prestige. Something hackneyed like that.

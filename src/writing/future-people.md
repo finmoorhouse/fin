@@ -81,7 +81,7 @@ This is a question about the [*carbon cycle*](https://earthobservatory.nasa.gov/
 
 First: some carbon gets released from burning fossil fuels, starting sometime in the last couple centuries, where it had previously been buried underground for tens or hundreds of millions of years as part of a long-dead organism. [Mostly](https://www.britannica.com/story/do-fossil-fuels-really-come-from-fossils) algae, bacteria, and plants; though for some reason I had always imagined fossil fuels as the remains of literal dinosaurs. Coal is [still the biggest emitter](https://ourworldindata.org/emissions-by-fuel), followed by oil and gas. A big fraction of the organisms which became fuel lived and died during the {% note 'aptly named [Carboniferous period](https://en.wikipedia.org/wiki/Carboniferous)' %}**Why did this period produce so much coal?** A leading explanation points to the appearance of trees with *bark*; specifically bearing the wood fibre lignin and the waxy substance suberin which acts like a sealant. This plausibly caused a period where decomposing bacteria and fungi had not yet evolved the enzymes which could effectively digest these new, tougher, trees. Combined with a period of low sea levels and hence a flowering of lowland swamps and forests, huge numbers of trees with bark grew, died, and had enough time to fossilise before decomposing.{% endnote %}, just over 300 million years ago.
 
-{% image 'https://images.finmoorhouse.com/writing/future-people/swamp-forest-etching.jpg' 'The Carboniferous period' %}
+{% image 'writing/future-people/swamp-forest-etching.jpg' 'The Carboniferous period' %}
 
 There is a neat deep-time circularity to this image: that dead creatures are buried for aeons, then reanimated in a sense: pumped and processed and burned and absorbed again into living things. A kind of long-delayed [comeuppance](https://web.archive.org/web/20140622054108/http://www.birdandmoon.com/55words/story29.html). In this vein [Randall Munroe points out](https://what-if.xkcd.com/101/) how plastic dinosaur toys (made of plastic refined from oil) contain *some* amount of actual dinosaur.
 
@@ -133,12 +133,12 @@ All this is pretext to say: to a significant extent, people are made of the prod
 
 People come from plants, plants use ammonia and other nitrogenous compounds in fertilisers to grow, and those compounds come from the Haber process. Specifically, since it produces about half the nitrogen atoms in agriculture, and most people ultimately get effectively all their nitrogen atoms from agriculture, [*about half*](https://cen.acs.org/articles/86/i33/Haber-Bosch-Reaction-Early-Chemical.html) *of the nitrogen in your body {% note 'originated in the Haber process' %}How can we know? [This article](https://cen.acs.org/articles/86/i33/Haber-Bosch-Reaction-Early-Chemical.html) says that “[c]hemical fertilizers contribute about half of the nitrogen input into global agriculture”, and [Smil adds](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/1999GB900015): “Human activities have roughly doubled the amount of reactive N that enters the element's biospheric cycle”.
 Also check out this diagram from the Smil paper:
-{% image 'https://images.finmoorhouse.com/writing/future-people/smil-nitrogen-cycle.png' 'Smil diagram' %}
+{% image 'writing/future-people/smil-nitrogen-cycle.png' 'Smil diagram' %}
 {% endnote %}*.
 
 The Haber process takes inputs from the air (atmospheric nitrogen), plus hydrogen made via [steam reforming](https://en.wikipedia.org/wiki/Steam_reforming) from water and hydrocarbons typically from natural gas. Then it might be shipped off and stored in liquid form in a pressurised tank, before being sprayed. Give that process 100 days, and give a typical cereal crop 200 days to grow, plus a couple months between being harvested to being eaten, and we can guess that very roughly a year before becoming part of you, about half your nitrogen atoms were being stripped from the air in some great metallic reactor like the one pictured.
 
-{% image 'https://images.finmoorhouse.com/writing/future-people/haber-process.webp' 'A Haber process reactor, I think' %}
+{% image 'writing/future-people/haber-process.webp' 'A Haber process reactor, I think' %}
 
 ## The human cycle
 
@@ -148,7 +148,7 @@ You might have heard that your body’s cells replace themselves every 7 years �
 
 But that ‘7 years’ myth comes from some great science. In the 50’s and 60’s — before the 1963 [Limited Test Ban Treaty](https://history.state.gov/milestones/1961-1968/limited-ban) — nuclear weapons were tested above ground. This caused a spike in atmospheric carbon-14 (a naturally occurring radioactive isotope of carbon), through free neutrons from nuclear fission mimicking cosmic rays by converting nitrogen-14 into carbon-14. Here’s the trick: when a cell divides, it makes copies of its DNA. Unlike other parts of a cell, DNA is molecularly stable: the molecules that make it up stay the same as long as it’s around. Knowing this, plus the atmospheric levels of $^{14}C$ at different times, you can figure out when a cell was created based on the level of $^{14}C$ in its DNA. This is exactly [what some researchers did](https://www.cell.com/action/showPdf?pii=S0092-8674(05)00408-3), and found the average age of cells in human to centre around 7–10 years.
 
-{% image 'https://images.finmoorhouse.com/writing/future-people/c14.png' 'Life expectancy of cells' %}
+{% image 'writing/future-people/c14.png' 'Life expectancy of cells' %}
 
 Again human activity left its mark on the very physical stuff we are made out of: weapons so powerful they changed the composition of the entire atmosphere and left a trace in our DNA.
 
@@ -170,7 +170,7 @@ Levi again:
 
 The physicist Max Tegmark [suggests a picture](https://nautil.us/life-is-a-braid-in-spacetime-234729/) of life as a ‘braid’ in space through time.
 
-{% image 'https://images.finmoorhouse.com/writing/future-people/spacetime-braid.png' 'Spacetime braid' %}
+{% image 'writing/future-people/spacetime-braid.png' 'Spacetime braid' %}
 
 If that’s right, then the threads of the braid that makes up a person run through skies, seas, other life, and through the machines of industry. A person’s braid isn’t isolated through their life, but ephemeral; swapping threads with the wider world until the point of death, where the threads that now make up the braid — few of the originals remain — disperse again.
 

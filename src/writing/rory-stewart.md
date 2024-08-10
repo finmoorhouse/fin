@@ -9,7 +9,7 @@ shareImage: https://images.finmoorhouse.com/writing/rory-stewart/market.jpg
 
 I recently got to speak with [Rory Stewart](https://en.wikipedia.org/wiki/Rory_Stewart), on the [podcast I co-host](https://hearthisidea.com/episodes/stewart) with my friend Luca. Rory is now President of the charity GiveDirectly, so we spoke about ending poverty by scaling unconditional cash transfers. I found the conversation unusually valuable and memorable, so I'm copying out the transcript. [Here's the link to the episode itself](https://pnc.st/s/hear-this-idea/e5291b0f/rory-stewart-on-givedirectly-and-massively-scaling-cash-transfers), if you prefer to listen.
 
-{% image "https://images.finmoorhouse.com/writing/rory-stewart/rory.jpeg" "Rory Stewart" %}
+{% image "writing/rory-stewart/rory.jpeg" "Rory Stewart" %}
 
 ### Intro
 
@@ -81,7 +81,7 @@ If the room for more funding is only limited in some sense of maybe 500 million 
 
 The governments will very comfortably make grants. I mean, bureaucracies that are dealing with 20 billion prefer to make larger grants because the admin costs are lower. They prefer to make grants of 10, 20, 30 million if they can, and dream to make 100 million dollar grant. But no, they certainly could. I think it's partly about values and what people's priorities are. In the case of DFID, the central priority was extreme poverty. It wasn't life expectancy or infant mortality, and that is important. *Some* money went into that. In fact, DFID was a big supporter of Gavi and the Vaccine Alliance. Primarily the question that it would have been asking when it was shown a project is: what is the contribution of this to lifting the extreme poor out of poverty? Not what is the contribution of this to ensuring that, bluntly, that fewer children die? That's one of the questions around a number of these evaluators, which are putting a very strong weight on life and perhaps less of a weight on improving people's material conditions. 
 
-{% image "https://images.finmoorhouse.com/writing/rory-stewart/rory-bg-5.jpg" "A GiveDirectly meeting" %}
+{% image "writing/rory-stewart/rory-bg-5.jpg" "A GiveDirectly meeting" %}
 
 ### How can governments get more ambitious about overseas aid?
 
@@ -203,7 +203,7 @@ Firstly, you're absolutely right. Mobile technology was totally vital. The devel
 
 But technology actually has other benefits too. One of the things that we've been doing in urban areas where the urban poor own phones is use artificial intelligence for targeting. We do it by analyzing how individuals use their phones, who they call, who the people that they call, where those phones are located, how much is spent on those phones. And in an article in. Nature. A year ago, we argued very strongly on the basis of a collaboration, the University of California and the government of Togo, that the results suggest that you can get information comparable to a 60 minutes household survey from the use of this algorithm.
 
-{% image "https://images.finmoorhouse.com/writing/rory-stewart/rory-bg-1.jpg" "M-Pesa" %}
+{% image "writing/rory-stewart/rory-bg-1.jpg" "M-Pesa" %}
 
 A 60 minutes household survey can take up to a year to survey a group in a country. This allows us to gather the information in a matter of hours and during COVID to pay over 100,000 people in urban areas almost immediately. So technology can make a huge difference. There are many other things that we think technology could be used for, including fraud detection.
 

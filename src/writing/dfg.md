@@ -35,7 +35,7 @@ Furthermore, a Declaration on Future Generations requires accompanying instituti
 
 In no way is a Declaration on Future Generations a panacea for the dilemmas of short-termism or the structural challenges we face. To address both long-term trends and the sharp, immediate crises they drive, a bigger, broader transformation of human governance is needed. Still, a Declaration on Future Generations and its institutionalization can serve as a critical catalyst for these broader changes.
 
-{% image "https://images.finmoorhouse.com/writing/dfg/rockwell-un.jpg" "Test" %}
+{% image "writing/dfg/rockwell-un.jpg" "Test" %}
 
 Above: Norman Rockwell's sketch for an unfinished painting, [commissioned by the United Nations](https://www.nrm.org/2016/06/peoples-norman-rockwells-united-nations-2/) in 1952.
 

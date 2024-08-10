@@ -164,3 +164,9 @@ blockquote{
   quotes: none !important;
   font-weight: light !important;
 }
+
+
+img:before{
+  padding: 1.5em;
+  display: inline-block;
+}

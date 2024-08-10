@@ -87,7 +87,7 @@ At the same time, we send the audio file (and [automated transcript](https://ott
 
 When the write-up is finished, we’ll upload it to the website. We include an image in the page that Twitter and other websites use as the preview image when the link gets shared, which includes our logo and the guest’s name. For example:
 
-{% image "https://images.finmoorhouse.com/writing/podcast-advice/share-image.png", "Share image" %}
+{% image "writing/podcast-advice/share-image.png", "Share image" %}
 
 Luca and I will then draft and send a Twitter post. We used to post to Facebook, but Twitter does far better. We'll also email the guest to say thank you.
 
@@ -281,20 +281,20 @@ For arranging interviews, we now use [Savvycal](https://savvycal.com). Savvycal 
 
 Here's what the guest sees:
 
-{% image "https://images.finmoorhouse.com/writing/podcast-advice/savvycal.png", "Savvycal" %}
+{% image "writing/podcast-advice/savvycal.png", "Savvycal" %}
 
 Once the guest books a time, we all get invited on a Google Calendar event. This setup saves a bit of back-and-forth with coordinating on a time by email. In my experience, many potential podcast recordings fall through because a hundred minor inconveniences pile up for the guest and they just decide to pull out. It's nice to remove those inconveniences where possible.
 
 We used to use [Notion](https://www.notion.so) for other organisational things. Here was our sidebar:
 
-{% image "https://images.finmoorhouse.com/writing/podcast-advice/notion.png", "Notion sidebar" %}
+{% image "writing/podcast-advice/notion.png", "Notion sidebar" %}
 
 
 For organisational stuff, we now mostly use Slack. We make a channel for each episode, plus a bunch of topics. We invite people we work with on the podcast (e.g. our editor) as single channel guests. We use a single Google Sheet for tracking guests: past guests, arranged guests, and ideas for future guests. We also use the task-tracking app [Todoist](https://todoist.com/) to track invites as well as one-off tasks, like improvements to the website and buying equipment.
 
 Finally, consider writing up an all-purpose guide for guests which you can share in invitation emails. This could be on your website, or just in a google doc. The guide could give context on your show, and basically just preempt a bunch of potential questions the guest might have. Here's a screenshot of the first half or so of ours:
 
-{% image "https://images.finmoorhouse.com/writing/podcast-advice/guest-guide.png", "Guest guide" %}
+{% image "writing/podcast-advice/guest-guide.png", "Guest guide" %}
 
 ### Audio tips — environment
 
@@ -342,7 +342,7 @@ There are roughly three kinds of mic you can buy: **condenser** (or 'electrostat
 
 Here was our setup for the [episode with Dewi Erwan](https://www.hearthisidea.com/episodes/erwan). (Note the (blue) whiteboard — not acoustically ideal.)
 
-{% image "https://images.finmoorhouse.com/writing/podcast-advice/studio.jpg", "Studio" %}
+{% image "writing/podcast-advice/studio.jpg", "Studio" %}
 
 We primarily use two {% note '[Shure MV7s](https://www.shure.com/en-GB/products/microphones/mv7)' %}Note that I mean the MV7, not the MV7X, which is a cheaper model without a USB output. The MV7X only has an XLR output, which you'll likely need special equipment for if you're starting out.{% endnote %}, which plug directly into a laptop via USB-C, and sound great. We also use a [Shure SM7B](https://www.shure.com/en-GB/products/microphones/sm7b), which is something of an industry standard among podcasters. It is indeed an exceptional mic, but it requires more faff to use, because the (analogue) signal needs to be processed through a pre-amplifier and an audio interface, and you need to buy those separately. We use a [Cloudlifter CL-1](https://www.amazon.co.uk/gp/product/B004MQSV04/) as a preamp, and the [Focusrite Scarlett](https://www.amazon.co.uk/Focusrite-Scarlett-Solo-Audio-Interface/dp/B07QR6Z1JBhttps://www.amazon.co.uk/Focusrite-Scarlett-Solo-Audio-Interface/dp/B07QR6Z1JB) as the audio interface. Both are dynamic mics. Previously Luca used a [Rode Procaster](http://www.rode.com/microphones/procaster), which also required a preamp and audio interface and costs around £140.
 

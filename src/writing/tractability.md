@@ -69,17 +69,17 @@ Here's a super simple model of what's going on when you're estimating the value 
 Assume you know how much effort will be spent by the rest of the world on solving the problem, and you also know the value of solving the problem, which is constant. Assume all of the value of working on the problem comes from the moment of fully solving it — stopping short delivers no value, and working beyond the solution delivers no value.
 
 But let's say you're uncertain about *how much total effort* it's going to require to solve the problem over a few orders of magnitude. In particular, let's imagine your uncertainty distribution (PDF) over the effort required {% note 'is log-uniform between two bounds' %}Why log-uniform? Not because it's at likely to be the true distribution, but because it locally approximates (around the point of interest, which is on the margin adding to all status quo effort) the kind of distribution you're going to have for problems of wildly unknown difficulty, that is “[cases](https://www.lesswrong.com/posts/Q6uFdBCQoW9XiAoZ2/how-to-treat-problems-of-unknown-difficulty#comments) where we do not have a good idea of the order of magnitude of the difficulty of a task”.
-{% image 'https://images.finmoorhouse.com/writing/tractability/tractability-diagram-5.png' 'Tractability diagram 1' %}{% endnote %} —
+{% image 'writing/tractability/tractability-diagram-5.png' 'Tractability diagram 1' %}{% endnote %} —
 
-{% image 'https://images.finmoorhouse.com/writing/tractability/tractability-diagram-1.png' 'Tractability diagram 1' %}
+{% image 'writing/tractability/tractability-diagram-1.png' 'Tractability diagram 1' %}
 
 Where the anticipated rest-of-world (‘status-quo’) effort falls somewhere within the bounds —
 
-{% image 'https://images.finmoorhouse.com/writing/tractability/tractability-diagram-2.png' 'Tractability diagram 2' %}
+{% image 'writing/tractability/tractability-diagram-2.png' 'Tractability diagram 2' %}
 
 Remember we are trying to estimate the value of adding some amount of *additional* effort or resources toward solving the problem. In this case, the value of some {% note "additional effort" %}We're assuming this is the difference in total effort you cause, accounting for effort you might crowd out or crowd in.{% endnote %} is just the value of solving the problem, multiplied by the area covered by your additional work under the PDF.
 
-{% image 'https://images.finmoorhouse.com/writing/tractability/tractability-diagram-3.png' 'Tractability diagram 3' %}
+{% image 'writing/tractability/tractability-diagram-3.png' 'Tractability diagram 3' %}
 
 Call the lower bound of your log-uniform PDF $x$, and the upper bound $y$. Let $z_0$ stand for the status quo work, which remember falls somewhere within the bounds by stipulation. Then the chance that the problem is solved with only the status quo work (by $z_0$) is the fraction of the PDF ‘filled in’ by $z_0$, which is $\log(\frac{z_0}{x})/\log(\frac{y}{x})$.
 
@@ -92,7 +92,7 @@ $$
 
 Visually, this is just the size of the gap between $z_0$ and $z_1$ as a fraction of the gap between $x$ and $y$, viewed on a log scale.
 
-{% image 'https://images.finmoorhouse.com/writing/tractability/tractability-diagram-4.png' 'Tractability diagram 4' %}
+{% image 'writing/tractability/tractability-diagram-4.png' 'Tractability diagram 4' %}
 
 Similarly, the additional chance of success from a marginal unit of additional effort would be, where $E$ is the effort spent so far —
 
@@ -181,6 +181,8 @@ Second, in these cases, the meanings of I, T, and N implied by the framework div
 - Your uncertainty distribution over the difficulty of the problem (how much effort or resources are required to solve it) might not be log-uniform between bounds (indeed it almost certainly isn't — this was a convenient simplification)
 
 If anyone wants to extend the model to something more interesting or realistic, that would be great.
+
+Thanks to [Phil Trammell](https://philiptrammell.com/) for comments.
 
 ### Relevant reading
 

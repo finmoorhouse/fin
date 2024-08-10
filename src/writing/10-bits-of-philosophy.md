@@ -92,7 +92,7 @@ Here’s one reason to think you are mistaken: hold out your thumb and stare at 
 
 Naïve introspection tells people that they know most of the facts about their visual experience. Some of those supposed facts — that they have decent colour vision beyond a small central area, for instance, are false. This is not an isolated example! Think back to the ‘dress illusion’ that did the rounds a few years ago. Some people were convinced they were seeing blue and black. Others were convinced they were seeing white and gold. They were seeing the same thing. Therefore, some of those people were wrong.
 
-{% image "https://images.finmoorhouse.com/writing/10-bits-of-philosophy/dress.jpg", "The dress illusion", "100vw" %}
+{% image "writing/10-bits-of-philosophy/dress.jpg", "The dress illusion", "100vw" %}
 
 A final example: introspecting on thought itself. Here’s one question: does thinking involve something beyond imagery (visual or auditory ‘inner talk’) and feelings? Is there a ‘distinctive phenomenology’ of thought? As Schwitzgebel notes, there is zero convergence on any kind of answer to this question:
 
@@ -192,7 +192,7 @@ Thus, if epiphenomenalists about consciousness want to avoid the Frankish’s an
 
 Read it [here](http://people.brandeis.edu/~teuber/parfit-personal-identity.pdf).
 
-{% image "https://images.finmoorhouse.com/writing/10-bits-of-philosophy/parfit.jpg", "Derek Parfit" %}
+{% image "writing/10-bits-of-philosophy/parfit.jpg", "Derek Parfit" %}
 
 Until his untimely death, Parfit was *the* doyen of anglophone philosophy. His writing had the quality of timeless clarity from the moment it was published. He also had all the idiosyncrasies that his ‘reclusive genius’ reputation promised — I can’t remember who mentioned that he made instant coffee straight from the hot tap in order to skip the kettle and save an extra minute for writing. 
 

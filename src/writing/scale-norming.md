@@ -52,7 +52,7 @@ Thirdly, the most salient reference points or counterfactual circumstances might
 
 Finally, either the wording of survey questions or the quantitative scales they generate may vary between successive survey rounds. This might seem suspect, because the source of the change is not psychological, and endogenous to the survey itself. But it counts! Indeed, this cause accounts in part for the so-called 'Easterlin paradox': the (mostly discredited) observation that economic growth appeared to be uncorrelated with improvements in measured life-satisfaction over time for a number of developed countries. That's because, as [Stevenson and Wolfers (2008)](https://www.nber.org/papers/w14282) point out, some of the life-satisfaction questions which [Easterlin (1974)](https://huwdixon.org/teaching/cei/Easterlin1974.pdf) relied on changed their wording over time. The correlation between SWB and GDP within comparable survey periods is more clearly positive.
 
-{% image "https://images.finmoorhouse.com/writing/scale-norming/images/wolfers.png", "Easterlin survey questions" %}
+{% image "writing/scale-norming/images/wolfers.png", "Easterlin survey questions" %}
 
 Another clear (and startling) example of this kind of 'endogenous' scale-norming is the [Flynn effect](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4152423/): the observation that continual scale renormalisation conceals sustained and significant improvements in IQ test aptitude (and actual general intelligence to some extent). Since, by convention, the test results are always standardized around an average score of 100 for that cohort, comparing unadjusted results at different times obscures these changes. The Flynn effect is instead made clear when older tests are taken *in conjunction* with newer ones by the same people.
 
@@ -64,7 +64,7 @@ If scale-norming is real, it's going to be useful to know how to investigate the
 
 The reason the study of Tongan migrants suggests scale-norming is because the migrants reported large improvements which were not fully reflected in the actual past results. This suggests a method for identifying scale norming. Consider two successive measurements $x$ and $y$ from the same individual at times $t_1$ and $t_2$ respectively, where the numerical measure ranges from 0 to 10. Ask the individual at $t_2$ to rate both their present SWB (specifically, life-satisfaction) and their recalled SWB at $t_1$, using the same (present) scale. This should be made explicit: e.g. “how would you have scored your life-satisfaction at $t_1$ if you were to use the scale / criteria you used to score your present life-satisfaction?”. Call this second rating $y\ast$. If $y\ast$ is significantly different from $y$, infer scale-norming. On a new scale, take the initial rating $y$ at $t_1$ as a fixed point, and adjust the new measure for $t_2$ to $x = x + (y - y\ast)$. This can be applied iteratively, over multiple successive survey rounds. Interpreted graphically, the result is a single line within a kind of ‘worm’ which tracks changes in SWB on a single scale, and displays the scales used at successive times in terms of a single scale; enabling comparisons across time. The resulting scale might no longer range from 0-10 on $y$’s original scale:
 
-{% image "https://images.finmoorhouse.com/writing/scale-norming/images/worm.png", "Life satisfaction worm" %}
+{% image "writing/scale-norming/images/worm.png", "Life satisfaction worm" %}
 
 
 An alternative explanation for the difference between recalled and measured SWB is biased recall — maybe the respondents are using the *same* scale but *misremembering* the past. One reason to think scale-norming better explains these discrepancies is that recall seems to typically be biased in the direction of [idealising the past](https://www.sciencedirect.com/science/article/abs/pii/S0022103197913330), whereas the Tongan migrants would have to be taking an inaccurately gloomy view of their past.
@@ -79,7 +79,7 @@ Claiming that one population on the whole uses a different scale to another, or 
 
 Interesting fact on roughly this topic: people tend to dramatically underestimate the happiness of those around them.
 
-{% image "https://images.finmoorhouse.com/writing/scale-norming/images/happiness-of-others.png", "(Mis)perceptions about others’ happiness" %}
+{% image "writing/scale-norming/images/happiness-of-others.png", "(Mis)perceptions about others’ happiness" %}
 
 ### 3. Affect and 'Objective Happiness'
 

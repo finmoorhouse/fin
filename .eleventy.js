@@ -7,11 +7,13 @@ const markdown = require("./config/markdown.js");
 
 module.exports = function (config) {
   // Images
-  config.addNunjucksAsyncShortcode("image", imageShortcodes.imageShortcode);
-  config.addNunjucksShortcode("cloudImage", imageShortcodes.cloudImageShortcode);
-  config.addLiquidShortcode("cloudImage", imageShortcodes.cloudImageShortcode);
-  config.addLiquidShortcode("image", imageShortcodes.imageShortcode);
-  config.addJavaScriptFunction("image", imageShortcodes.imageShortcode);
+  // config.addNunjucksAsyncShortcode("image", imageShortcodes.imageShortcode);
+  config.addNunjucksShortcode("img", imageShortcodes.cloudImageShortcode);
+  config.addLiquidShortcode("img", imageShortcodes.cloudImageShortcode);
+  config.addNunjucksShortcode("image", imageShortcodes.cloudImageShortcode);
+  config.addLiquidShortcode("image", imageShortcodes.cloudImageShortcode);
+  // config.addLiquidShortcode("image", imageShortcodes.imageShortcode);
+  // config.addJavaScriptFunction("image", imageShortcodes.imageShortcode);
 
   // HTML Shortcodes
   config.addPairedShortcode("aside", htmlShortcodes.aside);

@@ -21,7 +21,7 @@ I keep track of what I read on [Goodreads](https://www.goodreads.com/user/show/3
 
 - [One More Thing: Stories and Other Stories](https://www.goodreads.com/book/show/18007533-one-more-thing) — B. J. Novak
 - [The White Album: Essays](https://www.goodreads.com/book/show/35075917-the-white-album) — Joan Didion
-- {% note '[A Swim in a Pond in the Rain: In Which Four Russians Give a Master Class on Writing, Reading, and Life](https://www.goodreads.com/book/show/53487237-a-swim-in-a-pond-in-the-rain) — George Saunders' %}Get the audiobook for Saunder's own gravelly avuncular armchair lecture narration. I also really enjoyed ['The Incredible Buddha Boy'](https://www.gq.com/story/ram-bornjon-miracle-meditating).{% image "https://images.finmoorhouse.com/writing/media-2023-a/saunders.jpg" "Swim in a Pond" %}{% endnote %}
+- {% note '[A Swim in a Pond in the Rain: In Which Four Russians Give a Master Class on Writing, Reading, and Life](https://www.goodreads.com/book/show/53487237-a-swim-in-a-pond-in-the-rain) — George Saunders' %}Get the audiobook for Saunder's own gravelly avuncular armchair lecture narration. I also really enjoyed ['The Incredible Buddha Boy'](https://www.gq.com/story/ram-bornjon-miracle-meditating).{% image "writing/media-2023-a/saunders.jpg" "Swim in a Pond" %}{% endnote %}
 - [The Hacker and the State: Cyber Attacks and the New Normal of Geopolitics](https://www.goodreads.com/book/show/51589806-the-hacker-and-the-state) — Ben Buchanan
 - {% note "[What's Our Problem?: A Self-Help Book for Societies](https://www.goodreads.com/book/show/102146148-what-s-our-problem) — Tim Urban" %}Robin Hanson has [a review](https://www.overcomingbias.com/p/tim-urbans-whats-our-problem): "We might try to create and enforce social norms that encourage use of high minds, relative to low. Unfortunately, this distinction just isn’t identified very well in terms of clear enough observables, of the sort that social norms require for successful enforcement [...] I suggest that what would really help are better social institutions"{% endnote %}
 - [The Pattern on the Stone: The Simple Ideas that Make Computers Work](https://www.goodreads.com/book/show/277658.The_Pattern_on_the_Stone) — William Daniel Hillis
@@ -60,7 +60,7 @@ Absolute highlights are maybe *[Gongjoong Doduk](https://rateyourmusic.com/relea
 - [Grant Green](https://rateyourmusic.com/artist/grant-green) - *[Idle Moments](https://rateyourmusic.com/release/album/grant-green/idle-moments/)* (1965)
 - [Freddie Hubbard](https://rateyourmusic.com/artist/freddie_hubbard) - *[Red Clay](https://rateyourmusic.com/release/album/freddie_hubbard/red_clay/)* (1970)
 - [Albert Ayler Trio](https://rateyourmusic.com/artist/albert-ayler) - *[Spiritual Unity](https://rateyourmusic.com/release/album/albert-ayler-trio/spiritual-unity/)* (1965)
-- {% note '[Don Cherry](https://rateyourmusic.com/artist/don-cherry) - *[Don Cherry](https://rateyourmusic.com/release/album/don-cherry/don-cherry/)* (1977), *[Mu First Part / Mu Second Part](https://rateyourmusic.com/release/comp/don-cherry/mu-first-part-mu-second-part/)* (1971), *[Organic Music Society](https://rateyourmusic.com/release/album/don-cherry/organic-music-society-2/)* (1972), and *[Orient](https://rateyourmusic.com/release/album/don-cherry/don-cherry-orient/)* (1973)' %}Glad to have discovered this. Amazingly eclectic. 'Brown rice' from the pictured album is a favourite.{% image "https://images.finmoorhouse.com/writing/media-2023-a/don-cherry.webp" "Don Cherry" %}{% endnote %}
+- {% note '[Don Cherry](https://rateyourmusic.com/artist/don-cherry) - *[Don Cherry](https://rateyourmusic.com/release/album/don-cherry/don-cherry/)* (1977), *[Mu First Part / Mu Second Part](https://rateyourmusic.com/release/comp/don-cherry/mu-first-part-mu-second-part/)* (1971), *[Organic Music Society](https://rateyourmusic.com/release/album/don-cherry/organic-music-society-2/)* (1972), and *[Orient](https://rateyourmusic.com/release/album/don-cherry/don-cherry-orient/)* (1973)' %}Glad to have discovered this. Amazingly eclectic. 'Brown rice' from the pictured album is a favourite.{% image "writing/media-2023-a/don-cherry.webp" "Don Cherry" %}{% endnote %}
 - [Milt Jackson](https://rateyourmusic.com/artist/milt-jackson) - *[Sunflower](https://rateyourmusic.com/release/album/milt_jackson/sunflower_f1/)* (1973)
 - [Sun-Ra and His Astro Infinity Arkestra](https://rateyourmusic.com/artist/sun-ra) - *[Atlantis](https://rateyourmusic.com/release/album/sun-ra-and-his-astro-infinity-arkestra/atlantis/)* (1969)
 - [Kenny Garrett](https://rateyourmusic.com/artist/kenny-garrett) - *[Triology](https://rateyourmusic.com/release/album/kenny-garrett/triology/)* (1995)
@@ -78,7 +78,7 @@ Absolute highlights are maybe *[Gongjoong Doduk](https://rateyourmusic.com/relea
 
 ### Electronic and ambient
 
-- {% note '[Arushi Jain](https://rateyourmusic.com/artist/arushi-jain-1) - *[Under the Lilac Sky](https://rateyourmusic.com/release/album/arushi-jain/under-the-lilac-sky/)* (2021)' %}Very cool mix of electronic ambient / Hindustani classical music.{% image "https://images.finmoorhouse.com/writing/media-2023-a/lilac-sky.webp" "Under the Lilac Sky" %}{% endnote %}
+- {% note '[Arushi Jain](https://rateyourmusic.com/artist/arushi-jain-1) - *[Under the Lilac Sky](https://rateyourmusic.com/release/album/arushi-jain/under-the-lilac-sky/)* (2021)' %}Very cool mix of electronic ambient / Hindustani classical music.{% image "writing/media-2023-a/lilac-sky.webp" "Under the Lilac Sky" %}{% endnote %}
 - [Laraaji](https://rateyourmusic.com/artist/laraaji) - *[Segue to Infinity](https://rateyourmusic.com/release/album/laraaji/segue-to-infinity/)* (2023)
 - [James Holden](https://rateyourmusic.com/artist/james-holden-2) - *[Imagine This Is a High Dimensional Space of All Possibilities](https://rateyourmusic.com/release/album/james-holden/imagine-this-is-a-high-dimensional-space-of-all-possibilities/)* (2023)
 - [p.rosa](https://rateyourmusic.com/artist/p_rosa) & [Elijah Knutsen](https://rateyourmusic.com/artist/elijah-knutsen) - *[...I Watched 10 Years of Pacific Weather...](https://rateyourmusic.com/release/album/p_rosa-elijah-knutsen/_i-watched-10-years-of-pacific-weather/)* (2023)
@@ -101,7 +101,7 @@ Absolute highlights are maybe *[Gongjoong Doduk](https://rateyourmusic.com/relea
 
 ### Live
 
-- {% note '[Phish](https://rateyourmusic.com/artist/phish) - *[The Gorge ‘98](https://rateyourmusic.com/release/album/phish/the-gorge-‘98/)* (2022)' %}What a great looking venue. Hearing music with friends in settings like this is among the better things life has to offer.{% image "https://images.finmoorhouse.com/writing/media-2023-a/gorge-2.jpg" "The Gorge" %} {% image "https://images.finmoorhouse.com/writing/media-2023-a/gorge.webp" "Another photo of the Gorge" %}{% endnote %}
+- {% note '[Phish](https://rateyourmusic.com/artist/phish) - *[The Gorge ‘98](https://rateyourmusic.com/release/album/phish/the-gorge-‘98/)* (2022)' %}What a great looking venue. Hearing music with friends in settings like this is among the better things life has to offer.{% image "writing/media-2023-a/gorge-2.jpg" "The Gorge" %} {% image "writing/media-2023-a/gorge.webp" "Another photo of the Gorge" %}{% endnote %}
 - [Radiohead](https://rateyourmusic.com/artist/radiohead) - *[I Might Be Wrong: Live Recordings](https://rateyourmusic.com/release/ep/radiohead/i-might-be-wrong-live-recordings/)* (2001)
 - [Nirvana](https://rateyourmusic.com/artist/nirvana) - *[MTV Unplugged in New York](https://rateyourmusic.com/release/album/nirvana/mtv-unplugged-in-new-york/)* (1994)
 - [Black Country, New Road](https://rateyourmusic.com/artist/black-country-new-road) - *[Live at Bush Hall](https://rateyourmusic.com/release/album/black-country-new-road/live-at-bush-hall/)* (2023)
@@ -138,7 +138,7 @@ Absolute highlights are maybe *[Gongjoong Doduk](https://rateyourmusic.com/relea
 - [Popol Vuh](https://rateyourmusic.com/artist/popol-vuh) - *[Hosianna Mantra](https://rateyourmusic.com/release/album/popol-vuh/hosianna-mantra/)* (1972)
 - [Amancio D'Silva](https://rateyourmusic.com/artist/amancio_dsilva) - *[Sapana](https://rateyourmusic.com/release/album/amancio-dsilva/sapana/)* (2022)
 - [Bach Collegium Japan](https://rateyourmusic.com/artist/bach_collegium_japan) / [Masaaki Suzuki](https://rateyourmusic.com/artist/masaaki-suzuki) - *[Mass in B minor](https://rateyourmusic.com/release/album/bach-collegium-japan-masaaki-suzuki/mass-in-b-minor/)* (2007)
-- {% note '[Erik Hall](https://rateyourmusic.com/artist/erik-hall) - *[Canto Ostinato](https://rateyourmusic.com/release/album/erik-hall/canto-ostinato/)* (2023)' %}See also his electronicified [version of Music for 18 Musicians](https://rateyourmusic.com/release/album/erik-hall/music-for-18-musicians/).{% image "https://images.finmoorhouse.com/writing/media-2023-a/canto.webp" "Canto Ostinato" %}{% endnote %}
+- {% note '[Erik Hall](https://rateyourmusic.com/artist/erik-hall) - *[Canto Ostinato](https://rateyourmusic.com/release/album/erik-hall/canto-ostinato/)* (2023)' %}See also his electronicified [version of Music for 18 Musicians](https://rateyourmusic.com/release/album/erik-hall/music-for-18-musicians/).{% image "writing/media-2023-a/canto.webp" "Canto Ostinato" %}{% endnote %}
 
 ### Everything else
 
@@ -187,5 +187,5 @@ Absolute highlights are maybe *[Gongjoong Doduk](https://rateyourmusic.com/relea
 
 
 
-{% image "https://images.finmoorhouse.com/writing/media-2023-a/books-3.png" "Books (Midjourney)" %}
+{% image "writing/media-2023-a/books-3.png" "Books (Midjourney)" %}
 

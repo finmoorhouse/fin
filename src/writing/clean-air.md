@@ -39,19 +39,19 @@ In the mid 19th century, London had a sewage problem. It relied on a patchwork o
 
 > Near the bridges the feculence rolled up in clouds so dense that they were visible at the surface even in water of this kind [...] The smell was very bad, and common to the whole of the water. It was the same as that which now comes up from the gully holes in the streets. The whole river was for the time a real sewer [...] If we neglect this subject, we cannot expect to do so with impunity; nor ought we to be surprised if, ere many years are over, a season give us sad proof of the folly of our carelessness.
 
-{% image "https://images.finmoorhouse.com/writing/clean-air/monster-soup.jpg" "Monster Soup commonly called Thames Water" %}[^1]
+{% image "writing/clean-air/monster-soup.jpg" "Monster Soup commonly called Thames Water" %}[^1]
 
 [^1]: [Coloured etching by W. Heath](https://en.wikipedia.org/wiki/File:Monster_Soup_commonly_called_Thames_Water._Wellcome_V0011218.jpg). Desription: "A woman dropping her tea-cup in horror upon discovering the monstrous contents of a magnified drop of Thames water; revealing the impurity of London drinking water."
 
 That “sad proof” arrived more than once. London saw around three outbreaks of [cholera](https://www.sciencemuseum.org.uk/objects-and-stories/medicine/cholera-victorian-london), killing upwards of 50,000 people in each outbreak.
 
-{% image "https://images.finmoorhouse.com/writing/clean-air/silent-highwayman.jpg" "The silent highwayman" %}[^2]
+{% image "writing/clean-air/silent-highwayman.jpg" "The silent highwayman" %}[^2]
 
 [^2]: [*The silent highwayman*](https://en.wikipedia.org/wiki/File:The_silent_highwayman.jpg) : Death rows on the Thames, claiming the lives of victims who have not paid to have the river cleaned up, during the Great Stink.
 
 But early efforts to address the public health crisis were guided by the wrong theory about how diseases spread. On the prevailing view, epidemics were caused by [‘miasma’](https://en.wikipedia.org/wiki/Miasma_theory) ({% note 'bad air' %}The same idea gave us the word ‘malaria’, also literally ‘bad air’ through medieval Italian{% endnote %}) — a kind of poisonous mist from decomposing matter. Parliament commissioned a report on the [‘Sanitary Condition of the Labouring Population’](https://www.parliament.uk/about/living-heritage/transformingsociety/livinglearning/coll-9-health1/health-02/), which showed a clear link between poverty and disease, and recommended a bunch of excellent and [historically significant](https://www.parliament.uk/about/living-heritage/transformingsociety/towncountry/towns/tyne-and-wear-case-study/about-the-group/public-administration/the-1848-public-health-act/) reforms. But one recommendation backfired because of this scientific misunderstanding: according to the miasma theory, it made sense to remove human waste through wastewater — but that water flowed into the Thames and contaminated it further.
 
-{% image "https://images.finmoorhouse.com/writing/clean-air/miasma.jpg" "Cholera Tramples the victors & the vanquished both." %}[^3]
+{% image "writing/clean-air/miasma.jpg" "Cholera Tramples the victors & the vanquished both." %}[^3]
 
 [^3]: [Cholera "Tramples the victors & the vanquished both."](https://collections.nlm.nih.gov/catalog/nlm:nlmuid-101393375-img). Description: "Cholera, as a large shrouded specter with skeletal hands and feet, indiscriminately crushes soldiers on both sides of the battlefield. "
 
@@ -61,13 +61,13 @@ Because soon things got even worse. Heat exacerbated the smell; and the summer o
 
 Parliament turned to [Joseph Bazalgette](https://en.wikipedia.org/wiki/Joseph_Bazalgette), chief engineer of London's Metropolitan Board of Works. Spurred by the Great Stink, he was given licence to oversee the construction of an ambitious plan to rebuild London’s sewage system, to his own design. 1,800km of street sewers would feed into 132km of main interconnecting sewers. A network of pumping stations was built, to lift sewage from streets below the high water mark. {% note '18 years later' %}Much of these facts are from [*The Good Ancestor*](https://www.goodreads.com/en/book/show/51107158) (2020){% endnote %}, the result was the kind of modern sewage system we mostly take for granted: a system to collect wastewater and dump it far from where it could contaminate food and drinking water; in this case a dozen miles eastwards to the Thames estuary. "The great sewer that runs beneath Londoners”, wrote Bazalgette’s [obituarist](https://journals.sagepub.com/doi/10.1177/096777209900700104), “has added some 20 years to their chance of life”.
 
-{% image "https://images.finmoorhouse.com/writing/clean-air/sewer-building.jpg" "The silent highwayman" %}[^4]
+{% image "writing/clean-air/sewer-building.jpg" "The silent highwayman" %}[^4]
 
 [^4]: [*The main drainage of the Metropolis*](https://en.wikipedia.org/wiki/File:The_main_drainage_of_the_Metropolis_Wellcome_M0011720.jpg). Description: "sectional view of sewerage tunnels from Wick Lane, near Old Ford, Bow, looking westward"
 
 Remarkably, most of the system remains in use. London’s sewage system has obviously been expanded, and wastewater treatment is much better. Bazalgette’s plan was built to last, and succeeded.
 
-{% image "https://images.finmoorhouse.com/writing/clean-air/sewer-building-cross-section.jpg" "The silent highwayman" %}[^5]
+{% image "writing/clean-air/sewer-building-cross-section.jpg" "The silent highwayman" %}[^5]
 
 [^5]: [*Installation of the sewerage system of the Metropolis*](https://en.wikipedia.org/wiki/File:Installation_of_the_sewerage_system_of_the_Metropolis_Wellcome_M0010346.jpg). Description: "Installation of the sewerage system of the Metropolis, The Thames Embankment in section beneath Charing Cross Station (1867) showing: (1) underground conduit carrying water, telegraph cables and gas mains; (2) low-level intercepting sewer; (3) Metropolitan District Railway subway; (4) Pneumatic Railway. The wall was built as much as 500 feet into the Thames, creating 37 acres of reclaimed land."
 

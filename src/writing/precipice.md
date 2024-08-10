@@ -28,7 +28,7 @@ Not so much a fact, but an interesting thought: consider a toy model of existent
 
 Again, strongly recommended; but not at all comforting.
 
-{% image "https://images.finmoorhouse.com/writing/precipice/precipice.jpg", "The Precipice and the Land Beyond - Hilary Paynter" %}
+{% image "writing/precipice/precipice.jpg", "The Precipice and the Land Beyond - Hilary Paynter" %}
 
 *The Precipice and the Land Beyond* - Hilary Paynter
 
