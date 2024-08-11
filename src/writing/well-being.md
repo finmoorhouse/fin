@@ -3,7 +3,7 @@ title: Intro to the Philosophy of Well-Being
 permalink: /writing/well-being/
 tags: [writing]
 date: 2020-11-11
-featuredImage: './well-being.jpg'
+shareImage: 'writing/well-being/well-being.jpg'
 ---
 
 {% aside %}

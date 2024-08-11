@@ -3,7 +3,7 @@ title: Causation, Forecasting, and Quantum Computing
 permalink: /writing/jaime-sevilla-interview/
 tags: [writing]
 date: 2020-07-24
-featuredImage: './crystal-ball.jpg'
+shareImage: 'writing/jaime/crystal-ball.jpg'
 ---
 
 I recently interviewed [Jaime](https://twitter.com/Jsevillamol) Sevilla Molina, a researcher focusing on forecasting the impacts of new technologies and social interventions, for a [podcast](https://hearthisidea.com/) I co-host with [Luca Righetti](http://lucarighetti.com/). We then wrote an article building on the conversation (I’m reluctant to say ‘summarising’ considering the length). Luca wrote from the headers ‘**An Econometric Model of Causality**’ to ‘**Lessons for the Future**’ inclusive; I wrote the rest. What follows is that article, which can also be read on the [original podcast site](https://hearthisidea.com/episodes/jaime) alongside the recording. Thank you to Jaime for a fantastic conversation and for his comments on this write-up. 

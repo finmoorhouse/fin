@@ -3,7 +3,7 @@ title: Effective Altruism Blogs to Follow
 permalink: /writing/ea-blogs/
 tags: [writing]
 date: 2020-02-01
-featuredImage: './ea-blogs.jpg'
+shareImage: 'writing/ea-blogs/ea-blogs.jpg'
 ---
 
 I thought it might be useful to organise the EA-related blogs I have discovered and enjoyed so far, roughly arranged by topic. I will revisit this and add to it when I have more to add. Some are in fact not remotely EA related but seem to fit in with the vibe and are likely to appeal to EA types, at least to my own lights. I hope someone finds this useful, and discovers at least one blog or writer they didn’t know about. Please email me if you have more suggestions.

@@ -2,7 +2,7 @@
 title: Intro to the Repugnant Conclusion
 permalink: /writing/repugnant-conclusion/
 tags: [writing]
-featuredImage: './repugnant-conclusion.jpg'
+shareImage: 'writing/repugnant-conclusion/repugnant-conclusion.jpg'
 date: 2019-12-01
 ---
 Since the publication of Derek Parfit’s 1984 *Reasons and Persons*, the last three decades or so have witnessed a surge of interest in the field of *population ethics*. One of the classic problems in population ethics, first posed by Parfit, is called the **repugnant conclusion**. In an interview for the podcast which I co-host, we spoke to an economist about how the repugnant conclusion relates to rational choice theory. You can listen to that episode and read the original write-up [here](https://hearthisidea.com/episodes/vasilis), but I have reproduced the essentials in this blog post to serve as one way of introducing it.

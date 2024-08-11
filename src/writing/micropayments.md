@@ -3,7 +3,7 @@ title: Saving the Web With Very Small Amounts of Money
 permalink: /writing/micropayments/
 tags: [writing]
 date: 2020-08-23
-featuredImage: './micropayments.jpg'
+shareImage: 'writing/micropayments/micropayments.jpg'
 ---
 
 Something about our relationship with content on the Web has quietly turned sour. It took more than one form: ads have inflated and spilled out over the pages they occupy, sometimes blending with the author’s own word. Online journalism on the has monopolised and polarised. Few people agree on exactly what went wrong, and fewer have articulated a way out. Recently I began reading more about the state of ‘[micropayments](https://www.investopedia.com/terms/m/micropayment.asp)’. Micropayments offer a diagnosis: that a great deal of trouble has been caused by the way online content is (or isn’t) funded by its consumers. They also offer a solution: a new model for funding content. I find both these things convincing, and the whole story of micropayments just strikes me as intrinsically interesting anyway.

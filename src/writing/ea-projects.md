@@ -3,7 +3,7 @@ title: EA Projects I'd Like to See
 permalink: /writing/ea-projects/
 tags: [writing]
 date: 2022-03-13
-featuredImage: './ea-projects-share.png'
+shareImage: 'writing/ea-projects/ea-projects-share.png'
 ---
 I think sharing half-baked ideas is an underrated practice {% note "(see my post on [research ideas](/writing/research))" %}Typical caveats apply: make you're not doing accidental harm by spreading bad ideas.{% endnote %}. So I've written out some ideas for concrete projects that have been {% note "floating around my head for a while." %}[Effective altruism](https://www.effectivealtruism.org/), especially [longtermist](https://longtermism.com/) EA, needs ideas for new, *scalable*, *[ambitious](https://80000hours.org/articles/be-more-ambitious/)* projects — because of [announcements like this.](https://forum.effectivealtruism.org/posts/2mx6xrDrwiEKzfgks/announcing-the-future-fund-1) Unfortunately many of these ideas are neither especially scalable nor especially ambitious.{% endnote %}.
 

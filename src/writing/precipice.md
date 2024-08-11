@@ -3,7 +3,7 @@ title: Worrying facts from 'The Precipice'
 permalink: /writing/precipice/
 tags: [writing]
 date: 2020-03-24
-featuredImage: './precipice.jpg'
+shareImage: 'writing/precipice/precipice.jpg'
 ---
 
 I recently finished reading Toby Ord’s new book ‘[The Precipice: Existential Risk and the Future of Humanity](https://www.goodreads.com/book/show/50485582-the-precipice)’. The book discusses the risks of catastrophic events that destroy all or nearly all of humanity’s potential. There are many of them, including but not limited to the Hollywood scenarios that enter most people’s minds: asteroids, supervolcanoes, pandemics (natural and human-engineered), dystopian political ‘lock-in’, runaway climate scenarios, and unaligned artificial general intelligence. The overall risk of an existential catastrophe this century? Roughly one in six, this author guesses: *Russian roulette*. Clearly, mitigating existential risk is not nearly treated like the overwhelmingly important global priority it is: not in our political institutions, nor in popular consciousness. Anyway, it’s excellent– **highly** recommended.

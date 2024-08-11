@@ -3,7 +3,7 @@ title: Causal Closeness
 permalink: /writing/causal-closeness/
 tags: [writing]
 date: 2020-08-17
-featuredImage: './causal-closeness.jpg'
+shareImage: 'writing/causal-closeness/causal-closeness.jpg'
 ---
 
 ##### A [shorter version of this post](https://forum.effectivealtruism.org/posts/unXxZAZGkxr9mscAG/eliciting-donations-through-causal-closeness) can be found on the EA forum, where you can leave a comment.

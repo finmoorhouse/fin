@@ -3,7 +3,7 @@ title: 10 Bits of Philosophy
 permalink: /writing/10-philosophy/
 tags: [writing]
 date: 2020-07-09
-featuredImage: './bookshelf.jpg'
+shareImage: 'writing/10-bits-of-philosophy/bookshelf.jpg'
 ---
 
 I can say, without irony, that I loved learning about philosophy during my undergrad degree. But among those only peering into the world of academic philosophy from a safe distance, I imagine the whole thing might look downright inscrutable. A friend recently asked me what philosophers do all day. It went something like: “I think I have a fairly good mental model of what a day in the life looks like for, say, an astronomer, or a historian, or a biologist. But what do they get up to in the philosophy faculty? Just sit around and *think*?”. There’s a related confusion — which some [extremely](https://www.telegraph.co.uk/technology/google/8520033/Stephen-Hawking-tells-Google-philosophy-is-dead.html) [bright](https://qz.com/960303/bill-nye-on-philosophy-the-science-guy-says-he-has-changed-his-mind/) [people](https://www.huffpost.com/entry/neil-degrasse-tyson-and-the-value-of-philosophy_b_5330216) have apparently succumbed to — about philosophy’s subject matter. Specifically, there seems to be a widely-held (if vague) impression that philosophy is the business of saying grand, deep-sounding things about the universe while refusing to engage with something as effortful as *actual science*. Credit where it’s due — some philosophy is, let’s say, *onanistic*. On the other hand, some of it is actually good.

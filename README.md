@@ -12,7 +12,9 @@ This is a static site built on [Eleventy](https://www.11ty.dev/) (11ty) and host
 
 The `/writing` page has a Nunjucks shortcode for sidenotes, heavily inspired by Gwern's post on ['Sidenotes In Web Design'](https://gwern.net/sidenote).
 
-Images are sourced from a [separate](https://github.com/finmoorhouse/fm-images) [LFS](https://git-lfs.com/) repo to be processed by `eleventy-img`. They are cached across builds, remotely and locally.
+Images are served remotely from [an image CDN](https://cloudinary.com/) (so only links are generated at build, and no images are processed).[^1]
+
+[^1]: Previously images were downloaded from a [separate](https://github.com/finmoorhouse/fm-images) [LFS](https://git-lfs.com/) repo to be processed by `eleventy-img`, but changing to remote images reduced build time from around 5 minutes to 2 seconds (!)
 
 ## Installation
 

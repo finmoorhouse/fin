@@ -3,7 +3,7 @@ title: Institutions for the Long Run
 permalink: /writing/longterm-institutions/
 tags: [writing]
 date: 2021-07-26
-featuredImage: './longterm-institutions.png'
+shareImage: 'writing/institutional-reform/longterm-institutions.png'
 ---
 {% aside %}
 I co-wrote this article with <a href='https://www.lucarighetti.com/' target='_blank'>Luca Righetti</a> for the <a href='https://www.cjlpa.org/' target='_blank'>Cambridge Journal of Law, Politics, and Art</a>. The full title is <i>Institutions for the Long Run: Taking Future Generations Seriously in Government</i>. You can find the PDF version on the CJLPA website <a href='https://a764aa28-8f1b-4abd-ad69-eed71af9e23a.filesusr.com/ugd/b589e0_6cc51397ac4b4d78b2f68d8f489b0847.pdf' target='_blank'>here</a>, and you can read other pieces from the first issue <a href='https://www.cjlpa.org/issues' target='_blank'>here</a>. Clicking on numbers like this<sup><a class='footnote-ref footnote-ref-example'>1</a></sup> sends you to the corresponding endnote.

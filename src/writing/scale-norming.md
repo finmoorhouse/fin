@@ -3,7 +3,7 @@ title: Intro to Scale-Norming
 permalink: /writing/scale-norming/
 tags: [writing]
 date: 2020-11-02
-featuredImage: './scale-norming.jpg'
+shareImage: 'writing/scale-norming/scale-norming.jpg'
 ---
 
 For my final year undergrad [philosophy dissertation](https://www.academia.edu/43399771/How_should_Scale_Norming_inform_the_Measurement_of_Subjective_Well_Being), I wrote about an apparently neglected problem relating to the measurement of subjective well-being. You might find this interesting (i) if you care about measuring and improving subjective well-being or life-satisfaction, and (ii) because I think it's an intrinsically fun puzzle.

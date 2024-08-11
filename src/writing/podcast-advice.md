@@ -4,7 +4,7 @@ permalink: /writing/podcast-advice/
 tags: [writing]
 date: 2022-11-05
 updated: 2023-12-01
-featuredImage: './podcast-advice-share-image.png'
+shareImage: 'writing/podcast-advice/podcast-advice-share-image.png'
 ---
 People sometimes ask me for advice about starting their own podcast.
 

@@ -3,7 +3,7 @@ title: MWA and Student Charity
 permalink: /writing/mwa/
 tags: [writing]
 date: 2020-04-10
-featuredImage: './mayball.jpg'
+shareImage: 'writing/may-week-alternative/mayball.jpg'
 ---
 [May Week Alternative](http://mayweekalternative.org.uk/) is an initiative encouraging students to celebrate the post-exam period by donating a significant amount of money to charity. After the donations period, they host a summer party to mark their collective impact. I recently interviewed its founder, George Rosenfeld, for my [podcast](https://www.hearthisidea.com/). As with every episode, I also write a fairly long article to go with it. For the sake of cheap content, I figured I could ship it over to this blog too.
 

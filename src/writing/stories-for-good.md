@@ -3,7 +3,7 @@ title: Stories for Good
 permalink: /writing/stories-for-good/
 tags: [writing]
 date: 2019-12-19
-featuredImage: './pig.jpg'
+shareImage: 'writing/stories-for-good/pig.jpg'
 ---
 
 Does thinking about ethics make you more ethical?

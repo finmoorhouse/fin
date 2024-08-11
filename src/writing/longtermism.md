@@ -4,7 +4,7 @@ permalink: /writing/longtermism/
 tags: [writing]
 subtype: ea
 date: 2021-01-26
-featuredImage: './longtermism.jpg'
+shareImage: 'writing/longtermism/longtermism.jpg'
 canonicalUrl: https://www.effectivealtruism.org/articles/longtermism/
 ---
 {% aside %}

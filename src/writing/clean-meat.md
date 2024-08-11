@@ -3,7 +3,7 @@ title: The Case for Protein Alternatives
 permalink: /writing/protein-alternatives/
 tags: [writing]
 date: 2021-01-12
-featuredImage: './clean-meat-2.jpg'
+shareImage: 'writing/clean-meat/clean-meat-2.jpg'
 ---
 
 {% aside %}

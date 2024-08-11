@@ -3,7 +3,7 @@ title: Review and Summary of Moral Uncertainty
 permalink: /writing/moral-uncertainty/
 tags: [writing]
 date: 2020-10-02
-featuredImage: './moraluncertainty.jpg'
+shareImage: 'writing/moral-uncertainty/moraluncertainty.jpg'
 canonicalUrl: https://finmoorhouse.com/writing/moral-uncertainty/
 ---
 

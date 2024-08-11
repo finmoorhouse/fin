@@ -3,7 +3,7 @@ title: Discovering Existential Risk
 permalink: /writing/x-risk-history/
 tags: [writing]
 date: 2021-03-18
-featuredImage: 'https://images.finmoorhouse.com/x-risk-history.png'
+shareImage: 'writing/x-risk-history/x-risk-history.png'
 ---
 
 {% aside %}

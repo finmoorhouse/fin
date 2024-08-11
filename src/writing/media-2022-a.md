@@ -3,7 +3,7 @@ title: Media Highlights 2022 (January to June)
 permalink: /writing/media-2022-a/
 tags: [writing]
 date: 2022-06-30
-featuredImage: './media-22-a-share.png'
+shareImage: 'writing/media-2022-a/media-22-a-share.png'
 ---
 Cultural signalling, round two!
 

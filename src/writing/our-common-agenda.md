@@ -3,7 +3,7 @@ title: Summary of 'Our Common Agenda' UN Report
 permalink: /writing/our-common-agenda/
 tags: [writing]
 date: 2021-09-17
-featuredImage: './oca-share-image.jpg'
+shareImage: 'writing/our-common-agenda/oca-share-image.jpg'
 ---
 *I co-wrote this summary with [Avital Balwit](https://twitter.com/avitalbalwit). You can also find this post on the [Effective Altruism Forum](https://forum.effectivealtruism.org/posts/Fwu2SLKeM5h5v95ww/major-un-report-discusses-existential-risk-and-future).*
 

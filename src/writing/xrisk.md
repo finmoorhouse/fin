@@ -3,7 +3,7 @@ title: Parfit, Climate Change, and Existential Risk
 permalink: /writing/existential-risk/
 tags: [writing]
 date: 2020-09-29
-featuredImage: './xrisk.jpg'
+shareImage: 'writing/existential-risk/xrisk.jpg'
 ---
 
 {% aside %}

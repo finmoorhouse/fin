@@ -3,7 +3,7 @@ title: Review of Effective Altruism – Philosophical Issues
 permalink: /writing/ea-review/
 tags: [writing]
 date: 2020-06-26
-featuredImage: './pond.jpg'
+shareImage: 'writing/ea-review/pond.jpg'
 ---
 I recently picked up a fairly recent collection of articles on philosophical topics in effective altruism, called [Effective Altruism – Philosophical Issues](https://global.oup.com/academic/product/effective-altruism-9780198841364?cc=gb&lang=en&). I really enjoyed it, and figured it might be useful to try summarising a few chapters—in part because I think trying to explain something you've learned is a good test that you've actually understood it; and in part because there's a chance that somebody out there might be interested in reading those summaries. So here’s my partial review, summarising the chapters I found most interesting.
 

@@ -3,7 +3,7 @@ title: Media Highlights 2021
 permalink: /writing/media-2021/
 tags: [writing]
 date: 2021-12-28
-featuredImage: './media-2021.png'
+shareImage: 'writing/media-2021/media-2021.png'
 ---
 I've enjoyed others' roundups of the media they've recently enjoyed ([example](http://lukemuehlhauser.com/media-diet-for-q3-2021/)). I've discovered some amazing books, music, and films this way (for the same reason recommendations from friends tend to beat aggregated reviews).
 

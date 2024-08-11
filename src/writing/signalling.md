@@ -4,7 +4,7 @@ author: Fin Moorhouse
 permalink: /writing/signalling/
 tags: [writing]
 date: 2020-02-25
-featuredImage: './peacock1.jpg'
+shareImage: 'writing/signalling/peacock1.jpg'
 ---
 
 I recently interviewed [Dan Williams](https://danwilliamsphilosophy.com/) about signaling theories of misinformation for the podcast I co-host called [Hear This Idea](https://hearthisidea.com/episodes/dan). I found the whole thing extremely interesting and spent a fair bit of time trying to write about some of the ideas that came up. This is my effort.

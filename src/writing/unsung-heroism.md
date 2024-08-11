@@ -3,7 +3,7 @@ title: Unsung Heroism
 permalink: /writing/unsung-heroism/
 tags: [writing]
 date: 2020-04-25
-featuredImage: './elion.jpg'
+shareImage: 'writing/unsung-heroes/borlaug.jpg'
 ---
 
 ## Wet markets

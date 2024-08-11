@@ -41,15 +41,7 @@
   {% endif %}
   
   <!-- Share image -->
-  {% if shareImage %}
-  <meta name="twitter:image" content="{{ shareImage }}">
-  <meta property="og:image" content="{{ shareImage }}">
-  <meta name="image" content="{{ shareImage }}">
-  {% else %}
-  <meta name="twitter:image" content="https://images.finmoorhouse.com/share-images/share-4.png">
-  <meta property="og:image" content="https://images.finmoorhouse.com/share-images/share-4.png">
-  <meta name="image" content="https://images.finmoorhouse.com/share-images/share-4.png">
-  {% endif %}
+  {% shareImage shareImage %}
   
   {% if canonicalUrl %}
   <!-- Canonical URL -->
@@ -65,6 +57,16 @@
   {% endif %}
 
   <title>{% if title %}{{ title }} - {% endif %}{{ site.author }}</title>
+
+  <!-- Dark mode switching code -->
+  <!-- <script>
+    // On page load or when changing themes, best to add inline in `head` to avoid FOUC
+    if (localStorage.theme === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+      document.documentElement.classList.add('dark')
+    } else {
+      document.documentElement.classList.remove('dark')
+    }
+  </script> -->
 </head>
 <body id="top" class="bg-flint-500 text-slate-50">
   <nav class="flex flex-row max-w-lg mx-auto justify-between py-4 text-sm px-4">
@@ -79,6 +81,14 @@
       {% endif %} target="_self">{{ item.name }}</a>
     </li>
     {% endfor %}
+    <!-- <li class="inline cursor-pointer sm:px-2 h-8 px-0" id="theme-toggle" type="button">
+      <a href="{{ item.url }}"
+      class="opacity-100 decoration-dotted p-0 hover:bg-slate-100 dark:hover:bg-slate-800 rounded-md box-border  relative top-1"
+      target="_self">
+      <div id="theme-toggle-dark-icon" class="hidden bg-orange-500 opacity-50"></div>
+      <div id="theme-toggle-light-icon" class="hidden bg-purple-400"></div>
+    </a>
+    </li> -->
   </ul></nav>
   <main class="prose tablet:prose-lg prose-invert font-serif pt-12 pb-12">
     {{ content | safe }}
