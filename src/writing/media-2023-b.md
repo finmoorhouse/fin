@@ -22,7 +22,7 @@ Ordering remains arbitrary. Let me know if you find something from this list tha
 
 I keep track of what I read on [Goodreads](https://www.goodreads.com/user/show/38695642-fin-moorhouse) (some written reviews [also live here](https://finmoorhouse.com/writing/book-reviews/)).
 
-- {% note '[Infrastructure: The Book of Everything for the Industrial Landscape](https://www.goodreads.com/book/show/236866.Infrastructure) — Brian Hayes' %}Not quite finished but sure to be my favourite book of the year. It has a [nice website here](http://industrial-landscape.com).{% image 'http://industrial-landscape.com/art/pole-xformers-hydrant-cell-tower-1000-501.jpg' 'Image from Infrastructure' %}{% endnote %}
+- {% note '[Infrastructure: The Book of Everything for the Industrial Landscape](https://www.goodreads.com/book/show/236866.Infrastructure) — Brian Hayes' %}Not quite finished but sure to be my favourite book of the year. It has a [nice website here](http://industrial-landscape.com).{% image 'writing/media-2023-b/infrastructure.jpg' 'Image from Infrastructure' %}{% endnote %}
 - [Bach and the High Baroque](https://www.goodreads.com/book/show/51976443-bach-and-the-high-baroque) — Robert Greenberg
 - [Empire of Pain: The Secret History of the Sackler Dynasty](https://www.goodreads.com/book/show/43868109-empire-of-pain) and [Say Nothing: A True Story of Murder and Memory in Northern Ireland](https://www.goodreads.com/book/show/40163119-say-nothing) — Patrick Radden Keefe
 - {% note '[The Grasshopper: Games, Life and Utopia](https://www.goodreads.com/book/show/803547.The_Grasshopper) — Bernard Suits' %}Philosopher writes on the nature of games in Aesop/Carroll-style dialogues, plus whimsical illustrations:{% image "writing/media-2023-b/grasshopper-2.jpg", "Grasshopper" %} {% endnote %}
@@ -40,7 +40,7 @@ I [log](https://rateyourmusic.com/collection/finm/r0.5-5.0,ss.dd) most things on
 
 Albums I most recommend from the last year:
 
-- {% note '[Jorge Ben](https://rateyourmusic.com/artist/jorge-ben) - *[A Tábua de Esmeralda](https://rateyourmusic.com/release/album/jorge-ben/a-tabua-de-esmeralda/)* (1974)' %}{% image 'https://e.snmc.io/i/fullres/w/f8a7ebf6fa0957fc6924abc95d97e29e/3472279' 'Jorge Ben' %}{% endnote %}
+- {% note '[Jorge Ben](https://rateyourmusic.com/artist/jorge-ben) - *[A Tábua de Esmeralda](https://rateyourmusic.com/release/album/jorge-ben/a-tabua-de-esmeralda/)* (1974)' %}{% image 'writing/media-2023-b/jbj.jpg' 'Jorge Ben' %}{% endnote %}
 - {% note '[Le Mystère des Voix Bulgares](https://rateyourmusic.com/artist/le-mystere-des-voix-bulgares) - *[Le mystère des voix bulgares : volume 1](https://rateyourmusic.com/release/album/le-mystere-des-voix-bulgares/le-mystere-des-voix-bulgares-volume-1/)* (1975)' %}Bulgarian choral music: unexpectedly captivating!{% endnote %}
 - [Nicolas Jaar NYC boiler room](https://www.youtube.com/watch?v=IUjWumGIqe8) and another [in CDMX](https://www.youtube.com/watch?v=RgbgOxkeP1Q)
 - [Freddie Hubbard](https://rateyourmusic.com/artist/freddie-hubbard) - *[Red Clay](https://rateyourmusic.com/release/album/freddie-hubbard/red-clay-4/)* (1970)
