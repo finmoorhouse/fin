@@ -1,8 +1,7 @@
 ---
 title: Notes from Order Without Design
-permalink: /writing/order-without-design
-tags:
-  - writing
+permalink: /writing/order-without-design/
+tags: [writing]
 date: 2024-09-12
 shareImage: writing/order-without-design/owd-midjourney.png
 ---
