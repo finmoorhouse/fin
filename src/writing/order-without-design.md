@@ -3,6 +3,8 @@ title: Notes from Order Without Design
 permalink: /writing/order-without-design/
 tags: [writing]
 date: 2024-09-12
+links:
+  "Substack": https://finmoorhouse.substack.com/p/notes-from-order-without-design
 shareImage: writing/order-without-design/owd-midjourney.png
 ---
 
@@ -133,7 +135,7 @@ In cities with very rich architectural traditions, I think the ‘conservation�
 
 For most, for now, beauty is very secondary to the necessities of living in a city: rent, mobility, proximity to jobs. But I mention this because I still wonder what Bertaud has to say about aesthetic value, and the in-practice architecturally soulless character of many market-directed new builds.
 
-In (say) high-income cities in Europe and the US do begin to liberalise planning restriction, and the [‘hard costs’ of construction](https://www.construction-physics.com/i/143167718/hard-costs) finally decline, then we might think seriously about smart ways to incentivise and subsidise beauty (I wish I had a better word than that). Indeed if the buildings waiting on the other side of planning liberalisation were very attractive, then a voting public might look more favourably on easing restrictions on building them. I like Samuel Hughes' ideas of “gentle density” and “[easy style](https://worksinprogress.co/issue/making-architecture-easy/)” for this reason.
+If (say) high-income cities in Europe and the US do begin to liberalise planning restriction, and the [‘hard costs’ of construction](https://www.construction-physics.com/i/143167718/hard-costs) finally decline, then we might think seriously about smart ways to incentivise and subsidise beauty (I wish I had a better word than that). Indeed if the buildings waiting on the other side of planning liberalisation were very attractive, then a voting public might look more favourably on easing restrictions on building them. I like Samuel Hughes' ideas of “gentle density” and “[easy style](https://worksinprogress.co/issue/making-architecture-easy/)” for this reason.
 
 As it is, my ebook reader shows {% note 'only two matches for “beauty” or “beautiful”' %}both (weirdly enough) referencing the *topography* of a city{% endnote %}.
 
