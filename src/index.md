@@ -4,9 +4,9 @@ layout: page.njk
 description: What I'm doing, and how to contact me.
 ---
 
-Currently I'm a researcher at [Longview Philanthropy](https://www.longview.org/). Before that, I was a Research Scholar and assistant to [Toby Ord](https://en.wikipedia.org/wiki/Toby_Ord) at Oxford University's [Future of Humanity Institute](https://en.wikipedia.org/wiki/Future_of_Humanity_Institute).
+Currently I'm part of a new research group thinking about advanced AI. Before that, I worked at [Longview Philanthropy](https://www.longview.org/), and I was a Research Scholar and assistant to [Toby Ord](https://en.wikipedia.org/wiki/Toby_Ord) at Oxford University's [Future of Humanity Institute](https://en.wikipedia.org/wiki/Future_of_Humanity_Institute).
 
-I'm interested in finding ways to help the future go well, including ideas around [effective altruism](https://www.effectivealtruism.org/). I [sometimes write](/writing) about this kind of thing.
+I'm interested in finding ways to help the future go well, including ideas around [effective altruism](https://www.effectivealtruism.org/) and [progress studies](https://www.theatlantic.com/science/archive/2019/07/we-need-new-science-progress/594946/). I [sometimes write](/writing) about this kind of thing.
 
 Also:
 
