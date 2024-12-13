@@ -13,18 +13,8 @@ It accompanies a [300-page technical report](https://doi.org/10.25740/cv716pj403
 
 I had the opportunity to co-author an explainer article in the excellent [Asimov Press](https://press.asimov.com/), with [Niko McCarty](https://x.com/NikoMcCarty/). We discuss what it would take to create ‘mirrored life’, the risks from an outbreak of mirrored bacteria, potential countermeasures, and what the world should do about all this. 
 
-
-
 <a href="https://www.asimov.press/p/mirror-life" target="_blank" class="flex items-center mt-10 gap-1.5 max-w-max underline decoration-dotted mx-auto">Read the article on Asimov Press →</a>
 
-
-
-<a href="https://press.asimov.com/articles/mirror-life" target="_blank" class="flex items-center mt-2 gap-1.5 max-w-max underline decoration-dotted mx-auto">Read the article on Substack →</a>
-
-
-
-<br/>
-
-
+<a href="https://press.asimov.com/articles/mirror-life" target="_blank" class="flex items-center mt-2 gap-1.5 mb-10 max-w-max underline decoration-dotted mx-auto">Read the article on Substack →</a>
 
 {% image 'writing/mirror-life/lilies' 'Mirror life' %}
