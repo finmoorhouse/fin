@@ -4,7 +4,7 @@ permalink: /writing/mirrored-life/
 tags:
   - writing
 date: 2024-12-12
-shareImage: 
+shareImage: https://images.finmoorhouse.com/writing/mirror-life/lilies.jpg
 ---
 
 In a [report in *Science* Policy Forum](https://www.science.org/doi/10.1126/science.ads9158), {% note 'more than 30 leading scientists' %}Including [Jack W. Szostak](https://en.wikipedia.org/wiki/Jack_W._Szostak), [John Glass](https://www.jcvi.org/about/john-glass), [Kate Adamala](https://cbs.umn.edu/directory/kate-adamala), [Michael Kay](https://bioscience.utah.edu/faculty/kay/index.php) [George Church](https://en.wikipedia.org/wiki/George_Church_(geneticist)), and [Craig Venter](https://en.wikipedia.org/wiki/Craig_Venter), many of whom originally had aspirations of helping create mirrored life.{% endnote %} from ten countries are calling on the broader community to confront the risks of mirrored life: “Although we were initially skeptical that mirror bacteria could pose major risks, we have become deeply concerned”.
