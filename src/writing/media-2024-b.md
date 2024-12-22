@@ -4,7 +4,7 @@ permalink: /writing/media-2024-b/
 tags:
  - writing
 date: 2024-12-22
-shareImage: writing/media-2024-b/music-chart-with-labels.png
+shareImage: writing/media-2024-b/totoro.png
 ---
 
 Music, books, and writing I enjoyed from the first half of 2024. Previous lists:
@@ -90,7 +90,7 @@ Also, I love the chutzpah to write a fairly technical nonfiction book about a ti
 
 {% enddrop %}
 
-- [Boom: Bubbles and the End of Stagnation](https://www.goodreads.com/book/show/205307264-boom) — Byrne Hobart, Tobias Huber
+- {% note '[Boom: Bubbles and the End of Stagnation](https://www.goodreads.com/book/show/205307264-boom) — Byrne Hobart, Tobias Huber' %}{% image 'writing/media-2024-b/boom' 'Boom' %}{% endnote %}
 - [Dancing in the Glory of Monsters: The Collapse of the Congo and the Great War of Africa](https://www.goodreads.com/book/show/10046142-dancing-in-the-glory-of-monsters) — Jason K. Stearns
 
 {% drop %}
