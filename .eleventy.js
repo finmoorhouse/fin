@@ -18,6 +18,7 @@ module.exports = function (config) {
   config.addShortcode("backLink", htmlShortcodes.backLink);
   config.addShortcode("year", htmlShortcodes.year);
   config.addPairedShortcode("toggle", htmlShortcodes.toggle);
+  config.addPairedShortcode("drop", htmlShortcodes.drop);
 
   // Markdown
   config.setLibrary("md", markdown.markdownLib);

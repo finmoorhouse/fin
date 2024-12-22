@@ -170,3 +170,16 @@ img:before{
   padding: 1.5em;
   display: inline-block;
 }
+
+
+details summary:hover {
+  text-decoration: underline;
+  text-decoration-style: dotted;
+}
+
+details summary{
+  cursor: pointer;
+  text-decoration: none;
+  transition: border-color 0.2s ease;
+}
+

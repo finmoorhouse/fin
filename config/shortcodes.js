@@ -1,3 +1,5 @@
+const markdownIt = require('markdown-it')();
+
 function backLink(link, title) {
   return `
     <a
@@ -63,10 +65,23 @@ function aside(content) {
     <div class="relative"><span class="absolute left-4 top-0 border border-slate-600 rounded-tl-0 rounded-tr-0 rounded-bl-md rounded-br-md font-sans px-2 text-base opacity-70 md:inline-block hover:opacity-100 transition-opacity">Note</span><aside class="bg-flint-400 rounded-md px-6 border border-slate-600  [&>p]:my-1"><div class="space-y-2 first:mt-8 last:mb-3">${content}</div></aside></div>`;
 }
 
+function drop(content, summary = "Show notes →") {
+  return `</ul>
+  <details class="group relative mt-[-10px] mb-[-8px]">
+    <summary class="drop-summary ml-8 pt-2 inline text-slate-400 text-base hover:underline hover:decoration-dotted border-t border-slate-500">
+      <span class="group-open:hidden">${summary}</span><span class="hidden group-open:inline">✕ Close notes</span>
+    </summary>
+    <div class="left-0 z-10 mt-2 mb-3 text-slate-300 border border-slate-500 px-4 rounded-md [&>p]:mt-3 [&>p]:mb-3">
+      ${markdownIt.render(content)}
+    </div>
+  </details>`;
+}
+
 module.exports = {
   backLink,
   year,
   note,
   toggle,
   aside,
+  drop,
 };
