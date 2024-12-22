@@ -5,6 +5,8 @@ tags:
  - writing
 date: 2024-12-22
 shareImage: writing/media-2024-b/totoro.png
+links:
+  Substack: https://finmoorhouse.substack.com/p/media-highlights-2024-july-to-dec
 ---
 
 Books and music I enjoyed from the second half of 2024. Previous lists:
