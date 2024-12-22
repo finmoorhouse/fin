@@ -78,15 +78,15 @@ Also, I love the chutzpah to write a fairly technical nonfiction book about a ti
 
 - [The Origins of Political Order: From Prehuman Times to the French Revolution](https://www.goodreads.com/book/show/9704856-the-origins-of-political-order) and [Political Order and Political Decay: From the Industrial Revolution to the Globalization of Democracy](https://www.goodreads.com/book/show/20575435-political-order-and-political-decay) — Francis Fukuyama
 
-{% drop %}This is the second entry to a two-parter, the first being [The Origins of Political Order: From Prehuman Times to the French Revolution](https://goodreads.com/book/show/9704856.The_Origins_of_Political_Order_From_Prehuman_Times_to_the_French_Revolution). It's an epic and basically successful attempt to write a sweeping political history of the world from the first states to the 21st century.
+{% drop %}An epic and basically successful 2-part attempt to write a sweeping political history of the world from the first states to the 21st century.
 
- The key organising device was to think about societies in terms of state capacity, the rule of law, and accountability. ‘State capacity’ meaning something like ‘a bureaucracy to accumulate and administer the power of the state’. It can be efficient and well-organised; or corrupt, nepotistic, clientelistic. ‘The rule of law’ meaning some kind of judiciary, with some authority even over political leadership, and largely insulated from their whims. And ‘accountability’, meaning the decisions of the state (and the choice of leadership) are subject to correction by more or less of its subjects — basically, free and fair elections. For Fukuyama, ideal modern states (liberal democracies) score highly on all three counts.
+The key organising device was to think about societies in terms of state capacity, the rule of law, and accountability. ‘State capacity’ meaning something like ‘a bureaucracy to accumulate and administer the power of the state’. It can be efficient and well-organised; or corrupt, nepotistic, clientelistic. ‘The rule of law’ meaning some kind of judiciary, with some authority even over political leadership, and largely insulated from their whims. And ‘accountability’, meaning the decisions of the state (and the choice of leadership) are subject to correction by more or less of its subjects — basically, free and fair elections. For Fukuyama, ideal modern states (liberal democracies) score highly on all three counts.
 
- But, when you think about it, it's really not obvious how some societies got a relatively strong state, rule of law, and accountability. Beginning with an autocratic state, for instance, why would it ever ‘agree’ to subject itself to democracy and courts?
+But, when you think about it, it's really not obvious how some societies got a relatively strong state, rule of law, and accountability. Beginning with an autocratic state, for instance, why would it ever ‘agree’ to subject itself to democracy and courts?
 
- I liked these books because Fukuyama is not cherry-picking from history to illustrate his ‘one big idea’. He is trying to take political history in all its massive complexity, figuring out how to organise it in englightening ways, drawing out themes but noticing exceptions, showing connections and nicely insightful explanations for them, and mostly steering clear of sweeping, clever-sounding, abstract theses (a la *Sapiens*).
+I liked these books because Fukuyama is not cherry-picking from history to illustrate his ‘one big idea’. He is trying to take political history in all its massive complexity, figuring out how to organise it in englightening ways, drawing out themes but noticing exceptions, showing connections and nicely insightful explanations for them, and mostly steering clear of sweeping, clever-sounding, abstract theses (a la *Sapiens*).
 
- The analysis of the US as [‘vetocracy’](https://en.wikipedia.org/wiki/Vetocracy) was especially good I thought. And despite his reputation as the ‘end of history’ guy, we get the right answer to “will more and more societies join the ranks of liberal democracy”, which is, “it’s complicated”. 
+The analysis of the US as [‘vetocracy’](https://en.wikipedia.org/wiki/Vetocracy) was especially good I thought. And despite his reputation as the ‘end of history’ guy, we get the right answer to “will more and more societies join the ranks of liberal democracy”, which is, “it’s complicated”. 
 
 {% enddrop %}
 
@@ -162,6 +162,7 @@ The case for good (?) news is that human minds are more pliable to big social/te
 - [Books That Matter: The Federalist Papers](https://www.goodreads.com/book/show/54360564-books-that-matter) — Joseph L. Hoffman
 - [Build, Baby, Build: The Science and Ethics of Housing Regulation](https://www.goodreads.com/book/show/181564537-build-baby-build) — Bryan Caplan, Ady Branzei (Illustrator)
 - [Alexander Hamilton](https://www.goodreads.com/book/show/16130.Alexander_Hamilton) — Ron Chernow
+- [Deng Xiaoping and the Transformation of China](https://www.goodreads.com/book/show/11472345-deng-xiaoping-and-the-transformation-of-china) — Ezra F. Vogel
 
 My four favourite books from the entire year are *[Order Without Design](https://www.goodreads.com/book/show/39644188-order-without-design)*, *[A Farewell to Alms](https://www.goodreads.com/book/show/150437.A_Farewell_to_Alms)*, *[Infrastructure](https://www.goodreads.com/book/show/236866.Infrastructure)*, and *[Modern Principles of Economics](https://www.goodreads.com/book/show/6659172-modern-principles-of-economics)*.
 
