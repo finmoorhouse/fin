@@ -7,7 +7,7 @@ date: 2024-12-22
 shareImage: writing/media-2024-b/totoro.png
 ---
 
-Music, books, and writing I enjoyed from the first half of 2024. Previous lists:
+Books and music I enjoyed from the second half of 2024. Previous lists:
 
 - [2024 (first half)](https://finmoorhouse.com/writing/media-2024-a/)
 - [2023 (second half)](https://finmoorhouse.com/writing/media-2023-b/)
@@ -76,7 +76,7 @@ Also, I love the chutzpah to write a fairly technical nonfiction book about a ti
 
 - [Proof and the Art of Mathematics](https://www.goodreads.com/book/show/51456721-proof-and-the-art-of-mathematics) — Joel David Hamkins
 
-- [The Origins of Political Order: From Prehuman Times to the French Revolution](https://www.goodreads.com/book/show/9704856-the-origins-of-political-order) and [Political Order and Political Decay: From the Industrial Revolution to the Globalization of Democracy](https://www.goodreads.com/book/show/20575435-political-order-and-political-decay) — Francis Fukuyama
+- [The Origins of Political Order](https://www.goodreads.com/book/show/9704856-the-origins-of-political-order) and [Political Order and Political Decay](https://www.goodreads.com/book/show/20575435-political-order-and-political-decay) — Francis Fukuyama
 
 {% drop %}An epic and basically successful 2-part attempt to write a sweeping political history of the world from the first states to the 21st century.
 
@@ -164,6 +164,8 @@ The case for good (?) news is that human minds are more pliable to big social/te
 - [Alexander Hamilton](https://www.goodreads.com/book/show/16130.Alexander_Hamilton) — Ron Chernow
 - [Deng Xiaoping and the Transformation of China](https://www.goodreads.com/book/show/11472345-deng-xiaoping-and-the-transformation-of-china) — Ezra F. Vogel
 
+{% drop %}[Bill Gates](https://www.gatesnotes.com/Deng-Xiaoping): “One country alone has lifted 500 million people out of abject poverty […] To have done this essentially in one generation is an unbelievable accomplishment and is unique in the history of the world.”{% enddrop %}
+
 My four favourite books from the entire year are *[Order Without Design](https://www.goodreads.com/book/show/39644188-order-without-design)*, *[A Farewell to Alms](https://www.goodreads.com/book/show/150437.A_Farewell_to_Alms)*, *[Infrastructure](https://www.goodreads.com/book/show/236866.Infrastructure)*, and *[Modern Principles of Economics](https://www.goodreads.com/book/show/6659172-modern-principles-of-economics)*.
 
 ## Music
@@ -215,7 +217,7 @@ I [log](https://rateyourmusic.com/collection/finm/r0.5-5.0,ss.dd) most things on
 
 - Berlin Philharmonic Orchestra / Herbert von Karajan - *[Scheherazade / Polovtsian Dances](https://rateyourmusic.com/release/album/berlin-philharmonic-orchestra-herbert-von-karajan/scheherazade-polovtsian-dances/)* (1986)
 - Dresden Staatskapelle / Franz Konwitschny / David Oistrakh - *[Concerto for Violin, op. 35](https://rateyourmusic.com/release/album/dresden-staatskapelle-franz-konwitschny-david-oistrakh/concerto-for-violin-op-35/)* (1955)
-- [Tenebrae](https://rateyourmusic.com/artist/tenebrae_f5) / [Nigel Short](https://rateyourmusic.com/artist/nigel_short) - *[Miserere](https://rateyourmusic.com/release/album/tenebrae-nigel-short/miserere/)* (2006)
+- {% note '[Tenebrae](https://rateyourmusic.com/artist/tenebrae_f5) / [Nigel Short](https://rateyourmusic.com/artist/nigel_short) - *[Miserere](https://rateyourmusic.com/release/album/tenebrae-nigel-short/miserere/)* (2006)' %}Especially [this truly beautiful rendering of Miserere](https://open.spotify.com/track/2ED1VZ53iRImo252U2PEsu?si=d766ff0fad394e79).{% endnote %}
 - [Sequentia](https://rateyourmusic.com/artist/sequentia) - *[Canticles of Ecstasy](https://rateyourmusic.com/release/album/sequentia/canticles-of-ecstasy/)* (1994)
 - [Tonus Peregrinus](https://rateyourmusic.com/artist/tonus_peregrinus) - *[Sacred Music From Notre-Dame Cathedral](https://rateyourmusic.com/release/album/tonus-peregrinus/sacred-music-from-notre-dame-cathedral/)* (2005)
 - {% note '[Kelly Moran](https://rateyourmusic.com/artist/kelly-moran) - *[Moves in the Field](https://rateyourmusic.com/release/album/kelly-moran/moves-in-the-field/)* (2024)' %}[[S]howcases](https://warp.net/products/443242-moves-in-the-field) duets with the Yamaha Disklavier, a technologically advanced version of a player piano. Moran [uses] the Disklavier to write intricate piano parts that go beyond human capabilities[.]{% image 'writing/media-2024-b/moves' 'Moves' %}{% endnote %}
