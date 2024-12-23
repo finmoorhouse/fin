@@ -273,7 +273,7 @@ My favourites from the entire year are: [Imaginal Disk](https://rateyourmusic.co
 
 ---
 
-Please [let me know](https://www.admonymous.co/fin) if you find something from this list which you end up enjoying!
+Please [let me know](https://www.admonymous.co/fin) if you find something from this list which you end up enjoying! And please do [send me recs](https://www.admonymous.co/fin) of your own!
 
 
 
