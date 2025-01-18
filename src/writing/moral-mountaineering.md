@@ -1,10 +1,10 @@
 ---
 title: Moral mountaineering
-permalink: /writing/acting-hopefully/
+permalink: /writing/moral-mountaineering/
 tags:
   - writing
 date: 2025-01-05
-shareImage: https://images.finmoorhouse.com/writing/tractability/jungle-2.jpg
+shareImage: https://images.finmoorhouse.com/writing/moral-mountaineering/beacon.jpg
 ---
 
 Sometimes we have the opportunity to change the world, and we care about changing the world for the better, but we're worried about our efforts backfiring and being counterproductive.
