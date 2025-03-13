@@ -3,8 +3,10 @@ title: Moral mountaineering
 permalink: /writing/moral-mountaineering/
 tags:
   - writing
-date: 2025-01-05
+date: 2025-01-17
 shareImage: https://images.finmoorhouse.com/writing/moral-mountaineering/beacon.jpg
+links:
+  Substack: https://finmoorhouse.substack.com/p/moral-mountaineering
 ---
 
 Sometimes we have the opportunity to change the world, and we care about changing the world for the better, but we're worried about our efforts backfiring and being counterproductive.
@@ -53,7 +55,7 @@ A project is constructive when it asks, “How can I add building blocks now, so
 
 When you’re building a house, you don’t ask what would make the construction site more superficially resemble a house that day. Instead, your work is guided by which components a finished house must include, and the order they can be added. Scientific results and new technologies are like bricks in a building: later insights rely on earlier ones like one layer of bricks rests on the next; and once placed they don’t easily crumble or get forgotten. {% note 'Construction scaffolding can be built' %}Some scaffolding is coated in a protective fabric called 'scrim', which can be decorated with a facade image. {% image '/writing/moral-mountaineering/scrim' 'Scaffolding scrim' %}{% endnote %} in different ways, and it’s ok if it’s a bit of an eyesore for the street, because eventually it gets stripped away. But when bricklayers place bricks, and technologists figures, or a materials scientist gets some new result about how to make smaller batteries, they can be fairly confident those steps are on the critical path to some more complete project.
 
-Obviously, *obviously*, this whole ‘moral paralysis’ problem isn’t the kind of thing you can resolve with a {% note 'metaphor and a rule of thumb' %}In chess, a move can look killer until you spot that one saving response your opponent could make in the critical line. But wait — you have a response to the response. But wait — and so on. Rules of thumb might help a bit, but if you want to play the best move then thinking hard is necessary. You don’t get good at chess by reading aphorisms.{% endnote %}. Sometimes the fastest route actually does involve turning away from the summit. Perhaps there are deep crevasses in the shadows along the straight path toward the summit.
+Obviously, *obviously*, this whole ‘moral paralysis’ problem isn’t the kind of thing you can resolve with a {% note 'metaphor and a rule of thumb' %}In chess, a move can look killer until you spot that one saving response your opponent could make in the critical line. But wait — you have a response to the response. But wait — and so on. Rules of thumb might help a bit, but if you want to play the best move then thinking hard is necessary. You don’t get good at chess by reading aphorisms!{% endnote %}. Sometimes the fastest route actually does involve turning away from the summit. Perhaps there are deep crevasses in the shadows along the straight path toward the summit.
 
 Still, I need a takeaway — some reviewers told me they liked an earlier draft of this post but they didn’t know {% note 'what the point was' %}In particular: is this a problem with **utilitarianism** (or consequentialism more broadly)? Utilitarianism says “do the thing with the best overall consequences”, which sounds like plain gradient ascent. And I seem to be disagreeing, by recommending actions with (sometimes) worse immediate consequences. But no, this is not a deep or interesting problem with utilitarianism. ‘Overall consequences’ shouldn't mean ‘immediate consequences’. Only an explicitly myopic-in-time version of utilitarianism would go wrong, by acting like a stubbornly lazy hiker in the analogy. I do think utilitarianism alone has less to say about *cooperation*, but that's a different story.{% endnote %}. Maybe it's this:
 
