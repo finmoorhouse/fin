@@ -1,6 +1,6 @@
 ---
 title: Preparing for the Intelligence Explosion
-tags: [projects]
+tags: [projects, writing]
 date: 2025-03-11
 link: https://www.forethought.org/research/preparing-for-the-intelligence-explosion
 ---
