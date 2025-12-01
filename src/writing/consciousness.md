@@ -1,6 +1,6 @@
 ---
 title: No ghost in the machine
-permalink: /writing/consciousness
+permalink: /writing/consciousness/
 tags:
  - writing
 date: 2025-12-01
