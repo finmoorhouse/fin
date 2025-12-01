@@ -4,7 +4,7 @@ permalink: /writing/consciousness-and-ai/
 tags:
  - writing
 date: 2025-12-01
-shareImage: writing/consciousness/duck.jpg
+shareImage: writing/consciousness/duck-share.jpg
 ---
 
 ## Introduction
