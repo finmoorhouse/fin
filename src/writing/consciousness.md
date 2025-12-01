@@ -7,6 +7,8 @@ date: 2025-12-01
 shareImage: writing/consciousness/duck.jpg
 ---
 
+## Introduction
+
 > The illusion is irresistible. Behind every face there is a self. We see the signal of consciousness in a gleaming eye and imagine some ethereal space beneath the vault of the skull lit by shifting patterns of feeling and thought, charged with intention. An essence. But what do we find in that space behind the face, when we look? [Nothing but] flesh and blood and bone and brain. I know, I've seen. You look down into an open head, watching the brain pulsate, watching the surgeon tug and probe, and you understand with absolute conviction that there is nothing more to it. There's no one there. It's a kind of liberation.
 >
 >
