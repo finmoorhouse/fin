@@ -5,6 +5,8 @@ tags:
  - writing
 date: 2025-12-01
 shareImage: writing/consciousness/duck-share.jpg
+links:
+ Substack: https://finmoorhouse.substack.com/p/no-ghost-in-the-machine
 ---
 
 ## Introduction
