@@ -6,7 +6,7 @@ tags:
 date: 2025-12-27
 shareImage: writing/media-2025-b/florence
 links:
- Substack: https://finmoorhouse.substack.com/
+ Substack: https://finmoorhouse.substack.com/p/media-highlights-2025-jul-to-dec
 ---
 
 Books and music I enjoyed from the second half of 2025. Ordering remains arbitrary. Let me know if you find something from this list that you end up liking!
@@ -39,7 +39,7 @@ Rock —
 - Smashing Pumpkins - *[Siamese Dream](https://open.spotify.com/album/4UVERYsIzs6xbDYO8srlqd)* (1993)
 - Built to Spill - *[Perfect From Now On](https://open.spotify.com/album/6DlZzUnITGI5cWGTjIWSBm)* (1997)
 - Paul and Linda McCartney - *[Ram](https://open.spotify.com/album/03quwfxVOzXduvxgawbLRn)* (1971)
-- {% note 'Geese - *[Getting Killed](https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC)* (2025) and *[3D Country](https://open.spotify.com/album/4RT2pNX9ZXCB0LtqfI2sdJ)* (2023) and Cameron Winter - *[Heavy Metal](https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk)* (2024)' %}The question is how Cameron Winter lives up to the [absurd levels of hype](https://www.thelineofbestfit.com/news/cameron-winters-carnegie-hall-performance-filmed-by-paul-thomas-anderson) now. [3D Country](https://open.spotify.com/album/4RT2pNX9ZXCB0LtqfI2sdJ?si=e4d23ac7574542f0) is the most immediately enjoyable.{% endnote %}
+- {% note 'Geese - *[Getting Killed](https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC)* (2025) and *[3D Country](https://open.spotify.com/album/4RT2pNX9ZXCB0LtqfI2sdJ)* (2023) and Cameron Winter - *[Heavy Metal](https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk)* (2024)' %}The question is how Cameron Winter lives up to the [absurd levels of hype](https://www.thelineofbestfit.com/news/cameron-winters-carnegie-hall-performance-filmed-by-paul-thomas-anderson). [3D Country](https://open.spotify.com/album/4RT2pNX9ZXCB0LtqfI2sdJ?si=e4d23ac7574542f0) is the most immediately enjoyable.{% endnote %}
 
 Ambient —
 * {% note 'Four Tet - *[There Is Love in You](https://open.spotify.com/album/6x2gG7Pw1g54ZjQWjiAVCK)* (2010)' %}His best? Incidentally I really enjoyed [this interview with Kieran / Four Tet](https://www.youtube.com/watch?v=7mN-XYl7tGE).{% image '/writing/media-2025-b/4t' 'There Is Love in You' %}{% endnote %}
@@ -84,7 +84,7 @@ Folk adjacent —
 * Fotheringay - *[Fotheringay](https://open.spotify.com/album/6oONuqDGHGux1OEtlLLGNt)* (1970)
 
 Classical —
-* {% note 'Roomful of Teeth - *[Partita for 8 Voices](https://open.spotify.com/album/4LHSzEQPF6Iw20BGppFk31)* (2013)' %}Totally amazing. Someone described it as a "tech demo for the human voice". Rewards loud speakers, I'd say{% endnote %}
+* {% note 'Roomful of Teeth - *[Partita for 8 Voices](https://open.spotify.com/album/4LHSzEQPF6Iw20BGppFk31)* (2013)' %}Totally amazing. Someone described it as a "tech demo for the human voice". Rewards loud speakers, I'd say.{% endnote %}
 * Joe Hisaishi / Ella Taylor - *[Joe Hisaishi Conducts](https://open.spotify.com/album/6tI6OUuxSRZw8GAHlmhJnY)* (2025)
 * John Eliot Gardiner - *[J.S. Bach: Christmas Oratorio](https://open.spotify.com/album/3QMvXqlKGhZV5Kye98jvQz)* (2024)
 * Günter Wand - Mozart *[Symphonies Nos. 39, 40, 41](https://rateyourmusic.com/release/comp/ndr-sinfonie-orchester-gunter-wand/symphonies-nos-39-40-41-jupiter/)* (2005)
@@ -114,7 +114,7 @@ Videos —
 - [Thoughts by a non-economist on AI and economics](https://windowsontheory.org/2025/11/04/thoughts-by-a-non-economist-on-ai-and-economics) (Boaz Barak)
 - [Dating: A mysterious constellation of facts](https://dynomight.substack.com/p/dating) (Dynomight)
 - [The internet wants to be fragmented](https://www.noahpinion.blog/p/the-internet-wants-to-be-fragmented-6b5?publication_id=35345&post_id=178230973) (Noah Smith)
-- [64 Reasons To Celebrate Paul McCartney](https://www.ian-leslie.com/p/64-reasons-to-celebrate-paul-mccartney)
+- [64 Reasons To Celebrate Paul McCartney](https://www.ian-leslie.com/p/64-reasons-to-celebrate-paul-mccartney) (Ian Leslie)
 
 ## Previous lists
 
