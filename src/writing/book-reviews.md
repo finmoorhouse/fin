@@ -2,7 +2,7 @@
 title: Book reviews (ongoing)
 description: My written book reviews
 tags: [writing]
-date: 2025-05-01
+date: 2026-01-01
 permalink: /writing/book-reviews/
 shareImage: https://images.finmoorhouse.com/writing/book-reviews/van-gogh-books.jpg
 ---
@@ -11,14 +11,23 @@ This is a mirror of my *written* [book reviews on Goodreads](https://www.goodrea
 
 They are generated using the .csv file of reviews which [Goodreads lets your export](https://www.goodreads.com/review/import). [Here's the code I used](https://gist.github.com/finmoorhouse/4fd8ddb50a6b9a7d9690f049992f89c9) if you're interested.
 
-## All reviews
+### 2026
+
+- [Skunk Works: A Personal Memoir of My Years at Lockheed](#skunk-works-a-personal-memoir-of-my-years-at-lockheed)
+- [The Power Broker: Robert Moses and the Fall of New York](#the-power-broker-robert-moses-and-the-fall-of-new-york)
 
 ### 2025
+
+- [John & Paul: A Love Story in Songs](#john-paul-a-love-story-in-songs)
+- [Everything Is Tuberculosis: The History and Persistence of Our Deadliest Infection](#everything-is-tuberculosis-the-history-and-persistence-of-our-deadliest-infection)
+- [Law's Order: What Economics Has to Do with Law and Why It Matters](#laws-order-what-economics-has-to-do-with-law-and-why-it-matters)
+- [The Thinking Machine: Jensen Huang, Nvidia, and the World's Most Coveted Microchip](#the-thinking-machine-jensen-huang-nvidia-and-the-worlds-most-coveted-microchip)
+- [The Rest Is Noise: Listening to the Twentieth Century](#the-rest-is-noise-listening-to-the-twentieth-century)
 - [If Anyone Builds It, Everyone Dies: Why Superhuman AI Would Kill Us All](#if-anyone-builds-it-everyone-dies-why-superhuman-ai-would-kill-us-all)
 - [Breakneck: China's Quest to Engineer the Future](#breakneck-chinas-quest-to-engineer-the-future)
 - [After the Spike: Population, Progress, and the Case for People](#after-the-spike-population-progress-and-the-case-for-people)
 - [The Passage of Power (The Years of Lyndon Johnson, #4)](#the-passage-of-power-the-years-of-lyndon-johnson-4)
-- [And the Roots of Rhythm Remain (ZE Series, 6)](#and-the-roots-of-rhythm-remain-ze-series-6)
+- [And the Roots of Rhythm Remain: A Journey Through Global Music (ZE Series, 6)](#and-the-roots-of-rhythm-remain-a-journey-through-global-music-ze-series-6)
 - [Legal Systems Very Different From Ours](#legal-systems-very-different-from-ours)
 - [Engines of Creation: The Coming Era of Nanotechnology (Anchor Library of Science)](#engines-of-creation-the-coming-era-of-nanotechnology-anchor-library-of-science)
 - [The End of History and the Last Man](#the-end-of-history-and-the-last-man)
@@ -26,6 +35,7 @@ They are generated using the .csv file of reviews which [Goodreads lets your exp
 - [Penance](#penance)
 
 ### 2024
+
 - [The Edge of Sentience: Risk and Precaution in Humans, Other Animals, and AI](#the-edge-of-sentience-risk-and-precaution-in-humans-other-animals-and-ai)
 - [Dancing in the Glory of Monsters: The Collapse of the Congo and the Great War of Africa](#dancing-in-the-glory-of-monsters-the-collapse-of-the-congo-and-the-great-war-of-africa)
 - [Abundance](#abundance)
@@ -48,13 +58,14 @@ They are generated using the .csv file of reviews which [Goodreads lets your exp
 - [Elements of Jazz: From Cakewalks to Fusion](#elements-of-jazz-from-cakewalks-to-fusion)
 
 ### 2023
+
 - [Poor Charlie’s Almanack: The Essential Wit and Wisdom of Charles T. Munger](#poor-charlies-almanack-the-essential-wit-and-wisdom-of-charles-t-munger)
 - [Bach and the High Baroque](#bach-and-the-high-baroque)
 - [The Grasshopper: Games, Life and Utopia](#the-grasshopper-games-life-and-utopia)
 - [Thinking In Systems: A Primer](#thinking-in-systems-a-primer)
 - [Radical Acceptance: Embracing Your Life With the Heart of a Buddha](#radical-acceptance-embracing-your-life-with-the-heart-of-a-buddha)
 - [Radical Compassion: Learning to Love Yourself and Your World with the Practice of RAIN](#radical-compassion-learning-to-love-yourself-and-your-world-with-the-practice-of-rain)
-- [The Son Also Rises: Surnames and the History of Social Mobility (The Princeton Economic History of the Western World)](#the-son-also-rises-surnames-and-the-history-of-social-mobility-the-princeton-economic-history-of-the-western-world)
+- [The Son Also Rises: Surnames and the History of Social Mobility](#the-son-also-rises-surnames-and-the-history-of-social-mobility)
 - [Elon Musk](#elon-musk)
 - [Kitchen Confidential: Adventures in the Culinary Underbelly](#kitchen-confidential-adventures-in-the-culinary-underbelly)
 - [The Imagineers of War: The Untold Story of DARPA, the Pentagon Agency That Changed the World](#the-imagineers-of-war-the-untold-story-of-darpa-the-pentagon-agency-that-changed-the-world)
@@ -74,8 +85,9 @@ They are generated using the .csv file of reviews which [Goodreads lets your exp
 - [Tracers in the Dark: The Global Hunt for the Crime Lords of Cryptocurrency](#tracers-in-the-dark-the-global-hunt-for-the-crime-lords-of-cryptocurrency)
 
 ### 2022
+
 - [Avoiding the Worst: How to Prevent a Moral Catastrophe](#avoiding-the-worst-how-to-prevent-a-moral-catastrophe)
-- [Weighing Goods: Equality, Uncertainty and Time](#weighing-goods-equality-uncertainty-and-time)
+- [Weighing Goods: Equality, Uncertainty and Time (Economics and Philosophy)](#weighing-goods-equality-uncertainty-and-time-economics-and-philosophy)
 - [How the World Really Works: A Scientist's Guide to Our Past, Present and Future](#how-the-world-really-works-a-scientists-guide-to-our-past-present-and-future)
 - [Billions & Billions: Thoughts on Life and Death at the Brink of the Millennium](#billions-billions-thoughts-on-life-and-death-at-the-brink-of-the-millennium)
 - [American Kingpin: The Epic Hunt for the Criminal Mastermind Behind the Silk Road](#american-kingpin-the-epic-hunt-for-the-criminal-mastermind-behind-the-silk-road)
@@ -95,6 +107,7 @@ They are generated using the .csv file of reviews which [Goodreads lets your exp
 - [Four Thousand Weeks: Time Management for Mortals](#four-thousand-weeks-time-management-for-mortals)
 
 ### 2021
+
 - [The Man from the Future: The Visionary Life of John von Neumann](#the-man-from-the-future-the-visionary-life-of-john-von-neumann)
 - [Human Frontiers: The Future of Big Ideas in an Age of Small Thinking](#human-frontiers-the-future-of-big-ideas-in-an-age-of-small-thinking)
 - [Influence: The Psychology of Persuasion](#influence-the-psychology-of-persuasion)
@@ -103,6 +116,7 @@ They are generated using the .csv file of reviews which [Goodreads lets your exp
 - [The Good Ancestor: A Radical Prescription for Long-Term Thinking](#the-good-ancestor-a-radical-prescription-for-long-term-thinking)
 
 ### 2020
+
 - [The Very Hungry Caterpillar](#the-very-hungry-caterpillar)
 - [Science Fictions](#science-fictions)
 - [The Story of Human Language](#the-story-of-human-language)
@@ -115,13 +129,164 @@ They are generated using the .csv file of reviews which [Goodreads lets your exp
 - [The Precipice](#the-precipice)
 
 ### 2019
+
 - [Behave: The Biology of Humans at Our Best and Worst](#behave-the-biology-of-humans-at-our-best-and-worst)
 
 ### 2016
+
 - [The Physics of Theism: God, Physics, and the Philosophy of Science](#the-physics-of-theism-god-physics-and-the-philosophy-of-science)
 
 
+## 2026
+
+### Skunk Works: A Personal Memoir of My Years at Lockheed {#skunk-works-a-personal-memoir-of-my-years-at-lockheed}
+
+Ben R. Rich (1996) • &#9733;&#9733;&#9733;&#9733;&#9734; • Jan 26 • [Link to book ↗](https://www.goodreads.com/book/show/101438)
+
+Rollicking stories of defence R&D from c. 1950–80. Cold War, Vietnam War, Gulf War; <a href='https://en.wikipedia.org/wiki/Lockheed_U-2'>Dragon Lady</a>, <a href='https://en.wikipedia.org/wiki/Lockheed_SR-71_Blackbird'>Blackbird</a>, <a href='https://en.wikipedia.org/wiki/Lockheed_F-117_Nighthawk'>Nighthawk</a>; jet fuel, testosterone.
+
+A favourite anecdote:
+
+<blockquote>
+We were issued [cyanide pills] in case of capture and torture and all that good stuff, but given the option whether to use it or not. But [the pilot] didn't know the cyanide was in the right breast pocket of his coveralls when he dropped in a fistful of lemon-flavored cough drops. The cyanide pill was supposed to be in an inside pocket. Vito felt his throat go dry as he approached Moscow for the first time […] so he fished in his pocket for a cough drop and grabbed the cyanide pill instead and popped it into his mouth. He started to suck on it […] and spit it out in horror before it could take effect. Had he bit down he would have died instantly and crashed right into Red Square.
+</blockquote>
+
+
+<img src="https://theaviationgeekclub.com/wp-content/uploads/2019/12/SR-71-Boeing-747.jpg"  width="400" alt="SR-71 refuelling"/>
+
+### The Power Broker: Robert Moses and the Fall of New York {#the-power-broker-robert-moses-and-the-fall-of-new-york}
+
+Robert A. Caro (1975) • &#9733;&#9733;&#9733;&#9733;&#9733; • Jan 26 • [Link to book ↗](https://www.goodreads.com/book/show/1111)
+
+Justice by way of painstaking journalism.
+
+Whitman, <a href='https://www.poetryfoundation.org/poems/45470/crossing-brooklyn-ferry'>‘Crossing Brooklyn Ferry’</a> —
+
+<blockquote>
+Others will enter the gates of the ferry and cross from shore to shore,
+Others will watch the run of the flood-tide,
+Others will see the shipping of Manhattan north and west, and the heights of Brooklyn to the south and east,
+Others will see the islands large and small;
+Fifty years hence, others will see them as they cross, the sun half an hour high,
+A hundred years hence, or ever so many hundred years hence, others will see them,
+Will enjoy the sunset, the pouring-in of the flood-tide, the falling-back to the sea of the ebb-tide.
+</blockquote>
+
+
+Caro —
+
+<blockquote>
+But the last smile was Moses’. [F]ifty-two Astoria residents who had come down to the Astoria pier for old times’ sake (plus twelve other persons who just wanted to get to Manhattan) boarded the Rockaway for its last round trip across the river […] As the Rockaway [ferry], having completed the round trip, bumped into the Astoria slip for the last time, they sang “Auld Lang Syne.” Then, as the old tub left for the Brooklyn pier where she was to be laid up, her captain blew three long, dolorous whistle blasts of farewell. Hardly had the last note faded when it was succeeded by dull heavy thuds—the pound of Moses’ pile driver, tearing the ferryhouse down again.
+</blockquote>
+
+
+As far as I can tell, the name of Jane Jacobs isn't mentioned once in the main text. Apparently Caro <a href='https://nextcity.org/urbanist-news/jane-jacobs-missing-chapter-robert-caro'>wrote an entire chapter on the Jacobs / Moses feud</a>, a chapter he was proud of; but it was cut for space along with some other 400,000 words or so.
+
+Still Caro was greatly influenced by [The Death and Life of Great American Cities](https://www.goodreads.com/book/show/30833), though they only got speak <a href='https://web.archive.org/web/20081014013641/http:/www.rockfound.org/efforts/jacobs/090808caro_transcript.pdf'>after the book was published</a> —
+
+<blockquote>
+Jane had moved to Toronto, but some years after The Power Broker came out, Mary called and said Jane was coming to New York and would like to meet me […] And I remember that Jane Jacobs and I sat the whole evening on the sofa talking.
+
+
+Of course, what we wound up talking about was Robert Moses. He didn't like either one of us very much. We had a great talk. It turned out that we each had a question that we wanted to ask the other. Jane wanted to ask me what it was like to meet him. I wanted to ask her, what it was like to beat him.
+</blockquote>
+
+
+
 ## 2025
+
+### John & Paul: A Love Story in Songs {#john-paul-a-love-story-in-songs}
+
+Ian   Leslie (2025) • &#9733;&#9733;&#9733;&#9733;&#9733; • Dec 25 • [Link to book ↗](https://www.goodreads.com/book/show/211004838)
+
+Made me smile more than any book this year. Reading about the shuffling in and out of potential band members, the Hamburg days, Paul nearly dropping out, Decca declining to sign them because "guitar groups are on the way out"; and knowing it's all going to come together, that these are the makings of a miracle.
+
+Like most of their songs, The Beatles did not outstay their welcome. They were effectively a covers band in '60, by '66 John was telling the press they were "more popular than Jesus", and by late '69 they had all but cemented their break-up. When they wrapped up their last session all together in the titular Abbey Road studios, when all their music was behind them, John was 29 years old and Paul was 27 (Ringo 29, George 26). Hard to even contemplate!
+
+The popular imagination has held Paul's and John's reputations in balance, so picking your "favourite Beatle" is understood to be like a personality test or guessing your Harry Potter house. Between the two de facto leaders: John was bohemian, Paul was bourgeois; John was acerbic, Paul charming; John's music leaned psychedelic and edgy, Paul's songs were music hall and balladry; John was politically radical, Paul domestic and commercial. John perhaps the deeper and more interesting personality, Paul shallower but perhaps more productive. J&P were mirror images, enantiomers.
+
+But no, there is a clear answer. Paul should be your favourite Beatle.
+
+George Martin said he was the one who kept the band functioning. He showed up on time, turned threads of ideas into finished songs; did the schlep. When Brian Epstein died in '67, Paul became <i>the</i> driving force. He led the band and held it together for another few years, as much a manager as a musician.
+
+And he continued to produce music since the break-up with no real let-up. <a href='https://marginalrevolution.com/marginalrevolution/2020/12/paul-mccartney-as-management-study.html'>Tyler Cowen</a>:
+
+<blockquote>Perhaps he has written more hit songs than anyone else. He brought the innovations of Cage and Stockhausen into popular music, despite having no musical education and growing up in the Liverpool dumps. His second act, Wings, sold more records in its time than the Beatles did.  
+</blockquote>
+
+
+He wrote good and often truly great music across "heavy metal, blues, music hall, country and western, gospel, show tunes, ballads, rockers, Latin music, pastiche, psychedelia, electronic music, Devo-style robot-pop, drone, lounge, reggae". He almost single-handedly wrote the <a href='https://www.youtube.com/watch?v=a4Ujexj9YGs'>B-side medley on Abbey Road</a>. <a href='https://www.youtube.com/watch?v=Vt7EwaiYxok'>He is also funny</a> and he was a vegetarian long before it was easy.
+
+The Beatles are hard to appreciate on their own terms because they are so iconic and overexposed, and it's fun to get to re-appreciate them.
+
+### Everything Is Tuberculosis: The History and Persistence of Our Deadliest Infection {#everything-is-tuberculosis-the-history-and-persistence-of-our-deadliest-infection}
+
+John Green (2025) • Oct 25 • [Link to book ↗](https://www.goodreads.com/book/show/220341389)
+
+TB has killed more than any pathogen ever, likely more than all war and conflict combined, more than a <i>billion</i> people. Hundreds of millions of people are infected right now, at least in a latent or subclinical form.
+
+If you're a nonfiction writer and have latitude to choose your subject, I think it's a good thing to choose one of the most important topics in the world, especially when almost nobody knows much about it. So: major props to JG.
+
+It's a book about the history of the disease (“white plague”, “consumption”) and how it was romanticised and racialised, about patients JG came to know (mostly in Sierra Leone), about how the disease is treated in the poor countries where it is most endemic; and how the world can do better.
+
+It's readable, moving, interesting, and personal. I loved [The Anthropocene Reviewed](https://www.goodreads.com/book/show/55145261) and this has the same mix of factoids and pathos.
+
+If I have gripes, it's that JG doesn't seem so compelled by scale, scope, numbers, trends. He says as much: that he's writing the book because of the few individuals who he met and formed close relationships with (like Henry Reider, who has a great <a href='https://www.youtube.com/@Tuberculosis-l1jSurvivorHenry/videos'>YouTube channel</a>). But perhaps one reason (especially tropical) diseases responsible for the most easily avoidable deaths are so overlooked is because those who can do something about them do not or cannot easily grasp their sheer terrible scale. Yes, it is harder to write narrative nonfiction about faceless statistics, but neglecting the numbers undersells the importance.
+
+I also wish there were a little more material on how to better prevent and treat TB: I can't remember if the <a href='https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(23)01231-X/abstract'>RATIONS study</a> gets a callout, but that seems like a big deal. Vaccines, too. There are no approved candidates right now, but a handful in preclinical (animal / cell line) trials, and a few have passed or are currently in Phase II and <a href='https://www.statnews.com/2025/04/28/major-tuberculosis-vaccine-trial-completes-enrollment-faster-than-expected/'>entering Phase III</a> (in particular the M72 candidate). Again, that's potentially huge! And I don't think it gets discussed. Instead, the major focus of blame and responsibility is placed on things like the colonial legacies of countries with high TB incidence, or <a href="https://www.noahpinion.blog/p/the-elemental-foe">poverty in general</a>, and the greed of the pharmaceutical companies that price those countries out, by insisting on huge margins above cost. Those things are obviously real and important factors, but I would speculate that efforts directed towards addressing them (in order to move the needle on TB) might ultimately help fewer people with the disease less quickly, than more targeted and wonkish (if less narratively satisfying) initiatives. I do feel a little bad saying that because overall it's a great book and JG deserves massive kudos.
+
+### Law's Order: What Economics Has to Do with Law and Why It Matters {#laws-order-what-economics-has-to-do-with-law-and-why-it-matters}
+
+David D. Friedman (2001) • &#9733;&#9733;&#9733;&#9733;&#9734; • Oct 25 • [Link to book ↗](https://www.goodreads.com/book/show/419403)
+
+<blockquote>
+There is, however, one conjecture about law that has played a central role in the development of law and economics. This is the thesis, due to Judge Richard Posner, that the common law, that part of the law that comes not from legislatures but from the precedents created by judges in deciding cases, tends to be economically efficient.
+</blockquote>
+
+
+This is a book about that idea. The writing is terse, idea-dense, <a href='https://philosophicaldisquisitions.blogspot.com/2014/09/steven-pinkers-guide-to-classic-style.html'>classic style</a>. Sometimes, deliberately or not, it's hilarious, because of the degree to which you must suspend normal intuitions about justice, fairness, basic decency (in the attempt to explain those intuitions in terms of efficiency). There is, for example, a serious and protracted discussion of why the appropriate punishment for <i>every</i> crime should not be to impose the death penalty with a probability proportional to the severity of the crime, and otherwise to free the accused.
+
+I recommend reading <a href='http://www.daviddfriedman.com/Laws_Order_draft/laws_order_epilogue.htm'>the epilogue</a>, which is wonderful.
+
+### The Thinking Machine: Jensen Huang, Nvidia, and the World's Most Coveted Microchip {#the-thinking-machine-jensen-huang-nvidia-and-the-worlds-most-coveted-microchip}
+
+Stephen Witt (2025) • &#9733;&#9733;&#9733;&#9733;&#9734; • Oct 25 • [Link to book ↗](https://www.goodreads.com/book/show/211399783)
+
+Huang is not the easiest subject for a biography: he doesn't like to philosophize, he doesn't indulge in psychoanalysis, he doesn't seem to like talking about himself at all. Personality-wise, think the opposite of Oppenheimer. “His hobbies”, per a colleague, “are work, email, and work.”
+
+But you should know:
+
+<blockquote>
+[I]t was not an exaggeration to suggest that Huang had personally saved the American economy from recession. The US stock market, over the course of Nvidia’s rise, had pulled away from markets in Europe and Asia. Almost all of that outperformance was attributable to AI. Nvidia’s $3 trillion market capitalization purportedly represented the expected value of the company’s future earnings—but it was really a giant, GDP-sized bet on the capabilities of this single sixty-one-year-old man.
+</blockquote>
+
+
+I really enjoyed this one. Nvidia aside, I thought it did a great job capturing that mad ascendency of AI capabilities, investment, excitement, and fear, from around 2020 onwards.
+
+### The Rest Is Noise: Listening to the Twentieth Century {#the-rest-is-noise-listening-to-the-twentieth-century}
+
+Alex  Ross (2007) • &#9733;&#9733;&#9733;&#9733;&#9734; • Oct 25 • [Link to book ↗](https://www.goodreads.com/book/show/392563)
+
+It's a sweeping book of 20th c. musical history and biography. More exactly it's about what you might call concert or ‘classical’ music: Wagner, the <i>Rite</i>, “serialism”, impressionism and expressionism, musique concrète, <a href='https://en.wikipedia.org/wiki/4%E2%80%B233%E2%80%B3'>4'33"</a>. To be contrasted with 'popular' or 'commercial' music.
+
+The blurb to the book says it is about "modern music". Apparently the world of (let's just say) modern classical music uses language like "music" in this bizarrely hermetic way to implicitly exclude basically all popular music unless stated otherwise. I think there's something telling about that: "music" really did mostly refer to classical or concert music around the turn of the 20th century.
+
+But then, gradually, everyone stopped listening. Ross compares contemporary classical music with Debussy's <a href='https://en.wikipedia.org/wiki/La_cath%C3%A9drale_engloutie'>‘sunken cathedral’</a>; and the rest of the book is about the cathedral sinking.
+
+There is also a sense of identity crisis; of being stuck between more traditional 'tonal' music (too reactionary, too much like pastiche now), or keeping pace with the avante-garde and its new theories (but is that progress? Who will listen to this stuff in 50 years?)
+
+This paragraph from nearer the end of the book puts it really well:
+
+<blockquote>
+Although vast quantities of music are being written down day by day […] few of them have found an audience outside a relatively limited clique of new-music fanciers. Some specialize in "music for use," writing for church choirs or collegiate wind bands or the soundtracks of video games. The majority make a living by teaching composition, and their students usually become teachers themselves. They may sometimes ask, with the title character of Hans Pfitzner's <i>Palestrina</i>, "What is it for?" They have read in books that their forebears humbled kings, electrified crowds, forged nations. Sooner or later they realize that modern popular culture has no place for a composer hero.
+</blockquote>
+
+
+A lot has been written about the "modernist turn" in literature, music, art generally. One story I sometimes here is that, when artistic products become mass-producable, they split apart. Originally the audience is a kind of cultural elite with the time and money to appreciate their artistic medium of choice (concerts, theatre, opera, etc.) — their taste becomes "highbrow". Then there is an explosion in popular stuff, and whether or not the old audiences sniff at it, it grows up mostly all on its own, differentiating into a thousand sub-genres and so on. And then there is polarisation: audiences for classical concerts shrink because some would-be concert goers are now going to jazz or rock concerts, so the classical stuff caters to an even narrower audience. When it became possible and then increasingly affordable to make movies, we didn't lose theatre or arthouse cinema, but we also got YouTube and Marvel. <a href='https://www.astralcodexten.com/p/whither-tartaria'>"Whither Tartaria?"</a> asks Scott Alexander, who comes up with many other stories.
+
+John Cage: "We live in a time I think not of mainstream, but of many streams, or even, if you insist upon a river of time, that we have come to a delta, maybe even beyond delta to an ocean which is going back to the skies". That's also a theme in Joe Boyd's awesome [And the Roots of Rhythm Remain](https://www.goodreads.com/book/show/202942621). So maybe the more optimistic reading is that modern classical seems to fade into irrelevance only because it dissolved into every other musical form.
+
+Also, maybe I'm overly critical here because I admit I have tried to 'get' (as in, 'enjoy') many of the composers in this book and failed. Maybe I should try harder.
 
 ### If Anyone Builds It, Everyone Dies: Why Superhuman AI Would Kill Us All {#if-anyone-builds-it-everyone-dies-why-superhuman-ai-would-kill-us-all}
 
