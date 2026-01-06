@@ -11,6 +11,8 @@ This is a mirror of my *written* [book reviews on Goodreads](https://www.goodrea
 
 They are generated using the .csv file of reviews which [Goodreads lets your export](https://www.goodreads.com/review/import). [Here's the code I used](https://gist.github.com/finmoorhouse/4fd8ddb50a6b9a7d9690f049992f89c9) if you're interested.
 
+## All by year
+
 ### 2026
 
 - [Skunk Works: A Personal Memoir of My Years at Lockheed](#skunk-works-a-personal-memoir-of-my-years-at-lockheed)
