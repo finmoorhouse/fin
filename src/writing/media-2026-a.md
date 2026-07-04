@@ -56,7 +56,6 @@ Of course, what we wound up talking about was  Robert Moses. He didn't like eith
 {% enddrop %}
 
 - [Skunk Works](https://www.goodreads.com/book/show/101438.Skunk_Works) — Ben Rich
-- [The Remains of the Day](https://www.goodreads.com/book/show/28921.The_Remains_of_the_Day) — Kazuo Ishiguro
 
 {% drop %}
 
@@ -68,6 +67,7 @@ A favourite anecdote:
 
 {% enddrop %}
 
+- [The Remains of the Day](https://www.goodreads.com/book/show/28921.The_Remains_of_the_Day) — Kazuo Ishiguro
 - [3 Shades of Blue](https://www.goodreads.com/book/show/174156154-3-shades-of-blue) — James Kaplan
 
 I also have a [Goodreads](https://www.goodreads.com/user/show/38695642-fin-moorhouse) (and written reviews [live here](https://finmoorhouse.com/writing/book-reviews/)).
