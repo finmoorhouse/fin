@@ -7,17 +7,26 @@
    element and prose-lg sets its font-size to 1.125rem. */
 
 @media screen and (min-width: 1220px) {
+  /* Notes inherit these, so the gutter is described in one place — and on
+     `.prose` rather than `.essay`, so a note still renders wherever this
+     stylesheet is loaded. */
   main.prose {
-    --measure: 73ch; /* was 65ch — ~620px of text rather than ~550px */
-    max-width: var(--measure);
+    --note-w: 23rem;
+    --note-gap: 3rem;
   }
 
-  /* Only the right gutter is in use below the contents breakpoint, so pin it at
-     the sidenote width and let the left take the rest. (Sidenotes used to be
-     clipped off-screen at the narrow end of this range.) */
-  main.prose {
+  /* The measure and the offset are for essays only. `mainClass: essay` comes
+     from the post layout (src/_includes/writing.njk); the listing at /writing
+     loads this stylesheet as well, and should stay centred like the rest of
+     the site. */
+  main.essay {
+    --measure: 73ch; /* was 65ch — ~620px of text rather than ~550px */
+    max-width: var(--measure);
+    /* Only the right gutter is in use below the contents breakpoint, so pin it
+       at the note width and let the left take the rest. (Sidenotes used to be
+       clipped off-screen at the narrow end of this range.) */
     margin-left: auto;
-    margin-right: 26rem;
+    margin-right: calc(var(--note-w) + var(--note-gap));
   }
 }
 
@@ -25,10 +34,40 @@
    the column re-centres — offset left, so the right gutter carrying sidenotes
    and margin footnotes is 6rem wider than the left one carrying the contents. */
 @media screen and (min-width: 1400px) {
-  main.prose {
+  main.essay {
+    /* Past the point where all three columns fit, the notes take a quarter of
+       each extra pixel — the viewport gains two for every one the gutter does,
+       so the margin never runs out of room — until they stop at 30rem, beyond
+       which a note stops reading as a note. */
+    --note-w: clamp(23rem, 23rem + (100vw - 1400px) / 4, 30rem);
     margin-left: calc(50% - var(--measure) / 2 - 4rem);
     margin-right: auto;
   }
+}
+
+/* Footnote markers.
+   A bare numeral (see config/markdown.js) set in the sans face and muted, so
+   it reads as apparatus rather than prose — the same split the contents list,
+   date line and captions already use. The family comes from a `font-sans`
+   class on the <sup>, because this file isn't run through Tailwind. */
+.footnote-ref {
+  font-size: 0.62em;
+  font-weight: 500;
+}
+.footnote-ref a {
+  color: rgb(var(--c-muted));
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+.footnote-ref a:hover {
+  color: rgb(var(--c-ink));
+}
+
+/* The sentence a note hangs off, while the note is hovered. Painted by the
+   Custom Highlight API from src/script/notes.js — only background-color and a
+   few text properties are honoured on ::highlight(). */
+::highlight(fn-sentence) {
+  background-color: rgb(var(--c-ink) / 0.1);
 }
 
 /* Sidenotes */
@@ -143,9 +182,9 @@
     top: -0.55rem;
     left: auto;
     margin-left: auto;
-    margin-right: -26rem;
+    margin-right: calc(-1 * (var(--note-w) + var(--note-gap)));
     margin-bottom: 0.75rem;
-    width: 23rem;
+    width: var(--note-w);
     padding: 0.55rem 0.75rem 0.7rem;
     clear: right;
     float: right;
@@ -171,9 +210,9 @@
     display: block;
     position: relative;
     top: -0.55rem;
-    width: 23rem;
+    width: var(--note-w);
     margin-left: auto;
-    margin-right: -26rem;
+    margin-right: calc(-1 * (var(--note-w) + var(--note-gap)));
     margin-bottom: 0.75rem;
     padding: 0.55rem 0.75rem 0.7rem;
     clear: right;
@@ -218,21 +257,81 @@
   /* Kept in the flow but invisible until the note is hovered, so a column of
      clamped notes isn't a column of repeated links — and revealing it doesn't
      shift anything. */
-  .fn-margin__more {
+  .fn-margin__more,
+  .fn-margin__close {
     display: inline-block;
     margin-top: 0.4rem;
     text-decoration: none;
+    cursor: pointer;
     opacity: 0;
     transition: opacity 0.2s ease;
   }
   .fn-margin:hover .fn-margin__more,
-  .footnote-ref:hover + .fn-margin .fn-margin__more,
-  .fn-margin__more:focus-visible {
+  .footnote-ref:hover + .fn-margin .fn-margin__more {
     opacity: 1;
   }
-  .fn-margin__more:hover {
+  .fn-margin__more:hover,
+  .fn-margin__close:hover {
     text-decoration: underline;
     text-decoration-style: dotted;
+  }
+
+  /* ── Focused mode ──────────────────────────────────────────────────────
+     'Read in full' expands the note where it stands rather than sending the
+     reader to the foot of the post, and the gutter is given over to it: every
+     other note in the margin is taken out of the flow for as long as it's
+     open. `display: none` rather than `visibility: hidden` on purpose — these
+     are `clear: right` floats, so a note whose slot was taken by the one above
+     it sits lower than its reference. Removing the others outright lets the
+     open one float back up and line up with its own [n]. */
+
+  .fn-margin__toggle {
+    display: none;
+  }
+
+  main:has(.fn-margin__toggle:checked)
+    .fn-margin:not(:has(.fn-margin__toggle:checked)),
+  main:has(.fn-margin__toggle:checked) .sidenote__content {
+    display: none;
+  }
+
+  /* The rule runs down the whole gutter rather than the note, which marks the
+     column as given over — and, being a pseudo-element, moves no text. It
+     lands on the notes' left edge: they start 3rem past the text, and main's
+     own padding is the `1em` that has to be discounted. */
+  main:has(.fn-margin__toggle:checked)::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: calc(1em - var(--note-gap));
+    width: 1px;
+    background: rgb(var(--c-ink) / 0.25);
+  }
+
+  .fn-margin:has(.fn-margin__toggle:checked) {
+    opacity: 1;
+    /* The gutter rule is the focus marker; a box round the note as well is
+       one signal too many. */
+    outline-color: transparent;
+  }
+
+  .fn-margin__toggle:checked ~ .fn-margin__body--clamped {
+    max-height: none;
+    overflow: visible;
+    -webkit-mask-image: none;
+    mask-image: none;
+  }
+
+  /* Swap the two controls over: 'Read in full' out, 'Close' in — and the
+     latter stays visible without hovering, since it's the way back out. */
+  .fn-margin__toggle:checked ~ .fn-margin__more,
+  .fn-margin__close {
+    display: none;
+  }
+  .fn-margin__toggle:checked ~ .fn-margin__close {
+    display: inline-block;
+    opacity: 1;
   }
 
   /* Block-level structure inside a note, rebuilt out of spans — it lives
@@ -274,8 +373,24 @@
     font-size: 0.85em;
     margin: 0.5rem 0;
   }
+  /* Images: markdown `![]()` renders inline, and the {% img %} shortcode's
+     <figure>/<figcaption> are rebuilt as spans (see config/markdown.js). */
   .fn-margin img {
     max-width: 100%;
+    height: auto;
+    display: block;
+  }
+  .fn-margin__figure,
+  .fn-margin__caption {
+    display: block;
+  }
+  .fn-margin__figure {
+    margin: 0.6rem 0;
+  }
+  .fn-margin__caption {
+    margin-top: 0.3rem;
+    font-size: 0.92em;
+    opacity: 0.7;
   }
 }
 

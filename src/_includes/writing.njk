@@ -1,5 +1,9 @@
 ---
 layout: base.njk
+# Opts this page into the wider, left-offset measure in writing.css. The
+# listing at /writing loads that stylesheet too but isn't an essay, so it keeps
+# the same centred column as /projects and the index.
+mainClass: essay
 extraStyle:
   ["/style/writing.css", "https://unpkg.com/katex@latest/dist/katex.min.css"]
 ---
@@ -69,3 +73,5 @@ extraStyle:
 </aside>
 <br />
 {% backLink "writing", "writing" %}
+
+<script defer src="/script/notes.js"></script>

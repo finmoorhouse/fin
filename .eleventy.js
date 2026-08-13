@@ -29,6 +29,7 @@ module.exports = function (config) {
 
   // Passthrough
   config.addPassthroughCopy("src/style/*.css");
+  config.addPassthroughCopy("src/script/*.js");
   config.addPassthroughCopy({ "src/favicon": "/" });
 
   // Filters

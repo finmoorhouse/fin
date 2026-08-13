@@ -60,6 +60,18 @@ function footnoteMarginNotes(md) {
 
   const baseMath = md.renderer.rules.math_block;
 
+  const unwrapFlow = (html) =>
+    html
+      .replace(/<figure\b[^>]*>/gi, '<span class="fn-margin__figure">')
+      .replace(/<\/figure\s*>/gi, "</span>")
+      .replace(/<figcaption\b[^>]*>/gi, '<span class="fn-margin__caption">')
+      .replace(/<\/figcaption\s*>/gi, "</span>");
+
+  // The marker is a bare numeral rather than markdown-it-footnote's `[n]`.
+  // Set before marginRenderer copies the rules, so both renderers agree.
+  md.renderer.rules.footnote_caption = (tokens, idx) =>
+    String(Number(tokens[idx].meta.id) + 1);
+
   // A renderer that shares every inline rule with the real one, but rewrites
   // the block-level wrappers as spans.
   const marginRenderer = Object.create(md.renderer);
@@ -75,6 +87,13 @@ function footnoteMarginNotes(md) {
     blockquote_open: bqOpen,
     blockquote_close: bqClose,
     hr: () => '<span class="fn-margin__hr"></span>',
+    // Raw HTML in a footnote — in practice the {% img %} shortcode, which
+    // wraps its image in <figure>/<figcaption>. Those are flow content and
+    // would close the paragraph the margin copy sits in. <picture>, <source>
+    // and <img> are phrasing content, so they pass through untouched and the
+    // Cloudinary srcset survives.
+    html_block: (tokens, idx) => unwrapFlow(tokens[idx].content),
+    html_inline: (tokens, idx) => unwrapFlow(tokens[idx].content),
     // KaTeX wraps display maths in <p class='katex-block'>; everything inside
     // it is already spans.
     math_block: (...args) =>
@@ -87,13 +106,14 @@ function footnoteMarginNotes(md) {
     footnote_ref: renderFootnoteSup,
   });
 
-  /** The `[1]` link itself — markdown-it-footnote's own markup, unchanged. */
+  /** The marker itself. `font-sans` so the stack stays defined in one place —
+      the Tailwind config — since writing.css is copied through unprocessed. */
   function renderFootnoteSup(tokens, idx, opts, env, slf) {
     const id = slf.rules.footnote_anchor_name(tokens, idx, opts, env, slf);
     const refid =
       tokens[idx].meta.subId > 0 ? `${id}:${tokens[idx].meta.subId}` : id;
     const caption = slf.rules.footnote_caption(tokens, idx, opts, env, slf);
-    return `<sup class="footnote-ref"><a href="#fn${id}" id="fnref${refid}">${caption}</a></sup>`;
+    return `<sup class="footnote-ref font-sans"><a href="#fn${id}" id="fnref${refid}">${caption}</a></sup>`;
   }
 
   // markdown-it-footnote moves footnote bodies to the end of the token stream
@@ -150,18 +170,28 @@ function footnoteMarginNotes(md) {
     const margin = (env.footnoteMargins || {})[tokens[idx].meta.id];
     if (!margin) return sup;
 
-    const id = slf.rules.footnote_anchor_name(tokens, idx, opts, env, slf);
     const number = Number(tokens[idx].meta.id) + 1;
-    // tabindex="-1" because the whole copy is aria-hidden: focusable content
-    // hidden from the accessibility tree is worse than no link at all.
-    const more = margin.clamped
-      ? `<a class="fn-margin__more" href="#fn${id}" tabindex="-1">Read in full ↓</a>`
-      : "";
     const bodyClass = margin.clamped
       ? "fn-margin__body fn-margin__body--clamped"
       : "fn-margin__body";
 
-    return `${sup}<small class="fn-margin" aria-hidden="true"><span class="fn-margin__num">${number}</span><span class="${bodyClass}">${margin.html}</span>${more}</small>`;
+    // Clamped notes get a checkbox to expand in place. It has to come first so
+    // the `:checked ~` rules in writing.css can reach the body and the labels,
+    // and it's tabindex="-1" for the same reason the copy is aria-hidden:
+    // focusable content outside the accessibility tree is worse than none, and
+    // the list at the foot of the post is the path that's actually navigable.
+    let toggle = "";
+    let controls = "";
+    if (margin.clamped) {
+      const id = slf.rules.footnote_anchor_name(tokens, idx, opts, env, slf);
+      const focusId = `fn-focus-${id}-${tokens[idx].meta.subId || 0}`;
+      toggle = `<input type="checkbox" id="${focusId}" class="fn-margin__toggle" tabindex="-1">`;
+      controls =
+        `<label class="fn-margin__more" for="${focusId}">Read in full ↓</label>` +
+        `<label class="fn-margin__close" for="${focusId}">✕ Close</label>`;
+    }
+
+    return `${sup}<small class="fn-margin" aria-hidden="true">${toggle}<span class="fn-margin__num">${number}</span><span class="${bodyClass}">${margin.html}</span>${controls}</small>`;
   };
 }
 
