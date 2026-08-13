@@ -114,7 +114,7 @@
   }
 }
 .side-nav {
-  background: orange;
+  background: transparent;
   display: block;
   position: sticky;
   top: 0; /*2rem;*/

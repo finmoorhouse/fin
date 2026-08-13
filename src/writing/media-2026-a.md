@@ -151,7 +151,7 @@ Songs —
 
 - Vinicius de Moraes, Maria Creuza - [Irene](https://open.spotify.com/track/3Ljza3c7S468FrUiDjh2xU)
 - Wilco - [She's a Jar](https://open.spotify.com/track/6GT7yHa7TMZ71ZidY2LG6R)
-- {% note 'Stan Getz & Luiz Bonfá - [Só Danço Samba](https://open.spotify.com/track/6UMYd4y3VzCF5WR6STCzwc)' %}Get'z solo entrance at around 1:40 puts such a grin on my face.{% endnote %}
+- {% note 'Stan Getz & Luiz Bonfá - [Só Danço Samba](https://open.spotify.com/track/6UMYd4y3VzCF5WR6STCzwc)' %}Get'z solo entrance at around 1:40 never won't make me smile.{% endnote %}
 - Nicolas Jaar - [History Lesson](https://open.spotify.com/track/33QTK2OzFv4fmtObKkj7Cb?si=d1316db609444a5b)
 - Jonny Greenwood - [House of Woodcock](https://open.spotify.com/track/6FZDedaCzYhO4sdG3VYcHZ?si=833f8666730c4e6f)
 - Oscar Peterson - [I Was Doing All Right](https://open.spotify.com/track/1NYi3ZFXJ70AS5JeTMTjOP?si=946dbecc93b84dad)

@@ -8,7 +8,7 @@
   <link rel="pingback" href="https://webmention.io/www.finmoorhouse.com/xmlrpc">
   <meta property="og:type" content="website">
   <meta name="author" content="Fin Moorhouse">
-  <meta name="theme-color" content="#333948">
+  <meta name="theme-color" content="#333948"><!-- kept in sync by the theme toggle -->
   <meta name="monetization" content="ilp.uphold.com/4rHyDzRz66Dw">
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
 
@@ -48,6 +48,10 @@
   <link rel="canonical" href="{{canonicalUrl}}" />
   {% endif %}
 
+  <!-- Theme: dark is the default, so this only has to act for readers who've
+       opted into light. Blocking and before the stylesheet, so no flash. -->
+  <script>try{if(localStorage.theme==='light'){document.documentElement.dataset.theme='light';document.querySelector('meta[name="theme-color"]').content='#faf8f4'}}catch(e){}</script>
+
   <!-- Additional styling -->
   <link rel="stylesheet" href="/global-processed.css"/>
   {% if extraStyle %}
@@ -58,17 +62,8 @@
 
   <title>{% if title %}{{ title }} - {% endif %}{{ site.author }}</title>
 
-  <!-- Dark mode switching code -->
-  <!-- <script>
-    // On page load or when changing themes, best to add inline in `head` to avoid FOUC
-    if (localStorage.theme === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
-      document.documentElement.classList.add('dark')
-    } else {
-      document.documentElement.classList.remove('dark')
-    }
-  </script> -->
 </head>
-<body id="top" class="bg-flint-500 text-slate-50">
+<body id="top" class="bg-page text-ink">
   <nav class="flex flex-row max-w-lg mx-auto justify-between py-4 text-sm px-4">
     <header class="flex flex-none opacity-50 hover:underline decoration-dotted"><a href="/">Fin Moorhouse</a></header>
     <ul class="flex flex-none gap-x-4">
@@ -81,18 +76,30 @@
       {% endif %} target="_self">{{ item.name }}</a>
     </li>
     {% endfor %}
-    <!-- <li class="inline cursor-pointer sm:px-2 h-8 px-0" id="theme-toggle" type="button">
-      <a href="{{ item.url }}"
-      class="opacity-100 decoration-dotted p-0 hover:bg-slate-100 dark:hover:bg-slate-800 rounded-md box-border  relative top-1"
-      target="_self">
-      <div id="theme-toggle-dark-icon" class="hidden bg-orange-500 opacity-50"></div>
-      <div id="theme-toggle-light-icon" class="hidden bg-purple-400"></div>
-    </a>
-    </li> -->
+    <li class="inline">
+      <button id="theme-toggle" type="button" aria-label="Switch theme"
+        class="opacity-50 hover:opacity-100 transition-opacity align-middle relative -top-px">
+        <svg viewBox="0 0 24 24" width="1em" height="1em" aria-hidden="true" class="inline">
+          <circle cx="12" cy="12" r="9" fill="none" stroke="currentColor" stroke-width="2"/>
+          <path d="M12 3a9 9 0 0 0 0 18z" fill="currentColor"/>
+        </svg>
+      </button>
+    </li>
   </ul></nav>
-  <main class="prose tablet:prose-lg prose-invert font-serif pt-12 pb-12">
+  <main class="prose tablet:prose-lg font-serif pt-12 pb-12">
     {{ content | safe }}
     {#<small >{{ site.author }} &copy; {{ site.copyrightYear }}</small>#}
   </main>
+  <script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+      const next = document.documentElement.dataset.theme !== "light" ? "light" : "dark";
+      document.documentElement.dataset.theme = next;
+      document.querySelector('meta[name="theme-color"]').content =
+        next === "light" ? "#faf8f4" : "#333948";
+      // Persisting is best-effort: localStorage throws when cookies are blocked.
+      try { localStorage.theme = next; } catch (e) {}
+      window.dispatchEvent(new Event("themechange"));
+    });
+  </script>
 </body>
 </html>

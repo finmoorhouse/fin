@@ -40,9 +40,19 @@ module.exports = {
           400: "#2a2f3c",
           500: "#333948",
         },
+        // Semantic tokens, defined in src/global.css and swapped by
+        // data-theme="light" on <html>. One class set, two themes.
+        page: "rgb(var(--c-page) / <alpha-value>)",
+        panel: "rgb(var(--c-panel) / <alpha-value>)",
+        ink: "rgb(var(--c-ink) / <alpha-value>)",
+        soft: "rgb(var(--c-soft) / <alpha-value>)",
+        muted: "rgb(var(--c-muted) / <alpha-value>)",
+        rule: "rgb(var(--c-rule) / <alpha-value>)",
+        "rule-soft": "rgb(var(--c-rule-soft) / <alpha-value>)",
+        link: "rgb(var(--c-link) / <alpha-value>)",
       },
     },
   },
-  content: ["./build/**/*.html"],
+  content: ["./build/**/*.html", "./src/charts/**/*.js"],
   plugins: [require("@tailwindcss/typography")],
 };

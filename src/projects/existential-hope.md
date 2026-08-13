@@ -7,7 +7,7 @@ link: https://www.existentialhope.com/podcasts/fin-moorhouse-why-we-need-to-aim-
 
 I joined the [‘Existential Hope’ podcast](https://www.existentialhope.com/podcasts), a project of the [Foresight Institute](https://foresight.org/).
 
-They wrote the following precis:
+They wrote this precis:
 
 >For years, the conversation about the long-term future has been  dominated by a crucial question: how do we avoid extinction? But what if ensuring our survival is only half the battle? In this episode,  Beatrice is joined by Fin Moorhouse, a researcher at Forethought and  co-author with Will MacAskill of the *Better Futures* series, to make the case for focusing on the other half: flourishing. Or as we'd like to say in this podcast: Existential Hope!
 >

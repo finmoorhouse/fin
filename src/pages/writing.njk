@@ -11,14 +11,14 @@ to be notified of future posts. There's also an
 <a
   href="https://finmoorhouse.substack.com/subscribe"
   target="_blank"
-  class="no-underline decoration-dotted hover:underline mt-8 block relative mx-auto text-center max-w-xs py-2 rounded-md border border-slate-600 bg-opacity-60 hover:bg-opacity-100 px-2 italic"
+  class="no-underline decoration-dotted hover:underline mt-8 block relative mx-auto text-center max-w-xs py-2 rounded-md border border-rule bg-panel/60 hover:bg-panel px-2 italic"
   >Subscribe to my posts by email →</a
 >
-<ul class="border-t border-slate-600 py-6 !mt-8">
+<ul class="border-t border-rule py-6 !mt-8">
   {% for post in collections.writing | reverse %}
 
   <li class="[&>*]:inline py-2 group">
-    <a href="{{ post.url }}" class="decoration-solid decoration-[rgba(255,255,255,0.3)] group-hover:decoration-[rgba(255,255,255,0.8)] transition-colors">{{ post.data.title }}</a>
+    <a href="{{ post.url }}" class="decoration-solid decoration-ink/30 group-hover:decoration-ink/70 transition-colors">{{ post.data.title }}</a>
     <span class="opacity-60 group-hover:opacity-100 transition-opacity">{% if post.data.date %} ({% year post.data.date %}) {% endif %}</span>
   </li>
   {% endfor %}

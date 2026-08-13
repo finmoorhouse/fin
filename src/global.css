@@ -6,6 +6,66 @@
 @tailwind components;
 @tailwind utilities;
 
+/* Theme tokens. Dark is the default for everyone; light is opt-in via the nav
+   toggle (which sets data-theme on <html>), so prefers-color-scheme is
+   deliberately ignored. Channel triplets rather than hex so Tailwind's opacity
+   modifiers work: border-rule/40 etc. */
+:root {
+  color-scheme: dark;
+  --c-page: 51 57 72; /* flint-500 #333948 */
+  --c-panel: 42 47 60; /* flint-400 #2a2f3c */
+  --c-ink: 248 250 252; /* slate-50 */
+  --c-soft: 203 213 225; /* slate-300 — secondary body text */
+  --c-muted: 148 163 184; /* slate-400 — captions */
+  --c-rule: 71 85 105; /* slate-600 */
+  --c-rule-soft: 100 116 139; /* slate-500 — the lighter border weight */
+  --c-link: 125 211 252; /* sky-300 */
+  --chart-1: 125 211 252;
+  --chart-2: 251 191 36;
+  --chart-3: 244 114 182;
+  --chart-4: 74 222 128;
+  --chart-5: 196 181 253;
+}
+
+:root[data-theme="light"] {
+  color-scheme: light;
+  --c-page: 250 248 244; /* warm off-white #faf8f4 */
+  --c-panel: 241 237 230; /* #f1ede6 */
+  --c-ink: 18 40 98; /* #122862 — deep blue ink on warm paper */
+  --c-soft: 52 76 138; /* the same hue, stepped back */
+  --c-muted: 86 106 156; /* clears AA on --c-panel at 4.57 */
+  --c-rule: 216 211 201;
+  --c-rule-soft: 176 169 156;
+  --c-link: 3 105 161; /* sky-700 */
+  --chart-1: 3 105 161;
+  --chart-2: 180 83 9;
+  --chart-3: 190 24 93;
+  --chart-4: 21 128 61;
+  --chart-5: 109 40 217;
+}
+
+/* The typography plugin reads these, so one block in terms of the tokens above
+   colours all prose in both themes — and replaces prose-invert entirely.
+   Must come after @tailwind utilities to win on source order. */
+.prose {
+  --tw-prose-body: rgb(var(--c-ink));
+  --tw-prose-headings: rgb(var(--c-ink));
+  --tw-prose-links: rgb(var(--c-ink));
+  --tw-prose-bold: rgb(var(--c-ink));
+  --tw-prose-lead: rgb(var(--c-muted));
+  --tw-prose-counters: rgb(var(--c-muted));
+  --tw-prose-bullets: rgb(var(--c-rule));
+  --tw-prose-hr: rgb(var(--c-rule));
+  --tw-prose-quotes: rgb(var(--c-ink));
+  --tw-prose-quote-borders: rgb(var(--c-rule));
+  --tw-prose-captions: rgb(var(--c-muted));
+  --tw-prose-code: rgb(var(--c-ink));
+  --tw-prose-pre-code: rgb(var(--c-ink));
+  --tw-prose-pre-bg: rgb(var(--c-panel));
+  --tw-prose-th-borders: rgb(var(--c-rule));
+  --tw-prose-td-borders: rgb(var(--c-rule));
+}
+
 html,
 body {
   scroll-behavior: smooth;

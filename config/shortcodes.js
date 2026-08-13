@@ -4,13 +4,13 @@ function backLink(link, title) {
   return `
     <a
       href="/${link}"
-      class="inline-flex items-center gap-1.5 bg-slate-600 text-sm font-semibold text-white px-2.5 py-0.5 rounded-full max-w-max no-underline font-medium font-sans"
+      class="inline-flex items-center gap-1.5 border border-rule hover:border-rule-soft text-sm text-ink px-2.5 py-0.5 rounded-full max-w-max no-underline font-medium font-sans"
     >
       <svg
         xmlns="http://www.w3.org/2000/svg"
         width="1em"
         height="1em"
-        fill="white"
+        fill="currentColor"
         viewBox="0 0 256 256"
         class="inline"
       >
@@ -55,26 +55,60 @@ function note(content, label) {
 
 function toggle(content, summary) {
   return `
-    <details class="toggle bg-flint-400 pt-2 pb-2 open:pb-4 px-4 rounded-md font-sans mb-4 ring-slate-600 hover:ring-1 open:ring-1 border-white font-normal"
-    ><summary class="cursor-pointer open:border-b border-white">${summary}</summary><hr class="!my-4 !mx-4"/>${content}</details>
+    <details class="toggle bg-panel pt-2 pb-2 open:pb-4 px-4 rounded-md font-sans mb-4 ring-rule hover:ring-1 open:ring-1 border-ink font-normal"
+    ><summary class="cursor-pointer open:border-b border-ink">${summary}</summary><hr class="!my-4 !mx-4"/>${content}</details>
 `;
 }
 
 function aside(content) {
   return `
-    <div class="relative"><span class="absolute left-4 top-0 border border-slate-600 rounded-tl-0 rounded-tr-0 rounded-bl-md rounded-br-md font-sans px-2 text-base opacity-70 md:inline-block hover:opacity-100 transition-opacity">Note</span><aside class="bg-flint-400 rounded-md px-6 border border-slate-600  [&>p]:my-1"><div class="space-y-2 first:mt-8 last:mb-3">${content}</div></aside></div>`;
+    <div class="relative"><span class="absolute left-4 top-0 border border-rule rounded-tl-0 rounded-tr-0 rounded-bl-md rounded-br-md font-sans px-2 text-base opacity-70 md:inline-block hover:opacity-100 transition-opacity">Note</span><aside class="bg-panel rounded-md px-6 border border-rule  [&>p]:my-1"><div class="space-y-2 first:mt-8 last:mb-3">${content}</div></aside></div>`;
 }
 
 function drop(content, summary = "Show notes →") {
   return `</ul>
   <details class="group relative mt-[-10px] mb-[-8px]">
-    <summary class="drop-summary ml-8 pt-2 inline text-slate-400 text-base hover:underline hover:decoration-dotted border-t border-slate-500">
+    <summary class="drop-summary ml-8 pt-2 inline text-muted text-base hover:underline hover:decoration-dotted border-t border-rule-soft">
       <span class="group-open:hidden">${summary}</span><span class="hidden group-open:inline">✕ Close notes</span>
     </summary>
-    <div class="left-0 z-10 mt-2 mb-3 text-slate-300 border border-slate-500 px-4 rounded-md [&>p]:mt-3 [&>p]:mb-3">
+    <div class="left-0 z-10 mt-2 mb-3 text-soft border border-rule-soft px-4 rounded-md [&>p]:mt-3 [&>p]:mb-3">
       ${markdownIt.render(content)}
     </div>
   </details>`;
+}
+
+let chartCount = 0;
+function chart(content, src, aspect = "aspect-[3/2]") {
+  const id = `chart-${src.replace(/[^a-zA-Z0-9-]/g, "-")}-${chartCount++}`;
+  const caption =
+    content && content.trim()
+      ? `<figcaption class="text-sm text-muted font-sans mt-2 px-1">${markdownIt.renderInline(content.trim())}</figcaption>`
+      : "";
+  return `<figure class="my-8">
+<div id="${id}" class="not-prose relative w-full ${aspect} bg-panel border border-rule rounded-md overflow-hidden">
+<div class="chart-placeholder absolute inset-0 flex flex-col items-center justify-center gap-1 text-muted text-sm font-sans select-none">
+<span>Interactive chart</span>
+<noscript><span>(requires JavaScript to display)</span></noscript>
+</div>
+</div>${caption}
+<script type="module">
+const el = document.getElementById("${id}");
+const load = () => import("/charts/${src}.js").then((m) => {
+el.querySelector(".chart-placeholder")?.remove();
+return m.default(el);
+}).catch((err) => {
+const label = el.querySelector(".chart-placeholder span");
+if (label) label.textContent = "Chart failed to load.";
+console.error("chart ${src}:", err);
+});
+if ("IntersectionObserver" in window) {
+const io = new IntersectionObserver((entries) => {
+if (entries.some((e) => e.isIntersecting)) { io.disconnect(); load(); }
+}, { rootMargin: "400px" });
+io.observe(el);
+} else { load(); }
+</script>
+</figure>`;
 }
 
 module.exports = {
@@ -84,4 +118,5 @@ module.exports = {
   toggle,
   aside,
   drop,
+  chart,
 };

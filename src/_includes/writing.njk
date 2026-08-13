@@ -22,20 +22,20 @@ extraStyle:
     >{{ ',' if not loop.last }} {% endfor %} {% endif %}
   </p>
   {% endif %} {% backLink "writing", "writing" %}
-  <div class="border-b max-w-xs mt-6 border-slate-600"></div>
+  <div class="border-b max-w-xs mt-6 border-rule"></div>
 </div>
 
 {% if content | toc %}
 
 <details
-  class="block desktop:hidden text-sm bg-flint-400 rounded-md px-8 py-4 font-sans mb-4 ring-slate-600 hover:ring-1"
+  class="block desktop:hidden text-sm bg-panel rounded-md px-8 py-4 font-sans mb-4 ring-rule hover:ring-1"
 >
   <summary class="text-md cursor-pointer font-medium">
     Contents
     <span class="hidde sm:inline opacity-60 serif"> (click to toggle)</span>
   </summary>
   {{ content | toc | safe}}
-  <p class="!mb-2 !mt-0 pt-4 border-t border-slate-600 inline-block">
+  <p class="!mb-2 !mt-0 pt-4 border-t border-rule inline-block">
     {{ content | wordStats }}
   </p>
 </details>
@@ -51,7 +51,7 @@ extraStyle:
     {{ content | toc | safe}}
     <a
       href="#top"
-      class="inline-block no-underline hover:underline decoration-dotted pt-3 mb-6 mt-2 border-t border-slate-600"
+      class="inline-block no-underline hover:underline decoration-dotted pt-3 mb-6 mt-2 border-t border-rule"
       >Back to top &#8593;</a
     >
   </div>
@@ -60,7 +60,7 @@ extraStyle:
 
 <br />
 
-<aside class="bg-flint-400 rounded-md px-5 py-2 border border-slate-600">
+<aside class="bg-panel rounded-md px-5 py-2 border border-rule">
   You can
   <a href="https://www.admonymous.co/fin" target="_blank"
     >leave (anonymous) feedback</a

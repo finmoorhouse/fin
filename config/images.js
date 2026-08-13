@@ -27,7 +27,7 @@ function cloudImageShortcode(
   srcset="${srcset}"
   sizes="${sizes}"
   style="${style}" 
-  class="!mb-0 !mt-3 font-sans text-sm bg-flint-400"
+  class="!mb-0 !mt-3 font-sans text-sm bg-panel"
   alt="(Image) ${alt}"></a>`;
   if (caption) {
     const sourceElement = source
