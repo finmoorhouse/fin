@@ -4,7 +4,7 @@ layout: page.njk
 description: What I'm doing, and how to contact me.
 ---
 
-Hello. I'm interested in ideas around [progress](https://patrickcollison.com/progress), [effective altruism](https://en.wikipedia.org/wiki/Effective_altruism), and AI. Most of my writing [lives on this website](/writing).
+I'm interested in ideas around [progress](https://patrickcollison.com/progress), [effective altruism](https://en.wikipedia.org/wiki/Effective_altruism), and AI. Most of my writing [lives on this website](/writing).
 
 Currently I'm a researcher at [Google DeepMind](https://deepmind.google/). Before that I was a Research Fellow at [Forethought](https://www.forethought.org/), a grantmaker at [Longview Philanthropy](https://www.longview.org/), and a Research Scholar at Oxford's [Future of Humanity Institute](https://en.wikipedia.org/wiki/Future_of_Humanity_Institute). I studied philosophy at Cambridge.
 
