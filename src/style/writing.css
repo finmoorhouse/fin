@@ -1,3 +1,36 @@
+/* Measure and gutters.
+   This stylesheet is only loaded on writing posts, so widening the column here
+   doesn't touch the rest of the site. Note the selector: the real measure comes
+   from the typography plugin's `.prose { max-width: 65ch }`, which outspecifies
+   the `main` rule in global.css, so anything less specific than `main.prose`
+   silently does nothing. `ch` and `rem` differ here — main is the `.prose`
+   element and prose-lg sets its font-size to 1.125rem. */
+
+@media screen and (min-width: 1220px) {
+  main.prose {
+    --measure: 73ch; /* was 65ch — ~620px of text rather than ~550px */
+    max-width: var(--measure);
+  }
+
+  /* Only the right gutter is in use below the contents breakpoint, so pin it at
+     the sidenote width and let the left take the rest. (Sidenotes used to be
+     clipped off-screen at the narrow end of this range.) */
+  main.prose {
+    margin-left: auto;
+    margin-right: 26rem;
+  }
+}
+
+/* 1400px up (Tailwind's `desktop`) the contents list appears on the left, and
+   the column re-centres — offset left, so the right gutter carrying sidenotes
+   and margin footnotes is 6rem wider than the left one carrying the contents. */
+@media screen and (min-width: 1400px) {
+  main.prose {
+    margin-left: calc(50% - var(--measure) / 2 - 4rem);
+    margin-right: auto;
+  }
+}
+
 /* Sidenotes */
 
 .sidenote {
@@ -81,6 +114,7 @@
   }
   .sidenote:hover .sidenote__content {
     opacity: 1;
+    outline-color: rgb(var(--c-ink) / 0.2);
   }
   .sidenote:hover .sidenote__button {
     text-decoration: underline;
@@ -95,35 +129,168 @@
     position: absolute;
     top: 0;
     bottom: 0;
+    /* Right edge lands 0.5rem clear of the box, and padding-top drops the
+       marker onto the first line. */
     left: -3.5rem;
     width: 3rem;
+    padding-top: 0.55rem;
   }
 
   .sidenote__content {
     display: block;
     position: relative;
     right: 0;
-    top: -0.4rem;
+    top: -0.55rem;
     left: auto;
     margin-left: auto;
-    margin-right: -21rem;
-    width: 18rem;
-    padding: 0.4rem 0 1rem 0;
+    margin-right: -26rem;
+    margin-bottom: 0.75rem;
+    width: 23rem;
+    padding: 0.55rem 0.75rem 0.7rem;
     clear: right;
     float: right;
+    /* Outline rather than border, so drawing the box on hover costs no
+       reflow; no offset, so it hugs the padding rather than colliding with
+       the marker hanging to its left. See .fn-margin for the same treatment. */
+    outline: 1px solid transparent;
+    outline-offset: 0;
+    transition: opacity 0.2s ease, outline-color 0.2s ease;
   }
 }
+/* Footnotes in the margin.
+   A visual duplicate of the list at the foot of the post (which stays
+   canonical, and is what screen readers, print and narrow viewports get), so
+   below the sidenote breakpoint this simply isn't there. */
+
+.fn-margin {
+  display: none;
+}
+
+@media screen and (min-width: 1220px) {
+  .fn-margin {
+    display: block;
+    position: relative;
+    top: -0.55rem;
+    width: 23rem;
+    margin-left: auto;
+    margin-right: -26rem;
+    margin-bottom: 0.75rem;
+    padding: 0.55rem 0.75rem 0.7rem;
+    clear: right;
+    float: right;
+    opacity: 0.75;
+    outline: 1px solid transparent;
+    outline-offset: 0;
+    transition: opacity 0.2s ease, outline-color 0.2s ease;
+  }
+  /* Hovering the note itself, or the [n] in the text it belongs to — the two
+     are siblings, the <small> immediately following the <sup>. */
+  .fn-margin:hover,
+  .footnote-ref:hover + .fn-margin {
+    opacity: 1;
+    outline-color: rgb(var(--c-ink) / 0.2);
+  }
+
+  /* The number hangs in the gap between text and gutter, where the sidenote
+     asterisk sits. */
+  .fn-margin__num {
+    position: absolute;
+    top: 0;
+    left: -3.5rem;
+    width: 3rem;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-end;
+    padding-top: 0.55rem;
+  }
+
+  /* Long notes are cut off rather than running down half the page; the reader
+     is sent to the full text at the bottom. The height is tuned against the
+     CLAMP_ABOVE character threshold in config/markdown.js. */
+  .fn-margin__body--clamped {
+    display: block;
+    max-height: 15rem;
+    overflow: hidden;
+    -webkit-mask-image: linear-gradient(to bottom, #000 72%, transparent 100%);
+    mask-image: linear-gradient(to bottom, #000 72%, transparent 100%);
+  }
+
+  /* Kept in the flow but invisible until the note is hovered, so a column of
+     clamped notes isn't a column of repeated links — and revealing it doesn't
+     shift anything. */
+  .fn-margin__more {
+    display: inline-block;
+    margin-top: 0.4rem;
+    text-decoration: none;
+    opacity: 0;
+    transition: opacity 0.2s ease;
+  }
+  .fn-margin:hover .fn-margin__more,
+  .footnote-ref:hover + .fn-margin .fn-margin__more,
+  .fn-margin__more:focus-visible {
+    opacity: 1;
+  }
+  .fn-margin__more:hover {
+    text-decoration: underline;
+    text-decoration-style: dotted;
+  }
+
+  /* Block-level structure inside a note, rebuilt out of spans — it lives
+     inside the paragraph that carries the reference, so real block elements
+     would close that paragraph early. */
+  .fn-margin__p,
+  .fn-margin__list,
+  .fn-margin__li,
+  .fn-margin__quote {
+    display: block;
+  }
+  .fn-margin__p + .fn-margin__p,
+  .fn-margin__p + .fn-margin__list,
+  .fn-margin__list + .fn-margin__p,
+  .fn-margin__quote + .fn-margin__p {
+    margin-top: 0.6rem;
+  }
+  .fn-margin__li {
+    padding-left: 1rem;
+    text-indent: -0.7rem;
+  }
+  .fn-margin__li::before {
+    content: "– ";
+  }
+  .fn-margin__quote {
+    padding-left: 0.7rem;
+    border-left: 1px solid rgb(var(--c-rule));
+  }
+  .fn-margin__hr {
+    display: block;
+    margin: 0.6rem 0;
+    border-top: 1px solid rgb(var(--c-rule));
+  }
+  /* Display maths is far wider than the gutter; let it scroll rather than
+     spill over the text. */
+  .fn-margin .katex-block {
+    display: block;
+    overflow-x: auto;
+    font-size: 0.85em;
+    margin: 0.5rem 0;
+  }
+  .fn-margin img {
+    max-width: 100%;
+  }
+}
+
 .side-nav {
   background: transparent;
   display: block;
   position: sticky;
   top: 0; /*2rem;*/
-  width: 18rem;
+  width: 15rem;
   height: 0;
 }
 .side-nav-offset {
   position: relative;
-  right: 22rem;
+  /* Sits 2rem clear of the text, down from 4rem. */
+  right: 17rem;
   overflow-y: auto;
   max-height: 100vh; /*calc(100vh - 2rem); */
   padding-bottom: 1rem;
