@@ -1,5 +1,6 @@
 const markdownIt = require("markdown-it");
-const markdownItKatex = require("@iktakahiro/markdown-it-katex");
+const mathDelimiters = require("@vscode/markdown-it-katex").default;
+const temml = require("temml");
 const markdownItFootnote = require("markdown-it-footnote");
 const markdownItAnchor = require("markdown-it-anchor");
 const markdownItAttrs = require("markdown-it-attrs");
@@ -21,10 +22,75 @@ const markdownItAnchorOptions = {
 
 const markdownLib = markdownIt(options)
   .use(markdownItFootnote)
-  .use(markdownItKatex)
+  .use(mathDelimiters)
+  .use(temmlRenderer)
   .use(markdownItAnchor, markdownItAnchorOptions)
   .use(markdownItAttrs)
   .use(footnoteMarginNotes);
+
+/**
+ * Maths is rendered to MathML by Temml, not to styled spans by KaTeX.
+ *
+ * MathML is what makes an equation selectable and copyable as real Unicode,
+ * and it needs ~9KB of CSS and one webfont rather than KaTeX's 24KB and
+ * twenty. Temml is by KaTeX's own author and takes the identical LaTeX, so
+ * every existing post renders unchanged.
+ *
+ * The `$…$` / `$$…$$` scanning still comes from @vscode/markdown-it-katex:
+ * that part is well tested against the awkward cases (escaped dollars, prices
+ * like "$5", `$` inside code spans) and is stricter than the plugin it
+ * replaced, so only the four *render* rules are swapped. KaTeX is never
+ * called — that package is here purely as a tokeniser.
+ */
+function temmlRenderer(md) {
+  const render = (latex, displayMode) => {
+    try {
+      return temml.renderToString(latex, { displayMode, throwOnError: false });
+    } catch (error) {
+      return `<span class="math-error" title="${md.utils.escapeHtml(
+        String(error)
+      )}">${md.utils.escapeHtml(latex)}</span>`;
+    }
+  };
+
+  // `$$…$$` written in the middle of a sentence still arrives as a math_block
+  // token, indistinguishable from a real display block by its own flags — the
+  // only difference is that markdown-it reaches it through renderInline. A few
+  // posts do write it that way (research.md has "($$\\approx$$ liberal
+  // democracy)"), and wrapping that in a <p> puts a block inside a paragraph,
+  // which browsers fix up by splitting the sentence into three. So track the
+  // render path and treat mid-sentence maths as inline, which is what it
+  // plainly means.
+  let inInline = false;
+  const baseRenderInline = md.renderer.renderInline;
+  md.renderer.renderInline = function (tokens, opts, env) {
+    const outer = inInline;
+    inInline = true;
+    try {
+      // .call, not .bind: the margin-note renderer below is an object whose
+      // prototype is this renderer but whose `rules` differ, and it has to keep
+      // rendering through its own rules.
+      return baseRenderInline.call(this, tokens, opts, env);
+    } finally {
+      inInline = outer;
+    }
+  };
+
+  const inline = (tokens, idx) => render(tokens[idx].content, false);
+
+  // Display maths keeps a <p class="math-block"> wrapper, which the margin-note
+  // renderer rewrites into a <span> (a block element cannot nest inside the
+  // paragraph a margin note lives in).
+  const block = (tokens, idx) =>
+    inInline
+      ? render(tokens[idx].content, false)
+      : `<p class="math-block">${render(tokens[idx].content, true)}</p>`;
+
+  md.renderer.rules.math_inline = inline;
+  md.renderer.rules.math_block = block;
+  md.renderer.rules.math_inline_block = block;
+  md.renderer.rules.math_inline_bare_block = block;
+}
 
 /**
  * Footnotes double as margin notes.
@@ -94,11 +160,12 @@ function footnoteMarginNotes(md) {
     // Cloudinary srcset survives.
     html_block: (tokens, idx) => unwrapFlow(tokens[idx].content),
     html_inline: (tokens, idx) => unwrapFlow(tokens[idx].content),
-    // KaTeX wraps display maths in <p class='katex-block'>; everything inside
-    // it is already spans.
+    // Display maths is wrapped in <p class="math-block"> (see temmlRenderer).
+    // MathML's <math> is phrasing content, so the element itself nests inside
+    // a paragraph happily — only the <p> wrapper has to become a <span>.
     math_block: (...args) =>
       baseMath(...args)
-        .replace(/^<p class=('|")katex-block/, "<span class=$1katex-block")
+        .replace(/^<p class=('|")math-block/, "<span class=$1math-block")
         .replace(/<\/p>\s*$/, "</span>"),
     // The backref arrow belongs to the list at the bottom, and a footnote cited
     // inside another footnote gets its number only.
@@ -144,7 +211,7 @@ function footnoteMarginNotes(md) {
       const text = html.replace(/<[^>]*>/g, "");
       margins[id] = {
         html,
-        clamped: text.length > CLAMP_ABOVE || /katex-block/.test(html),
+        clamped: text.length > CLAMP_ABOVE || /math-block/.test(html),
       };
     }
   });
@@ -195,6 +262,25 @@ function footnoteMarginNotes(md) {
   };
 }
 
+// Assets for the maths, resolved from the installed packages rather than
+// hardcoded under node_modules/ so they always match the renderer above.
+// Eleventy copies them into build/style/temml/ (see .eleventy.js).
+//
+// Temml-STIX2.css asks for the font as url("./STIXTwoMath.woff2"), relative to
+// itself, so the two must land in the same output directory under exactly that
+// filename. It tries local('STIXTwoMath') first, which means readers on macOS
+// (where STIX Two Math ships with the OS) never download it at all.
+const path = require("path");
+const temmlDist = path.dirname(require.resolve("temml/package.json"));
+const stixPkg = path.dirname(
+  require.resolve("@fontsource/stix-two-math/package.json")
+);
+
 module.exports = {
   markdownLib,
+  temmlCssPath: path.join(temmlDist, "dist/Temml-STIX2.css"),
+  stixFontPath: path.join(
+    stixPkg,
+    "files/stix-two-math-latin-400-normal.woff2"
+  ),
 };

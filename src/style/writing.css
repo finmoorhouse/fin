@@ -367,7 +367,7 @@
   }
   /* Display maths is far wider than the gutter; let it scroll rather than
      spill over the text. */
-  .fn-margin .katex-block {
+  .fn-margin .math-block {
     display: block;
     overflow-x: auto;
     font-size: 0.85em;
@@ -465,3 +465,44 @@ details summary{
   transition: border-color 0.2s ease;
 }
 
+/* ---------------------------------------------------------------------------
+   Maths
+   ---------------------------------------------------------------------------
+   Equations are MathML, rendered at build time by Temml (see config/markdown.js)
+   and painted by the browser's own math layout using STIX Two Math. The
+   stylesheet and font are copied out of node_modules by .eleventy.js into
+   /style/temml/.
+
+   STIX Two Math sets a little larger on the body than Spectral, so it is nudged
+   back rather than up; much below this and the scriptstyle in fractions and
+   exponents starts to close up.                                             */
+math {
+  font-size: 1.05em;
+}
+
+/* Display maths arrives as <p class="math-block"><math display="block">.
+   Both would carry vertical margin — the <p> from the prose styles, the <math>
+   from its own display rules — so the gap either side comes out roughly double.
+   Zero the paragraph and let the equation own the spacing. */
+p.math-block {
+  margin: 0;
+}
+
+math[display="block"] {
+  margin: 1.4em 0;
+}
+
+/* A long equation would otherwise push the measure wider on narrow screens.
+   Scroll it instead; the padding keeps descenders clear of the scroll edge. */
+math[display="block"] {
+  overflow-x: auto;
+  overflow-y: hidden;
+  padding: 2px 0;
+}
+
+/* Temml falls back to this when an expression cannot be parsed; without a rule
+   it would be invisible against the prose. */
+.math-error {
+  color: #f87171;
+  border-bottom: 1px dotted currentColor;
+}

@@ -4,8 +4,10 @@ layout: base.njk
 # listing at /writing loads that stylesheet too but isn't an essay, so it keeps
 # the same centred column as /projects and the index.
 mainClass: essay
-extraStyle:
-  ["/style/writing.css", "https://unpkg.com/katex@latest/dist/katex.min.css"]
+# Temml's stylesheet first, writing.css second: both are plain <link>s, so the
+# maths overrides at the foot of writing.css only win on source order.
+# Flipping these two silently restores Temml's defaults.
+extraStyle: ["/style/temml/Temml.css", "/style/writing.css"]
 ---
 
 <h1 class="!mb-2">{{ title }}</h1>

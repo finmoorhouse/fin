@@ -29,6 +29,15 @@ module.exports = function (config) {
 
   // Passthrough
   config.addPassthroughCopy("src/style/*.css");
+
+  // Maths assets: Temml's stylesheet and the STIX Two Math webfont, both
+  // resolved from the installed packages by config/markdown.js so they always
+  // match the renderer. They must land in the SAME directory: Temml-STIX2.css
+  // references the font as url("./STIXTwoMath.woff2"), relative to itself.
+  config.addPassthroughCopy({
+    [markdown.temmlCssPath]: "style/temml/Temml.css",
+    [markdown.stixFontPath]: "style/temml/STIXTwoMath.woff2",
+  });
   config.addPassthroughCopy("src/script/*.js");
   config.addPassthroughCopy({ "src/favicon": "/" });
 
