@@ -1,6 +1,6 @@
 ---
 title: In praise of pastiche architecture
-permalink: /writing/pastiche
+permalink: /writing/pastiche/
 tags:
  - writing
 date: 2026-11-15
