@@ -102,9 +102,7 @@ Art Deco was futuristic; but even at the time, also very kitsch. The Empire Stat
 ## V
 Pastiche isn't just for monumental and ornamental architecture. Brooklyn was largely built between 1860 and 1900, by builders working from "pattern books": collections of cookie-cutter designs for mouldings, floor plans, and facades. The brownstone is a mix of Greek Revival, Italianate, and later Romanesque and Queen Anne styles.[^brownstone] The brown sandstone in question was quarried in Connecticut and Pennsylvania, where it could be shipped down by rail. So the iconic brownstone is the marriage of copying, and convenience. No architectural manifestos here.
 
-[^brownstone]:{% img "writing/pastiche/08c-brownstones-park-slope", "A tree-lined street of brownstone terraced houses in Park Slope, Brooklyn, with carved door hoods, high stoops, and iron railings" %}
-
-The copying now goes a layer deeper, since the original sandstone weathers poorly, so most surviving brownstones are expensive restorations in the original colour.
+[^brownstone]:The copying now goes a layer deeper, since the original sandstone weathers poorly, so most surviving brownstones are expensive restorations in the original colour. {% img "writing/pastiche/08c-brownstones-park-slope", "A tree-lined street of brownstone terraced houses in Park Slope, Brooklyn, with carved door hoods, high stoops, and iron railings" %}
 
 The British seaside has some nice examples of kitsch and pastiche. When sea-bathing became fashionable in the late 18th century, Brighton, Margate, and Scarborough got their first prominent streets of Regency terraces, inspired by John Nash's Regency London (Regent Street, Regent's Park terraces, Cumberland Terrace). The (popular and expensive) Regency style is a gaudy, Disneyland-ish mashup of Roman and Greek fronts rendered in imitation stone (stucco over cheap brick), scored and painted to pass for true stone. Nash also designed Brighton Pavilion, based on engravings of Mughal palaces. Scarborough's Grand Hotel (the largest hotel in Europe when it opened) pinches from French Second Empire and Italian Renaissance buildings. Both totally inauthentic buildings, but mostly beloved.
 
@@ -117,11 +115,9 @@ Or rather: what makes for much *popular*, *comfortable*, even *beautiful* design
 
 That is, aesthetic innovation needn't always require that we conspicuously try to innovate; like how trying too hard to be happy is a path to unhappiness.
 
-Obviously *mere* imitation won't cut it. McMansions are kitsch alright, but they're also ugly. I suppose part of the story is that they happily pinch 'vocab' from old[^17]
+Obviously *mere* imitation won't cut it. McMansions are kitsch alright, but they're also ugly. I suppose part of the story is that they happily pinch 'vocab' from old[^17] sources, but they don't use any well-motivated 'grammar', in how they're fitted together and proportioned.
 
 [^17]:e.g. Georgian, French Provincial, Tudor Revival, Spanish.
-
- sources, but they don't use any well-motivated 'grammar', in how they're fitted together and proportioned.
 
 {% img "writing/pastiche/09-mcmansions", "Two McMansions: a sprawling grey stucco house with a columned portico, balustrade, oculus window, turret and copper domes; and a cream stucco house with a columned entrance between garages in Salinas, California" %}
 
