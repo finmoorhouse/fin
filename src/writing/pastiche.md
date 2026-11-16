@@ -24,9 +24,9 @@ In a way, the project totally succeeded. Between the office furniture and Ikea f
 
 {% img "writing/pastiche/01-bauhaus", "The Bauhaus building in Dessau" %}
 
-But I have a gripe: most great design (especially in architecture) is unlike Bauhaus, in having no pretensions to being overtly innovative. Still, much of it contributed to more incidental and organic kinds of aesthetic progress, by borrowing and copying from the past, and fitting them to contemporary circumstances.
+But I have a gripe: most great design (especially in architecture) has no pretensions to being overtly innovative. Still, much of it contributed to more incidental and organic kinds of aesthetic progress, by borrowing and copying from the past, and fitting them to contemporary circumstances.
 
-It's a trite point: *this guy with a Substack thinks old buildings look nice*. But I do really want to make the case, in architecture especially, for un-self-consciously embracing the kitsch, eclectic, plundered, even pastiche. Not least because so much great historical architecture did the same — it has almost always been reassembling, imitating, and harking back to some kind of lost ways.
+Big deal: *this guy with a Substack thinks old buildings look nice*. But I really do want to make the case, in architecture especially, for embracing the kitsch, eclectic, plundered, even pastiche. Not least because so much great historical architecture did the same — it has almost *always* been reassembling, imitating, and harking back to some kind of lost ways.
 
 ## II
 [Andrea di Pietro della Gondola](https://en.wikipedia.org/wiki/Andrea_Palladio) worked as a stonemason in Vicenza, in northeastern Italy. In 1539, he was approached by the patrician poet and scholar Gian Giorgio Trissino, who asked him to rebuild his Villa Trissino residence just outside of the city.
