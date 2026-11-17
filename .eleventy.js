@@ -27,6 +27,12 @@ module.exports = function (config) {
   config.watchIgnores.add("src/charts/**");
   config.setServerOptions({ watch: ["build/charts/**/*.js"] });
 
+  // Several drafts are symlinks to files in ~/Documents/Writing. Eleventy 3's
+  // default macOS watcher (one FSEvents stream over src/) reports changes at
+  // the real path, so edits to those drafts never trigger a rebuild. The
+  // standard watcher follows symlinks.
+  config.setChokidarConfig({ useFsEvents: false });
+
   // Markdown
   config.setLibrary("md", markdown.markdownLib);
 
