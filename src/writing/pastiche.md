@@ -53,9 +53,9 @@ Few if any 18th-century English architects had visited Italy. So their designs w
 
 {% img "writing/pastiche/03d-ebberston-bath", "Ebberston Hall in North Yorkshire, and the north side of Queen Square, Bath" %}
 
-Thomas Jefferson certainly never visited Italy, but he owned and adored Leoni's translation of the *Quattro Libri*. He designed his home in Virginia, [Monticello](https://en.wikipedia.org/wiki/Monticello)[^monticello], from the engravings in that book; later he designed the University of Virginia's "academical village" with the Rotunda at its head, like a half-scale Pantheon.
+Thomas Jefferson certainly never visited Italy, but he owned and adored Leoni's translation of the *Quattro Libri*. He designed his home in Virginia, [Monticello](https://en.wikipedia.org/wiki/Monticello)[^monticello], from the engravings in that book; later he designed the University of Virginia's "academical village" with the Rotunda at its head, like a half-scale Pantheon.[^plantations]
 
-The Veneto villas, and the English country houses indirectly modelled on them, were the seats of landed estates, and Monticello itself was a plantation: Palladio's influence in America spread through the houses of rich southern slaveholders.
+[^plantations]:The Veneto villas, and the English country houses indirectly modelled on them, were the seats of landed estates, and Monticello itself was a plantation: Palladio's influence in America spread through the houses of rich southern slaveholders.
 
 [^monticello]:{% img "writing/pastiche/04-monticello", "Monticello" %}
 
@@ -74,15 +74,15 @@ Much like other borrowed designs — think stucco-fronted villas — the dome's 
 
 I find it especially funny how late the most iconic federal buildings in DC were built.
 
-If you bring to mind examples of 'great' American public buildings, it was likely built sometime between the Columbian Exposition in Chicago,[^4] and the Second World War. In NYC, the New York Public Library (1911), Grand Central Terminal (1913), the original Penn Station (1910).
+If you bring to mind examples of 'great' American public buildings, it was likely built sometime between the Columbian Exposition in Chicago,[^columbian-expo] and the Second World War. In NYC, the New York Public Library (1911), Grand Central Terminal (1913), the original Penn Station (1910).
 
 {% img "writing/pastiche/06-penn-station", "The original Pennsylvania Station in New York: the colonnaded exterior, and the vaulted main waiting room" %}
 
-[^4]:In 1893, Daniel Burnham assembled the leading American architects to design a temporary "White City" of classical-style fairground buildings, all painted brilliant white: the World's Columbian Exposition in Chicago. It drew 27 million visits in a country of fewer than 70 million people. The fair launched the 'City Beautiful' movement, a kind of progressive upper-middle class effort in favour of beautification and grandeur in American city planning.
+[^columbian-expo]:In 1893, Daniel Burnham assembled the leading American architects to design a temporary "White City" of classical-style fairground buildings, all painted brilliant white: the World's Columbian Exposition in Chicago. It drew 27 million visits in a country of fewer than 70 million people. The fair launched the 'City Beautiful' movement, a kind of progressive upper-middle class effort in favour of beautification and grandeur in American city planning.
 
-The Lincoln Memorial was dedicated in 1922, three years after the Bauhaus opened. The Supreme Court and the National Archives were both completed in '35. By 1943, Frank Lloyd Wright had finished Fallingwater, the Bauhaus had been forcibly closed by the Nazis for a decade, and the Jefferson Memorial was opened to visitors: being based on Jefferson's UVA Rotunda: a copy of a copy of a copy of a copy of a written description of buildings none of the copyists had ever seen.[^2]
+The Lincoln Memorial was dedicated in 1922, three years after the Bauhaus opened. The Supreme Court and the National Archives were both completed in '35. By 1943, Frank Lloyd Wright had finished Fallingwater, the Bauhaus had been forcibly closed by the Nazis for a decade, and the Jefferson Memorial was opened to visitors: being based on Jefferson's UVA Rotunda: a copy of a copy of a copy of a copy of a written description of buildings none of the copyists had ever seen.[^jefferson-memorial]
 
-[^2]:The Jefferson Memorial (1943) copies Jefferson's UVA Rotunda (1820s), which copies the Pantheon (~125 AD), which builds on earlier Roman temples, which adapt Greek originals, which Vitruvius described in writing in the 1st century BC.
+[^jefferson-memorial]:The Jefferson Memorial (1943) copies Jefferson's UVA Rotunda (1820s), which copies the Pantheon (~125 AD), which builds on earlier Roman temples, which adapt Greek originals, which Vitruvius described in writing in the 1st century BC.
 
 ## IV
 ['Whither Tartaria'](https://www.astralcodexten.com/p/whither-tartaria), asks Scott Alexander. Architecturally speaking, he asks us to imagine that we are wallowing in the embers of a post-apocalyptic world. Surely that is the only explanation we, we lucky members of the richest societies in human history, keep choosing to build grey rectangles: we forgot how to do anything else.
@@ -100,9 +100,9 @@ Likewise the Taj Mahal was built in Persian funerary style, imported when the fi
 Art Deco was futuristic; but even at the time, also very kitsch. The Empire State Building (1931) tops off in a mooring mast for airships that were already obsolete by the time it opened. The eagles at the corners of the Chrysler Building (1930) are Egyptian-revival gargoyles; the radiator-cap ornaments are supposed to be Mesopotamian; the spire is a stepped ziggurat. The lobby is full of Mayan and Aztec motifs filtered through 1920s graphic design. The ancient motifs came partly out of the brief wave of Egyptomania following the 1922 discovery of Tutankhamun's tomb; and partly out of the 1925 Paris 'International Exhibition of Modern Decorative and Industrial Arts' (*des arts décoratifs…*) — where French designers showed off remixes of ancient and "primitive" ornaments. That building, incidentally, takes its name from the businessman Walter Chrysler (of Chrysler cars), who underwrote the construction as a real estate investment…
 
 ## V
-Pastiche isn't just for monumental and ornamental architecture. Brooklyn was largely built between 1860 and 1900, by builders working from "pattern books": collections of cookie-cutter designs for mouldings, floor plans, and facades. The brownstone is a mix of Greek Revival, Italianate, and later Romanesque and Queen Anne styles.[^brownstone] The brown sandstone in question was quarried in Connecticut and Pennsylvania, where it could be shipped down by rail. So the iconic brownstone is the marriage of copying, and convenience. No architectural manifestos here.
+Pastiche isn't just for monumental and ornamental architecture. Brooklyn was largely built between 1860 and 1900, by builders working from "pattern books": collections of cookie-cutter designs for mouldings, floor plans, and facades. The brownstone is a mix of Greek Revival, Italianate, and later Romanesque and Queen Anne styles.[^brownstone-restoration] The brown sandstone in question was quarried in Connecticut and Pennsylvania, where it could be shipped down by rail. So the iconic brownstone is the marriage of copying, and convenience. No architectural manifestos here.
 
-[^brownstone]:The copying now goes a layer deeper, since the original sandstone weathers poorly, so most surviving brownstones are expensive restorations in the original colour. {% img "writing/pastiche/08c-brownstones-park-slope", "A tree-lined street of brownstone terraced houses in Park Slope, Brooklyn, with carved door hoods, high stoops, and iron railings" %}
+[^brownstone-restoration]:The copying now goes a layer deeper, since the original sandstone weathers poorly, so most surviving brownstones are expensive restorations in the original colour. {% img "writing/pastiche/08c-brownstones-park-slope", "A tree-lined street of brownstone terraced houses in Park Slope, Brooklyn, with carved door hoods, high stoops, and iron railings" %}
 
 The British seaside has some nice examples of kitsch and pastiche. When sea-bathing became fashionable in the late 18th century, Brighton, Margate, and Scarborough got their first prominent streets of Regency terraces, inspired by John Nash's Regency London (Regent Street, Regent's Park terraces, Cumberland Terrace). The (popular and expensive) Regency style is a gaudy, Disneyland-ish mashup of Roman and Greek fronts rendered in imitation stone (stucco over cheap brick), scored and painted to pass for true stone. Nash also designed Brighton Pavilion, based on engravings of Mughal palaces. Scarborough's Grand Hotel (the largest hotel in Europe when it opened) pinches from French Second Empire and Italian Renaissance buildings. Both totally inauthentic buildings, but mostly beloved.
 
@@ -115,9 +115,9 @@ Or rather: what makes for much *popular*, *comfortable*, even *beautiful* design
 
 That is, aesthetic innovation needn't always require that we conspicuously try to innovate; like how trying too hard to be happy is a path to unhappiness.
 
-Obviously *mere* imitation won't cut it. McMansions are kitsch alright, but they're also ugly. I suppose part of the story is that they happily pinch 'vocab' from old[^17] sources, but they don't use any well-motivated 'grammar', in how they're fitted together and proportioned.
+Obviously *mere* imitation won't cut it. McMansions are kitsch alright, but they're also ugly. I suppose part of the story is that they happily pinch 'vocab' from old[^mcmansion-styles] sources, but they don't use any well-motivated 'grammar', in how they're fitted together and proportioned.
 
-[^17]:e.g. Georgian, French Provincial, Tudor Revival, Spanish.
+[^mcmansion-styles]:e.g. Georgian, French Provincial, Tudor Revival, Spanish.
 
 {% img "writing/pastiche/09-mcmansions", "Two McMansions: a sprawling grey stucco house with a columned portico, balustrade, oculus window, turret and copper domes; and a cream stucco house with a columned entrance between garages in Salinas, California" %}
 
