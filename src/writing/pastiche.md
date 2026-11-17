@@ -6,7 +6,7 @@ tags:
 date: 2026-11-15
 shareImage: writing/pastiche/share-penn-station
 links:
- Substack: https://finmoorhouse.substack.com/
+ Substack: https://finmoorhouse.substack.com/p/in-praise-of-pastiche-architecture
 ---
 
 ## I

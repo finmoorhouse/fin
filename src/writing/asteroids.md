@@ -11,6 +11,8 @@ Recently, I’ve been working on a [problem profile](https://80000hours.org/prob
 
 {% endaside %}
 
+
+
 ## Assessing the risks{#the-risks}
 
 When thinking about risks from space, you’ll likely think of asteroids.

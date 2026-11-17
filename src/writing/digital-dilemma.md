@@ -131,7 +131,7 @@ Think about those people who [build](https://www.minecraft.net/en-us/article/dee
 
 And of course we can keep going with that. [This incredible website](https://oimo.io/works/life/) shows how the Game of Life can be [emulated, recursively](https://twitter.com/finmoorhouse/status/1634945047811751938), within the Game of Life.
 
-<video controls width="100%" src="https://images.finmoorhouse.com/writing/digital-dilemma/gol.mp4"></video>
+<video controls width="100%" src="https://res.cloudinary.com/finmoorhouse/video/upload/writing/digital-dilemma/gol.mp4"></video>
 
 Notice in the above video how each level up you rise, each time many cells zoom out to reveal they are part of a larger cell and a larger Game, the slower the new game relative to the clock speeds of the 'base layer' (if there is one).
 
