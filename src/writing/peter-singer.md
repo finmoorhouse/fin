@@ -252,7 +252,7 @@ Incidentally, it turns out that a country's wealth is a very strong determinant 
 
 If you think that current factory farming practices typically involve enormous harms and wastes, this is so far all bad [news](http://news.Is). What about the other side of the story?
 
-Firstly, several pieces of legislation have been passed banning the more egregious tools and methods of factory farming. One examples is [Directive 1999/74/EC](https://en.wikipedia.org/wiki/Directive_1999/74/EC), which enforced a minimum standard for keeping egg-laying hens; effectively banning battery cages. Unfortunately, legislative efforts still seem to focus on the small subset of animals raised [as pets](https://www.gov.uk/guidance/animal-welfare-legislation-protecting-pets). This is also true of money donated to animal charities, as this arresting [chart](images/animal-donations.png) shows.
+Firstly, several pieces of legislation have been passed banning the more egregious tools and methods of factory farming. One examples is [Directive 1999/74/EC](https://en.wikipedia.org/wiki/Directive_1999/74/EC), which enforced a minimum standard for keeping egg-laying hens; effectively banning battery cages. Unfortunately, legislative efforts still seem to focus on the small subset of animals raised [as pets](https://www.gov.uk/guidance/animal-welfare-legislation-protecting-pets). This is also true of money donated to animal charities, as this arresting [chart](https://res.cloudinary.com/finmoorhouse/image/upload/writing/peter-singer/images/animal-donations.jpg) shows.
 
 {% image "writing/peter-singer/images/animal-donations.jpg", "Donation chart" %}
 

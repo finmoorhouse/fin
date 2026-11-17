@@ -85,8 +85,8 @@ I really think it is worth appreciating the number and depth of insights that FH
 - The [**unilteralist's curse**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4959137/)
 - [**Dissolving**](https://arxiv.org/abs/1806.02404) the Fermi paradox
 - The [**reversal test**](https://nickbostrom.com/ethics/statusquo.pdf) in applied ethics
-- '[**Comprehensive AI services'**](https://www.fhi.ox.ac.uk/wp-content/uploads/Reframing_Superintelligence_FHI-TR-2019-1.1-1.pdf) as an alternative to unipolar outcomes
-- The concept of [**existential hope**](https://www.fhi.ox.ac.uk/Existential-risk-and-existential-hope.pdf)
+- '[**Comprehensive AI services'**](https://web.archive.org/web/20240120050936/https://www.fhi.ox.ac.uk/wp-content/uploads/Reframing_Superintelligence_FHI-TR-2019-1.1-1.pdf) as an alternative to unipolar outcomes
+- The concept of [**existential hope**](https://web.archive.org/web/20231216161541/https://www.fhi.ox.ac.uk/Existential-risk-and-existential-hope.pdf)
 
 Note how much of the literal terminology was coined on (one imagines) a whiteboard in FHI. “Existential risk” isn't a neologism, but I understand it was Nick who first suggested it be used in a principled way to point to the “loss of potential” thing. “Existential hope”, “vulnerable world”, “unilateralist's curse”, “information hazard”, all (as far as I know) tracing back to an FHI publication.
 

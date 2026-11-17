@@ -156,7 +156,7 @@ I am entirely biased, because I recently wrapped up a [preliminary bit of resear
 
 When an extremely nascent field is just coalescing, I think it makes sense to find everyone who could help establish it, and put them in the same place (figuratively or literally). Minimally, this could look like reaching out to people who seem to know a bit about space and a bit about the principles of longtermist EA, and hooking them into an informal network of researchers.
 
-A more ambitious version could look like a proper research centre — i.e. actually registering a nonprofit, having people on the payroll, having a bunch of branding and operational support and maybe even affiliations with {% note "established academic institutions." %}[FHI](https://www.fhi.ox.ac.uk/) in the Wild West days.{% endnote %}
+A more ambitious version could look like a proper research centre — i.e. actually registering a nonprofit, having people on the payroll, having a bunch of branding and operational support and maybe even affiliations with {% note "established academic institutions." %}[FHI](https://web.archive.org/web/20240101084102/https://www.fhi.ox.ac.uk/) in the Wild West days.{% endnote %}
 
 One reason is that this could bootstrap the field very quickly, and indeed increase the chance {% note "a field emerges at all." %}Where, to be clear, the field is something like 'longtermist considerations on space governance'.{% endnote %}
 

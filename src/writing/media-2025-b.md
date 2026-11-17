@@ -20,7 +20,7 @@ Books and music I enjoyed from the second half of 2025. Ordering remains arbitra
 - *[The Rest Is Noise](https://www.goodreads.com/book/show/392563.The_Rest_Is_Noise)* — Alex Ross ([review](https://www.goodreads.com/review/show/7175535925))
 - *[Law's Order](https://www.goodreads.com/book/show/419403.Law_s_Order)* — David D. Friedman ([review](https://www.goodreads.com/review/show/7490000832))
 - *[The Thinking Machine](https://www.goodreads.com/book/show/211399783-the-thinking-machine)* — Stephen Witt ([review](https://www.goodreads.com/review/show/7750475142))
-- *[Master of the Senate](www.goodreads.com/book/show/86525.Master_of_the_Senate)* and *[The Passage of Power](https://www.goodreads.com/book/show/13049569-the-passage-of-power)* — Robert Caro
+- *[Master of the Senate](https://www.goodreads.com/book/show/86525.Master_of_the_Senate)* and *[The Passage of Power](https://www.goodreads.com/book/show/13049569-the-passage-of-power)* — Robert Caro
 - *[John and Paul](https://www.goodreads.com/book/show/211004838-john-paul)* — Ian Leslie ([review](https://www.goodreads.com/review/show/8157017494?book_show_action=false))
 
 I also have a [Goodreads](https://www.goodreads.com/user/show/38695642-fin-moorhouse) (and written reviews [live here](https://finmoorhouse.com/writing/book-reviews/)).
