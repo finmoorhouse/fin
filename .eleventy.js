@@ -45,6 +45,11 @@ module.exports = function (config) {
     [markdown.temmlCssPath]: "style/temml/Temml.css",
     [markdown.stixFontPath]: "style/temml/STIXTwoMath.woff2",
   });
+  // Spectral webfonts (see the @font-face block at the top of src/global.css).
+  config.addPassthroughCopy({
+    "node_modules/@fontsource/spectral/files/spectral-latin*-{400,600}-*.woff2":
+      "fonts",
+  });
   config.addPassthroughCopy("src/script/*.js");
   config.addPassthroughCopy({ "src/favicon": "/" });
 

@@ -62,7 +62,7 @@ function toggle(content, summary) {
 
 function aside(content) {
   return `
-    <div class="relative"><span class="absolute left-4 top-0 border border-rule rounded-tl-0 rounded-tr-0 rounded-bl-md rounded-br-md font-sans px-2 text-base opacity-70 md:inline-block hover:opacity-100 transition-opacity">Note</span><aside class="bg-panel rounded-md px-6 border border-rule  [&>p]:my-1"><div class="space-y-2 first:mt-8 last:mb-3">${content}</div></aside></div>`;
+    <div class="relative"><span class="absolute left-4 top-0 border border-rule rounded-tl-0 rounded-tr-0 rounded-bl-md rounded-br-md font-sans px-2 text-base opacity-70 hover:opacity-100 transition-opacity">Note</span><aside class="bg-panel rounded-md px-6 border border-rule  [&>p]:my-1"><div class="space-y-2 first:mt-8 last:mb-3">${content}</div></aside></div>`;
 }
 
 function drop(content, summary = "Show notes →") {
