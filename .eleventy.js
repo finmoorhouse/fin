@@ -19,6 +19,13 @@ module.exports = function (config) {
   config.addShortcode("year", htmlShortcodes.year);
   config.addPairedShortcode("toggle", htmlShortcodes.toggle);
   config.addPairedShortcode("drop", htmlShortcodes.drop);
+  config.addPairedShortcode("chart", htmlShortcodes.chart);
+
+  // Chart modules are bundled by esbuild (scripts/build-charts.mjs) into
+  // build/charts/ — Eleventy should ignore the sources but the dev server
+  // should reload when a bundle changes.
+  config.watchIgnores.add("src/charts/**");
+  config.setServerOptions({ watch: ["build/charts/**/*.js"] });
 
   // Markdown
   config.setLibrary("md", markdown.markdownLib);
