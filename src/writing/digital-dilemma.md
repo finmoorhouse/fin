@@ -4,7 +4,7 @@ permalink: /writing/sims/
 tags:
   - writing
 date: 2024-04-28
-shareImage: https://images.finmoorhouse.com/writing/digital-dilemma/computers.webp
+shareImage: writing/digital-dilemma/computers.webp
 ---
 
 ## Summary
@@ -315,7 +315,7 @@ The so-called ‘self-sampling assumption’ (SSA) asks that you reason “as if
 
 The so-called ‘self-indication assumption’ (SIA), roughly speaking, asks that you reason as if you were a random sample from among all possible observers. There are equally many blue rooms on either outcome from the coin flip, so conditioning on seeing blue gives 50% on heads and tails. The expected number of red cubicles saved is therefore $0.5 \cdot 990 \cdot 0.5 \approx 250 \gg 10$, so SIA recommends saving the red rooms.
 
-{% image 'https://static.wikia.nocookie.net/twinpeaks/images/1/1e/Red_room.jpg/revision/latest?cb=20190902220937' 'The red room' 'Get it?' %}
+{% image 'writing/digital-dilemma/red-room' 'The red room' 'Get it?' %}
 
 Again, there is already a rich discussion on which anthropic principle to use in cases like this (and some discussion about how similar questions may be ambiguous or confused somehow). So I won't argue for a particular view at any length.
 

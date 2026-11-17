@@ -4,7 +4,7 @@ description: Transcript from a podcast interview with Rory Stewart
 tags: [writing]
 date: 2023-04-06
 permalink: /writing/rory-stewart-givedirectly/
-shareImage: https://images.finmoorhouse.com/writing/rory-stewart/market.jpg
+shareImage: writing/rory-stewart/market.jpg
 ---
 
 I recently got to speak with [Rory Stewart](https://en.wikipedia.org/wiki/Rory_Stewart), on the [podcast I co-host](https://hearthisidea.com/episodes/stewart) with my friend Luca. Rory is now President of the charity GiveDirectly, so we spoke about ending poverty by scaling unconditional cash transfers. I found the conversation unusually valuable and memorable, so I'm copying out the transcript. [Here's the link to the episode itself](https://pnc.st/s/hear-this-idea/e5291b0f/rory-stewart-on-givedirectly-and-massively-scaling-cash-transfers), if you prefer to listen.
@@ -35,7 +35,7 @@ Great pleasure to be here. Thank you for having me.
 
 **Fin 02:46**
 
-Fantastic. Well, I understand you're calling from {% note 'Amman in Jordan' %}The capital of Jordan.{% image "https://lp-cms-production.imgix.net/features/2019/03/roman-ruins-amman-jordan-407d5b729ba7.jpg" "Amman" %}{% endnote %}, and I'm curious what first brought you to Jordan. 
+Fantastic. Well, I understand you're calling from {% note 'Amman in Jordan' %}The capital of Jordan.{% image "writing/rory-stewart/roman-ruins-amman" "Amman" %}{% endnote %}, and I'm curious what first brought you to Jordan. 
 
 **Rory 02:53**
 

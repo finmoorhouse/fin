@@ -92,7 +92,7 @@ Here’s one reason to think you are mistaken: hold out your thumb and stare at 
 
 Naïve introspection tells people that they know most of the facts about their visual experience. Some of those supposed facts — that they have decent colour vision beyond a small central area, for instance, are false. This is not an isolated example! Think back to the ‘dress illusion’ that did the rounds a few years ago. Some people were convinced they were seeing blue and black. Others were convinced they were seeing white and gold. They were seeing the same thing. Therefore, some of those people were wrong.
 
-{% image "writing/10-bits-of-philosophy/dress.jpg", "The dress illusion", "100vw" %}
+{% image "writing/10-bits-of-philosophy/dress.jpg", "The dress illusion" %}
 
 A final example: introspecting on thought itself. Here’s one question: does thinking involve something beyond imagery (visual or auditory ‘inner talk’) and feelings? Is there a ‘distinctive phenomenology’ of thought? As Schwitzgebel notes, there is zero convergence on any kind of answer to this question:
 

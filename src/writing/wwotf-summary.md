@@ -4,7 +4,7 @@ description: A chapter-by-chapter summary of the book What We Owe The Future.
 tags: [writing]
 date: 2023-01-20
 permalink: /writing/wwotf-summary/
-shareImage: https://images.finmoorhouse.com/writing/wwotf-summary/the-lackawanna-valley.jpg
+shareImage: writing/wwotf-summary/the-lackawanna-valley.jpg
 ---
 
 This is a summary for a popular audience of the book *[What We Owe The Future](https://whatweowethefuture.com/)*, by William MacAskill. The ['overall summary' section](#overall-summary) is a 5–10 minute read, and the remaining sections summarise individual chapters in more detail. Although the text hews lazily close to the source in many cases, I take responsibility for any inaccuracies or misinterpretations — this isn't an official summary or anything like that.

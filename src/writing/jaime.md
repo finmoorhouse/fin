@@ -76,7 +76,7 @@ A **natural experiment** is when this randomisation happens by accident, rather 
 
 Fortunately, there are some clever statistical methods we can use. Perhaps the most popular one is the **instrumental variable**.  This is a variable $Z$ that is related to how likely someone receives treatment $D$ (the relevance condition) but is *uncorrelated* with the error $e$ i.e. selection bias (the exclusion restriction). We can show this graphically:
 
-<img src="https://images.finmoorhouse.com/writing/jaime/images/instrument.svg" class="writing-image_small" alt="Instrumental Variable"   />
+<img src="https://res.cloudinary.com/finmoorhouse/image/upload/writing/jaime/images/instrument.svg" class="writing-image_small" alt="Instrumental Variable"   />
 
 If these two conditions are fulfilled, then an instrumental variable can identify the true causal effect using linear regression. The exact reasons why are more complicated, but see this [textbook](http://www.mostlyharmlesseconometrics.com/book-contents/) for a intuitive explanation, this [chapter](https://www.sciencedirect.com/topics/economics-econometrics-and-finance/instrumental-variables) for a academic overview, and this [video](https://www.youtube.com/watch?v=pI9YGSJ2qPk) for an applied example.
 
@@ -107,12 +107,12 @@ To empirically quantify this effect, Nunn makes use of a novel instrumental vari
 Some challenges have been raised to Nunn's findings, in particular whether the instrumental variable satisfies the **exclusion** restriction or not. The distances to slave markets is very likely to be related to other forms of trade, which also matter for economic development. If this is the case, then we are overestimating the causal effect of the slave-trade. Nunn has disputed this, but it remains an active debate.
 
 
-<img src="https://images.finmoorhouse.com/writing/jaime/images/shipping.svg" class="writing-image_small" alt="Shipping Distance" />
+<img src="https://res.cloudinary.com/finmoorhouse/image/upload/writing/jaime/images/shipping.svg" class="writing-image_small" alt="Shipping Distance" />
 
 
 Another point of contention is the exact causal mechanism through which the slave trade affects economic development. Merely observing causality does not reveal the underlying mechanisms and mediators — a point that Jaime emphasises. In a [later paper](https://scholar.harvard.edu/files/nunn/files/nunn_wantchekon_aer_2011.pdf), Nunn provides evidence that ethnic fractionalization plays a role through creating lower levels of trust. Making use of data on immigrants, Nunn shows that slave trade exposure based on ethnicity matters almost twice as much as based on location. This suggests that the effect is through cultural persistence and not just institutions. However, in practice such distinctions are always blurry (culture affects institutions *and* vice versa) and there may be other slave-trade channels (e.g. lost labour).
 
-<img src="https://images.finmoorhouse.com/writing/jaime/images/shipping2.svg" class="writing-image_small" alt="Shipping Distance 2"   />
+<img src="https://res.cloudinary.com/finmoorhouse/image/upload/writing/jaime/images/shipping2.svg" class="writing-image_small" alt="Shipping Distance 2"   />
 
 If you are interested in cultural persistence, here are some other papers to look at:
 

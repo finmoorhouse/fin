@@ -4,7 +4,7 @@ description: Falling down a rabbit hole
 tags: [writing]
 date: 2023-10-30
 permalink: /writing/future-people/
-shareImage: https://images.finmoorhouse.com/writing/future-people/nitrogen-cycle-share-2.png
+shareImage: writing/future-people/nitrogen-cycle-share-2.png
 ---
 
 When someone is born, chemical parts once scattered across the world converge to form a human. 
@@ -71,7 +71,7 @@ Somewhere in the sky, of course. Like how seawater shuffles around the global co
 
 
 
-![](https://s3-us-west-2.amazonaws.com/courses-images/wp-content/uploads/sites/250/2017/04/26172946/1226px-Earth_Global_Circulation_-_en.svg_.png)
+![](https://res.cloudinary.com/finmoorhouse/image/upload/f_auto,q_auto/writing/future-people/earth-global-circulation)
 
 
 

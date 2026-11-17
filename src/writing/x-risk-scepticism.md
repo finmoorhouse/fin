@@ -4,7 +4,7 @@ permalink: /writing/x-risk-scepticism/
 tags:
   - writing
 date: 2024-07-18
-shareImage: https://images.finmoorhouse.com/writing/x-risk-scepticism/asteroid.png
+shareImage: writing/x-risk-scepticism/asteroid.png
 ---
 
 Recently I stumbled on this post, arguing [‘in favour of exploring nagging doubts {% note 'about x-risk' %}Meaning “existential risk”; risks that threaten the destruction of humanity’s longterm potential. “Doubts about existential risk” meaning doubts about its usefulness as a concept, the importance of prioritising them, the plausibility of proposed sources of x-risk.{% endnote %}’](https://forum.effectivealtruism.org/posts/JY5cpsFw7k5eAxjSA) —

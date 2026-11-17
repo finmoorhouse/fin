@@ -202,7 +202,7 @@ Despite this discontinuity, existential risk's intellectual history was deemed s
 One such method the review found is fault tree analysis (FTA), a method familiar to engineers tasked with finding the possible failure modes for critical systems. FTA begins by asking: what are the most likely proximate causes of a given failure? Suppose terrible outcome A happens. What were the most likely reasons? Did multiple factors need to occur in conjunction, or is some single factor sufficient? Now for each of these proximate causes B1, B2, etc. — what could have caused these things, and in what combination? And so on.
 
 <div class="episode-image_small">
-<img  src="images/fault_tree.svg" alt="Fault Tree Analysis" />
+<img src="https://res.cloudinary.com/finmoorhouse/image/upload/writing/existential-risk/images/fault_tree.svg" alt="Fault Tree Analysis" />
 </div>
 
 It isn't hard to see how this method could be put to work in the context of existential catastrophes. Yet, "nobody had tried to do fault tree analysis for catastrophic climate change, for instance — or for a global pandemic".

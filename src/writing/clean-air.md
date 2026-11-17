@@ -5,7 +5,7 @@ tags: [writing]
 date: 2023-04-30
 links:
   "EA Forum": https://forum.effectivealtruism.org/posts/WLok4YuJ4kfFpDRTi/first-clean-water-now-clean-air
-shareImage: https://images.finmoorhouse.com/writing/clean-air/pollution.jpg
+shareImage: writing/clean-air/pollution.jpg
 
 ---
 
@@ -22,7 +22,7 @@ You can also listen to an AI narration of this article, below:
   mp3-url="https://dl.type3.audio/episode/d5e183b1-465c-42cf-962f-d72a4097c679.mp3"
   author="Fin Moorhouse"
   title="First clean water, now clean air"
-  cover-image-url="https://images.finmoorhouse.com/writing/clean-air/clean-air-icon.jpg"
+  cover-image-url="https://res.cloudinary.com/finmoorhouse/image/upload/writing/clean-air/clean-air-icon.jpg"
   background-color="#2a2f3c"
   analytics="none"
   primary-color="#eee"

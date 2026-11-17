@@ -120,6 +120,9 @@
     /* Don't break up line containing the sidenote */
     float: left;
     min-width: 100%;
+    /* A float sizes to its content, so without a cap a wide image inside the
+       note would stretch it past the column. */
+    max-width: 100%;
 
     display: block;
     margin: 0.8rem 0;

@@ -4,7 +4,7 @@ description: Transcript from a conversation with Guive Assadi
 tags: [writing]
 date: 2023-07-23
 permalink: /writing/guive-assadi-conversation/
-shareImage: https://images.finmoorhouse.com/writing/guive-conversation/guive-2.png
+shareImage: writing/guive-conversation/guive-2.png
 ---
 
 I recently spoke to [Guive Assadi](https://www.governance.ai/team/guive-assadi) about a recent paper of his called ['Will Humanity Choose Its Future?'](https://philarchive.org/rec/ASSWHC), as part of the [podcast](https://hearthisidea.com/episodes/assadi) I do. I thought it was a productive conversation, so I'm sharing the transcript here.

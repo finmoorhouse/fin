@@ -134,7 +134,7 @@ Chapter 8 is titled “The Environment: Where Does Prudence Lie?”. It focuses 
 
 ## Concluding thoughts
 
-{% image "https://static.nationalgeographic.co.uk/files/styles/image_3200/public/77680.jpg?w=1900&h=1259", "photo of my cat", "100vw" %}
+{% image "writing/sagan-quotes/images/sagan-lab", "Carl Sagan smiling in a laboratory, beside rows of glass chemistry apparatus" %}
 
 I’ve strung a number of quotations together with a very similar message and tone. I’m worried that reading too many consecutively begins to feel saccharine or overly profound — empty calories. Of course, most of Sagan’s work (even ignoring his research output) was relatively more contentful and closer to the object-level. For instance: I love the [section of *Cosmos*](https://www.youtube.com/watch?v=G8cbIWMv0rI) that explains Eratosthenes’ figuring of the Earth’s roundness. As a result, when these passages do appear, they stand out as contextualised and pointed departures. These are the parts in between: where we zoom all the way out, see things in some grand human story, ponder our failings and future.
 

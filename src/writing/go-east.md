@@ -4,7 +4,7 @@ permalink: /writing/go-east/
 tags:
   - writing
 date: 2024-01-14
-shareImage: https://images.finmoorhouse.com/writing/go-east/seattle-map.jpg
+shareImage: writing/go-east/seattle-map.jpg
 links:
   Substack: https://finmoorhouse.substack.com/p/go-east-from-seattle
   Hacker News: https://news.ycombinator.com/item?id=40564332
@@ -30,7 +30,7 @@ Full transparency: to some extent this is a ‘trick’ question. Make sure you'
 
 {% toggle 'Click me to **reveal the answer**' %}**Australia**. After pointing due east, and traveling continually forward in a straight line across the Earth's surface, the next country you hit after you leave North America is Australia.
 
-And here is the path you take ([high res version](https://images.finmoorhouse.com/writing/go-east/mercator-path.png))[^1]:
+And here is the path you take ([high res version](https://res.cloudinary.com/finmoorhouse/image/upload/writing/go-east/mercator-path.png))[^1]:
 
 {% image 'writing/go-east/mercator-path.png' 'The path taken, on Mercator projection' %}
 
@@ -83,7 +83,7 @@ That's why the shortest flight path between two cities often looks unnecessarily
 
 {% image 'writing/go-east/rhumb-line.webp' 'A flight path, Mercator projection' %}
 
-But there are some exceptions. Any straight line on a '[gnomonic projection](https://en.wikipedia.org/wiki/Gnomonic_projection)' (pictured) is an arc of a great circle (straight line) on a sphere. [Here's a link](https://images.finmoorhouse.com/writing/go-east/gnomonic.png) to a full-res version of the image below.
+But there are some exceptions. Any straight line on a '[gnomonic projection](https://en.wikipedia.org/wiki/Gnomonic_projection)' (pictured) is an arc of a great circle (straight line) on a sphere. [Here's a link](https://res.cloudinary.com/finmoorhouse/image/upload/writing/go-east/gnomonic.png) to a full-res version of the image below.
 
 {% image 'writing/go-east/gnomonic.png' 'The starting point' %}
 

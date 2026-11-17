@@ -4,7 +4,7 @@ description: Relatively feasible things we could do to maybe more than halve res
 tags: [writing]
 date: 2023-11-13
 permalink: /writing/richard-bruns/
-shareImage: https://images.finmoorhouse.com/writing/richard-bruns/air-simulation-9.png
+shareImage: writing/richard-bruns/air-simulation-9.png
 ---
 
 I recently spoke to public health economist [Dr. Richard Bruns](https://centerforhealthsecurity.org/who-we-are/our-people/richard-bruns) about **indoor air quality** — why it's a big deal, and what we can do about it. I learned a lot and I think the topic is important, so I made a transcript which I'm sharing here.
@@ -53,7 +53,7 @@ Mainly, for the past couple of years, I've been doing a lot of work on indoor ai
 
 Awesome. And I hope to talk about both of those things. And I guess I mentioned this before we started recording, but the reason I’m especially excited to have this conversation is that, be persuaded that indoor air quality just seems like a very big deal and also seems relatively under-discussed, at least until recently. But just to begin with. What are we talking about when we use this term indoor quality? 
 
-{% image 'https://images.finmoorhouse.com/writing/richard-bruns/air-simulation-9.png' 'A visualisation of indoor air quality' %}
+{% image 'writing/richard-bruns/air-simulation-9.png' 'A visualisation of indoor air quality' %}
 
 ### What is Indoor Air Quality?
 
@@ -261,7 +261,7 @@ Yeah, so basically you get a box fan, and you make a box with them, so the fan i
 
 So those DIY filter units typically perform a lot better even than the commercial units. A lot of these commercial units, they’re very quiet, but that’s because they’re hardly doing anything at all. I go, but they advertise, oh, they’ve got this nice HEPA filter, but they’re hardly moving any air through it. What you look for is a high clean air delivery rate. And that’s what you can get yourself by just using a good fan. Obviously, noise starts to be an issue in some settings, but… It’s that that’s what you do for safety. Germicidal UV really isn’t quite there yet for individuals to start to buy. We’re hoping that in the next few years it will be, but there’s more research that’s needed on safety. And you don’t want to use GUV in an area where there’s not good filtration because the ultraviolet light, basically, when it hits any kind of surface, it starts to generate indoor smog. There’s a lot of other weird interactions, like terpenes are especially nasty. And so that, GUV isn’t quite there yet. Basically, personally, do it as much filters as you can and try to get that in other areas.
 
-{% image 'https://images.finmoorhouse.com/writing/richard-bruns/air-simulation-4.png' 'A visualisation of indoor air quality' %}
+{% image 'writing/richard-bruns/air-simulation-4.png' 'A visualisation of indoor air quality' %}
 
 **Fin**
 
@@ -370,7 +370,7 @@ Got it. Yeah, maybe one question here is if you just had a bunch of money to spe
 
 The interaction effects. The most important thing is to know the second, the technical term is the secondary indoor chemistry, the chemistry of what happens when different materials are blasted by the thing and how that affects smog and health generation.
 
-{% image 'https://images.finmoorhouse.com/writing/richard-bruns/air-simulation-8.png' 'A visualisation of indoor air quality' %}
+{% image 'writing/richard-bruns/air-simulation-8.png' 'A visualisation of indoor air quality' %}
 
 ### Ventilation vs filtration
 
@@ -475,7 +475,7 @@ So, like the fact that a school wouldn't have air conditioning just boggles me. 
 
 Yeah, okay. That sounds like a fairly sensible piece of legislation. For what it's worth, I think the state of Simmer in the UK, certainly. most slash nearly all homes just have no AC. So the country will just like plunge into a state of overheating for like a week or two every year. But there's this status quo bias right where people just don't yeah don't read much into it.
 
-{% image 'https://images.finmoorhouse.com/writing/richard-bruns/air-simulation.png' 'A visualisation of indoor air quality' %}
+{% image 'writing/richard-bruns/air-simulation.png' 'A visualisation of indoor air quality' %}
 
 ### Standards bodies
 

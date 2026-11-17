@@ -4,11 +4,12 @@
   "description": "Fin's website",
   "scripts": {
     "serve": "eleventy --serve --quiet",
-    "build": "rm -rf build && eleventy && npm run charts:build && NODE_ENV=production postcss ./src/global.css > build/global-processed.css",
+    "build": "rm -rf build && node scripts/image-dims.mjs && eleventy && node scripts/build-charts.mjs --minify && NODE_ENV=production postcss ./src/global.css > build/global-processed.css",
     "charts:build": "node scripts/build-charts.mjs --minify",
     "charts:watch": "node scripts/build-charts.mjs --watch",
     "tailwind:process": "npx postcss src/global.css --o build/global-processed.css --watch",
-    "dev": "concurrently \"npm run tailwind:process\" \"npm run charts:watch\" \"npm run serve\""
+    "dev": "node scripts/image-dims.mjs && concurrently \"npm run tailwind:process\" \"npm run charts:watch\" \"npm run serve\"",
+    "images:dims": "node scripts/image-dims.mjs"
   },
   "keywords": [],
   "author": "",

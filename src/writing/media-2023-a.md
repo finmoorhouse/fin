@@ -3,7 +3,7 @@ title: Media highlights 2023 (January to June)
 permalink: /writing/media-2023-a/
 tags: [writing]
 date: 2023-06-30
-shareImage: https://images.finmoorhouse.com/writing/media-2023-a/books-4.png
+shareImage: writing/media-2023-a/books-4.png
 
 ---
 

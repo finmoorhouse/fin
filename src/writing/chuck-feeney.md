@@ -5,7 +5,7 @@ tags: [writing]
 date: 2023-10-11
 links:
   "EA Forum": https://forum.effectivealtruism.org/posts/yS3qRbHzzWxjR2Ehp/chuck-feeney-1931-2023
-shareImage: https://images.finmoorhouse.com/writing/chuck-feeney/chuck-feeney.png
+shareImage: writing/chuck-feeney/chuck-feeney.png
 
 ---
 

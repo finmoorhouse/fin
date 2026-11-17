@@ -25,20 +25,20 @@ Below are some nice slides from the report and graphics I made from the report.
 
 {% img "projects/1-giving-10/overview-slide.png" "A slide from the talk" %}
 
-↑ [Link](https://images.finmoorhouse.com/projects/1-giving-10/overview-slide.png) to full-sized image
+↑ [Link](https://res.cloudinary.com/finmoorhouse/image/upload/projects/1-giving-10/overview-slide.png) to full-sized image
 
 {% img "projects/1-giving-10/philanthropy-slide.png" "A slide from the talk" %}
 
-↑ [Link](https://images.finmoorhouse.com/projects/1-giving-10/philanthropy-slide.png) to full-sized image
+↑ [Link](https://res.cloudinary.com/finmoorhouse/image/upload/projects/1-giving-10/philanthropy-slide.png) to full-sized image
 
 {% img "projects/1-giving-10/ai-graph.png" "A slide from the talk" %}
 
-↑ [Link](https://images.finmoorhouse.com/projects/1-giving-10/ai-graph.png) to full-sized image. I adapted this from [Taylor Jones](https://eadesigner.co.uk/).
+↑ [Link](https://res.cloudinary.com/finmoorhouse/image/upload/projects/1-giving-10/ai-graph.png) to full-sized image. I adapted this from [Taylor Jones](https://eadesigner.co.uk/).
 
 {% img "projects/1-giving-10/pregnancy-slide.png" "A slide from the talk" %}
 
-↑ [Link](https://images.finmoorhouse.com/projects/1-giving-10/pregnancy-slide.png) to full-sized image
+↑ [Link](https://res.cloudinary.com/finmoorhouse/image/upload/projects/1-giving-10/pregnancy-slide.png) to full-sized image
 
 {% img "projects/1-giving-10/co2-graph.png" "A slide from the talk" %}
 
-↑ [Link](https://images.finmoorhouse.com/projects/1-giving-10/co2-graph.png) to full-sized image
+↑ [Link](https://res.cloudinary.com/finmoorhouse/image/upload/projects/1-giving-10/co2-graph.png) to full-sized image

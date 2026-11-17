@@ -4,7 +4,7 @@ description: Another list of projects I think could be impactful.
 tags: [writing]
 date: 2023-02-25
 permalink: /writing/more-projects/
-shareImage: https://images.finmoorhouse.com/writing/more-ideas/construction.jpg
+shareImage: writing/more-ideas/construction.jpg
 ---
 
 I recently wrote about some [EA projects I'd like to see](https://www.finmoorhouse.com/writing/ea-projects) (also on the[ EA Forum](https://forum.effectivealtruism.org/posts/8ic7KcxyfchhmGP3x/ea-projects-i-d-like-to-see)). This went well!

@@ -4,7 +4,7 @@ description: My written book reviews
 tags: [writing]
 date: 2026-01-01
 permalink: /writing/book-reviews/
-shareImage: https://images.finmoorhouse.com/writing/book-reviews/van-gogh-books.jpg
+shareImage: writing/book-reviews/van-gogh-books.jpg
 ---
 
 This is a mirror of my *written* [book reviews on Goodreads](https://www.goodreads.com/review/list/38695642-fin-moorhouse?shelf=read).
@@ -154,7 +154,7 @@ We were issued [cyanide pills] in case of capture and torture and all that good 
 </blockquote>
 
 
-<img src="https://theaviationgeekclub.com/wp-content/uploads/2019/12/SR-71-Boeing-747.jpg"  width="400" alt="SR-71 refuelling"/>
+<img src="https://res.cloudinary.com/finmoorhouse/image/upload/f_auto,q_auto/writing/book-reviews/sr-71-747"  width="400" alt="SR-71 refuelling"/>
 
 ### The Power Broker: Robert Moses and the Fall of New York {#the-power-broker-robert-moses-and-the-fall-of-new-york}
 
@@ -440,7 +440,7 @@ Historical events did indeed keep happening and yet Fukuyama is underrated and b
 
 But the way Fukuyama argues the point involves a lot of Hegel and continental philosophy and mostly confused me. To a large extent I think we are just <i>lucky</i> that liberal democratic economies got richer faster than the alternatives in the 20th c., because planned economies didn't work. And then I worry that AI undermines some of the forces that seem to push countries toward democracy. Let's check back in after the singularity.
 
-<img width='200' src='https://i.postimg.cc/gjHTZ3c5/History.jpg'/>
+<img width='200' src='https://res.cloudinary.com/finmoorhouse/image/upload/f_auto,q_auto/writing/book-reviews/history'/>
 
 ### One Billion Americans: The Case for Thinking Bigger {#one-billion-americans-the-case-for-thinking-bigger}
 
@@ -538,7 +538,7 @@ I liked these books because Fukuyama is not cherry-picking from history to illus
 
 The analysis of the US as <a href='https://en.wikipedia.org/wiki/Vetocracy'>‘vetocracy’</a> was especially good I thought. And despite his reputation as the ‘end of history’ guy, we get the right answer to “will more and more societies join the ranks of liberal democracy”, which is, “it’s complicated”. 
 
-<img src='https://i.redd.it/9r6itx8nf9b31.jpg'>
+<img src='https://res.cloudinary.com/finmoorhouse/image/upload/f_auto,q_auto/writing/book-reviews/reddit-9r6itx8nf9b31'>
 
 ### The Enigma of Reason {#the-enigma-of-reason}
 
@@ -584,7 +584,7 @@ There’s this great blog post, from Luke Muelhauser, called “<a href='https:/
 I help myself to the common (but certainly debatable) assumption that “the industrial revolution” is the primary cause of the dramatic trajectory change in human welfare around 1800-1870, then my one-sentence summary of recorded human history is this: Everything was awful for a very long time, and then the industrial revolution happened.
 </blockquote>
 
-<img src='https://lukemuehlhauser.com/wp-content/uploads/GDP-per-capita.png'/>
+<img src='https://res.cloudinary.com/finmoorhouse/image/upload/f_auto,q_auto/writing/book-reviews/gdp-per-capita'/>
 
 This is Clark's starting point. The task of the book is to explain perhaps the three most important features of long-run economic history:
 
@@ -974,7 +974,7 @@ That picture is one on which social mobility is slower than thought across time,
 
 A <a href='https://www.economist.com/graphic-detail/2022/06/09/the-grandchildren-of-chinas-pre-revolutionary-elite-are-unusually-rich'>good illustration</a> which is not (IIRC) discussed in the book: Mao severely persecuted China's pre-revolutionary "landlord class" elite; their land was siezed, many were killed, and their children were stigmatised and poorer than average. But at the turn of the 21st century, their grandchildren are again wealthier than average. From all that was destroyed, <i>something</i> survived.
 
- <img src="https://pbs.twimg.com/media/FU2h8R1WIBsNdgH?format=jpg&name=medium" width="400" alt="Economist graph"/>
+ <img src="https://res.cloudinary.com/finmoorhouse/image/upload/f_auto,q_auto/writing/book-reviews/twitter-FU2h8R1WIBsNdgH" width="400" alt="Economist graph"/>
 
 Clark also finds little evidence of our ability to increase social mobility through feasible social policies. One indication comes from the US government's 'Head Start' program — ~$8 billion / year of federal spending on preschool and childcare for low-income kids (about $8,000 per child per year). A major government-led <a href='https://www.acf.hhs.gov/opre/report/head-start-impact-study-final-report-executive-summary'>study</a> on the effects of the program found some short-term effect, but <a href='https://www.brookings.edu/articles/can-we-be-hard-headed-about-preschool-a-look-at-head-start/'>no evidence</a> for lasting benefits beyond a couple years. (Neither Clark nor this review take such results to undermine the need for welfare programs like Head Start — it's just that they help the worst-off at a time, but appear to do little to accelerate social mobility).
 
@@ -1122,7 +1122,7 @@ I found the whole thing persuasive but I'm aware I'm sympathetic to Tim's style 
 
 There's also a ladder metaphor which the book makes a big deal of; here's a picture:
 
-<img src='https://waitbutwhy.com/wp-content/uploads/2023/02/Audiobook-5.png' width='400'>
+<img src='https://res.cloudinary.com/finmoorhouse/image/upload/f_auto,q_auto/writing/book-reviews/audiobook-5' width='400'>
 
 Edit: Robin Hanson's <a href='https://www.overcomingbias.com/p/tim-urbans-whats-our-problem'>review of this book</a> is excellent.
 
@@ -1132,7 +1132,7 @@ Edward R. Tufte (2001) • &#9733;&#9733;&#9733;&#9733;&#9733; • Jan 23 • [L
 
 An art book made out of graphs. A reference book to be savored.
 
-<img src="https://badriadhikari.github.io/data-viz-workshop-2021/minards/marey-train-schedule.png" width="800"/>
+<img src="https://res.cloudinary.com/finmoorhouse/image/upload/f_auto,q_auto/writing/book-reviews/marey-train-schedule" width="800"/>
 
 ### The Hacker and the State: Cyber Attacks and the New Normal of Geopolitics {#the-hacker-and-the-state-cyber-attacks-and-the-new-normal-of-geopolitics}
 
@@ -1226,7 +1226,7 @@ That all suggests another memorable analogy, which captures much of this book's 
 <blockquote>At present, society is still malleable and can be blown into many shapes. But at some point, the glass might cool, set, and become much harder to change. The resulting shape could be beautiful or deformed, or the glass could shatter altogether, depending on what happens while the glass is still hot.</blockquote>
 Other highlights: the most readable intro to population ethics I've come across, an in-depth look at whether civilisation could recover from catastrophe (and why keeping coal in the ground could help), a defense of 'moral entrepreneurship', and facts about <a href='https://en.wikipedia.org/wiki/Glyptodon'>Glyptodons</a>.
 
- <img src="https://cdn.britannica.com/59/172359-050-F6FB0635/Glyptodon-Pliocene-epochs-Americas-Pleistocene.jpg" height="200" alt="Glyptodon"/>
+ <img src="https://res.cloudinary.com/finmoorhouse/image/upload/f_auto,q_auto/writing/book-reviews/glyptodon" height="200" alt="Glyptodon"/>
 
 What makes this book so special is that it amounts to a call to action. We face future-defining problems, yes — but we can do things about them. I am so excited about the prospect that some people could start with a kind of vague feeling of doom about the future, read this book, and take it as inspiration to start working on an effort to put the entire future on a better course.
 
@@ -1452,7 +1452,7 @@ Joseph Henrich (2020) • &#9733;&#9733;&#9733;&#9733;&#9733; • Mar 21 • [Li
 
 Outrageously good. In the mold of <a href='https://www.goodreads.com/book/show/1842.Guns_Germs_and_Steel'>Guns, Germs, and Steel</a> and <a href='https://www.goodreads.com/book/show/13543093.The_Better_Angels_of_Our_Nature_Why_Violence_Has_Declined'>Better Angels</a>: bold, sweeping claims about human history backed by a nonstop parade of supporting facts, arguments, and experiments. Chronologically picks up where Diamond leaves off, and better explains some changes which Pinker mostly just documents (imo). Plus the stories from Henrich's anthropology fieldwork are great, as they were in his <a href='https://www.goodreads.com/book/show/25761655-the-secret-of-our-success'>previous book</a>. What a cool guy.
 
-<img width='300px' src='https://64.media.tumblr.com/1931fcf1de4f0a1d3536ba0e6f2779f1/tumblr_oq5ktciuyV1wp6osho1_500.gif' />
+<img width='300px' src='https://res.cloudinary.com/finmoorhouse/image/upload/f_auto,q_auto/writing/book-reviews/tumblr-oq5ktciuyV1wp6osho1' />
 
 ### The Good Ancestor: A Radical Prescription for Long-Term Thinking {#the-good-ancestor-a-radical-prescription-for-long-term-thinking}
 
@@ -1497,7 +1497,7 @@ Kelly Weinersmith (2017) • &#9733;&#9733;&#9733;&#9733;&#9734; • Oct 20 • 
 
 Delightful nerd tapas. Only misgiving is that we didn't get more comic diagrams: I found myself googling to get a mental image instead, which seems like a missed opportunity given that half of the pair draws things for a living. Stick around for the bonus chapter at the end about mirror humans!
 
-<img src="https://blogs.sciencemag.org/books/wp-content/uploads/sites/6/2017/08/Soonish-illustration.jpg" width="350" alt="description"/>
+<img src="https://res.cloudinary.com/finmoorhouse/image/upload/f_auto,q_auto/writing/book-reviews/soonish-illustration" width="350" alt="description"/>
 
 ### How to Listen to and Understand Great Music {#how-to-listen-to-and-understand-great-music}
 
@@ -1519,7 +1519,7 @@ The book's first task is to explain why moral uncertainty poses a real and signi
 
 The bulk of the book consists in figuring out how to decide under moral uncertainty given various levels of comparability between theories, and measurability within them. There's a nice table in the introduction laying out the possible 'informational situations', where a tick indicates that the book considers it:
 
-<a href="https://ibb.co/nPL7d8b"><img src="https://i.ibb.co/xF7198D/Comparability-Conditions.jpg" alt="Comparability-Conditions" width="500"></a>
+<a href="https://ibb.co/nPL7d8b"><img src="https://res.cloudinary.com/finmoorhouse/image/upload/f_auto,q_auto/writing/book-reviews/comparability-conditions" alt="Comparability-Conditions" width="500"></a>
 
 When all the moral theories you're considering are intertheoretically comparable and interval or ratio-scale measurable (the ideal cases), we should <b>maximise expected 'choiceworthiness'</b> (the more choiceworthy an option, the stronger the reasons for doing it). This is just like how (on most views) we should <a href="https://plato.stanford.edu/entries/rationality-normative-utility/">maximise expected utility</a> when we're faced with <i>epistemic uncertainty</i>.
 
@@ -1635,7 +1635,7 @@ Finally, the total amount of money expended annually on researching and mitigati
 
 Again, strongly recommended; but not remotely comforting.
 
-<img src='https://artlogic-res.cloudinary.com/c_limit,f_auto,fl_lossy,q_auto:good/ws-banksidegallery/usr/library/main/images/hilary-paynter-1.jpg' alt='Hilary Paynter's wood engraving featured in the book.' width='300'/>
+<img src='https://res.cloudinary.com/finmoorhouse/image/upload/f_auto,q_auto/writing/book-reviews/hilary-paynter-1' alt='Hilary Paynter's wood engraving featured in the book.' width='300'/>
 
 
 

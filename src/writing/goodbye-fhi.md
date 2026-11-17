@@ -4,7 +4,7 @@ permalink: /writing/fhi/
 tags:
   - writing
 date: 2024-04-21
-shareImage: https://images.finmoorhouse.com/writing/goodbye-fhi/dandelion-5.webp
+shareImage: writing/goodbye-fhi/dandelion-5.webp
 ---
 
 The lights are out at the Future of Humanity Institute. Anders Sandberg has put together a ['final report' on FHI](https://ora.ox.ac.uk/objects/uuid:8c1ab46a-061c-479d-b587-8909989e4f51), some oral history on how FHI grew up and what it was like to be there. There is also [a tombstone website](https://www.futureofhumanityinstitute.org/) with a short history and some greatest hits, publication-wise. {% note 'Do read those if you have the time' %}I'm largely stealing from them here anyway.{% endnote %}. But since I was fortunate enough to spend a couple years there, and to get to know many FHI people, I thought to add to the pile of commentary.
@@ -50,7 +50,7 @@ The very onset of Covid — early 2020 — also saw the release of Toby Ord's *[
 
 An even more recent development was two new hires and the formation of a research group working on ethical and strategic issues around digital minds. They helped organise a major multi-author report on ['Insights from the Science of Consciousness'](https://arxiv.org/abs/2308.08708).
 
-{% image 'https://images.squarespace-cdn.com/content/v1/562652dbe4b05bbfdc596fd7/1615641917625-1TPVT29RZA49H0VGAXQJ/AS17-152-23420.jpg?format=1500w' 'Alt text' "One of Toby Ord's side projects was a digital restoration of some of the best photographs of Earth from the Apollo missions. This one is the last photograph of the whole Earth taken by human hands, from the 1972 Apollo 17 mission." "http://www.tobyord.com/earth"  %}
+{% image 'writing/goodbye-fhi/as17-152-23420' 'Alt text' "One of Toby Ord's side projects was a digital restoration of some of the best photographs of Earth from the Apollo missions. This one is the last photograph of the whole Earth taken by human hands, from the 1972 Apollo 17 mission." "http://www.tobyord.com/earth"  %}
 
 ## Attitudes and impact
 
@@ -66,7 +66,7 @@ There have always been venues to discuss very big-picture topics like “what mi
 
 So earnestness and high standards were one thing. But that does not mean the many seminars and ad-hoc whiteboard discussions were not also, for a certain kind of technically and philosophically inclined nerd, unmissably fun. In terms of the breadth and interestingness of water cooler conversations, FHI was top-tier. Here's a small but representative sample of informal seminars I took notes from: on refining the concept of existential hope; on ethical considerations around [directed panspermia](https://en.wikipedia.org/wiki/Directed_panspermia); on whether the [Kelly criterion](https://en.wikipedia.org/wiki/Kelly_criterion) is a useful guide for humanity's ideal risk tolerance (no); on what's wrong with the [doomsday argument](https://en.wikipedia.org/wiki/Doomsday_argument); on which kinds of uncertainty count as good reasons for discounting the future; on the space of possible reforms to scientific institutions.
 
-{% image 'https://lemanhattan.files.wordpress.com/2017/05/151023093956-01-futurists-restricted-super-43.jpg' 'Anders Sandberg stands by a whiteboard' "Anders stands by a whiteboard" "https://aleph.se/andart2/tag/future-of-humanity-institute/" %}
+{% image 'writing/goodbye-fhi/futurists' 'Anders Sandberg stands by a whiteboard' "Anders stands by a whiteboard" "https://aleph.se/andart2/tag/future-of-humanity-institute/" %}
 
 Also I think there are lessons about how to do {% note 'inderdisciplinary' %}Transdisciplinary? Multidisciplinary? Cross-disciplinary?{% endnote %} work {% note 'productively' %}Which isn't saying that FHI's outputs and perspectives were diverse on many important dimensions, they weren't. There was a house style to FHI's technical reports which was, well, *technical* and somewhat nerdy. And shorter thrift was given to nuanced social and political questions over questions where more confident claims or predictions looked feasible. Of course such a broad remit invites such “why don't you work on X” questions.{% endnote %}. Being 'interdisciplinary' is a selling point on grant applications, but sometimes has the feeling (to me) of a summit between delegates from two countries: lots of shaking hands and shows of mutual understanding and commonalities and gains from trade, but still the delegates go home to their own countries. I think FHI was less self-conscious here: the walls of the departments just mattered less simpliciter. Plus, there was a lot of openness to finding insights which had fallen somewhere in the cracks between zones of intense research pressure, {% note 'or far behind any specific 'frontier'' %}A nice example here is Toby Ord's paper on ['The Edges of Our Universe'](https://arxiv.org/ftp/arxiv/papers/2104/2104.01191.pdf) or his poster on the various [boundaries of a black hole](http://www.tobyord.com/writing/dissecting-a-black-hole). The concepts and maths in both cases are high-school level, if a notch above popular science nonfiction book level. So the incentives to write it are somehow rare both inside *and* out of the relevant academic fields, viz. cosmology or astronomy.{% endnote %}.
 
@@ -119,7 +119,7 @@ As for lessons, who knows? Something about what progress can be made in a small 
 Should there be another FHI? I'm not sure. Compared to the world in 2005, the attitude and subjects of FHI's research are in safer hands. Governments [are forming](https://www.gov.uk/government/publications/ai-safety-institute-overview/introducing-the-ai-safety-institute) entire new [departments](https://www.commerce.gov/news/press-releases/2024/04/us-commerce-secretary-gina-raimondo-announces-expansion-us-ai-safety) around some of the catastrophic risks few were theorising about then. There are many, many new research and advocacy initiatives. And alumni are doing amazing things — heading major think tanks, leading safety research at AI labs, advising governments. If FHI were a candle then it's since lit many flames, and the matchbox might not be needed again.
 
 
-{% image 'https://res.cloudinary.com/cea/image/upload/f_auto,q_auto/v1/mirroredImages/g7KJEbTPQqAkkkZsq/hd7xwambxgmv4mslwo9t' 'More whiteboards' 'More whiteboards' "https://aleph.se/andart2/tag/future-of-humanity-institute/" %}
+{% image 'writing/goodbye-fhi/hd7xwambxgmv4mslwo9t' 'More whiteboards' 'More whiteboards' "https://aleph.se/andart2/tag/future-of-humanity-institute/" %}
 
 
 

@@ -4,7 +4,7 @@ permalink: /writing/japan/
 tags:
  - writing
 date: 2024-03-18
-shareImage: https://images.finmoorhouse.com/writing/japan/japan-midjourney.webp
+shareImage: writing/japan/japan-midjourney.webp
 ---
 I'm back from a great trip to Japan (specifically [Honshu](https://en.wikipedia.org/wiki/Honshu), the main island). Below are some things {% note 'I learned' %}Blanket caveat that I don't really know what I'm talking about and I am not suggesting you should be interested.{% endnote %} and found interesting.
 

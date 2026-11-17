@@ -6,7 +6,7 @@ tags:
 date: 2023-12-22
 links:
   "Substack": https://finmoorhouse.substack.com/p/media-highlights-2023-july-to-december
-shareImage: https://images.finmoorhouse.com/writing/media-2023-b/grasshopper-2.jpg
+shareImage: writing/media-2023-b/grasshopper-2.jpg
 ---
 
 Media I enjoyed from the second half of 2023. Previous lists:
@@ -147,7 +147,7 @@ Typically you get a descriptive title which sells the mood it plans to evoke; so
 
 You get some nice visuals, maybe subtly animated: a picture of the rainy cafe you're supposed to imagine you're in, an illustration of the video game the music is taking after, or most famously:
 
-{% image 'https://www.images.finmoorhouse.com/writing/media-2023-b/lofi-night.webp' 'Lofi girl' %}
+{% image 'writing/media-2023-b/lofi-night.webp' 'Lofi girl' %}
 
 Then there's the sound: music, often recycled songs, drawn out and processed. No vocals ever. And comforting sound effects like rain or static.
 

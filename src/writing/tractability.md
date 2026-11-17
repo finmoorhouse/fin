@@ -4,7 +4,7 @@ permalink: /writing/tractability/
 tags:
   - writing
 date: 2024-05-27
-shareImage: https://images.finmoorhouse.com/writing/tractability/jungle-2.jpg
+shareImage: writing/tractability/jungle-2.jpg
 links:
   "EA Forum": https://forum.effectivealtruism.org/posts/hhivmG7KJZrCJ3qyF/beware-point-estimates-of-problem-difficulty
 ---

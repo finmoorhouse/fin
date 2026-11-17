@@ -4,7 +4,7 @@ permalink: /writing/moral-mountaineering/
 tags:
   - writing
 date: 2025-01-17
-shareImage: https://images.finmoorhouse.com/writing/moral-mountaineering/beacon.jpg
+shareImage: writing/moral-mountaineering/beacon.jpg
 links:
   Substack: https://finmoorhouse.substack.com/p/moral-mountaineering
 ---
