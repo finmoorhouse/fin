@@ -1,5 +1,5 @@
 ---
-title: In praise of pastiche architecture
+title: Architecture should imitate
 permalink: /writing/pastiche/
 tags:
  - writing
