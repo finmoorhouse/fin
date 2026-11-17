@@ -10,6 +10,8 @@ mainClass: essay
 extraStyle: ["/style/temml/Temml.css", "/style/writing.css"]
 ---
 
+{% from "theme-toggle.njk" import themeToggle %}
+
 <h1 class="!mb-2">{{ title }}</h1>
 {% if page.date %}
 <div class="font-sans text-base pb-6 mb-4">
@@ -43,6 +45,7 @@ extraStyle: ["/style/temml/Temml.css", "/style/writing.css"]
   {{ content | toc | safe}}
   <p class="!mb-2 !mt-0 pt-4 border-t border-rule inline-block">
     {{ content | wordStats }}
+    {{ themeToggle("ml-1 opacity-50 hover:opacity-100 transition-opacity") }}
   </p>
 </details>
 
@@ -53,7 +56,7 @@ extraStyle: ["/style/temml/Temml.css", "/style/writing.css"]
     class="side-nav-offset hidden desktop:block overflow-auto hide-scrollbar pt-4"
   >
     <h3>Contents</h3>
-    <p>{{ content | wordStats }}</p>
+    <p>{{ content | wordStats }} {{ themeToggle("ml-1") }}</p>
     {{ content | toc | safe}}
     <a
       href="#top"

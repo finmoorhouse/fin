@@ -1,3 +1,4 @@
+{% from "theme-toggle.njk" import themeToggle %}
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -77,13 +78,7 @@
     </li>
     {% endfor %}
     <li class="inline">
-      <button id="theme-toggle" type="button" aria-label="Switch theme"
-        class="opacity-50 hover:opacity-100 transition-opacity align-middle relative -top-px">
-        <svg viewBox="0 0 24 24" width="1em" height="1em" aria-hidden="true" class="inline">
-          <circle cx="12" cy="12" r="9" fill="none" stroke="currentColor" stroke-width="2"/>
-          <path d="M12 3a9 9 0 0 0 0 18z" fill="currentColor"/>
-        </svg>
-      </button>
+      {{ themeToggle() }}
     </li>
   </ul></nav>
   <main class="prose tablet:prose-lg font-serif pt-12 pb-12 {{ mainClass }}">
@@ -91,14 +86,18 @@
     {#<small >{{ site.author }} &copy; {{ site.copyrightYear }}</small>#}
   </main>
   <script>
-    document.getElementById("theme-toggle").addEventListener("click", () => {
-      const next = document.documentElement.dataset.theme !== "light" ? "light" : "dark";
-      document.documentElement.dataset.theme = next;
-      document.querySelector('meta[name="theme-color"]').content =
-        next === "light" ? "#faf8f4" : "#333948";
-      // Persisting is best-effort: localStorage throws when cookies are blocked.
-      try { localStorage.theme = next; } catch (e) {}
-      window.dispatchEvent(new Event("themechange"));
+    // Essays carry a second copy of the switch in the contents sidebar, so this
+    // binds every toggle on the page rather than one by id.
+    document.querySelectorAll("[data-theme-toggle]").forEach((button) => {
+      button.addEventListener("click", () => {
+        const next = document.documentElement.dataset.theme !== "light" ? "light" : "dark";
+        document.documentElement.dataset.theme = next;
+        document.querySelector('meta[name="theme-color"]').content =
+          next === "light" ? "#faf8f4" : "#333948";
+        // Persisting is best-effort: localStorage throws when cookies are blocked.
+        try { localStorage.theme = next; } catch (e) {}
+        window.dispatchEvent(new Event("themechange"));
+      });
     });
   </script>
 </body>

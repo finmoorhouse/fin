@@ -1,0 +1,19 @@
+{# The light/dark switch. Rendered in the nav on every page, and again in the
+   contents sidebar on essays, where it stays reachable while you read. Both
+   copies are driven by the one listener in base.njk, which binds every
+   `[data-theme-toggle]` — hence the attribute rather than an id, which can
+   only ever match the first. `cls` carries the per-context muting: the nav
+   mutes the button itself, while the sidebar is already muted as a whole. #}
+{# The nudge: `align-middle` lands the disc's centre 0.24em above the baseline,
+   which is below even the x-height centre and reads as sunk. Measured in
+   Chrome, the cap-height centre of the 14px sans is 0.36em up, so the icon
+   rides 0.19em low. In em, not px, so it holds if the type size changes. #}
+{% macro themeToggle(cls = "opacity-50 hover:opacity-100 transition-opacity") %}
+<button data-theme-toggle type="button" aria-label="Switch theme"
+  class="align-middle relative -top-[0.19em] {{ cls }}">
+  <svg viewBox="0 0 24 24" width="1em" height="1em" aria-hidden="true" class="inline">
+    <circle cx="12" cy="12" r="9" fill="none" stroke="currentColor" stroke-width="2"/>
+    <path d="M12 3a9 9 0 0 0 0 18z" fill="currentColor"/>
+  </svg>
+</button>
+{% endmacro %}
