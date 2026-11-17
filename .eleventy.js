@@ -1,4 +1,5 @@
-const pluginRss = require("@11ty/eleventy-plugin-rss");
+// v3 of the RSS plugin is an ES module; require() hands back its namespace.
+const pluginRss = require("@11ty/eleventy-plugin-rss").default;
 const htmlShortcodes = require("./config/shortcodes.js");
 const imageShortcodes = require("./config/images.js");
 const filters = require("./config/filters.js");
