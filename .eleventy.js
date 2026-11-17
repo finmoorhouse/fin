@@ -1,4 +1,3 @@
-const pluginTOC = require("eleventy-plugin-toc");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const htmlShortcodes = require("./config/shortcodes.js");
 const imageShortcodes = require("./config/images.js");
@@ -31,7 +30,6 @@ module.exports = function (config) {
   config.setLibrary("md", markdown.markdownLib);
 
   // Plugins
-  config.addPlugin(pluginTOC);
   config.addPlugin(pluginRss);
 
   // Passthrough
@@ -55,7 +53,7 @@ module.exports = function (config) {
 
   // Filters
   config.addFilter("excerpt", filters.excerpt);
-  config.addFilter("toUTCDate", filters.toUTCDate);
+  config.addFilter("toc", filters.toc);
   config.addFilter("wordStats", filters.wordStats);
 
   return {

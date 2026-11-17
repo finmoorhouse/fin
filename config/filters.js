@@ -1,12 +1,3 @@
-const { DateTime } = require("luxon");
-
-function toUTCDate(dateString) {
-  // Parse the date string as a UTC date
-  const dateObject = DateTime.fromISO(dateString, { zone: "utc" });
-  // Format the date as an RFC 3339 string
-  return dateObject.toISO({ includeOffset: true }) + "Yoohoo";
-}
-
 // Footnotes are rendered twice: once as the margin copy spliced in beside the
 // reference, once in the list at the foot of the post (see config/markdown.js).
 // Anything counting or sampling the prose should see each footnote once.
@@ -27,8 +18,55 @@ function wordStats(content) {
   return `${wordCountWithCommas} words • ${readingTimeMinutes} min read`;
 }
 
+// Table of contents from the rendered post: every h2–h4 carrying an id (which
+// markdown-it-anchor gives them all), nested by level, as
+// <nav class="toc"><ol>…</ol></nav>. Returns "" when there are no headings, so
+// `{% if toc %}` works. Replaces eleventy-plugin-toc, which parsed every page
+// with cheerio to do the same thing.
+const HEADING = /<h([2-4])\b[^>]*?\sid="([^"]+)"[^>]*>([\s\S]*?)<\/h\1>/gi;
+const ENTITIES = { amp: "&", lt: "<", gt: ">", quot: '"', apos: "'", nbsp: " " };
+
+function headingText(html) {
+  return stripMarginNotes(html)
+    .replace(/<[^>]*>/g, "")
+    .replace(/&(#x[0-9a-f]+|#\d+|\w+);/gi, (m, e) =>
+      e[0] !== "#"
+        ? ENTITIES[e.toLowerCase()] ?? m
+        : String.fromCodePoint(
+            e[1] === "x" || e[1] === "X" ? parseInt(e.slice(2), 16) : +e.slice(1)
+          )
+    )
+    .trim();
+}
+
+const escapeHtml = (s) =>
+  s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
+
+function toc(content) {
+  const root = { level: 1, children: [] };
+  const stack = [root];
+  for (const [, level, id, inner] of String(content).matchAll(HEADING)) {
+    const text = headingText(inner);
+    if (!text) continue;
+    const node = { level: +level, id, text, children: [] };
+    while (stack[stack.length - 1].level >= node.level) stack.pop();
+    stack[stack.length - 1].children.push(node);
+    stack.push(node);
+  }
+  const list = (nodes) =>
+    `<ol>${nodes
+      .map(
+        (n) =>
+          `<li><a href="#${n.id}">${escapeHtml(n.text)}</a>${
+            n.children.length ? list(n.children) : ""
+          }</li>`
+      )
+      .join("")}</ol>`;
+  return root.children.length ? `<nav class="toc">${list(root.children)}</nav>` : "";
+}
+
 module.exports = {
-  toUTCDate,
   excerpt,
   wordStats,
+  toc,
 };
