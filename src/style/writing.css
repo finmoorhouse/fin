@@ -314,11 +314,31 @@
     /* The gutter rule is the focus marker; a box round the note as well is
        one signal too many. */
     outline-color: transparent;
+    /* Opening the note is a mode change, not a hover: the hover outline should
+       be gone the instant it's clicked, rather than fading out underneath the
+       note as it expands. */
+    transition: none;
+
+    /* An open note is held in the window by src/script/notes.js, so scrolling
+       can't carry Close — the only way out of the mode — off the screen. That
+       only works while both of the note's edges can be on screen at once, so
+       cap it at the window and let the body scroll instead. The column is what
+       keeps Close *below* the scrolling part rather than inside it, which is
+       the whole point: a note long enough to scroll is exactly the one whose
+       Close you'd otherwise have to hunt for. 3rem is twice PIN_PAD. */
+    display: flex;
+    flex-direction: column;
+    max-height: calc(100vh - 3rem);
   }
 
   .fn-margin__toggle:checked ~ .fn-margin__body--clamped {
     max-height: none;
-    overflow: visible;
+    /* `auto` rather than the `visible` this had when nothing capped the note:
+       this is the box that has to give when the cap bites. `min-height: 0`
+       because a flex item won't shrink below its content by default, and the
+       note would grow past the cap instead of the body scrolling inside it. */
+    min-height: 0;
+    overflow: auto;
     -webkit-mask-image: none;
     mask-image: none;
   }
@@ -349,12 +369,22 @@
   .fn-margin__quote + .fn-margin__p {
     margin-top: 0.6rem;
   }
-  .fn-margin__li {
-    padding-left: 1rem;
-    text-indent: -0.7rem;
+  .fn-margin__list {
+    padding-left: 1.25rem;
+    list-style: disc outside;
   }
-  .fn-margin__li::before {
-    content: "– ";
+  .fn-margin__list--ordered {
+    list-style-type: decimal;
+  }
+  .fn-margin__li {
+    /* Native list markers also work on spans, keeping the margin copy valid
+       inside its surrounding paragraph without substituting literal dashes. */
+    display: list-item;
+    padding-left: 0.15rem;
+    text-indent: 0;
+  }
+  .fn-margin__li + .fn-margin__li {
+    margin-top: 0.35rem;
   }
   .fn-margin__quote {
     padding-left: 0.7rem;
@@ -364,6 +394,40 @@
     display: block;
     margin: 0.6rem 0;
     border-top: 1px solid rgb(var(--c-rule));
+  }
+  /* Tables, rebuilt out of spans for the same reason as the blocks above. The
+     prose table styling is on element selectors, which can't reach a span, so
+     it has to be restated — smaller, and with figures lining up, since the
+     point of a table this narrow is that a column can be read down. */
+  .fn-margin__table {
+    display: table;
+    width: 100%;
+    margin: 0.6rem 0;
+    border-collapse: collapse;
+    font-size: 0.9em;
+    font-variant-numeric: tabular-nums;
+  }
+  .fn-margin__thead {
+    display: table-header-group;
+  }
+  .fn-margin__tbody {
+    display: table-row-group;
+  }
+  .fn-margin__tr {
+    display: table-row;
+  }
+  .fn-margin__th,
+  .fn-margin__td {
+    display: table-cell;
+    padding: 0.2rem 0.6rem 0.2rem 0;
+    text-align: left;
+    border-bottom: 1px solid rgb(var(--c-rule) / 0.6);
+  }
+  .fn-margin__th {
+    font-weight: 600;
+  }
+  .fn-margin__tbody .fn-margin__tr:last-child .fn-margin__td {
+    border-bottom: 0;
   }
   /* Display maths is far wider than the gutter; let it scroll rather than
      spill over the text. */
@@ -465,6 +529,7 @@ details summary{
   transition: border-color 0.2s ease;
 }
 
+
 /* ---------------------------------------------------------------------------
    Maths
    ---------------------------------------------------------------------------
@@ -473,7 +538,7 @@ details summary{
    stylesheet and font are copied out of node_modules by .eleventy.js into
    /style/temml/.
 
-   STIX Two Math sets a little larger on the body than Spectral, so it is nudged
+   STIX Two Math is a touch larger on the body than Spectral, so it is nudged
    back rather than up; much below this and the scriptstyle in fractions and
    exponents starts to close up.                                             */
 math {

@@ -38,9 +38,9 @@ const markdownLib = markdownIt(options)
  *
  * The `$…$` / `$$…$$` scanning still comes from @vscode/markdown-it-katex:
  * that part is well tested against the awkward cases (escaped dollars, prices
- * like "$5", `$` inside code spans) and is stricter than the plugin it
- * replaced, so only the four *render* rules are swapped. KaTeX is never
- * called — that package is here purely as a tokeniser.
+ * like "$5", `$` inside code spans) and is exactly what this site already
+ * shipped, so it is left alone and only the four *render* rules are replaced.
+ * KaTeX itself is never called — the plugin is here purely as a tokeniser.
  */
 function temmlRenderer(md) {
   const render = (latex, displayMode) => {
@@ -56,7 +56,7 @@ function temmlRenderer(md) {
   // `$$…$$` written in the middle of a sentence still arrives as a math_block
   // token, indistinguishable from a real display block by its own flags — the
   // only difference is that markdown-it reaches it through renderInline. A few
-  // posts do write it that way (research.md has "($$\\approx$$ liberal
+  // posts do write it that way (research.md has "($$\approx$$ liberal
   // democracy)"), and wrapping that in a <p> puts a block inside a paragraph,
   // which browsers fix up by splitting the sentence into three. So track the
   // render path and treat mid-sentence maths as inline, which is what it
@@ -110,7 +110,9 @@ function temmlRenderer(md) {
  * copy presentational, which it already is.
  */
 function footnoteMarginNotes(md) {
-  // Anything genuinely un-nestable falls back to bottom-of-post only.
+  // Anything genuinely un-nestable falls back to bottom-of-post only. Markdown
+  // tables are rebuilt as spans below and so never match this; a `<table>`
+  // written as raw HTML in a footnote body passes through untouched and does.
   const UNSAFE = /<(div|table|pre|h[1-6])[\s>]/i;
   // Longer than this (plain-text characters) and the margin copy is clamped to
   // a fixed height and given a link down to the full note. Roughly tuned to the
@@ -118,11 +120,29 @@ function footnoteMarginNotes(md) {
   const CLAMP_ABOVE = 450;
 
   const block = (open, close = "</span>") => [() => open, () => close];
-  const [pOpen, pClose] = block('<span class="fn-margin__p">');
+  // Tight lists suppress paragraph wrappers in markdown-it; preserve that.
+  const pOpen = (tokens, idx) => tokens[idx].hidden ? "" : '<span class="fn-margin__p">';
+  const pClose = (tokens, idx) => tokens[idx].hidden ? "" : "</span>";
   const [ulOpen, ulClose] = block('<span class="fn-margin__list">');
-  const [olOpen, olClose] = block('<span class="fn-margin__list">');
+  const olOpen = (tokens, idx) => {
+    const start = Number(tokens[idx].attrGet("start") || 1);
+    return `<span class="fn-margin__list fn-margin__list--ordered" style="counter-reset: list-item ${start - 1}">`;
+  };
+  const olClose = () => "</span>";
   const [liOpen, liClose] = block('<span class="fn-margin__li">');
   const [bqOpen, bqClose] = block('<span class="fn-margin__quote">');
+  const [tableOpen, tableClose] = block('<span class="fn-margin__table">');
+  const [theadOpen, theadClose] = block('<span class="fn-margin__thead">');
+  const [tbodyOpen, tbodyClose] = block('<span class="fn-margin__tbody">');
+  const [trOpen, trClose] = block('<span class="fn-margin__tr">');
+
+  // Cells are the one wrapper that carries an attribute worth keeping: column
+  // alignment arrives as an inline `style`, so it has to be rendered across
+  // rather than dropped the way the other wrappers' attrs are.
+  const cellOpen =
+    (cls) =>
+    (tokens, idx, opts, env, slf) =>
+      `<span class="${cls}"${slf.renderAttrs(tokens[idx])}>`;
 
   const baseMath = md.renderer.rules.math_block;
 
@@ -152,6 +172,21 @@ function footnoteMarginNotes(md) {
     list_item_close: liClose,
     blockquote_open: bqOpen,
     blockquote_close: bqClose,
+    // `display: table` on a span lays out exactly like the real thing, so the
+    // columns still size themselves to their contents — which is what a table
+    // in a 23rem gutter needs.
+    table_open: tableOpen,
+    table_close: tableClose,
+    thead_open: theadOpen,
+    thead_close: theadClose,
+    tbody_open: tbodyOpen,
+    tbody_close: tbodyClose,
+    tr_open: trOpen,
+    tr_close: trClose,
+    th_open: cellOpen("fn-margin__th"),
+    th_close: () => "</span>",
+    td_open: cellOpen("fn-margin__td"),
+    td_close: () => "</span>",
     hr: () => '<span class="fn-margin__hr"></span>',
     // Raw HTML in a footnote — in practice the {% img %} shortcode, which
     // wraps its image in <figure>/<figcaption>. Those are flow content and
@@ -211,7 +246,14 @@ function footnoteMarginNotes(md) {
       const text = html.replace(/<[^>]*>/g, "");
       margins[id] = {
         html,
-        clamped: text.length > CLAMP_ABOVE || /math-block/.test(html),
+        // A note with a table is never clamped. The clamp's mask fades out the
+        // bottom of the note, and a table is always the last thing in one — so
+        // clamping hides the rows the note exists to show, and no max-height
+        // avoids that, since the fade is a fraction of the box either way. The
+        // trade is that a long enough table runs down the gutter unchecked.
+        clamped:
+          !/fn-margin__table/.test(html) &&
+          (text.length > CLAMP_ABOVE || /math-block/.test(html)),
       };
     }
   });
