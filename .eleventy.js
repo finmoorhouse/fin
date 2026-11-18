@@ -51,6 +51,8 @@ module.exports = function (config) {
   });
   config.addPassthroughCopy("src/script/*.js");
   config.addPassthroughCopy({ "src/favicon": "/" });
+  // Netlify response headers (e.g. serve /llms.txt as UTF-8 Markdown).
+  config.addPassthroughCopy("src/_headers");
 
   // Filters
   config.addFilter("excerpt", filters.excerpt);

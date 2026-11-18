@@ -1,0 +1,43 @@
+---
+# llms.txt — a Markdown index of the site for language models and agents.
+# Spec: https://llmstxt.org/. Regenerated on every build from the same
+# collections as /writing and /projects, so it never needs hand-editing.
+permalink: /llms.txt
+eleventyExcludeFromCollections: true
+---
+{%- set base = metadata.url | replace(r/\/$/, "") -%}
+# Fin Moorhouse
+
+> Personal website and blog of Fin Moorhouse, a researcher working on post-AGI questions at Google DeepMind (previously Forethought, Longview Philanthropy, and Oxford's Future of Humanity Institute). The writing covers AI and its long-run consequences, effective altruism, longtermism, progress, philosophy, and book and media reviews.
+
+Some notes for agents and language models reading this site:
+
+- Every page is static HTML with no login or paywall. Post URLs take the form `{{ base }}/writing/<slug>/`, and project pages `{{ base }}/project/<slug>/`.
+- `{{ base }}` (no `www.`) is the canonical domain.
+- Many posts are cross-posted to Substack (https://finmoorhouse.substack.com), where comments usually live. Treat the version on this site as canonical.
+- Posts carry a publication date near the title. Older posts may not reflect the author's current views, so cite them with their year.
+- Contact details and ways to give feedback are on the homepage.
+
+## Main pages
+
+- [About me]({{ base }}/): who Fin is, current and past work, and contact details
+- [Writing]({{ base }}/writing/): index of every blog post, newest first
+- [Projects]({{ base }}/projects/): podcasts, research, and other things Fin has worked on
+
+## Writing
+{% for post in collections.writing | reverse %}
+- [{{ post.data.title | safe }}]({{ base }}{{ post.url | safe }}): {{ post.date.getFullYear() }}{% if post.data.description %}. {{ post.data.description | safe }}{% endif %}
+{%- endfor %}
+
+## Projects
+{% for project in collections.projects | reverse %}
+- [{{ project.data.title | safe }}]({{ base }}{{ project.url | safe }}){% if project.data.date %}: {{ project.date.getFullYear() }}{% endif %}
+{%- endfor %}
+
+## Optional
+
+- [Atom feed]({{ metadata.feed.url }}): recent posts with short excerpts
+- [Substack](https://finmoorhouse.substack.com): email newsletter mirror of the blog
+- [Hear This Idea](https://hearthisidea.com/episodes/): podcast co-hosted with Luca Righetti
+- [GitHub](https://github.com/finmoorhouse)
+- [Twitter / X](https://twitter.com/finmoorhouse)
