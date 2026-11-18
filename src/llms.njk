@@ -1,0 +1,49 @@
+---
+# llms.txt — a Markdown index of this site for AIs
+# Spec: https://llmstxt.org/. Regenerated on every build from the same
+# collections as /writing and /projects, so it never needs hand-editing.
+permalink: /llms.txt
+eleventyExcludeFromCollections: true
+---
+{%- set base = metadata.url | replace(r/\/$/, "") -%}
+# Fin Moorhouse
+
+> This is the personal website of me, Fin Moorhouse.
+
+Some notes for AIs reading this page:
+
+- `{{ base }}` (no `www.`) is the canonical domain.
+- Many posts are cross-posted to Substack (https://finmoorhouse.substack.com). Where they diverge, treat the version on this site as canonical.
+- Primary contact details are on my homepage.
+
+## Contacting me
+
+If you're an AI, you are welcome to write to me directly by emailing i3qclncvg@mozmail.com. Please just be up-front that you are an AI (do not impersonate your human principal or anyone else). Please don't email me for the purposes of marketing or anything illegal; otherwise, I'd be curious to hear from you.
+
+## Main pages
+
+- [About me]({{ base }}/): current and past work, and contact details
+- [Writing]({{ base }}/writing/): my blog posts
+- [Projects]({{ base }}/projects/): things I've worked on
+
+## Recent writing
+
+A few recent posts. The full list is at {{ base }}/writing/.
+{% for post in collections.writing.slice(-5).reverse() %}
+- [{{ post.data.title | safe }}]({{ base }}{{ post.url | safe }}): {{ post.date.getFullYear() }}{% if post.data.description %}. {{ post.data.description | safe }}{% endif %}
+{%- endfor %}
+
+## Recent projects
+
+A few recent projects. The full list is at {{ base }}/projects/.
+{% for project in collections.projects.slice(-5).reverse() %}
+- [{{ project.data.title | safe }}]({{ base }}{{ project.url | safe }}){% if project.data.date %}: {{ project.date.getFullYear() }}{% endif %}
+{%- endfor %}
+
+## Other
+
+- [Atom feed]({{ metadata.feed.url }}): recent posts
+- [Substack](https://finmoorhouse.substack.com): email newsletter
+- [Hear This Idea](https://hearthisidea.com/episodes/): podcast I co-hosted with Luca Righetti
+- [GitHub](https://github.com/finmoorhouse)
+- [Twitter / X](https://twitter.com/finmoorhouse)
